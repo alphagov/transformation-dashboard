@@ -5,18 +5,17 @@
   {% include _head.html %}
 
 </head>
-<body class="mainstream full-width {% if page.section_class  %}{{ page.section_class }}{% endif %}{% if page.page_class  %} {{ page.page_class }}{% endif %} {{ page.section }}">
+<body class="mainstream full-width {% if page.section_class  %}{{ page.section_class }}{% endif %} {{ page.section }}">
   <script type="text/javascript">document.body.className = ((document.body.className) ? document.body.className + ' js-enabled' : 'js-enabled');</script><a href="#content" class="visuallyhidden">Skip to main content</a>
 
   {% include _header.html %}
 
-  <div id="wrapper">
-
-    <section id="content" role="main" class="group">
+  <div id="wrapper" class="transaction-dashboard{% if page.page_class  %} {{ page.page_class }}{% endif %}">
+    <main id="content" role="main" class="group">
 
       {{ content }}
 
-    </section>
+    </main>
   </div><!--end wrapper-->
 
   {% include _footer.html %}

@@ -8,16 +8,29 @@ section_class: default
 <article role="article" class="group">
   <header class="page-header group">
     <div class="hgroup">
+      <span>Transformation update</span>
       <h1>{{ page.title }}</h1>
-      {% if page.subtitle %}
-      <h2 class="subtitle">{{ page.subtitle }}</h2>
-      {% endif %}
     </div>
+
+    {% if page.organisations %}
+    <div class="organisations">
+      {% for org in page.organisations %}
+      {% if forloop.first %}
+      <div class="{{ org.slug }}">
+        <span class="organisation-logo organisation-logo-single-identity organisation-logo-single-identity-medium">
+          <span>{{ org.title }}</span>
+        </span>
+      </div>
+      {% else %}
+      <div class="dvla">
+        <span class="agency-logo">Driving and Vehicle Licensing Agency</span>
+      </div>
+      {% endif %}
+      {% endfor %}
+    </div>
+    {% endif %}
   </header>
 
-  <div class="article-container group">
-    <div class="inner">
-      {{ content }}
-    </div>
-  </div>
+  {{ content }}
+
 </article>
