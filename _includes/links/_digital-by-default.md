@@ -1,0 +1,1 @@
+[Digital by default](/service-manual/digital-by-default "The new standard for government services")
