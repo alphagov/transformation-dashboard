@@ -22,8 +22,8 @@ section_class: default
         </span>
       </div>
       {% else %}
-      <div class="dvla">
-        <span class="agency-logo">Driving and Vehicle Licensing Agency</span>
+      <div class="{{ org.slug }}">
+        <span class="agency-logo">{{ org.title }}</span>
       </div>
       {% endif %}
       {% endfor %}
