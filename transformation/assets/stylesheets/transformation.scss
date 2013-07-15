@@ -46,6 +46,22 @@ body.full-width article {
     }
   }
 
+    .transformation-logo {
+      width: 50%;
+      margin: 0 auto 1em auto;
+      display: block;
+
+      @include media(tablet) {
+        width: 16%;
+        float: left;
+        margin: 0 1em 1em 0;
+      }
+
+      img {
+        width: 100%;
+      }
+    }
+
   .intro {
     margin: 0;
     padding: 0;
@@ -225,7 +241,7 @@ body.full-width article {
         text-align: left;
 
         span {
-          @include core-14;
+          @include core-19;
           display: block;
         }
       }
