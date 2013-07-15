@@ -182,7 +182,11 @@ $live-colour: $grass-green;
       }
 
       .description {
-        width: 70%;
+        width: 50%;
+      }
+
+      .volume {
+        width: 20%;
       }
 
       .dept {
@@ -203,9 +207,19 @@ $live-colour: $grass-green;
       }
 
       .num {
-        @include bold-80;
+        @include bold-48;
         text-align: right;
         padding-bottom: 0;
+      }
+
+      .vol {
+        @include bold-48;
+        text-align: left;
+
+        span {
+          @include core-14;
+          display: block;
+        }
       }
 
       h3 {
