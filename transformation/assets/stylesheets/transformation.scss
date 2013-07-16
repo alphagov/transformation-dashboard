@@ -6,6 +6,7 @@
 @import "../toolkit/stylesheets/_shims";
 
 @import "whitehall/_colours";
+@import "whitehall/_organisations";
 
 $discovery-colour: $fuschia;
 $alpha-colour: $pink;
@@ -424,26 +425,5 @@ body.full-width article {
         }
       }
     }
-  }
-
-
-  @include department-colours('.organisation-logo', border-color);
-
-  .agency-logo {
-    font-family: $Helvetica-Regular;
-    font-size: 19px;
-    line-height: (20/19); /* 20px */
-    font-weight: 400;
-    text-transform: none;
-    text-decoration: none;
-    color: $text-colour;
-    display: block;
-    height: auto;
-    width: auto;
-
-    // @include media-down(mobile) {
-    //   font-size: 13px;
-    //   line-height: (15/13);
-    // }
   }
 }
