@@ -416,12 +416,15 @@ body.full-width article {
         margin: 0.2em 0;
 
         @include bold-80;
-        color: $turquoise;
 
         span {
           @include core-19;
           display: block;
           color: $text-colour;
+        }
+
+        &.transactions-explorer {
+          color: $turquoise;
         }
       }
     }
