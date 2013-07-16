@@ -46,21 +46,21 @@ body.full-width article {
     }
   }
 
-    .transformation-logo {
-      width: 50%;
-      margin: 0 auto 1em auto;
-      display: block;
+  .transformation-logo {
+    width: 50%;
+    margin: 0 auto 1em auto;
+    display: block;
 
-      @include media(tablet) {
-        width: 16%;
-        float: left;
-        margin: 0 1em 1em 0;
-      }
-
-      img {
-        width: 100%;
-      }
+    @include media(tablet) {
+      width: 16%;
+      float: left;
+      margin: 0 1em 1em 0;
     }
+
+    img {
+      width: 100%;
+    }
+  }
 
   .intro {
     margin: 0;
@@ -415,11 +415,12 @@ body.full-width article {
         margin: 0.2em 0;
 
         @include bold-80;
-        // color: $turquoise;
+        color: $turquoise;
 
         span {
           @include core-19;
           display: block;
+          color: $text-colour;
         }
       }
     }
