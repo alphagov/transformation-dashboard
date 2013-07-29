@@ -413,6 +413,10 @@ body.full-width article {
         }
       }
 
+      .service-link {
+        @include core-19;
+      }
+
       .big-number {
         margin: 0.2em 0;
 
