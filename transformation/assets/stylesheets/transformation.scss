@@ -102,6 +102,14 @@ body.full-width article {
         &:last-child {
           margin-right: 0;
         }
+
+        @include ie(7) {
+          margin: 0 (4%/8);
+        }
+
+        @include ie(8) {
+          margin: 0 (4%/8);
+        }
       }
 
       h2 {
