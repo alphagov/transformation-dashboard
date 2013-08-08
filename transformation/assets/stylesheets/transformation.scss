@@ -54,7 +54,7 @@ body.full-width article {
     display: block;
 
     @include media(tablet) {
-      width: 16%;
+      width: 25%;
       float: left;
       margin: 0 1em 1em 0;
     }
@@ -73,7 +73,6 @@ body.full-width article {
 
       @include media(tablet) {
         @include core-24;
-        padding-right: 25%;
       }
     }
   }
