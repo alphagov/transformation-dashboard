@@ -10,6 +10,6 @@ gem "rack-rewrite"
 gem 'thin'
 gem 'foreman'
 gem 'kramdown'
-gem 'jekyll-sass', git: 'https://github.com/alextea/jekyll-sass.git'
+gem 'jekyll-sass'
 gem 'nokogiri'
 gem 'facets'
