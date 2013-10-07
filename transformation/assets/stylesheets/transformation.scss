@@ -21,8 +21,12 @@ $live-colour: $grass-green;
 }
 
 body.full-width article {
-  margin: 0 30px;
+  margin: 0 15px;
   width: auto;
+
+  @include media(tablet) {
+    margin: 0 30px;
+  }
 }
 
 .transaction-dashboard {
@@ -87,6 +91,7 @@ body.full-width article {
     li {
       display: block;
       padding: 0;
+      margin-left: 0;
 
       @include media(tablet) {
         float: left;
@@ -193,6 +198,11 @@ body.full-width article {
   }
 
   table {
+    display: block;
+    @include media(tablet) {
+      display: table;
+    }
+
     border-collapse: collapse;
     border-spacing: 0;
     margin: 0;
@@ -212,42 +222,62 @@ body.full-width article {
     }
 
     .num {
-      width: 5%;
+      width: 10%;
     }
 
     .description {
-      width: 55%;
+      width: 90%;
     }
 
-    .volume {
-      width: 20%;
+    .vol {
+      width: 90%;
+      margin: 0 0 0.5em 10%;
     }
 
     .dept {
-      width: 20%;
+      width: 90%;
+      margin: 0 0 2em 10%;
     }
 
-    tbody {
-      td {
-        vertical-align: top;
-        padding: 10px 2% 1em 0;
-
-        border-width: 1px 0 0 0;
-        border-style: solid;
-        border-color: $border-colour;
-
-        background-color: transparent;
+    @include media(tablet) {
+      .num {
+        width: 5%;
       }
 
-      .num {
-        @include bold-48;
-        text-align: right;
-        padding-bottom: 0;
+      .description {
+        width: 55%;
       }
 
       .vol {
-        @include bold-48;
-        text-align: left;
+        width: 20%;
+      }
+
+      .dept {
+        width: 20%;
+      }
+    }
+
+    tbody {
+      tr {
+        display: block;
+      }
+
+      td {
+        display: block;
+        float: left;
+        background-color: transparent;
+        border: none;
+        padding: 0;
+      }
+
+      .num {
+        @include bold-24;
+        clear: left;
+      }
+
+      .vol {
+        @include bold-24;
+        clear: left;
 
         span {
           @include core-19;
@@ -258,6 +288,45 @@ body.full-width article {
       h3 {
         @include bold-24;
         margin-top: 0;
+      }
+
+    }
+
+    @include media(tablet) {
+      tbody {
+        tr {
+          display: table-row;
+        }
+
+        td {
+          display: table-cell;
+          float: none;
+          vertical-align: top;
+          padding: 10px 2% 1em 0;
+
+          border-width: 1px 0 0 0;
+          border-style: solid;
+          border-color: $border-colour;
+        }
+
+        .num {
+          text-align: right;
+          padding-bottom: 0;
+        }
+
+        .vol {
+          text-align: left;
+
+          span {
+            @include core-19;
+            display: block;
+          }
+        }
+
+        h3 {
+          @include bold-24;
+          margin-top: 0;
+        }
       }
     }
   }
@@ -312,13 +381,20 @@ body.full-width article {
       }
 
       .hgroup {
-        width: 64%;
-        float: left;
+        padding: 1em 0;
+
+        @include media(tablet) {
+          width: 64%;
+          float: left;
+          padding: 1em 0 2em;
+        }
       }
 
       .organisations {
-        float: right;
-        width: 31%;
+        @include media(tablet) {
+          float: right;
+          width: 31%;
+        }
 
         padding: 1em 0;
 
@@ -329,9 +405,11 @@ body.full-width article {
     }
 
     .body {
-      width: 60%;
-      margin: 0 3% 2em 0;
-      float: left;
+      @include media(tablet) {
+        width: 60%;
+        margin: 0 3% 2em 0;
+        float: left;
+      }
     }
 
     .transformation-logo {
@@ -358,8 +436,13 @@ body.full-width article {
 
         z-index: -1;
         position: absolute;
-        left: -30px;
-        top: -30px;
+        left: -10px;
+        top: -10px;
+
+        @include media(tablet) {
+          left: -30px;
+          top: -30px;
+        }
       }
     }
 
@@ -368,8 +451,10 @@ body.full-width article {
     }
 
     .screengrab {
-      width: 50%;
-      float: left;
+      @include media(tablet) {
+        width: 50%;
+        float: left;
+      }
 
       img {
         width: 95%;
@@ -379,8 +464,10 @@ body.full-width article {
     }
 
     aside {
-      width: 31%;
-      float: right;
+      @include media(tablet) {
+        width: 31%;
+        float: right;
+      }
 
       &>div {
         margin: 0 0 1em 0;
