@@ -12,6 +12,7 @@ GEM
     daemons (1.1.9)
     directory_watcher (1.4.1)
     eventmachine (1.0.3)
+    facets (2.9.3)
     fast-stemmer (1.0.2)
     highline (1.6.20)
     hike (1.2.3)
@@ -63,6 +64,7 @@ PLATFORMS
 DEPENDENCIES
   RedCloth (= 4.2.9)
   coderay (= 1.0.9)
+  facets (= 2.9.3)
   jekyll (= 1.2.1)
   jekyll-assets (= 0.7.4)
   kramdown (= 0.14.2)
