@@ -9,7 +9,7 @@ Depending on your version of Git, you may need to run these commands to bring in
     $ git submodule init
     $ git submodule update
 
-This should import Sass files from the GOV.UK Frontend Toolkit repository into `/transformation/assets/toolkit/`.
+This should import Sass files from the GOV.UK Frontend Toolkit repository into `_assets/toolkit/`.
 
 Next, install dependencies using bundler::
 
@@ -17,6 +17,6 @@ Next, install dependencies using bundler::
 
 To start the app::
 
-    $ bundle exec jekyll --server --auto
+    $ bundle exec jekyll serve -w
 
 This will compile the site and make it available on http://localhost:4000/transformation. Changes will be reloaded without a restart.

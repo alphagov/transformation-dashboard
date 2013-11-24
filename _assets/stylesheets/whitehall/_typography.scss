@@ -222,8 +222,6 @@
 
   border-left: 5px solid #bbb;
 
-  background: image-url("coa-default-48.gif") no-repeat 8px 0;
-
   span {
     position: relative;
     top: 2px;
@@ -246,7 +244,6 @@
   padding-left: 10px;
   display: block;
   border-left: 3px solid #bbb;
-  background: image-url("coa-default-27.png") no-repeat 10px 0;
 
   span {
     position: relative;
@@ -300,11 +297,7 @@
   display: block;
 
   border-left: 2px solid #bbb;
-  background: image-url("coa-default-24.gif") no-repeat 8px 0;
 
-  @media (max-width: 640px) {
-    background-image: image-url("coa-default-18.gif");
-  }
   span {
     position: relative;
     top: 2px;

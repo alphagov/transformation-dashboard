@@ -71,9 +71,8 @@
 .get-started .button .call-to-action,
 .get-started .button.big,
 #search .button.big {
-  @include core-24($line-height: (16 / 24)); 
+  @include core-24($line-height: (16 / 24));
   padding: 0.45em 1.7em 0.45em 0.5em;
-  background-image: image-url("icon-pointer.png");
   background-position: 100% 50%;
   background-repeat: no-repeat;
   display: inline-block;
@@ -92,9 +91,9 @@
     text-align:left;
 
     &:active {
-      /* 
-       * this compensates for this style being pushed down twice by keeping 
-       * the inner span still 
+      /*
+       * this compensates for this style being pushed down twice by keeping
+       * the inner span still
        */
       .call-to-action {
         -webkit-transform: translate(0, 0);
@@ -115,7 +114,7 @@
     span {
       cursor: pointer;
     }
- 
+
     .destination {
       @include core-14;
       color:#333;
@@ -124,7 +123,7 @@
       max-width: 13em;
     }
 
-    /* 
+    /*
      * In selectors such as .get-started .button.big the chained .button.big is read as
      * .big by IE6 (see http://www.maxdesign.com.au/articles/multiple-classes/)
      * This means it no longer has the precedence given by 2 classes and gets overwritten
@@ -135,7 +134,6 @@
       &.big {
         @include core-19($line-height: (16 / 19));
         padding: 0.45em 1.7em 0.45em 0.5em;
-        background: #008270 image-url("icon-pointer.png") 100% 50% no-repeat;
         display: inline-block;
         color: #fff;
         -webkit-border-radius: 3px;
@@ -182,7 +180,7 @@ input{
     min-width: 8em;
     margin: 0 0.5em;
     padding: 0.25em;
-  
+
     @include ie-lte(7) {
       width:8em;
     }
