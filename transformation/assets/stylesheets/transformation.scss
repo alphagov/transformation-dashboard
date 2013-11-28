@@ -523,6 +523,12 @@ body.full-width article {
           color: $text-colour;
         }
 
+        small {
+          @include core-14;
+          display: block;
+          color: $text-colour;
+        }
+
         &.transactions-explorer {
           color: $turquoise;
         }
