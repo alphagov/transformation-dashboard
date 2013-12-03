@@ -20,7 +20,49 @@ breadcrumbs:
 ---
 
 <div class="body">
-  {% include _intro.html %}
+
+  <div class="intro">
+    <p>INTRO</p>
+  </div>
+
+<!--
+  <div class="screengrab">
+    <img src="/transformation/assets/images/1-exemplar-electoral-registration.png" alt="Screenshot of beta version of Electoral registration" />
+  </div>
+-->
+
+  <figure class="media-player-wrapper video">
+    <a href="https://www.youtube.com/watch?v=lMNyzl0dlpo">CAPTION-ISH TEXT</a>
+  </figure>
+
+  <div>
+    <h2 id="status">Status</h2>
+    <p>STATUS</p>
+  </div>
+
+  <div>
+    <h2 id="progress">Key points: progress</h2>
+
+    <ul>
+      <li>ITEM</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2 id="next-steps">Key points: next steps</h2>
+
+    <ul>
+      <li>ITEM</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2 id="challenges">Challenges</h2>
+
+    <ul>
+      <li>ITEM</li>
+    </ul>
+  </div>
 
   <div class="digital-strategy">
     <h2 id="digital-strategy">Digital strategy statement</h2>
@@ -51,16 +93,36 @@ breadcrumbs:
 </div>
 
 <aside>
-  <div>
-    <h3>Exemplar number</h3>
-    <div class="big-number">{{ page.exemplar_number }}</div>
-  </div>
 
   <div>
-    <h3>Service phase</h3>
-    <a href="https://www.gov.uk/service-manual/phases/discovery" class="current-phase discovery">Discovery</a>
-
-    <p>Learn more <a href="https://www.gov.uk/service-manual/phases/discovery">about the discovery phase</a></p>
+    <h3>Service status</h3>
+    <ol class="status-story">
+      <li class="discovery">
+        <h4><a href="https://www.gov.uk/service-manual/phases/discovery" class="phase discovery">Discovery</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+        </ol>
+      </li>
+      <li class="alpha">
+        <h4><a href="https://www.gov.uk/service-manual/phases/alpha" class="phase alpha">Alpha</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+        </ol>
+      </li>
+      <li class="beta">
+        <h4><a href="https://www.gov.uk/service-manual/phases/beta" class="phase current beta">Beta</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+          <li>item</li>
+        </ol>
+      </li>
+      <li class="live">
+        <h4><a href="https://www.gov.uk/service-manual/phases/live" class="phase live">Live</a></h4>
+        <ol class="phase-story">
+          <li>item</li>
+        </ol>
+      </li>
+    </ol>
   </div>
 
   <div>

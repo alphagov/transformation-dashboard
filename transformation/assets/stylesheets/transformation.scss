@@ -479,6 +479,11 @@ body.full-width article {
         }
       }
 
+      small {
+        @include core-14;
+        display: block;
+      }
+
       .status-story {
         list-style: none;
         margin: 0 0 2em 0;
@@ -572,8 +577,6 @@ body.full-width article {
         }
 
         small {
-          @include core-14;
-          display: block;
           color: $text-colour;
         }
 
