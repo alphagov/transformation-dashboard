@@ -361,6 +361,11 @@ body.full-width article {
     }
   }
 
+  .digital-strategy {
+    margin-top: 2.5em;
+    border-top: 1px solid $border-colour;
+  }
+
   &.transaction-single {
     .page-header {
       h1 {
@@ -451,14 +456,10 @@ body.full-width article {
     }
 
     .screengrab {
-      @include media(tablet) {
-        width: 50%;
-        float: left;
-      }
+      border: 1px solid $border-colour;
 
       img {
-        width: 95%;
-        border: 1px solid $border-colour;
+        width: 100%;
       }
 
     }
