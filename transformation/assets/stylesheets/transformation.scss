@@ -478,17 +478,45 @@ body.full-width article {
         }
       }
 
-      .current-phase {
+      .status-story {
+        list-style: none;
+        margin: 0 0 2em 0;
+        padding: 0;
+        & > li {
+          border-left: 1px solid;
+          margin: 0;
+          padding: 0 0 0.5em 0;
+
+          &.discovery {
+            border-color: $discovery-colour;
+          }
+
+          &.alpha {
+            border-color: $alpha-colour;
+          }
+
+          &.beta {
+            border-color: $beta-colour;
+          }
+
+          &.live {
+            border-color: $live-colour;
+          }
+        }
+        h4 {
+          margin: 0 0 0.75em 0;
+        }
+      }
+      .phase {
         display: inline-block;
         @include bold-24;
         color: $white;
 
-        text-align: center;
         letter-spacing: 1px;
         text-transform: uppercase;
         text-decoration: none;
 
-        line-height: 30px;
+        line-height: 1.25;
         padding: 4px 5px 0px 5px;
 
         &.discovery {
@@ -506,6 +534,24 @@ body.full-width article {
         &.live {
           background-color: $live-colour;
         }
+      }
+      .phase-story {
+        margin: 0;
+        li {
+         list-style: none;
+        }
+      }
+      .discovery .complete {
+          color: $discovery-colour;
+      }
+      .alpha .complete {
+          color: $alpha-colour;
+      }
+      .beta .complete {
+          color: $beta-colour;
+      }
+      .live .complete {
+          color: $live-colour;
       }
 
       .service-link {

@@ -60,16 +60,36 @@ breadcrumbs:
 </div>
 
 <aside>
-  <div>
-    <h3>Exemplar number</h3>
-    <div class="big-number">{{ page.exemplar_number }}</div>
-  </div>
 
   <div>
-    <h3>Service phase</h3>
-    <a href="https://www.gov.uk/service-manual/phases/beta" class="current-phase beta">BETA</a>
-
-    <p>Learn more <a href="https://www.gov.uk/service-manual/phases/beta">about the beta phase</a></p>
+    <h3>Service status</h3>
+    <ol class="status-story">
+      <li class="discovery">
+        <h4><a href="https://www.gov.uk/service-manual/phases/discovery" class="phase discovery">Discovery</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+        </ol>
+      </li>
+      <li class="alpha">
+        <h4><a href="https://www.gov.uk/service-manual/phases/alpha" class="phase alpha">Alpha</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+        </ol>
+      </li>
+      <li class="beta">
+        <h4><a href="https://www.gov.uk/service-manual/phases/beta" class="phase current beta">Beta</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+          <li>item</li>
+        </ol>
+      </li>
+      <li class="live">
+        <h4><a href="https://www.gov.uk/service-manual/phases/live" class="phase live">Live</a></h4>
+        <ol class="phase-story">
+          <li>item</li>
+        </ol>
+      </li>
+    </ol>
   </div>
 
   <div>
