@@ -17,13 +17,55 @@ breadcrumbs:
 ---
 
 <div class="body">
-  {% include _intro.html %}
+
+  <div class="intro">
+    <p>INTRO</p>
+  </div>
+
+  <div>
+    <h2>Status</h2>
+    <p>STATUS</p>
+  </div>
+
+  <!--
+  <div class="screengrab">
+    <img src="http://placehold.it/1024x768" alt="ALT">
+  </div>
+  -->
+
+  <figure class="media-player-wrapper video">
+    <a href="https://www.youtube.com/watch?v=lMNyzl0dlpo">CAPTION-ISH TEXT</a>
+  </figure>
+
+  <div>
+    <h2>Successes</h2>
+
+    <ul>
+      <li>ITEM</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2>Challenges</h2>
+
+    <ul>
+      <li>ITEM</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2>Next</h2>
+
+    <ul>
+      <li>ITEM</li>
+    </ul>
+  </div>
 
   <div class="digital-strategy">
-    <h2 id="digital-strategy">Digital strategy statement</h2>
+    <h2 >Digital strategy statement</h2>
 
     <blockquote>
-     …an opportunity to work with disability organisations to redesign business processes and facilitate a move to digital… working closely with GDS to develop an online service, learning the lessons from a controlled launch, with the intention of bringing this in as soon as possible after the launch of PIP.
+     &hellip;an opportunity to work with disability organisations to redesign business processes and facilitate a move to digital&hellip; working closely with GDS to develop an online service, learning the lessons from a controlled launch, with the intention of bringing this in as soon as possible after the launch of PIP.
     </blockquote>
 
     <p>From the '<cite><a href="https://www.gov.uk/government/publications/dwp-digital-strategy">Department for Work &amp; Pensions digital strategy</a></cite>' – December 2012</p>
@@ -50,16 +92,36 @@ breadcrumbs:
 </div>
 
 <aside>
-  <div>
-    <h3>Exemplar number</h3>
-    <div class="big-number">{{ page.exemplar_number }}</div>
-  </div>
 
   <div>
-    <h3>Service phase</h3>
-    <a href="https://www.gov.uk/service-manual/phases/discovery" class="current-phase discovery">discovery</a>
-
-    <p>Learn more <a href="https://www.gov.uk/service-manual/phases/discovery">about the discovery phase</a></p>
+    <h3>Service status</h3>
+    <ol class="status-story">
+      <li class="discovery">
+        <h4><a href="https://www.gov.uk/service-manual/phases/discovery" class="phase discovery">Discovery</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+        </ol>
+      </li>
+      <li class="alpha">
+        <h4><a href="https://www.gov.uk/service-manual/phases/alpha" class="phase alpha">Alpha</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+        </ol>
+      </li>
+      <li class="beta">
+        <h4><a href="https://www.gov.uk/service-manual/phases/beta" class="phase current beta">Beta</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+          <li>item</li>
+        </ol>
+      </li>
+      <li class="live">
+        <h4><a href="https://www.gov.uk/service-manual/phases/live" class="phase live">Live</a></h4>
+        <ol class="phase-story">
+          <li>item</li>
+        </ol>
+      </li>
+    </ol>
   </div>
 
   <div>
