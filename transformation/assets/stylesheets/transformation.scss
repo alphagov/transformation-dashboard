@@ -455,13 +455,23 @@ body.full-width article {
       font-style: normal;
     }
 
+    .screengrabs {
+      margin-top: 3em;
+    }
     .screengrab {
-      border: 1px solid $border-colour;
-
+      @include media(tablet) {
+        float: left;
+        width: 47.5%;
+        margin: 0 0 0 5%;
+        &:nth-child(odd) {
+          margin-left: 0;
+          clear: left;
+        }
+      }
       img {
         width: 100%;
+        border: 1px solid $border-colour;
       }
-
     }
 
     aside {
