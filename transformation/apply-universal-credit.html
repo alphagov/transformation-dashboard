@@ -17,10 +17,51 @@ breadcrumbs:
 ---
 
 <div class="body">
-  {% include _intro.html %}
+  <div class="intro">
+    <p>INTRO</p>
+  </div>
+
+  <!--
+  <div class="screengrab">
+    <img src="PIC" alt="ALT" />
+  </div>
+  -->
+
+  <figure class="media-player-wrapper video">
+    <a href="https://www.youtube.com/watch?v=lMNyzl0dlpo">CAPTION-ISH TEXT</a>
+  </figure>
+
+  <div>
+    <h2>Status</h2>
+    <p>STATUS</p>
+  </div>
+
+  <div>
+    <h2>Successes</h2>
+
+    <ul>
+      <li>THING</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2>Challenges</h2>
+
+    <ul>
+      <li>THING</li>
+    </ul>
+  </div>
+
+  <div>
+    <h2>Next</h2>
+
+    <ul>
+      <li>THING</li>
+    </ul>
+  </div>
 
   <div class="digital-strategy">
-    <h2 id="digital-strategy">Digital strategy statement</h2>
+    <h2>Digital strategy statement</h2>
 
     <blockquote>
       users will be able to make a claim, check details of payments, notify changes of circumstance and search for a job through a single account, making digital the primary channel for most working-age people to interact with the Department.
@@ -31,14 +72,7 @@ breadcrumbs:
   </div>
 
   <div>
-    <h2 id="benefits">Benefits for users</h2>
-
-    <p><a href="https://www.gov.uk/government/policies/simplifying-the-welfare-system-and-making-sure-work-pays/supporting-pages/introducing-universal-credit">Universal Credit</a> will roll 6 benefits and tax credits into 1 to
-    simplify the system and ensure people are better off in work.</p>
-  </div>
-
-  <div>
-    <h2 id="scope">Scope of exemplar</h2>
+    <h2>Scope of exemplar</h2>
 
     <p>A <a href="https://www.gov.uk/government/news/universal-credit-roll-out-from-october-2013">Pathfinder service (a beta)</a> is being tested in 2 areas of the north-west, with another 2 starting later in July 2013. </p>
 
@@ -56,15 +90,34 @@ breadcrumbs:
 
 <aside>
   <div>
-    <h3>Exemplar number</h3>
-    <div class="big-number">{{ page.exemplar_number }}</div>
-  </div>
-
-  <div>
-    <h3>Service phase</h3>
-    <a href="https://www.gov.uk/service-manual/phases/beta" class="current-phase beta">beta</a>
-
-    <p>Learn more <a href="https://www.gov.uk/service-manual/phases/beta">about the beta phase</a></p>
+    <h3 class="visuallyhidden">Service status</h3>
+    <ol class="status-story">
+      <li class="discovery">
+        <h4><a href="https://www.gov.uk/service-manual/phases/discovery" class="phase discovery">Discovery</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+        </ol>
+      </li>
+      <li class="alpha">
+        <h4><a href="https://www.gov.uk/service-manual/phases/alpha" class="phase alpha">Alpha</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+        </ol>
+      </li>
+      <li class="beta">
+        <h4><a href="https://www.gov.uk/service-manual/phases/beta" class="phase current beta">Beta</a></h4>
+        <ol class="phase-story">
+          <li class="complete">item</li>
+          <li>item</li>
+        </ol>
+      </li>
+      <li class="live">
+        <h4><a href="https://www.gov.uk/service-manual/phases/live" class="phase live">Live</a></h4>
+        <ol class="phase-story">
+          <li>item</li>
+        </ol>
+      </li>
+    </ol>
   </div>
 
   <div>
