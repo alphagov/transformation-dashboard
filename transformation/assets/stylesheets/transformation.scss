@@ -52,33 +52,58 @@ body.full-width article {
     }
   }
 
-  .transformation-logo {
-    width: 50%;
-    margin: 0 auto 1em auto;
-    display: block;
-
-    @include media(tablet) {
-      width: 25%;
-      float: left;
-      margin: 0 1em 1em 0;
-    }
-
-    img {
-      width: 100%;
-    }
+  .about {
+    @extend %contain-floats;
   }
 
-  .intro {
-    margin: 0;
-    padding: 0;
-
-    p {
-      @include core-19;
+    .transformation-logo {
 
       @include media(tablet) {
-        @include core-24;
+        width: 26.33334%;
+        float: left;
+      }
+
+      img {
+        display: block;
+        margin: 0 auto 2em auto;
+        max-width: 50%;
+
+        @include media(tablet) {
+          max-width: 80%
+        }
+      }
+
+    }
+
+    .transformation-intro {
+      @include media(tablet) {
+        width: 73.66666%;
+        float: left;
+      }
+      p:first-child {
+        margin-top: 0.5em;
       }
     }
+
+  .latest {
+    margin: 0 0 2em 0;
+    border-top: 1px solid $border-colour;
+  }
+
+  .blog-link {
+    margin: 0 0 2em 0;
+    padding: 1em 0 0 0;
+  }
+
+  .media {
+    @extend %contain-floats;
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid $border-colour;
+
+      h4 {
+        margin: 0 0 0.5em 0;
+      }
   }
 
   .phases {
@@ -417,6 +442,13 @@ body.full-width article {
       }
     }
 
+    .intro {
+      p:first-child {
+        @include core-24;
+      }
+    }
+
+    /*
     .transformation-logo {
       width: 25%;
       display: block;
@@ -427,6 +459,7 @@ body.full-width article {
         width: 100%;
       }
     }
+    */
 
     blockquote {
       @include core-24;
