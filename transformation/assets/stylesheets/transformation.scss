@@ -387,7 +387,7 @@ body.full-width article {
   }
 
   .digital-strategy {
-    margin-top: 2.5em;
+    margin-top: 1.5em;
     border-top: 1px solid $border-colour;
   }
 
@@ -497,7 +497,7 @@ body.full-width article {
       @include media(tablet) {
         float: left;
         width: 47.5%;
-        margin: 0 0 0 5%;
+        margin: 0 0 2em 5%;
         &:nth-child(odd) {
           margin-left: 0;
           clear: left;
