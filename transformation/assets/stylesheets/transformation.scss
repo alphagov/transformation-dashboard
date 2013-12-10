@@ -52,33 +52,58 @@ body.full-width article {
     }
   }
 
-  .transformation-logo {
-    width: 50%;
-    margin: 0 auto 1em auto;
-    display: block;
-
-    @include media(tablet) {
-      width: 25%;
-      float: left;
-      margin: 0 1em 1em 0;
-    }
-
-    img {
-      width: 100%;
-    }
+  .about {
+    @extend %contain-floats;
   }
 
-  .intro {
-    margin: 0;
-    padding: 0;
-
-    p {
-      @include core-19;
+    .transformation-logo {
 
       @include media(tablet) {
-        @include core-24;
+        width: 26.33334%;
+        float: left;
+      }
+
+      img {
+        display: block;
+        margin: 0 auto 2em auto;
+        max-width: 50%;
+
+        @include media(tablet) {
+          max-width: 80%
+        }
+      }
+
+    }
+
+    .transformation-intro {
+      @include media(tablet) {
+        width: 73.66666%;
+        float: left;
+      }
+      p:first-child {
+        margin-top: 0.5em;
       }
     }
+
+  .latest {
+    margin: 0 0 2em 0;
+    border-top: 1px solid $border-colour;
+  }
+
+  .blog-link {
+    margin: 0 0 2em 0;
+    padding: 1em 0 0 0;
+  }
+
+  .media {
+    @extend %contain-floats;
+    margin-top: 2em;
+    padding-top: 1em;
+    border-top: 1px solid $border-colour;
+
+      h4 {
+        margin: 0 0 0.5em 0;
+      }
   }
 
   .phases {
@@ -361,6 +386,11 @@ body.full-width article {
     }
   }
 
+  .digital-strategy {
+    margin-top: 1.5em;
+    border-top: 1px solid $border-colour;
+  }
+
   &.transaction-single {
     .page-header {
       h1 {
@@ -412,14 +442,11 @@ body.full-width article {
       }
     }
 
-    .transformation-logo {
-      width: 25%;
-      display: block;
-      float: left;
-      margin: 0 1em 1em 0;
-
-      img {
-        width: 100%;
+    .intro {
+      margin: 0;
+      padding: 0;
+      p:first-child {
+        @include core-24;
       }
     }
 
@@ -450,17 +477,23 @@ body.full-width article {
       font-style: normal;
     }
 
+    .screengrabs {
+      margin-top: 3em;
+    }
     .screengrab {
       @include media(tablet) {
-        width: 50%;
         float: left;
+        width: 47.5%;
+        margin: 0 0 2em 5%;
+        &:nth-child(odd) {
+          margin-left: 0;
+          clear: left;
+        }
       }
-
       img {
-        width: 95%;
+        width: 100%;
         border: 1px solid $border-colour;
       }
-
     }
 
     aside {
@@ -478,17 +511,50 @@ body.full-width article {
         }
       }
 
-      .current-phase {
+      small {
+        @include core-14;
+        display: block;
+      }
+
+      .status-story {
+        list-style: none;
+        margin: 0 0 2em 0;
+        padding: 0; 
+        & > li {
+          border-left: 1px solid;
+          margin: 0;
+          padding: 0 0 0.5em 0;
+
+          &.discovery {
+            border-color: $discovery-colour;
+          }
+
+          &.alpha {
+            border-color: $alpha-colour;
+          }
+
+          &.beta {
+            border-color: $beta-colour;
+          }
+
+          &.live {
+            border-color: $live-colour;
+          }
+        }
+        h4 {
+          margin: 0 0 0.75em 0;
+        }
+      }
+      .phase {
         display: inline-block;
         @include bold-24;
         color: $white;
 
-        text-align: center;
         letter-spacing: 1px;
         text-transform: uppercase;
         text-decoration: none;
 
-        line-height: 30px;
+        line-height: 1.25;
         padding: 4px 5px 0px 5px;
 
         &.discovery {
@@ -507,6 +573,26 @@ body.full-width article {
           background-color: $live-colour;
         }
       }
+      .phase-story {
+        margin: 0;
+        padding-left: 0;
+        li {
+          list-style: none;
+          margin: 0.4em 0;
+        }
+      }
+      .discovery .complete {
+          color: $discovery-colour;
+      }
+      .alpha .complete {
+          color: $alpha-colour;
+      }
+      .beta .complete {
+          color: $beta-colour;
+      }
+      .live .complete {
+          color: $live-colour;
+      }
 
       .service-link {
         @include core-19;
@@ -524,8 +610,6 @@ body.full-width article {
         }
 
         small {
-          @include core-14;
-          display: block;
           color: $text-colour;
         }
 
@@ -534,5 +618,36 @@ body.full-width article {
         }
       }
     }
+  }
+}
+
+// LEGACY only. Temp.
+a.current-phase {
+  display: inline-block;
+  @include bold-24;
+  color: $white;
+
+  text-align: center;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  text-decoration: none;
+
+  line-height: 30px;
+  padding: 4px 5px 0px 5px;
+
+  &.discovery {
+    background-color: $discovery-colour;
+  }
+
+  &.alpha {
+    background-color: $alpha-colour;
+  }
+
+  &.beta {
+    background-color: $beta-colour;
+  }
+
+  &.live {
+    background-color: $live-colour;
   }
 }
