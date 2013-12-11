@@ -8,7 +8,7 @@ jQuery(function($) {
 
         $this.replaceWith($holder);
 
-        if (!$holder.parent().hasClass('no-title')) {
+        if (!$holder.parent().hasClass('no-caption')) {
             var $figcaption = $('<figcaption/>');
             $figcaption.text($this.text());
             $holder.before($figcaption);
