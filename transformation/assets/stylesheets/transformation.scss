@@ -631,6 +631,12 @@ body.full-width article {
           color: $turquoise;
         }
       }
+
+      .updated {
+        margin-top: 1.25em;
+        @include core-19;
+        border-bottom: 0;
+      }
     }
   }
 }
