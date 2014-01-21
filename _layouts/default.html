@@ -17,9 +17,9 @@ section_class: default
       {% for org in page.organisations %}
       {% if forloop.first %}
       <div class="{{ org.slug }}">
-        <span class="organisation-logo {% case org.slug%}{% when "department-for-business-innovation-skills" %} organisation-logo-stacked-bis organisation-logo-stacked-bis-medium{% when "home-office" %} organisation-logo-stacked-ho organisation-logo-stacked-ho-medium{% when "hm-revenue-customs" %} organisation-logo-stacked-hmrc organisation-logo-stacked-hmrc-medium{% else %} organisation-logo-stacked-single-identity organisation-logo-stacked-single-identity-medium{% endcase %}">
+        <a href="{{ page.department-url }}" class="organisation-logo {% case org.slug%}{% when "department-for-business-innovation-skills" %} organisation-logo-stacked-bis organisation-logo-stacked-bis-medium{% when "home-office" %} organisation-logo-stacked-ho organisation-logo-stacked-ho-medium{% when "hm-revenue-customs" %} organisation-logo-stacked-hmrc organisation-logo-stacked-hmrc-medium{% else %} organisation-logo-stacked-single-identity organisation-logo-stacked-single-identity-medium{% endcase %}">
           <span>{{ org.title }}</span>
-        </span>
+        </a>
       </div>
       {% else %}
       <div class="{{ org.slug }}">
