@@ -48,7 +48,7 @@ body.full-width article {
     }
 
     .hgroup {
-      padding: 1em 0 2em 0;
+      padding: 1em 0 1.5em 0;
     }
   }
 
@@ -431,6 +431,24 @@ body.full-width article {
         &>div {
           padding-bottom: 1em;
         }
+
+        .person {
+          padding-bottom: 0.75em;
+          @include core-19;
+          line-height: 1.1;
+        }
+        .person-position {
+          display: block;
+        }
+
+      }
+    }
+
+    .intro {
+      margin: 1.3em 0 0 0;
+      padding: 0;
+      p:first-child {
+        @include core-24;
       }
     }
 
@@ -440,13 +458,9 @@ body.full-width article {
         margin: 0 3% 2em 0;
         float: left;
       }
-    }
 
-    .intro {
-      margin: 0;
-      padding: 0;
-      p:first-child {
-        @include core-24;
+      & > h2:first-child {
+        margin-top: 0;
       }
     }
 

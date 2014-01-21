@@ -9,6 +9,7 @@ section_class: default
   <header class="page-header group">
     <div class="hgroup">
       <h1><span>Exemplar number {{ page.exemplar_number }}</span> {{ page.title }}</h1>
+      <div class="intro"><p>{{ page.intro }}</p></div>
     </div>
 
     {% if page.organisations %}
@@ -26,6 +27,19 @@ section_class: default
       </div>
       {% endif %}
       {% endfor %}
+
+      {% if page.permanent-secretary %}
+        <div class="person">
+          <span class="person-position">Permanent secretary: </span>{{ page.permanent-secretary }}
+        </div>
+      {% endif %}
+
+      {% if page.digital-leader %}
+        <div class="person">
+          <span class="person-position">Digital leader: </span>{{ page.digital-leader }}
+        </div>
+      {% endif %}
+
     </div>
     {% endif %}
   </header>
