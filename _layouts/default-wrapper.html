@@ -10,6 +10,10 @@
 
   {% include _header.html %}
 
+  <div id="global-cookie-message">
+    <p>GOV.UK uses cookies to make the site simpler. <a href="https://www.gov.uk/help/cookies">Find out more about cookies</a></p>
+  </div>
+
   <div id="wrapper" class="transaction-dashboard{% if page.page_class  %} {{ page.page_class }}{% endif %}">
     <main id="content" role="main" class="group">
 
@@ -21,5 +25,7 @@
   {% include _footer.html %}
 
   {% include _scripts.html %}
+
+  
 </body>
 </html>
