@@ -1,1 +1,0 @@
-[Discovery, Alpha, Beta, Live](/service-manual/phases "The four phases of service delivery")
