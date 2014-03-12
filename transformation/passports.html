@@ -22,7 +22,6 @@ breadcrumbs:
     url: /transformation
 intro: |
   5.64 million passport transactions each year
-last-updated: "4 March 2014"
 ---
 
 <div class="body">
@@ -120,6 +119,6 @@ last-updated: "4 March 2014"
 {% endcomment %}
 
   <div class="updated">
-    Last updated {{ page.last-updated }}
+    Last updated {{ site.time | date: "%-d %B %Y" }}
   </div>
 </aside>
