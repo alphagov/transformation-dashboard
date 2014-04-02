@@ -1,0 +1,111 @@
+#logo {
+  font-size: 28pt;
+
+  img {
+    width: 46px;
+    height: 40px;
+    padding-right: 6px;
+    display: block;
+    float: left;
+  }
+}
+
+.exemplar-statement blockquote footer,
+body footer.content-body {
+  display: block !important;
+}
+
+// --------------------------------------------------------- //
+
+.transformation-logo {
+  display: none;
+}
+
+.phases {
+  display: table;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+
+  text-align: center;
+
+  h3 {
+    font-size: 1.75em;
+
+    a:after {
+      content: "";
+    }
+  }
+
+  .lrg-number {
+    font-size: 2em;
+  }
+
+  li {
+    display: table-cell;
+    padding: 0 (4%/6);
+
+    &:first-child {
+      padding-left: 0;
+    }
+
+    &:last-child {
+      padding-right: 0;
+    }
+  }
+}
+
+.exemplar-listing {
+  border-collapse: collapse;
+
+  th, td {
+    padding: 6pt 2pt;
+    vertical-align: top;
+    border-top: 1px solid black;
+  }
+
+  h3 {
+    margin-top: 0;
+  }
+
+  .description a {
+    display: block;
+  }
+
+  .department a:after {
+    content: "";
+  }
+}
+
+// --------------------------------------------------------- //
+
+.exemplar-intro.content-body span:after {
+  content: ': ';
+}
+
+.programme {
+  margin-bottom: 1em;
+}
+
+.media-player {
+
+  margin-left: 0;
+
+  figcaption {
+    display: block;
+    visibility: visible;
+  }
+
+  figcaption:after {
+    content: " (" attr(data-url) ")";
+    font-size: 90%;
+  }
+
+  & > span {
+    display: none;
+  }
+}
+
+.screengrabs {
+  display: none;
+}

@@ -1,0 +1,29 @@
+//
+
+// https://github.com/alphagov/static/
+
+// Some retained resets from static - i.e. margin betwen <li> items and so on
+
+//
+
+p {
+  @include core-19;
+}
+
+h2 {
+  @include core-24;
+  margin-top: 0.5em;
+  margin-bottom: 0.25em;
+}
+
+h3 {
+  @include core-19;
+  margin-top: 0.5em;
+  margin-bottom: 0.25em;
+}
+
+h4 {
+  @include core-19;
+  margin-top: 0.5em;
+  margin-bottom: 0.25em;
+}
