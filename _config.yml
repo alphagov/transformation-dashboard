@@ -11,18 +11,11 @@ redcarpet:
 permalink: :title.html
 
 exclude: [
-    config.ru,
+    compile.sh,
     Procfile,
     Gemfile,
     Gemfile.lock,
     README.md,
-    CONTRIBUTING.md,
-    LICENSE,
-    LICENCE,
-    Gruntfile.js,
-    jenkins.sh,
-    package.json,
-    spec,
     vendor
 ]
 
