@@ -1,0 +1,266 @@
+---
+layout: govuk_template
+---
+
+<nav role="navigation" class="breadcrumbs">
+  <ol class="group">
+    <li><a href="/">Home</a></li>
+    <li><a href="/transformation">Digital Transformation</a></li>
+  </ol>
+</nav>
+
+
+<main class="main-content" role="main">
+
+  <div class="group">
+
+    <div class="exemplar-intro content-body">
+      <h1>
+        <span>Exemplar number {{ page.exemplar-number }}</span>
+        {{ page.exemplar-title }}
+      </h1>
+      {{ page.detail-page-intro | markdownify }}
+    </div>
+
+    <div class="exemplar-intro content-sidebar">
+      {% assign dept_css_class = '' %}
+      {% case page.department %}
+        {% when 'Cabinet Office' %}
+          {% capture dept_css_class %}co{% endcapture %}
+        {% when 'Department<br>for Business<br>Innovation & Skills' %}
+          {% capture dept_css_class %}bis{% endcapture %}
+        {% when 'Department<br>for Environment<br>Food & Rural Affairs' %}
+          {% capture dept_css_class %}defra{% endcapture %}
+        {% when 'Department<br>for Transport' %}
+          {% capture dept_css_class %}dft{% endcapture %}
+        {% when 'Department<br>for Work &<br>Pensions' %}
+          {% capture dept_css_class %}dwp{% endcapture %}
+        {% when 'HM Revenue<br>& Customs' %}
+          {% capture dept_css_class %}hmrc{% endcapture %}
+        {% when 'Home Office' %}
+          {% capture dept_css_class %}ho{% endcapture %}
+        {% when 'Ministry<br>of Justice' %}
+          {% capture dept_css_class %}moj{% endcapture %}
+      {% endcase %}
+      <a href="{{ page.department-url }}" class="organisation-logo {{ dept_css_class }}">
+        <span>{{ page.department }}</span>
+      </a>
+
+      {% if page.programme %}
+        <div class="programme">{{ page.programme }}</div>
+      {% endif %}
+
+      {% if page.permanent-secretary %}
+        <div class="person">
+          <span class="person-position">Permanent secretary: </span>{{ page.permanent-secretary }}
+        </div>
+      {% endif %}
+
+      {% if page.digital-leader %}
+        <div class="person">
+          <span class="person-position">Digital leader: </span>{{ page.digital-leader }}
+        </div>
+      {% endif %}
+
+    </div>
+  </div>
+
+
+  <div class="group">
+
+    <div class="content-body">
+
+      <div class="exemplar-status">
+        <h2>Status</h2>
+        {{ page.status-strapline | markdownify }}
+      </div>
+      
+      {% if page.videos %}
+        {% for item in page.videos %}
+          <div class="media-player-wrapper">
+            <a href="{{ item.url }}" class="media-player-link titled">{{ item.caption }}</a>
+          </div>
+        {% endfor %}
+      {% endif %}
+
+      {% if page.videos-additional and page.videos-additional != '' %}
+        {{ page.videos-additional | markdownify }}
+      {% endif %}
+
+      {% if page.successes and page.successes != '' %}
+        <h2>Successes</h2>
+        {{ page.successes | markdownify }}
+      {% endif %}
+
+      {% if page.challenges and page.challenges != '' %}
+        <h2>Challenges</h2>
+        {{ page.challenges | markdownify }}
+      {% endif %}
+
+      {% if page.next-steps and page.next-steps != '' %}
+        <h2>Next</h2>
+        {{ page.next-steps | markdownify }}
+      {% endif %}
+
+      {% if page.screengrabs %}
+        <div class="screengrabs group">
+          {% for item in page.screengrabs %}
+            <figure class="screengrab">
+              <img src="/transformation/assets/images/{{ item.filename }}" alt="Screenshot of {{ item.caption }}">
+              <figcaption>{{ item.caption }}</figcaption>
+            </figure>
+          {% endfor %}
+        </div>
+      {% endif %}
+
+      {% if page.digital-strategy-statement and page.digital-strategy-statement != '' %}
+      <div class="exemplar-statement">
+        <h2>Digital strategy statement</h2>
+        <blockquote>
+          {{ page.digital-strategy-statement | markdownify }}
+          <footer>
+            <cite>{{ page.digital-strategy-source | markdownify }}</cite>
+          </footer>
+        </blockquote>
+      </div>
+      {% endif %}
+
+      {% if page.scope-of-exemplar and page.scope-of-exemplar != '' %}
+      <h2>Scope of exemplar</h2>
+      {{ page.scope-of-exemplar | markdownify }}
+      {% endif %}
+
+    </div>
+
+    <div class="content-sidebar">
+
+      <div class="phase-stories unit">
+
+        <h2 class="visuallyhidden">Service status</h2>
+
+        {% if page.status-discovery %}
+        <div class="phase-story discovery">
+          <h3><a href="https://www.gov.uk/service-manual/phases/discovery" class="phase-tag discovery">Discovery</a></h3>
+          <ol>
+            {% for item in page.status-discovery %}
+              <li{% if item.complete == true %} class="complete"{% endif %}>{{ item.copy | markdownify | strip_html }}</li>
+            {% endfor %}
+          </ol>
+        </div>
+        {% endif %}
+
+        {% if page.status-alpha %}
+        <div class="phase-story alpha">
+          <h3><a href="https://www.gov.uk/service-manual/phases/alpha" class="phase-tag alpha">Alpha</a></h3>
+          <ol>
+            {% for item in page.status-alpha %}
+              <li{% if item.complete == true %} class="complete"{% endif %}>{{ item.copy | markdownify | strip_html }}</li>
+            {% endfor %}
+          </ol>
+        </div>
+        {% endif %}
+
+        {% if page.status-beta %}
+        <div class="phase-story beta">
+          <h3><a href="https://www.gov.uk/service-manual/phases/beta" class="phase-tag beta">Beta</a></h3>
+          <ol>
+            {% for item in page.status-beta %}
+              <li{% if item.complete == true %} class="complete"{% endif %}>{{ item.copy | markdownify | strip_html }}</li>
+            {% endfor %}
+          </ol>
+        </div>
+        {% endif %}
+
+        {% if page.status-live %}
+        <div class="phase-story live">
+          <h3><a href="https://www.gov.uk/service-manual/phases/live" class="phase-tag live">Live</a></h3>
+          <ol>
+            {% for item in page.status-live %}
+              <li{% if item.complete == true %} class="complete"{% endif %}>{{ item.copy | markdownify | strip_html }}</li>
+            {% endfor %}
+          </ol>
+        </div>
+        {% endif %}
+
+      </div>
+      
+      {% if page.anticipated-volume %}
+      <div class="unit">
+        <h2>Anticipated volume</h2>
+        {% for item in page.anticipated-volume %}
+          <p>
+            <span class="lrg-number">{{ item.number }}</span>
+            {{ item.caption }}
+          </p>
+        {% endfor %}
+      </div>
+      {% endif %}
+
+      {% if page.current-volume or page.current-cost %}
+
+        {% assign transactions_explorer_url = 'https://www.gov.uk/performance/transactions-explorer' %}
+        {% if page.transactions-explorer-url %}
+          {% capture transactions_explorer_url %}{{ page.transactions-explorer-url }}{% endcapture %}
+        {% endif %}
+        <p>Figures from <a href="{{ transactions_explorer_url }}">Transactions Explorer</a> for nearest comparable service</p>
+
+        
+        {% if page.current-volume %}
+          <div class="unit">
+            <h2>Current volume</h2>
+            {% for item in page.current-volume %}
+              <p>
+                <span class="lrg-number transactions-explorer">{{ item.number }}</span>
+                {{ item.caption }}
+              </p>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+        {% if page.current-cost %}
+          <div class="unit">
+            <h2>Current cost</h2>
+            {% for item in page.current-cost %}
+              <p>
+                <span class="lrg-number transactions-explorer">{{ item.number }}</span>
+                {{ item.caption }}
+              </p>
+            {% endfor %}
+          </div>
+        {% endif %}
+
+      {% endif %}
+
+
+      <aside>
+        <h2 class="visuallyhidden">Related links</h2>
+        {% if page.exemplar-service-url %}
+        <div>
+          <h3>Service link</h3>
+          <a href="{{ page.exemplar-service-url }}">{{ page.exemplar-service-url }}</a>
+        </div>
+        {% endif %}
+        {% if page.exemplar-performance-dashboard-url %}
+        <div>
+          <h3>Service performance</h3>
+          <a href="{{ page.exemplar-performance-dashboard-url }}">{{ page.exemplar-performance-dashboard-url }}</a>
+        </div>
+        {% endif %}
+      </aside>
+
+    </div>
+
+    <footer class="content-body">
+      {% if page.exemplar-blog-url %}
+        <p>For further information about this project please visit <a href="{{ page.exemplar-blog-url }}">our blog</a> or <a href="/contact/govuk">contact us</a>.</p>
+      {% else %}
+        <p>For further information about this project please <a href="/contact/govuk">contact us</a>.</p>
+      {% endif %}
+      <div class="updated">
+        Last updated {{ site.time | date: "%-d %B %Y" }}
+      </div>
+    </footer>
+
+  </div>
+
+</main>
