@@ -14,7 +14,7 @@ programme: "Electoral Registration Transformation Programme"
 
 
 homepage-intro: |
-    Increasing trust in our electoral system and making voter registration more convenient and secure
+    A digital service to make registering to vote simpler, clearer and faster for individuals
 
 detail-page-intro: |
     5 million people registering online to vote each year. Moving 46 million voters from household to individual registration
@@ -28,7 +28,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    <abbr title="Electoral Registration Transformation Programme">ERTP</abbr> will transform the electoral registration process by introducing Individual Electoral Registration (IER). Instead of one person in a household supplying the details of all people living at the same address (which can result in fraud and errors), IER will require people to register individually.
+    The Electoral Registration Transformation Programme will change the electoral registration process by introducing Individual Electoral Registration (IER). Instead of one person in a household supplying the details of all people living at the same address (which can result in fraud and errors), IER will require people to register individually.
     
     To support IER and make it simpler for users, a new digital channel will be created and a method of confirming identities will be introduced. IER is intended to increase trust and modernise our electoral system.
 
@@ -62,7 +62,7 @@ status-beta:
     complete  : true
   - copy      : "Completed: Live service environment build --- Jan 2014"
     complete  : true
-  - copy      : "Overseas and special category elector transactions --- Mar 2014"
+  - copy      : "Overseas and special category elector transactions --- Apr 2014"
     complete  : false
 
 status-live:
@@ -85,7 +85,6 @@ challenges: |
 
 next-steps: |
   - Build the team needed to run the live service
-  - Conduct performance test
   - Complete overseas, forces and crown servant elector transactions
   - Work on Welsh language transaction
   

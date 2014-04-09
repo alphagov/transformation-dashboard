@@ -4,7 +4,7 @@ layout: homepage
 discovery-count-caption: "Finding out what the users need, what to measure and what the constraints are"
 alpha-count-caption: "Building a prototype, testing it with users and learning from it"
 beta-count-caption: "Scaling up and going public"
-live-count-caption: "Learning how to continuously improve the live service"
+live-count-caption: "Continuously improving the live service after release"
 
 headline-title: Digital Transformation
 
@@ -17,17 +17,15 @@ intro: |
 
     [You can read more about the transformation programme on our blog.](https://digitaltransformation.blog.gov.uk/)
 
-this-month: |
-    - The [Passports](/transformation/passports) exemplar has completed discovery
-    - The [Visas](/transformation/visas) exemplar moved to private beta
-    - The beta build has started on [Redundancy payments](/transformation/redundancy-payments)
-    - [Apprenticeship applications](/transformation/apprenticeships) exemplar moved into alpha
-    - HMRC released a private beta for [PAYE for employees](/transformation/paye), [Digital self-assessment](/transformation/self-assessment) and [Your tax account](/transformation/business-tax-account) with around 2,000 invited users
+this-month:
+    - [Patent renewals](/transformation/renew-patent) public beta released
+    - [View driving record](/transformation/driving-record) public beta released
+    - [Registered traveller](/transformation/apply-registered-traveller) released its private beta service 
 
-next-month: |
-    - [Patent renewals](/transformation/renew-patent) will move to public beta
-    - DVLA will release a public beta for [View driving record](/transformation/driving-record)
-    - HMRC will release a public beta for [PAYE for employees](/transformation/paye), [Digital self-assessment](/transformation/self-assessment) and [Your tax account](/transformation/business-tax-account) 
+next-month: 
+    - HMRC will release a public beta for [Digital self-assessment](/transformation/self-assessment) and [Your tax account](/transformation/business-tax-account)
+    - [Lasting power of attorney](/transformation/lasting-power-of-attorney) will prepare to move to live phase
+   - Beta development will start on [Vehicle Management](/transformation/manage-vehicle)
 
 videos:
     - url: https://www.youtube.com/watch?v=zbkxWchTyBU

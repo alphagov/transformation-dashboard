@@ -61,7 +61,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy    : "Phase 1 and 2 live --- Sep 2014"
+  - copy    : "Phase 1 and 2 live (depending on user feedback) --- Sep 2014"
     complete  : false
 
 
@@ -69,16 +69,15 @@ successes: |
   - Public beta released within 3 months of starting
   - [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment passed for beta service 
   - Updates to beta released without disrupting the service for users
-  - Over 2,600 customers registered in the first month of the service being released
-  - Early feedback shows over 90% of customers are satisfied or very satisfied with the service 
+  - Over 12,000 customers registered in the 3 months
+  - Early feedback shows that 93% of customers are satisfied or very satisfied with the service 
   
 challenges: |
   - Assembling and managing the team to run the live service 
   
 next-steps: |
-  -  Develop service ready for live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
-  - Consider whether the service can extend to other sorts of waste carrier
-  
+  - Extend current service to cater for upper tier carriers (those whose main business is in waste)
+  - Consider whether the underlying platform can be used for other Environment Agency digital services  
 
 videos:
   - url   : https://www.youtube.com/watch?v=rSbfeVF1Fmg

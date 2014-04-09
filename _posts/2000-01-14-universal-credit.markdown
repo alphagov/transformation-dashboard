@@ -31,7 +31,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "Digital strategic solution produced by joint GDS and DWP team, now transitioned to DWP. GDS supporting the team as they build skills and capability needed to continue developing the service."
+status-strapline: "A prototype digital solution produced by a joint GDS and DWP team has now transitioned to DWP. GDS supporting the team as they build skills and capability needed to continue developing the service."
 
 status-discovery:
   - copy      : "Completed: Workshops with DWP and GDS --- Apr 2013"
@@ -55,20 +55,20 @@ status-live:
 
 
 successes: |
-  - Delivered a digital strategic solution on 3 October 2013
-  - Established a central digital team at DWP, building user-centered services
+  - Delivered a prototype digital solution on 3 October 2013
+  - Established a digital team at DWP, building user-centred services
   
 challenges: |
   - Complex service, affecting up to 10 million people
   - Managing scale of the service as more complexity is added
   
 next-steps: |
-  - Find GDS and DWP people, skills and suppliers to grow the digital team at DWP and operate the full service
+  - Recruit, retain and develop a high-performing team, with the right skills and capabilities to develop the full service
   
 
 videos:
   - url     : https://www.youtube.com/watch?v=cHPv3_P7aDQ
-    caption : Watch a demonstration of the service built by the Government Digital Service and DWP, delivered in October 2013
+    caption : Watch a demonstration of the prototype service built by the Government Digital Service and DWP, delivered in October 2013
 
 
 

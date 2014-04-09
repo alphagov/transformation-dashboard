@@ -14,7 +14,7 @@ department-url: "https://www.gov.uk/government/organisations/hm-revenue-customs"
 
 
 homepage-intro: |
-    If you want to check or update your PAYE status you’ll be able to do it online, and see the impact on the tax you pay
+    If you want to check or update your PAYE status you’ll be able to do it online, and see the effect on the tax you pay
 
 detail-page-intro: |
    Making Pay As You Earn digital for 41 million employees
@@ -53,11 +53,11 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Feb 2014"
     complete  : true
-  - copy      : "Public beta release --- Apr 2014"
+  - copy      : "Public beta release --- Jun 2014"
     complete  : false
  
 status-live:
-  - copy      : "Service goes live --- Mar 2015"
+  - copy      : "Service goes live (depending on user feedback) --- Mar 2015"
     complete  : false
 
 
@@ -66,12 +66,11 @@ successes: |
   - Workspace and broadband problems resolved
   
 challenges: |
-  - The timeline to put infrastructure in place is tight
+  - Ensuring the private beta has enough users to identify data issues
   - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
   
 next-steps: |
-  - Add user support features to the service
-  - Begin running a service that integrates [identity assurance](https://identityassurance.blog.gov.uk/)  
+  - Continue private beta and improve quality of data matching alongside [identity assurance](https://identityassurance.blog.gov.uk/)  
 
 videos:
   - url     : https://www.youtube.com/watch?v=K59WRzw8heY

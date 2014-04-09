@@ -14,7 +14,7 @@ department-url: "https://www.gov.uk/government/organisations/hm-revenue-customs"
 
 
 homepage-intro: |
-    If you’re the tax agent for another company or individual you’ll be able to do everything they can with the new digital tax services on their behalf (update details, file returns, etc)
+    If you’re a tax agent you’ll be able to fully manage your clients’ tax with a simple online service
 
 detail-page-intro: |
     An easy to use online tax dashboard for 120,000 tax agents
@@ -49,16 +49,16 @@ status-alpha:
 
 status-beta:
   - copy      : "Discovery and development work with the identity assurance (IDA) team --- Dec 2013 to Mar 2014"
+    complete  : true
+  - copy      : "Begin work with IDA to develop Friends and Family alpha service --- Apr 2014"
     complete  : false
-  - copy      : "Release friends and family service --- Apr 2014"
+  - copy      : "Release paid agents service --- date tbc"
     complete  : false
-  - copy      : "Release paid agents service --- Aug 2014"
-    complete  : false
-  - copy      : "Further paid agents service releases --- Oct 2014"
-    complete  : false
+  - copy      : "Further paid agents service releases --- date tbc"
+    complete  : false 
 
 status-live:
-  - copy      : "Service goes live --- Mar 2015"
+  - copy      : "Service goes live (depending on user feedback) --- Mar 2015”
     complete  : false
 
 

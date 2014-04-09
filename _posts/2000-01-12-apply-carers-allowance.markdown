@@ -42,14 +42,8 @@ transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/
 current-volume:
   - number  : 240k
     caption : Transactions per year
-  - number  : 28.8%
+  - number  : 44%
     caption : Digital take-up
-current-cost:
-  - number  : £14.9m
-    caption : Total cost
-  - number  : £62.00
-    caption : Cost per transaction
-
 
 status: "beta"
 status-strapline: "In public beta. Digital take-up of the service continues to increase."
@@ -76,17 +70,16 @@ status-live:
 
 
 successes: |
-  - Many new releases since the service launch, each adding new features
   - More than 14,000 claim requests made in the first 7 weeks 
   - 50% increase in online claim requests since launch
   - 30% of claims made using mobile devices
   - In the first week of January 2014 60% of claims were made online
-  
+  - Welsh language version of the service released
+
 challenges: |
   - Change business processes to accommodate running service teams
   
 next-steps: |
-  - Release Welsh language version of the service
   - Work continues to make it easier for carers to report changes in circumstances
   - Build the digital capability to run the service within the department  
   - Integrate the service with more of the department’s systems to improve efficiency

@@ -14,10 +14,10 @@ department-url: "https://www.gov.uk/government/organisations/hm-revenue-customs"
 
 
 homepage-intro: |
-    If you’re registered for self-assessment you’ll be able to manage your tax affairs through a fully digital service, without any more confusing paper correspondence
+    If you’re registered for self-assessment you’ll be able to manage your tax with a fully digital service, without any more confusing paper correspondence
 
 detail-page-intro: |
-    Making self assessment fully digital for 10 million people
+    Making self-assessment fully digital for 10 million people
 
 
 digital-strategy-statement: |
@@ -44,7 +44,7 @@ status-discovery:
     complete  : true
 
 status-alpha:
-  - copy      : "Completed: Tax platform alpha build --- Mar to May 2013"
+  - copy      : "Complete: Tax platform alpha build --- Mar to May 2013"
     complete  : true
 
 status-beta:
@@ -52,11 +52,11 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Feb 2014"
     complete  : true
-  - copy      : "Public beta release --- Apr 2014"
+  - copy      : "Public beta release --- date tbc"
     complete  : false
  
 status-live:
-  - copy      : "Service goes live --- Mar 2015"
+  - copy      : "Service goes live (depending on user feedback) --- Mar 2015"
     complete  : false
 
 

@@ -30,7 +30,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    Civil claims are a way for the public to solve civil legal disputes or obtain money or property owed. There are two live services, Money Claim Online (MCOL) and Possession Claim Online (PCOL), though claims can also be submitted on paper. The exemplar aims to create a digital service for all types of claims, improve user experience and save money.
+    Civil claims are a way for the public to solve civil legal disputes or obtain money or property owed.  The exemplar aims to create a digital service for all types of claims, improve user experience and save money.
 
 
 anticipated-volume:
@@ -60,6 +60,8 @@ status-discovery:
 status-alpha:
   - copy      : "Completed: Alpha build --- Oct 2013"
     complete  : true
+  - copy      : Accelerated property possession claim alpha build --- Apr 2014
+    complete  : false
 
 status-beta:
   - copy      : "Completed: Start beta development --- Nov 2013"
@@ -71,36 +73,26 @@ status-live:
 
 
 successes: |
-  - Funding for the project approved
-  - Service manager recruited
-  - User testing started
+  - User research set up for each [sprint](/service-manual/agile/features-of-agile.html#sprints)
+  - Cross-disciplinary team in place
+  - Plan in place for public beta of accelerated property possession claim 
+  - Better use of GDS’ user interface design patterns 
   
 challenges: |
   - Scope and timescale of the project need to be clarified
-  - The availability of skills needed to build the service 
+  - Making language simpler while ensuring the accurate use of legal terminology
+  - Integrating the exemplar with the wider civil claims and civil justice digital service
   
 next-steps: |
-  - Continue user research
-  - Develop and test a private beta for social housing
-  
+  - Continue user research and development
+  - Release accelerated possession claim alpha to limited group of users 
+  - Prepare service for next Digital by Default Service Standard assessment and public beta release
 
-videos:
-  - url     : https://www.youtube.com/watch?v=GbSkWm1kNoc
-    caption : Watch a short description of the exemplar
-  - url     : https://www.youtube.com/watch?v=UujKzlrkt4M
-    caption : Watch an update about the beta service, filmed December 2013
-  - url     : https://www.youtube.com/watch?v=Tparz28lJN8
-    caption : Watch a short demo, repossessing a property online, filmed January 2014
-
-
-screengrabs:
-  - filename    : "22-alpha-civil-claims.png"
-    caption     : "Alpha homepage, September 2013"
-  - filename    : "22-beta-civil-claims.png"
-    caption     : "Beta homepage, December 2013"
 
 
 ---
+
+
 
 
 

@@ -15,7 +15,7 @@ programme: "HM Prison Service"
 
 
 homepage-intro: |
-    If you're visiting a prison you’ll be able to book using a single, national service, reducing staff time and offering a better experience for families, friends and professionals
+    If you're visiting a prison you’ll be able to book using a single service, offering a simpler, faster experience for families, friends and professionals
 
 detail-page-intro: |
     1.5 million prison visits booked online every year
@@ -51,7 +51,7 @@ current-cost:
 
 
 status: "alpha"
-status-strapline: "Early alpha. Limited public alpha product being tested with prisons."
+status-strapline: "Early alpha. Prototype being tested with four male Category B prisons."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Jul 2013"
@@ -60,31 +60,30 @@ status-discovery:
 status-alpha:
   - copy      : "Completed: Start alpha build --- Oct 2013"
     complete  : true
-  - copy      : "Completed: User testing of alpha product with 4 prisons --- Dec 2013 to Feb 2014"
+  - copy      : "Completed: User testing of alpha product with 4 prisons --- Dec 2013 to Apr 2014"
     complete  : true
 
 status-beta:
-  - copy      : "Start beta development --- May 2014"
-    complete  : false
-  - copy      : "Public beta release --- Dec 2014"
+  - copy      : "Public beta release --- Apr 2014"
     complete  : false
 
 status-live:
-  - copy      : "Service goes live --- Apr 2015"
+  - copy      : "Service goes live --- date tbc"
     complete  : false
 
 
 successes: |
   - Minimum viable product built
-  - User research started
+  - Service standardised across pilot prisons
+  - User research done for male Category B and below, Youth, Women’s, High Security Estate (Category A) and Contracted Out prisons 
   
 challenges: |
   - Developing a standard process for booking visits across all prisons
   - Integrating the new service with existing ones
+  - Rolling out alpha product nationally to male Category B and below, Youth and Women’s prisons
   
 next-steps: |
-  - Expand user research to more prisons and other user types, including women's prisons, professionals and the high security estate
-  
+  - Expand pilot as open beta to a total of 18 prisons, including two Youth and two Women’s facilities   
 
 videos:
   - url     : https://www.youtube.com/watch?v=5eYj5mgry0c

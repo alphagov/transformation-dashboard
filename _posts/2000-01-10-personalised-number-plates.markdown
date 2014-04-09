@@ -29,7 +29,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    More than 18 million transactions per year relate to the ownership and status of vehicles (eg death of owner, purchase / destruction / export of car). A further 1.6m transactions related to personalised registration (eg buying the number plate, transferring it to another car, etc). The exemplar was scoped as all large vehicle transactions except those affected by abolishing the tax disc and those already highly digitised. Discovery revealed that easily digitisable activity falls into 3 domains – vehicle ownership / status, personalised registration and data sharing – all 3 depend on good vehicle records.
+    More than 18 million transactions per year relate to maintaining accurate records of vehicles, their keepers, and personalised registrations.  These include disposal to trade, acquisition from trade, notification of change or death of a keeper, retention of a registration mark, and assigning a registration mark.  The Vehicle Management and Personalised Registration exemplars will deliver fully digital services for these transactions, and improve the quality and accuracy of data for DVLA and its external stakeholders.
 
 
 anticipated-volume:
@@ -49,7 +49,7 @@ status-alpha:
     complete  : false
 
 status-beta:
-  - copy      : "Start beta developement --- Jul 2014"
+  - copy      : "Start beta development --- Jul 2014"
     complete  : false
 
 status-live:
@@ -59,18 +59,18 @@ status-live:
 
 successes: |
   - Discovery phase complete
-  - User and business needs being developed together 
-  - Potential security issues identified
+  - Research undertaken into public and motor trade requirements
+  - Data integration issues investigated
   
 challenges: |
   - Turning complicated transactions into simple digital services
   - Integrating with current systems and migrating data to a secure cloud environment
   
 next-steps: |
-  - Build alpha prototype
-  - Integrate existing systems
-  - Complete user analysis
-  
+  - Start alpha stage
+  - Build prototype
+  - Integrate service with existing systems and data
+  - Complete user research
 
 videos:
   - url     : https://www.youtube.com/watch?v=pAsleU4b-oM

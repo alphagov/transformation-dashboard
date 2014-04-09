@@ -53,7 +53,7 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Public beta development --- Jul 2013"
     complete  : true
-  - copy      : Begin discovery work into scope of beta phase --- Jan 2014"
+  - copy      : "Completed: Begin discovery work into scope of beta phase --- Jan 2014"
     complete  : true
 
 status-live:
@@ -62,17 +62,16 @@ status-live:
 
 
 successes: |
-  - User research started
-  - User experience has been improved following testing
-  - New opportunities for further improvements identified
-  
+  - User experience continues to improve following testing  
+  - Positive user feedback on new simpler language
+  - Save and return function agreed with Security Assurance
+
 challenges: |
-  - Ensuring the service fully meets user needs
-  - Increasing digital take-up and reducing supporting paper workflow
+  - Ensuring the service meets full diversity of user needs
+  - Using simpler language, whilst maintaining legal accuracy
   
 next-steps: |
-  - Act on user research
-  - Discuss widening the scope of the service
+  - Continue to simplify and improve the application based on user research
   - Develop the [assisted digital](https://www.gov.uk/government/publications/government-approach-to-assisted-digital) support
   - Finish public beta
   

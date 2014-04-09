@@ -63,8 +63,8 @@ status-alpha:
 status-beta:
   - copy    : "24+ advanced learning loan application public beta --- Aug 2013 to Aug 2014"
     complete  : false
-  - copy    : "Disabled Students Allowance invoicing public beta --- Dec 2013 to Mar 2014"
-    complete  : false
+  - copy    : "Supplier invoicing for Disabled Students Allowance public beta --- Dec 2013 to Mar 2014"
+    complete  : true
   - copy    : "Full time student applications (2014/15) public beta release --- Jan 2014"
     complete  : false
   - copy    : "Core application service --- from Jan 2015"
@@ -72,6 +72,8 @@ status-beta:
 
 status-live:
   - copy    : "Completed: Part time student loan application service goes live --- Oct 2012"
+    complete  : true
+- copy    : "Completed: Supplier invoicing for Disabled Students Allowance goes live --- Mar 2014"
     complete  : true
   - copy    : "24+ advanced learning loan applications goes live --- date tbc"
     complete  : false
@@ -84,7 +86,7 @@ status-live:
 
 
 successes: |
-  - 82,182 digital applications for full-time students, academic year 2014 / 2015, were made within a month of the launch date
+  - More than 300,000 digital applications for full-time students (academic year 2014 / 2015) were made in the first 3 months of the live service
   - Service delivery team awarded TechExcel Best Agile Project at the [European Testing Awards](http://www.softwaretestingawards.com/2013winners.html)
   
 challenges: |

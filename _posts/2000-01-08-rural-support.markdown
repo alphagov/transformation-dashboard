@@ -74,7 +74,6 @@ status-live:
   - copy    : "Rural support service incremental live releases --- Jan 2015 onwards"
     complete  : false
 
-
 successes: |
   - An [agile](https://www.gov.uk/service-manual/agile) development team has been established in the Department for Environment, Food and Rural Affairs
   - Released a private beta mapping tool for farmers to check their land
@@ -95,8 +94,6 @@ videos:
   - url   : https://www.youtube.com/watch?v=fczqFhmong0
     caption : Watch a short demo, reporting a change of land use online, filmed January 2014
 
-videos-additional: |
-  You can also watch a [demo](https://www.youtube.com/watch?v=FvtNyOVK4t8) introducing the service's mapping system, filmed July 2013.
 
 
 screengrabs:

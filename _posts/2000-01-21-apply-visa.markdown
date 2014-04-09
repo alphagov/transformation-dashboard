@@ -63,17 +63,17 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Feb 2014"
     complete  : true
-  - copy      : "Public beta release --- May 2014"
+  - copy      : "Public beta release --- Jun 2014"
     complete  : false
 
 status-live:
-  - copy      : "Service goes live --- Mar 2015"
+  - copy      : "Service goes live (depending on user feedback) --- Mar 2015
     complete  : false
 
 
 successes: |
-  - Team established --- service manager is now supported by product managers and owners
-  - Extensive [user research](http://digital.cabinetoffice.gov.uk/2013/10/09/testing-with-users-around-the-world/) user research with a range of groups, including overseas users and UK legal representatives
+  - Team established - service manager is now supported by product managers and owners
+  - Extensive [user research](http://digital.cabinetoffice.gov.uk/2013/10/09/testing-with-users-around-the-world/) with a range of groups, including overseas users and UK legal representatives
   - Good feedback from private beta users
   - Production system is proving efficient and can scale easily for many users 
   - Easy to create and change visas products using the Home Office product catalogue

@@ -16,7 +16,7 @@ programme: "Driving and Vehicle Licencing Agency"
 
 
 homepage-intro: |
-    If you’re a driver you’ll be able to view information from your record, including what vehicles you can drive and any penalty points and disqualifications. Drivers' data will be made available via a new DVLA enquiry platform built to handle high-volume enquiries
+    If you’re a driver you’ll be able to view information from your record, including what vehicles you can drive and any penalty points and disqualifications. 
 
 detail-page-intro: |
     Online access to driving records for up to 40 million drivers and the insurance industry
@@ -43,7 +43,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In public beta"
+status-strapline: "Public beta service launched end of March. Planning work for live service in progress."
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2012"
@@ -56,26 +56,27 @@ status-alpha:
 status-beta:
   - copy        : "Completed: Testing and development of beta product --- Feb 2014"
     complete    : true
-  - copy        : "Public beta release --- Mar 2014"
+  - copy        : "Completed: Public beta release --- Mar 2014"
     complete    : true
 
 status-live:
-  - copy        : "The service should go live in June 2014 depending on feedback from the public beta and subsequent development work"
+  - copy        : "Service goes live (depending on user feedback) --- June 2014"
     complete    : false
 
 
 successes: |
-  - Alpha stage completed
+  - Public beta service launched
   - Service has been assessed using the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default)
-  - Secure, cloud based pre-production and development environments built
-  - Initial data transfers for testing completed
+  - Secure, cloud-based hosting built
+  - Initial Identity Assurance service based on National Insurance Number in place
   
 challenges: |
-  - Gathering citizen and trade user feedback to develop and improve the service during public beta
+  - Gathering citizen and trade user feedback to develop and launch the live service 
   
 next-steps: |
+  - Develop and improve the live service
   - Develop and integrate full identity assurance features
-  - Iterate the service ready for live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+
   
 
 videos:

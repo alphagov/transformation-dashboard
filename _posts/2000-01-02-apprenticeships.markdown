@@ -66,6 +66,7 @@ successes: |
   
 challenges: |
   - Review of the Skills Funding Agency may have knock-on effects on the service
+  - Assessing an appropriate endpoint for the transaction
   
 next-steps: |
   - Develop digital capability within the exemplar team and the Skills Funding Agency

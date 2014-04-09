@@ -20,7 +20,7 @@ detail-page-intro: |
     
 
 scope-of-exemplar: |
-    The existing passport service within the UK allows you to complete an online application form to apply for, renew or update a passport. The printed application form is then returned to you to sign, date, add any documents or photographs that are needed, and return for processing.
+    The existing passport service within the UK allows you to complete an online application form to apply for, renew or update a passport. The user then prints a declaration form, signs and dates it and sends it for processing with any documents or photographs that are needed.
 
     Her Majesty’s Passport Services is exploring with GDS the scope for a fully digital passport service.
 
@@ -39,11 +39,11 @@ status-discovery:
     complete  : true
 
 status-alpha:
-  - copy      : "Alpha build - Mar to June 2014"
+  - copy      : "Alpha build --- Mar to Jun 2014"
     complete  : false
 
 status-beta:
-  - copy      : "Private beta release - June 2014"
+  - copy      : "Private beta release --- Oct 2014"
     complete  : false
 
 status-live:

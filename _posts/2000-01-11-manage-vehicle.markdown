@@ -29,8 +29,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    More than 18 million transactions per year relate to the ownership and status of vehicles (eg death of owner, purchase / destruction / export of car). A further 1.6m transactions related to personalised registration (eg buying the number plate, transferring it to another car, etc). The exemplar was scoped as all large vehicle transactions except those affected by abolishing the tax disc and those already highly digitised. Discovery revealed that easily digitisable activity falls into 3 domains – vehicle ownership / status, personalised registration and data sharing – all 3 depend on good vehicle records.
-
+    More than 18 million transactions per year relate to maintaining accurate records of vehicles, their keepers, and personalised registrations.  These include disposal to trade, acquisition from trade, notification of change or death of a keeper, retention of a registration mark, and assigning a registration mark.  The Vehicle Management and Personalised Registration exemplars will deliver fully digital services for these transactions, and improve the quality and accuracy of data for DVLA and its external stakeholders.  
 
 anticipated-volume:
   - number  : 18m
@@ -38,14 +37,14 @@ anticipated-volume:
 
 
 status: "alpha"
-status-strapline: "Alpha development underway. The core service is being planned and designed, along with [exemplar number 10: Personalised registrations](/transformation/personalised-number-plates)."
+status-strapline: "Alpha phase completes and beta development will start in April 2014."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Oct 2013"
     complete  : true
 
 status-alpha:
-  - copy      : "Alpha development --- Jan to Mar 2014"
+  - copy      : "Alpha development --- Jan to Apr 2014"
     complete  : false
 
 status-beta:
@@ -61,7 +60,7 @@ successes: |
   - Vehicle management passed Alpha [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment 
   - Discovery phase complete
   - User and business needs established
-  - Potential security issues identified
+  - Data integration requirements identified
   - Prototypes developed
   
 challenges: |

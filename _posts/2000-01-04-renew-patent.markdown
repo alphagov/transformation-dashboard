@@ -37,7 +37,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In private beta"
+status-strapline: "In public beta"
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2013"
@@ -48,26 +48,25 @@ status-alpha:
     complete    : true
 
 status-beta:
-  - copy    : "Private beta development and testing --- Aug 2013 to Mar 2014"
-    complete  : false
-  - copy    : "Release public beta --- Mar 2014"
-    complete  : false
+  - copy    : "Completed: Private beta development and testing --- Aug 2013 to Mar 2014"
+    complete  : true
+  - copy    : "Completed: Release public beta --- Mar 2014"
+    complete  : true
 
 status-live:
-  - copy    : "Service goes live --- May 2014"
+  - copy    : "Service goes live (depending on user feedback) --- May 2014"
     complete  : false
 
 
 successes: |
   - Tested by the Parliamentary Under Secretary of State for Intellectual Property
-  - Private beta service passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+  - Public beta service released
   
 challenges: |
   - A permanent service manager needs to be appointed
   - Ensuring that the business takes ownership of the ongoing development of the service
   
 next-steps: |
-  - Release the public beta service
   - Launch the live service
   
 

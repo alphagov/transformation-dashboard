@@ -28,7 +28,11 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    When an employer becomes insolvent employees are often owed money (especially for redundancy pay). The Redundancy Payments Service processes claims for statutory redundancy payments, which are paid from the National Insurance Fund (NIF). The current claim process is largely paper based, which leads to unnecessary cost and increased potential for errors and delays. The scope of the exemplar is to create a digital claim process that will reduce the handling of paper, identify potential problems within claims so that they may be resolved more quickly, and increase confidence and trust in the system for both claimants and insolvency practitioners.
+    When an employer becomes insolvent employees are often owed money (especially for redundancy pay). The Redundancy Payments Service processes claims for statutory redundancy payments, which are paid from the National Insurance Fund (NIF). The current claim process is largely paper based, which leads to unnecessary cost and increased potential for errors and delays. The scope of the exemplar is to create a digital claim process that will:
+
+- reduce the handling of paper
+- identify potential problems within claims so that they may be resolved more quickly
+- increase confidence and trust in the system for both claimants and insolvency practitioners
 
 
 anticipated-volume:
@@ -56,7 +60,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy    : "Service goes live --- Oct 2014"
+  - copy    : "Service goes live (depending on user feedback) --- Oct 2014"
     complete  : false
 
 

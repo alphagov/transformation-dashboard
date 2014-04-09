@@ -16,8 +16,7 @@ homepage-intro: |
     If you’re an eligible, frequent traveller to the UK you’ll be able to easily apply to use e-passport gates, cutting time queuing at airports
 
 detail-page-intro: |
-    Online registration to allow up to 400,000 frequent travellers into the UK more easily
-
+    Up to 1 million journeys into the UK will be faster and easier for eligible frequent travellers
 
 digital-strategy-statement: |
     E-passport gates are a secure and convenient self-service alternative to the conventional border control process. A quick and easy way of crossing the border, e-Gates have proved popular with the travelling public, with transactions steadily rising --- over the last year 7.8 million people used the gates
@@ -31,8 +30,8 @@ scope-of-exemplar: |
 
 
 anticipated-volume:
-  - number  : 400k
-    caption : <small>From August 2014, up to 400,000 travellers who visit the UK several times per year will be able to access the scheme.</small>
+  - number  : 1m
+    caption : Journeys per year within 5 years
 
 
 status: "beta"
@@ -49,28 +48,27 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Beta development --- Dec 2013"
     complete  : true
-  - copy      : "Private beta release --- Mar 2014"
-    complete  : false
-  - copy      : "Public beta release --- Jul 2014"
+  - copy      : "Completed: Private beta release --- Mar 2014"
+    complete  : true
+  - copy      : "Public beta release --- Sep 2014"
     complete  : false
 
 status-live:
-  - copy      : "Service goes live --- Oct 2014"
+  - copy      : "Service goes live (depending on user feedback) --- Dec 2014”
     complete  : false
-  - copy      : "Live running of service and departmental transformational work to continue"
-    complete  : false
-
 
 successes: |
   - Alpha completed within 6 weeks
   - Code from [Exemplar 21: Visit visa applications](/transformation/apply-visa) reused, saving time
   - The service passed an assessment using the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) between the alpha and beta phases
+  - [Private beta](https://www.gov.uk/registered-traveller-scheme) now live
+
   
 challenges: |
   - Integrating the service with current systems
   
 next-steps: |
-  - Release a beta service
+  - Release a public beta service
   - Expand the beta to get more frequent travellers using the service
   - Build an online payment system
   - Integrate the beta with current systems

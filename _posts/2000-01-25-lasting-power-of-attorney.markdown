@@ -17,10 +17,10 @@ programme: "Office of the Public Guardian"
 
 
 homepage-intro: |
-    If you're making a lasting power of attorney it’ll be easier, leading to fewer errors, encouraging more people to plan ahead for an uncertain future
+    If you're making a lasting power of attorney, it’ll be easier using a simple online service, helping people to plan ahead for an uncertain future
 
 detail-page-intro: |
-    244,000 applications each year
+    300,000 applications each year
 
 
 digital-strategy-statement: |
@@ -38,7 +38,7 @@ scope-of-exemplar: |
 
 
 anticipated-volume:
-  - number  : 200k
+  - number  : 300k
     caption : Applications a year
 
 
@@ -64,15 +64,15 @@ status-beta:
 status-live:
   - copy      : "Service goes live --- Jun 2014"
     complete  : false
-  - copy      : "New back end system goes live --- Jun 2014"
+  - copy      : "New case management software goes live --- Jun 2014"
     complete  : false
-  - copy      : "Build deputyships service --- Apr to Jun 2014"
+  - copy      : "Build deputyships service --- May to Jul 2014"
     complete  : false
   - copy      : "Private release of deputyship service --- Jul 2014"
     complete  : false
-  - copy      : "Public release of deputyship service and new back end --- Sep 2014"
+  - copy      : "Public release of deputyship service --- Oct 2014"
     complete  : false
-  - copy      : "Decommission existing legacy system --- Oct to Nov 2014"
+  - copy      : "Decommission existing case management system --- Dec 2014"
     complete  : false
   - copy      : "Complete service goes live --- Dec 2014 to Mar 2015"
     complete  : false
@@ -83,7 +83,8 @@ successes: |
   - Service named runner-up in Civil Service Awards
   - Reduction in error rates moving from paper-based to digital service
   - Service performance [measured and published](https://www.gov.uk/performance/lasting-power-of-attorney)
-  
+  - 90% of digital users paying online
+
 challenges: |
   - Agency-wide digital transformation to allow the Office of the Public Guardian (OPG) to be a digital exemplar
   - Building support models for new digital services
