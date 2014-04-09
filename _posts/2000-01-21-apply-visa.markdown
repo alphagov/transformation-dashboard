@@ -67,7 +67,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Mar 2015
+  - copy      : "Service goes live (depending on user feedback) --- Mar 2015"
     complete  : false
 
 

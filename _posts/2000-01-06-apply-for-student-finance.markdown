@@ -61,28 +61,28 @@ status-alpha:
     complete    : false
 
 status-beta:
-  - copy    : "24+ advanced learning loan application public beta --- Aug 2013 to Aug 2014"
-    complete  : false
-  - copy    : "Supplier invoicing for Disabled Students Allowance public beta --- Dec 2013 to Mar 2014"
-    complete  : true
-  - copy    : "Full time student applications (2014/15) public beta release --- Jan 2014"
-    complete  : false
-  - copy    : "Core application service --- from Jan 2015"
-    complete  : false
+  - copy        : "24+ advanced learning loan application public beta --- Aug 2013 to Aug 2014"
+    complete    : false
+  - copy        : "Supplier invoicing for Disabled Students Allowance public beta --- Dec 2013 to Mar 2014"
+    complete    : true
+  - copy        : "Full time student applications (2014/15) public beta release --- Jan 2014"
+    complete    : false
+  - copy        : "Core application service --- from Jan 2015"
+    complete    : false
 
 status-live:
-  - copy    : "Completed: Part time student loan application service goes live --- Oct 2012"
-    complete  : true
-- copy    : "Completed: Supplier invoicing for Disabled Students Allowance goes live --- Mar 2014"
-    complete  : true
-  - copy    : "24+ advanced learning loan applications goes live --- date tbc"
-    complete  : false
-  - copy    : "Full time student applications goes live --- date tbc"
-    complete  : false
-  - copy    : "Core application service goes live --- date tbc"
-    complete  : false
-  - copy    : "Core banking platform for loans and grants goes live --- Jan 2015"
-    complete  : false
+  - copy        : "Completed: Part time student loan application service goes live --- Oct 2012"
+    complete    : true
+  - copy        : "Completed: Supplier invoicing for Disabled Students Allowance goes live --- Mar 2014"
+    complete    : true
+  - copy        : "24+ advanced learning loan applications goes live --- date tbc"
+    complete    : false
+  - copy        : "Full time student applications goes live --- date tbc"
+    complete    : false
+  - copy        : "Core application service goes live --- date tbc"
+    complete    : false
+  - copy        : "Core banking platform for loans and grants goes live --- Jan 2015"
+    complete    : false
 
 
 successes: |

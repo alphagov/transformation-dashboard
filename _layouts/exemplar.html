@@ -19,7 +19,9 @@ layout: govuk_template
         <span>Exemplar number {{ page.exemplar-number }}</span>
         {{ page.exemplar-title }}
       </h1>
-      {{ page.detail-page-intro | markdownify }}
+      {% if page.detail-page-intro %}
+        {{ page.detail-page-intro | markdownify }}
+      {% endif %}
     </div>
 
     <div class="exemplar-intro content-sidebar">

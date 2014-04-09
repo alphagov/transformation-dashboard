@@ -24,7 +24,8 @@ digital-strategy-source: |
     From the '[Department for Business Innovation & Skills digital strategy](http://discuss.bis.gov.uk/digitalstrategy/page/7/)' --- December 2012
 
 status: "alpha"
-status-strapline: "Land Registry is working with colleagues from GDS to explore the concept of creating a digital service which centres on customer needs.  Using Agile methodology, the team is aiming to build a concept for a digital service to be shown to staff and customers.  This will showcase what a digital service might look like in the future.  GDS supported Land Registry to deliver their MapSearch tool, which went live in March 2014.”
+
+status-strapline: "Land Registry is working with colleagues from GDS to explore the concept of creating a digital service which centres on customer needs.  Using Agile methodology, the team is aiming to build a concept for a digital service to be shown to staff and customers. This will showcase what a digital service might look like in the future. GDS supported Land Registry to deliver their MapSearch tool, which went live in March 2014."
 
 status-discovery:
   - copy        : "Completed: Discovery --- Mar 2014"

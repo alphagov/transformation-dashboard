@@ -1,4 +1,5 @@
 ---
+
 layout: homepage
 
 discovery-count-caption: "Finding out what the users need, what to measure and what the constraints are"
@@ -17,15 +18,15 @@ intro: |
 
     [You can read more about the transformation programme on our blog.](https://digitaltransformation.blog.gov.uk/)
 
-this-month:
+this-month: |
     - [Patent renewals](/transformation/renew-patent) public beta released
     - [View driving record](/transformation/driving-record) public beta released
     - [Registered traveller](/transformation/apply-registered-traveller) released its private beta service 
 
-next-month: 
+next-month: |
     - HMRC will release a public beta for [Digital self-assessment](/transformation/self-assessment) and [Your tax account](/transformation/business-tax-account)
     - [Lasting power of attorney](/transformation/lasting-power-of-attorney) will prepare to move to live phase
-   - Beta development will start on [Vehicle Management](/transformation/manage-vehicle)
+    - Beta development will start on [Vehicle Management](/transformation/manage-vehicle)
 
 videos:
     - url: https://www.youtube.com/watch?v=zbkxWchTyBU

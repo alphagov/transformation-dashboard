@@ -54,7 +54,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Dec 2014”
+  - copy      : "Service goes live (depending on user feedback) --- Dec 2014"
     complete  : false
 
 successes: |
