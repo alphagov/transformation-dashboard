@@ -1,45 +1,109 @@
-safe:        false
-auto:        false
-server:      false
-#server_port: 4000
-baseurl:    /
-#url: http://localhost:4000
+# Native
+name: Transformation Dashboard
+markdown: redcarpet
+pygments: false
 
-source:      ./
-destination: ./_site
-plugins:     ./_plugins
-exclude: Procfile, Gemfile, Gemfile.lock, config.ru, compile.sh, README.md, CONTRIBUTING.md
-future:      true
-lsi:         false
-pygments:    false
-markdown:    kramdown
-permalink:   :category/:title/
+redcarpet:
+  extensions: [
+    smart
+  ]
 
-maruku:
-  use_tex:    false
-  use_divs:   false
-  png_engine: blahtex
-  png_dir:    images/latex
-  png_url:    /images/latex
+permalink: :title.html
 
-rdiscount:
-  extensions: []
+exclude: [
+    compile.sh,
+    Procfile,
+    Gemfile,
+    Gemfile.lock,
+    README.md,
+    vendor
+]
 
-kramdown:
-  auto_ids: true,
-  footnote_nr: 1
-  entity_output: as_char
-  toc_levels: 1..6
-  use_coderay: true
+destination: _site/transformation
+baseurl: /transformation
 
-  coderay:
-    coderay_wrap: div
-    coderay_line_numbers: ''
-    coderay_line_numbers_start: 1
-    coderay_tab_width: 4
-    coderay_bold_every: 10
-    coderay_css: style
+# govuk_template variables
+govuk_template_assets: /transformation/assets
 
-sass:
-  syntax: scss        # scss|sass
-  style:  compressed  # nested|expanded|compact|compressed
+#
+# Plugin: jekyll-assets
+#
+assets:
+  #
+  # Pathname of the destination of generated (bundled) assets relative
+  # to the destination of the root.
+  #
+  dirname: /assets
+  #
+  # Base URL of assets paths.
+  #
+  baseurl: /transformation/assets/
+  #
+  # Pathnames where to find assets relative to the root of the site.
+  #
+  sources:
+    - _assets_pipeline/javascripts
+    - _assets_pipeline/stylesheets
+    - _assets_pipeline/images
+    - _assets_pipeline/govuk_template/javascripts
+    - _assets_pipeline/govuk_template/stylesheets
+    - _assets_pipeline/govuk_toolkit/javascripts
+    - _assets_pipeline/govuk_toolkit/stylesheets
+    - _assets_pipeline/govuk_toolkit/stylesheets/design-patterns
+    - _assets_pipeline/govuk_toolkit/images
+    - _assets_pipeline/govuk_toolkit/images/crests
+    - _assets_pipeline/govuk_toolkit/images/external-links
+    - _assets_pipeline/govuk_toolkit/images/icon-steps
+  #
+  # Sets JS compressor. No compression by default.
+  # Possible variants: 'yui', 'uglifier', nil
+  #
+  js_compressor: uglifier
+  #
+  # Sets CSS compressor. No compression by default.
+  # Possible variants: 'yui', 'sass', nil
+  #
+  css_compressor: sass
+  #
+  # Sets cachebusting policy for generated assets.
+  #
+  # Possible variants:
+  #
+  #   none - disables cachebusting
+  #
+  #     source file:  _assets/javascripts/app.css
+  #     output file:  _site/assets/javascriptis/app.css
+  #     output URL:   /assets/javascripts/app.css
+  #
+  #   soft - leave filenames as-is, but `?cb=<md5>` suffix for URLs generated
+  #          with `asset_path`, `javascript` and `stylesheet`:
+  #
+  #     source file:  _assets/javascripts/app.css
+  #     output file:  _site/assets/javascriptis/app.css
+  #     output URL:   /assets/javascripts/app.css?cb=4f41243847da693a4f356c0486114bc6
+  #
+  #   hard - (default) injects cachebusting checksum into processed filename:
+  #
+  #     source file:  _assets/javascripts/app.css
+  #     output file:  _site/assets/javascriptis/app-4f41243847da693a4f356c0486114bc6.css
+  #     output URL:   /assets/javascripts/app-4f41243847da693a4f356c0486114bc6.css
+  #
+  cachebust: hard
+  #
+  # Whenever or not cache compiled assets (disabled by default).
+  # See `Compilation Cache` section of README for details.
+  #
+  cache: false
+  #
+  # Specifies list of MIME types that needs to have gzipped versions.
+  # You can set it to `false` to disable gzipping. Only javascripts and
+  # stylesheets are gzipped by default.
+  #
+  #gzip: [ text/css, application/javascript ]
+  gzip: false
+  #
+  # Does not concatenates files requested by `javascript` and `stylesheet`
+  # helpers. Instead outputs multiple files in order they are required.
+  # Default: false
+  #
+  debug: false

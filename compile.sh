@@ -25,7 +25,7 @@ if [ -d $GUIDANCE_PATH ]; then
   rm -rf ./_site
 fi
 
-bundle exec jekyll ./_site
+jekyll build
 cp -R ./_site/transformation $GUIDANCE_PATH
 
 echo "*****"

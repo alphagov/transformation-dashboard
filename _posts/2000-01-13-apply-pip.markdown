@@ -1,0 +1,73 @@
+---
+
+layout: exemplar
+
+exemplar-title: "Claim Personal Independence Payment (PIP)"
+exemplar-number: 13
+exemplar-blog-url: "https://dwpdigital.blog.gov.uk/"
+
+
+department: "Department<br>for Work &<br>Pensions"
+permanent-secretary: "Robert Devereux"
+digital-leader: "Kevin Cunnington"
+department-url: "https://www.gov.uk/government/organisations/department-for-work-pensions"
+
+
+homepage-intro: |
+    If you’re applying for financial help from government for living with disabilities there’ll be a simple digital service for you to use
+
+detail-page-intro: |
+    Supporting 2 million people with an easy way to claim Personal Independence Payment online
+
+
+digital-strategy-statement: |
+    …an opportunity to work with disability organisations to redesign business processes and facilitate a move to digital… working closely with GDS to develop an online service, learning the lessons from a controlled launch, with the intention of bringing this in as soon as possible after the launch of PIP.
+    
+digital-strategy-source: |
+    From the '[Department for Work & Pensions digital strategy](https://www.gov.uk/government/publications/dwp-digital-strategy)' – December 2012
+    
+
+scope-of-exemplar: |
+    Personal Independence Payment (PIP) was introduced in April 2013 for people aged 16 to 64 to help with the extra costs of long-term ill-health or disability. Users can make a claim over the telephone or through the post and may need to attend a face-to-face consultation with a health professional to assess how much support they need.
+
+    We’re now building an in-depth understanding of user needs to see which parts of the PIP process might best be delivered through digital channels.
+
+
+anticipated-volume:
+  - number  : 2m
+    caption : People supported
+
+
+status: "discovery"
+status-strapline: "Discovery complete. Further work on the Personal Independence Payment exemplar has been aligned with the delivery of managed reassessment that begins in October 2015."
+
+status-discovery:
+  - copy      : "Completed: Discovery and pre-alpha --- Sep to Dec 2013"
+    complete  : true
+
+status-alpha:
+  - copy      : "Alpha build --- date tbc"
+    complete  : false
+
+status-beta:
+  - copy      : "Start beta development --- date tbc"
+    complete  : false
+  - copy      : "Public beta release --- date tbc"
+    complete  : false
+
+status-live:
+  - copy      : "Service goes live --- date tbc"
+    complete  : false
+
+
+successes: |
+  - Successful discovery phase
+  
+challenges: |
+  - A final plan for a new digital service at the Department for Work and Pensions is still to be agreed
+
+
+---
+
+
+

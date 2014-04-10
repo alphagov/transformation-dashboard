@@ -1,15 +1,8 @@
-# A sample Gemfile
-source "http://rubygems.org"
-source 'https://BnrJb6FZyzspBboNJzYZ@gem.fury.io/govuk/'
+source 'http://rubygems.org'
 
-gem "jekyll"
-gem "RedCloth", "4.2.9"
-gem "coderay"
-gem 'rack-jekyll'
-gem "rack-rewrite"
-gem 'thin'
-gem 'foreman'
-gem 'kramdown'
-gem 'jekyll-sass'
-gem 'nokogiri'
-gem 'facets'
+ruby '1.9.3'
+
+gem 'jekyll'
+gem 'jekyll-assets'
+gem 'sass'
+gem 'uglifier'

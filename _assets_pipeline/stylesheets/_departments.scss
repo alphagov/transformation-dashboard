@@ -1,0 +1,76 @@
+// As per https://github.com/alphagov/whitehall/blob/master/app/assets/stylesheets/frontend/styleguide/_colours.scss
+
+// Web safe department colours for exemplars
+$cabinet-office-websafe: #347da4;
+$department-for-business-innovation-skills-websafe: #347da4;
+$department-for-environment-food-rural-affairs-websafe: #67650f;
+$department-for-transport-websafe: #398373;
+$department-for-work-pensions-websafe: #37807b;
+$hm-revenue-customs-websafe: #008770;
+$home-office-websafe: #9440b2;
+$ministry-of-justice-websafe: #5A5C92;
+
+.organisation-logo {
+  font-family: Helvetica, Arial;
+  font-weight: 400;
+  display: block;
+  position: relative;
+  font-size: 18px;
+  line-height: 20px;
+  padding: 25px 0 0 7px;
+  margin-bottom: 1em;
+  border-left: 2px solid;
+  background-repeat: no-repeat;
+  background-position: 6px top;
+  background-size: auto 25px;
+  background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_18px-0d15a5b24181c00d5a39e015b2e894e3.png);
+  
+  @media all and (-webkit-min-device-pixel-ratio: 2) {
+  	background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_18px_x2-cb179227fd59d45caa667218e3b8309c.png);
+	}
+  
+  &:link,
+  &:visited {
+    color: #000;
+    text-decoration: none;
+  }
+
+  // Sorry, acronyms.
+  &.co { border-color: $cabinet-office-websafe; }
+  &.defra { border-color: $department-for-environment-food-rural-affairs-websafe; }
+  &.dft { border-color: $department-for-transport-websafe; }
+  &.dwp { border-color: $department-for-work-pensions-websafe; }
+  &.moj { border-color: $ministry-of-justice-websafe; }
+
+  &.bis {
+    border-color: $department-for-business-innovation-skills-websafe;
+    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_18px-e0ad84b8f02a467177eed65775fc9ffa.png);
+    @media all and (-webkit-min-device-pixel-ratio: 2) {
+      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_18px_x2-85fdb392929d74f2d12f6ea3f74971c0.png);
+    }
+  }
+  &.ho {
+    border-color: $home-office-websafe;
+    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_18px-6607634d62bea5b5bd6c57de6ab9d7d0.png);
+    @media all and (-webkit-min-device-pixel-ratio: 2) {
+      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_18px_x2-a7d11a3aba0f51a46425c42b214f8cd0.png);
+    }
+  }
+  &.hmrc {
+    border-color: $hm-revenue-customs-websafe;
+    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_18px-f569ad3e7d4389b8b79e7f30c77288e9.png);
+    @media all and (-webkit-min-device-pixel-ratio: 2) {
+      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_18px_x2-386964197337df2ed7547bbb175ba107.png);
+    }
+  }
+
+  span {
+	display: block;
+	position: relative;
+	top: 3px;
+    color: #000;
+    padding: 0;
+    margin: 0;
+  }
+}
+
