@@ -28,7 +28,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    The tax exemplars will provide digital PAYE services for people in employment (benefits in kind), a fully digital self assessment service, improved tools and tax dashboard for small businesses, and a new system for tax agents to use online services. These will be built on a new “digital tax platform” which will over time replace the current HMRC Portal and be the default platform for new customer-facing services. The new tax platform will be fully integrated with the pan-government ID Assurance Programme and with GOV.UK.
+    The tax exemplars will provide digital PAYE services for people in employment (benefits in kind), a fully digital self assessment service, improved tools and tax dashboard for small businesses, and a new system for tax agents to use online services. These will be built on a new “digital tax platform” which will over time replace the current HMRC Portal and be the default platform for new user-facing services. The new tax platform will be fully integrated with the pan-government ID Assurance Programme and with GOV.UK.
 
 
 anticipated-volume:
@@ -48,10 +48,8 @@ status-alpha:
     complete  : true
 
 status-beta:
-  - copy      : "Discovery and development work with the identity assurance (IDA) team --- Dec 2013 to Mar 2014"
+  - copy      : "Completed: Discovery and development work with the identity assurance (IDA) team --- Dec 2013 to Mar 2014"
     complete  : true
-  - copy      : "Begin work with IDA to develop Friends and Family alpha service --- Apr 2014"
-    complete  : false
   - copy      : "Release paid agents service --- date tbc"
     complete  : false
   - copy      : "Further paid agents service releases --- date tbc"
@@ -69,7 +67,7 @@ challenges: |
   - The complexity of agent - client relationships makes this a difficult but very important exemplar to get right
   
 next-steps: |
-  - Complete joint discovery phase with identity assurance ‘organisations and authority management service’
+  - Prepare paid agents service for release
 
 
 ---

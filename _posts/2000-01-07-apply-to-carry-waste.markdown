@@ -42,22 +42,26 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In public beta"
+status-strapline: "In public beta with Phase 2 of the project in discovery."
 
 status-discovery:
-  - copy        : "Completed: Discovery --- Jul 2012"
+  - copy        : "Completed: Phase 1 discovery --- Jul 2012"
     complete    : true
+  - copy        : "Phase 2 discovery --- Apr to May 2014"
+    complete    : false
 
 status-alpha:
   - copy        : "Completed: Phase 1 alpha --- Oct 2013"
     complete    : true
+  - copy        : Phase 2 alpha --- date tbc"
+    complete    : false
 
 status-beta:
-  - copy    : "Completed: Phase 1 public beta --- mid Dec 2013"
+  - copy    : "Completed: Phase 1 public beta --- Dec 2013 to Apr 2014"
     complete  : true
-  - copy    : "Phase 2 private beta --- Apr 2014"
+  - copy    : "Phase 2 private beta --- Jun 2014"
     complete  : false
-  - copy    : "Phase 2 public beta --- Jul 2014"
+  - copy    : "Phase 2 public beta --- date tbc"
     complete  : false
 
 status-live:
@@ -69,15 +73,17 @@ successes: |
   - Public beta released within 3 months of starting
   - [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment passed for beta service 
   - Updates to beta released without disrupting the service for users
-  - Over 12,000 customers registered in the 3 months
-  - Early feedback shows that 93% of customers are satisfied or very satisfied with the service 
+  - Over 12,000 users registered in the first 3 months
+  - Early feedback shows that 93% of users are satisfied or very satisfied with the service 
   
 challenges: |
   - Assembling and managing the team to run the live service 
   
 next-steps: |
   - Extend current service to cater for upper tier carriers (those whose main business is in waste)
-  - Consider whether the underlying platform can be used for other Environment Agency digital services  
+  - Consider whether the underlying platform can be used for other Environment Agency digital services
+  - Work with GDS to plan to take Phase 1 live
+  - Work on plan to take phase two into alpha  
 
 videos:
   - url   : https://www.youtube.com/watch?v=rSbfeVF1Fmg
@@ -86,6 +92,7 @@ videos:
     caption : Watch a short update about the beta, filmed December 2013
   - url   : https://www.youtube.com/watch?v=LGoz7tQ2YUs
     caption : Watch a short demo, registering online to carry waste, filmed January 2014
+
 
 
 screengrabs:

@@ -36,8 +36,8 @@ anticipated-volume:
     caption : Applications a year
 
 
-status: "alpha"
-status-strapline: "In alpha"
+status: "beta"
+status-strapline: "In beta"
 
 status-discovery:
   - copy        : "Completed: Discovery --- Oct 2013"
@@ -46,11 +46,11 @@ status-discovery:
 status-alpha:
   - copy        : "Completed: Supplier selection for alpha phase --- Dec 2013"
     complete    : true
-  - copy        : "Alpha build --- Feb to Apr 2014"
-    complete    : false
+  - copy        : "Completed: Alpha build --- Feb to Apr 2014"
+    complete    : true
 
 status-beta:
-  - copy        : "Begin beta development --- May 2014"
+  - copy        : "Start beta development --- May 2014"
     Completed   : false
   - copy        : "Public beta release --- Oct 2014"
     complete    : false
@@ -61,17 +61,17 @@ status-live:
 
 
 successes: |
-  - Good communication between GDS and the Skills Funding Agency
-  - Technology partner is on site
+  - Passed alpha to beta Digital by Default Service Standard assessment
+  - A demonstrable improvement in in-house digital capability
   
 challenges: |
-  - Review of the Skills Funding Agency may have knock-on effects on the service
-  - Assessing an appropriate endpoint for the transaction
+  - The Skills Funding Agency restructure is affecting the recruitment of their staff into permanent digital delivery roles
+  - A potential code freeze on the legacy service may affect iterative development of the new service 
   
 next-steps: |
-  - Develop digital capability within the exemplar team and the Skills Funding Agency
-  - Finish alpha development and user research 
-  
+  - Appoint a new service manager
+  - Start the beta phase 
+  - Define the minimum viable products to be developed
 
 videos:
   - url   : https://www.youtube.com/watch?v=hnA5WPKM1VY

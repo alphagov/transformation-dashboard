@@ -43,7 +43,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "Public beta service launched end of March. Planning work for live service in progress."
+status-strapline: "Public beta service released end of March. Work to integrate with Motor Insurance Bureau services now under way." 
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2012"
@@ -63,22 +63,22 @@ status-live:
   - copy        : "Service goes live (depending on user feedback) --- June 2014"
     complete    : false
 
-
 successes: |
-  - Public beta service launched
+  - Public beta service released and monitored for reliability, call volumes and user feedback
   - Service has been assessed using the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default)
   - Secure, cloud-based hosting built
   - Initial Identity Assurance service based on National Insurance Number in place
   
 challenges: |
-  - Gathering citizen and trade user feedback to develop and launch the live service 
+  - Gathering citizen and trade user feedback to develop and release the live service 
+  - Integrating with external service partners
   
 next-steps: |
   - Develop and improve the live service
   - Develop and integrate full identity assurance features
-
+  - Integrate with motor insurance bureau systems
+  - Plan and prioritise next phases of work
   
-
 videos:
   - url   : https://www.youtube.com/watch?v=fauL1iO7SlI
     caption : Watch the DVLA team talk about their working process, filmed May 2013

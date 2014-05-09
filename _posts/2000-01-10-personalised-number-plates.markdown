@@ -38,18 +38,20 @@ anticipated-volume:
 
 
 status: "alpha"
-status-strapline: "Alpha development will begin in April 2014"
+status-strapline: "Alpha under way"
 
 status-discovery:
   - copy      : "Completed: Discovery --- Oct 2013"
     complete  : true
 
 status-alpha:
-  - copy      : "Start alpha build --- Apr 2014"
+  - copy      : "Start alpha build --- May 2014"
     complete  : false
 
 status-beta:
   - copy      : "Start beta development --- Jul 2014"
+    complete  : false
+  - copy      : "Release public beta --- Aug 2014"
     complete  : false
 
 status-live:
@@ -65,12 +67,13 @@ successes: |
 challenges: |
   - Turning complicated transactions into simple digital services
   - Integrating with current systems and migrating data to a secure cloud environment
+  - Potential resource conflicts with other digital projects (for example, the demand for test environments)
   
 next-steps: |
-  - Start alpha stage
   - Build prototype
   - Integrate service with existing systems and data
-  - Complete user research
+  - Continue user research
+  - Bring new team members on board
 
 videos:
   - url     : https://www.youtube.com/watch?v=pAsleU4b-oM
@@ -81,7 +84,7 @@ videos:
 
 
 
----
 
+---
 
 

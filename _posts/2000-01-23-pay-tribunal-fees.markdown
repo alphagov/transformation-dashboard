@@ -31,7 +31,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    In line with new MOJ policy, employment tribunals started charging fees from 29 July. The technology to implement this ministerial priority includes a payment mechanism, which is being improved through digital input on user testing and the Digital by Default Service Standard. Phase 2 runs from July to December and will improve the flexibility of the service, its reporting, and its ability to support user errors around manual transactions. Phase 3 is currently being scoped.
+    In line with new MOJ policy, employment tribunals started charging fees from 29 July. The technology to implement this ministerial priority includes a payment mechanism, which is being improved through digital input on user research and the Digital by Default Service Standard. Phase 2 runs from July to December and will improve the flexibility of the service, its reporting, and its ability to support user errors around manual transactions. Phase 3 is currently being scoped.
 
 
 anticipated-volume:
@@ -51,30 +51,31 @@ status-alpha:
     complete  : true
 
 status-beta:
-  - copy      : "Completed: Public beta development --- Jul 2013"
+  - copy      : "Completed: Public beta release --- Jul 2013"
     complete  : true
-  - copy      : "Completed: Begin discovery work into scope of beta phase --- Jan 2014"
+  - copy      : "Iteration of the beta service to meet more user needs --- Aug 2013 to July 2014"
     complete  : true
 
 status-live:
-  - copy      : "Service goes live - date tbc"
+  - copy      : "Service goes live (depending on user feedback) - Aug 2014"
     complete  : false
 
 
 successes: |
-  - User experience continues to improve following testing  
+  - User experience continues to improve following user research
   - Positive user feedback on new simpler language
   - Save and return function agreed with Security Assurance
 
 challenges: |
   - Ensuring the service meets full diversity of user needs
-  - Using simpler language, whilst maintaining legal accuracy
+  - Using simpler language while maintaining legal accuracy
   
 next-steps: |
   - Continue to simplify and improve the application based on user research
+  - Release a plain English version of forms
   - Develop the [assisted digital](https://www.gov.uk/government/publications/government-approach-to-assisted-digital) support
   - Finish public beta
-  
+
 
 videos:
   - url     : https://www.youtube.com/watch?v=w5wMxu-y1mA

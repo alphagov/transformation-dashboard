@@ -36,19 +36,21 @@ anticipated-volume:
     caption : Transactions every year
 
 
-status: "alpha"
-status-strapline: "Alpha phase completes and beta development will start in April 2014."
+status: "beta"
+status-strapline: "Beta phase under way."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Oct 2013"
     complete  : true
 
 status-alpha:
-  - copy      : "Alpha development --- Jan to Apr 2014"
-    complete  : false
+  - copy      : "Completed: Alpha --- Apr 2014"
+    complete  : true
 
 status-beta:
   - copy      : "Beta development --- Apr to Oct 2014"
+    complete  : false
+  - copy      : "Release public beta --- Oct 2014"
     complete  : false
 
 status-live:
@@ -58,7 +60,7 @@ status-live:
 
 successes: |
   - Vehicle management passed Alpha [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment 
-  - Discovery phase complete
+  - Alpha phase complete
   - User and business needs established
   - Data integration requirements identified
   - Prototypes developed
@@ -68,9 +70,10 @@ challenges: |
   - Integrating with current systems and migrating data to secure cloud environment
   
 next-steps: |
-  - Start beta development
+  - Expand user research
+  - Develop prototypes into beta service
+  - Integrate with legacy systems
   
-
 videos:
   - url     : https://www.youtube.com/watch?v=CROuz3Ghu08
     caption : Watch a description of the exemplar

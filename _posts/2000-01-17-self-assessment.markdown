@@ -28,7 +28,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    The tax exemplars will provide digital PAYE services for people in employment (benefits in kind), a fully digital self assessment service, improved tools and tax dashboard for small businesses, and a new system for tax agents to use online services. These will be built on a new “digital tax platform” which will over time replace the current HMRC Portal and be the default platform for new customer-facing services. The new tax platform will be fully integrated with the pan-government ID Assurance Programme and with GOV.UK.
+    The tax exemplars will provide digital PAYE services for people in employment (benefits in kind), a fully digital self assessment service, improved tools and tax dashboard for small businesses, and a new system for tax agents to use online services. These will be built on a new “digital tax platform” which will over time replace the current HMRC Portal and be the default platform for new user-facing services. The new tax platform will be fully integrated with the pan-government ID Assurance Programme and with GOV.UK.
 
 
 anticipated-volume:
@@ -37,7 +37,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In private beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 16: Digital self-assessent](/transformation/self-assessment)."
+status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 16: Digital self-assessment](/transformation/self-assessment)."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Feb 2013"
@@ -52,6 +52,7 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta --- Feb 2014"
     complete  : true
+  - copy      : “Public beta release --- date tbc”
 
 status-live:
   - copy      : "Service goes live (depending on user feedback) ---  Apr 2015"
@@ -59,8 +60,7 @@ status-live:
 
 
 successes: |
-  - Private beta released in February 2014
-  - Workspace and broadband problems resolved
+  - Passed beta Digital by Default Service Standard Assessment
   
 challenges: |
   - The timeline to put infrastructure in place is tight

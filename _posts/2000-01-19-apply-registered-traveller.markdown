@@ -35,7 +35,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In beta since 5 December 2013. Development on track."
+status-strapline: "In beta and on track. The team is working on developing the case working system. Though anyone can check their eligibility to use the service, sign up is currently limited to users meeting certain criteria."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Jul 2013"
@@ -50,6 +50,8 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Mar 2014"
     complete  : true
+  - copy      : "Launch new caseworking system --- Jun 2014"
+    complete  : false
   - copy      : "Public beta release --- Sep 2014"
     complete  : false
 
@@ -60,9 +62,8 @@ status-live:
 successes: |
   - Alpha completed within 6 weeks
   - Code from [Exemplar 21: Visit visa applications](/transformation/apply-visa) reused, saving time
-  - The service passed an assessment using the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) between the alpha and beta phases
-  - [Private beta](https://www.gov.uk/registered-traveller-scheme) now live
-
+  - [Private beta](https://www.gov.uk/registered-traveller-scheme) released
+  - The iterative development of the back-end case working system
   
 challenges: |
   - Integrating the service with current systems

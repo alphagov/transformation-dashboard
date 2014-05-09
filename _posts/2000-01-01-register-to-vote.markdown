@@ -14,7 +14,7 @@ programme: "Electoral Registration Transformation Programme"
 
 
 homepage-intro: |
-    A digital service to make registering to vote simpler, clearer and faster for individuals
+    A digital service to make registering to vote simpler, clearer and faster
 
 detail-page-intro: |
     5 million people registering online to vote each year. Moving 46 million voters from household to individual registration
@@ -28,7 +28,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    The Electoral Registration Transformation Programme will change the electoral registration process by introducing Individual Electoral Registration (IER). Instead of one person in a household supplying the details of all people living at the same address (which can result in fraud and errors), IER will require people to register individually.
+    The Electoral Registration Transformation Programme will improve the electoral registration process by introducing Individual Electoral Registration (IER). Instead of one person in a household supplying the details of all people living at the same address (which can result in fraud and errors), IER will require people to register individually.
     
     To support IER and make it simpler for users, a new digital channel will be created and a method of confirming identities will be introduced. IER is intended to increase trust and modernise our electoral system.
 
@@ -56,13 +56,13 @@ status-beta:
     complete  : true
   - copy      : "Completed: Registration system local authority beta --- Sep 2013"
     complete  : true
-  - copy      : "Completed: Ministerial approval given to launch service --- Dec 2013"
+  - copy      : "Completed: Ministerial approval given to release service --- Dec 2013"
     complete  : true
   - copy      : "Completed: Ordinary elector transaction --- Dec 2013"
     complete  : true
   - copy      : "Completed: Live service environment build --- Jan 2014"
     complete  : true
-  - copy      : "Overseas and special category elector transactions --- Apr 2014"
+  - copy      : "Overseas and special category elector transactions --- May 2014"
     complete  : false
 
 status-live:
@@ -79,6 +79,7 @@ successes: |
   - 387 local authorities can now check electoral registers against Department for Work and Pensions data
   - Registration details of 46 million people checked during dry-run with all local authorities
   - Built online registration service for 99.9% of voters
+  - Obtained accreditation for live service
   
 challenges: |
   - Ensuring the Cabinet Office’s capability to run the live service
@@ -87,7 +88,6 @@ next-steps: |
   - Build the team needed to run the live service
   - Complete overseas, forces and crown servant elector transactions
   - Work on Welsh language transaction
-  
 
 videos:
   - url     : https://www.youtube.com/watch?v=TF4Nywjjie8

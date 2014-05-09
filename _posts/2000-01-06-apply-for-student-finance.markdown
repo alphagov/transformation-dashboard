@@ -16,32 +16,32 @@ programme: "Student Loans Company"
 
 
 homepage-intro: |
-    If you have, or are applying for, student loans and grants you’ll be able to manage them using an improved online service
+  If you have, or are applying for, student loans and grants you’ll be able to manage them using an improved online service
 
 detail-page-intro: |
-    Supporting 1.3 million people using student finance services
+  Supporting 1.3 million people using student finance services
     
 
 scope-of-exemplar: |
-    The Student Loans Company are planning a major upgrade of their systems to deliver services that are simple, transparent and user-friendly.
-    
-    The transformation programme will modernise and provide resilient systems in order to deliver the government’s higher education reform programme and better meet the needs of users.
-    
-    New online application process for loan products such as full-time, part-time and 24+ Advanced Learning Loans have already launched.
+  The Student Loans Company are planning a major upgrade of their systems to deliver services that are simple, transparent and user-friendly.
+  
+  The transformation programme will modernise and provide resilient systems in order to deliver the government’s higher education reform programme and better meet the needs of users.
+  
+  New online application process for loan products such as full-time, part-time and 24+ Advanced Learning Loans have already been released.
 
 
 anticipated-volume:
   - number  : 1.3m
     caption : Students supported
 current-volume:
-  - number  : 1.16m
+  - number  : 1.15m
     caption : transactions per year
-  - number  : 92.4%
+  - number  : 92.5%
     caption : digital take-up
 current-cost:
-  - number  : £54.6m
+  - number  : £56.2m
     caption : total cost
-  - number  : £47.00
+  - number  : £48.77
     caption : cost per transaction
 
 
@@ -63,11 +63,11 @@ status-alpha:
 status-beta:
   - copy        : "24+ advanced learning loan application public beta --- Aug 2013 to Aug 2014"
     complete    : false
-  - copy        : "Supplier invoicing for Disabled Students Allowance public beta --- Dec 2013 to Mar 2014"
+  - copy        : "Completed: Supplier invoicing for Disabled Students Allowance public beta --- Dec 2013 to Mar 2014"
     complete    : true
-  - copy        : "Full time student applications (2014/15) public beta release --- Jan 2014"
-    complete    : false
-  - copy        : "Core application service --- from Jan 2015"
+  - copy        : "Completed: Full time student applications (2014/15) for students in Wales and Northern Ireland public beta release --- Mar 2014"
+    complete    : true
+  - copy        : "Development of core application service --- from Jan 2015"
     complete    : false
 
 status-live:

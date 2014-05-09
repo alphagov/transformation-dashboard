@@ -40,14 +40,14 @@ anticipated-volume:
 
 transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/defra-single-payment-scheme-sps-claims
 current-volume:
-  - number  : 105k
+  - number  : 106k
     caption : Transactions per year
-  - number  : 40%
+  - number  : 54.3%
     caption : Digital take-up
 current-cost:
-  - number  : £76.3m
+  - number  : £73.4m
     caption : Total cost
-  - number  : £727
+  - number  : £691
     caption : Cost per transaction
 
 
@@ -63,7 +63,7 @@ status-alpha:
     complete    : true
   - copy        : "Completed: Build alpha map viewer --- Apr to Nov 2013"
     complete    : true
-  - copy        : "Developing the user journey --- Jul 2014"
+  - copy        : "Refining the service following user research --- Jul 2014"
     complete    : false
 
 status-beta:

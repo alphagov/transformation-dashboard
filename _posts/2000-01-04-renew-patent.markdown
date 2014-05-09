@@ -28,7 +28,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    The exemplar focuses on patent renewals, which is the highest volume transaction and the one most regularly demanded by the Intellectual Property Office's customers. Patent renewals is a pathfinder for a digital service that manages the lifecycle of an intellectual property right, from application to grant to renewal. The Intellectual Property Office has been using agile development for 2+ years and is currently considering a genuine agile business transformation programme to fully align its digital services with the improved business process.
+    The exemplar focuses on patent renewals, which is the highest volume transaction and the one most regularly demanded by the Intellectual Property Office's users. Patent renewals is a pathfinder for a digital service that manages the lifecycle of an intellectual property right, from application to grant to renewal. The Intellectual Property Office has been using agile development for 2+ years and is currently considering a genuine agile business transformation programme to fully align its digital services with the improved business process.
 
 
 anticipated-volume:
@@ -67,7 +67,8 @@ challenges: |
   - Ensuring that the business takes ownership of the ongoing development of the service
   
 next-steps: |
-  - Launch the live service
+  - Live Service Standard Assessment scheduled for 16 May 2014
+  - Go live
   
 
 videos:

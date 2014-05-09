@@ -39,19 +39,19 @@ anticipated-volume:
 
 transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/moj-prison-visit-booking
 current-volume:
-  - number  : "1.5m"
+  - number  : "1.35m"
     caption : "Transactions per year"
   - number  : "0%"
     caption : "Digital take-up"
 current-cost:
-  - number  : "£4m"
+  - number  : "£5.08m"
     caption : "Total cost"
-  - number  : "£0.87"
+  - number  : "£3.75"
     caption : "Cost per transaction"
 
 
 status: "alpha"
-status-strapline: "Early alpha. Prototype being tested with four male Category B prisons."
+status-strapline: "In alpha. User research of prototype under way at four male Category B prisons."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Jul 2013"
@@ -60,11 +60,13 @@ status-discovery:
 status-alpha:
   - copy      : "Completed: Start alpha build --- Oct 2013"
     complete  : true
-  - copy      : "Completed: User testing of alpha product with 4 prisons --- Dec 2013 to Apr 2014"
+  - copy      : "Completed: User research of alpha product with 4 prisons --- Dec 2013 to Apr 2014"
     complete  : true
 
 status-beta:
-  - copy      : "Public beta release --- Apr 2014"
+  - copy      : "Start beta development --- May 2014"
+    complete  : false
+  - copy      : Public beta release --- Dec 2014
     complete  : false
 
 status-live:

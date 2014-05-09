@@ -43,7 +43,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In public beta and on track."
+status-strapline: "In public beta and on track for live."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Feb 2012"
@@ -58,11 +58,11 @@ status-beta:
     complete  : true
   - copy      : "Completed: Public beta --- Jul 2013"
     complete  : true
-  - copy      : "Service migrates to production infrastructure --- May 2014"
-    complete  : false
+  - copy      : "Completed: Service migrates to production infrastructure --- May 2014"
+    complete  : true
 
 status-live:
-  - copy      : "Service goes live --- Jun 2014"
+  - copy      : "Service goes live (depending on user feedback) --- May 2014"
     complete  : false
   - copy      : "New case management software goes live --- Jun 2014"
     complete  : false
@@ -90,8 +90,7 @@ challenges: |
   - Building support models for new digital services
   
 next-steps: |
-  - Support the increased use of the service since the launch of the live beta
-  - Replace back office systems to allow end-to-end digital transformation
+  - Go live
   
 
 videos:

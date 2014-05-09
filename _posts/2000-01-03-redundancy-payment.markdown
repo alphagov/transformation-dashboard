@@ -41,7 +41,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In beta development"
+status-strapline: "In beta. Developing the redundancy payments claim application service."
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2013"
@@ -54,9 +54,9 @@ status-alpha:
 status-beta:
   - copy    : "Completed: start beta development--- mid Jan 2014"
     complete  : true
-  - copy    : "Private beta release --- May 2014"
+  - copy    : "Private beta release --- Jun 2014"
     complete  : false
-  - copy    : "Public beta release --- May 2014"
+  - copy    : "Public beta release --- Aug 2014"
     complete  : false
 
 status-live:
@@ -65,17 +65,16 @@ status-live:
 
 
 successes: |
-  - Service developers and the Redundancy Payments Service have adapted well to [agile development](https://www.gov.uk/service-manual/agile)
-  - GDS, Insolvency Service and third-party supplier working well to build the service
-  - The alpha prototype passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+  - The user journey for notice claim applications has been built ready for private beta release
+  - End-to-end backend integration has been delivered
+  - Hosting is in place
+  - An in-house team has been built and is ready to lead on service development
   
 challenges: |
-  - Investment in digital skills development needed to sustain the service
+  - Lack of access to the right testing environment
  
 next-steps: |
-  - Develop an operating model for the live service
-  - Continue to make improvements to the service based on user feedback 
-  - Develop a digital strategy 
+  - Further development of the main redundancy payments application service, including user testing with a working model 
 
 videos:
   - url: https://www.youtube.com/watch?v=2yXnblGFyMQ

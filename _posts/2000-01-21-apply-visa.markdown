@@ -36,14 +36,14 @@ anticipated-volume:
 
 transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/moj-money-claims
 current-volume:
-  - number  : "3.44m"
+  - number  : "3.53m"
     caption : "Transactions per year"
-  - number  : "62.4%"
+  - number  : "75.6%"
     caption : "Digital take-up"
 current-cost:
-  - number  : "£767m"
+  - number  : "£642m"
     caption : "Total cost"
-  - number  : "£223"
+  - number  : "£182"
     caption : "Cost per transaction"
 
 

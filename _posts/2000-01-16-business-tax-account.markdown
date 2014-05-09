@@ -4,6 +4,7 @@ layout: exemplar
 
 exemplar-title: "Digital self-assessment"
 exemplar-number: 16
+exemplar-service-url: "https://www.gov.uk/file-your-self-assessment-tax-return"
 exemplar-blog-url: "www.hmrcdigital.blog.gov.uk"
 
 
@@ -28,7 +29,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    The tax exemplars will provide digital PAYE services for people in employment (benefits in kind), a fully digital self assessment service, improved tools and tax dashboard for small businesses, and a new system for tax agents to use online services. These will be built on a new “digital tax platform” which will over time replace the current HMRC Portal and be the default platform for new customer-facing services. The new tax platform will be fully integrated with the pan-government ID Assurance Programme and with GOV.UK.
+    The tax exemplars will provide digital PAYE services for people in employment (benefits in kind), a fully digital self assessment service, improved tools and tax dashboard for small businesses, and a new system for tax agents to use online services. These will be built on a new “digital tax platform” which will over time replace the current HMRC Portal and be the default platform for new user-facing services. The new tax platform will be fully integrated with the pan-government ID Assurance Programme and with GOV.UK.
 
 
 anticipated-volume:
@@ -37,7 +38,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In private beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 17: Your tax account](/transformation/business-tax-account)."
+status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 17: Your tax account](/transformation/business-tax-account)."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Feb 2013"
@@ -61,8 +62,8 @@ status-live:
 
 
 successes: |
-  - Digital self assessment email opt-in built
-  - Workspace and broadband problems resolved
+  - Passed beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+  - Service released to the public
   
 challenges: |
   - The timeline to put infrastructure in place is tight

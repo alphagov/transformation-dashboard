@@ -31,7 +31,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "A prototype digital solution produced by a joint GDS and DWP team has now transitioned to DWP. GDS supporting the team as they build skills and capability needed to continue developing the service."
+status-strapline: "A prototype digital service produced by a joint GDS and DWP team has now transitioned to DWP. GDS is supporting the team as they build skills and capability needed to continue developing the service."
 
 status-discovery:
   - copy      : "Completed: Workshops with DWP and GDS --- Apr 2013"
@@ -65,7 +65,6 @@ challenges: |
 next-steps: |
   - Recruit, retain and develop a high-performing team, with the right skills and capabilities to develop the full service
   
-
 videos:
   - url     : https://www.youtube.com/watch?v=cHPv3_P7aDQ
     caption : Watch a demonstration of the prototype service built by the Government Digital Service and DWP, delivered in October 2013

@@ -22,12 +22,12 @@ detail-page-intro: |
 scope-of-exemplar: |
     The existing passport service within the UK allows you to complete an online application form to apply for, renew or update a passport. The user then prints a declaration form, signs and dates it and sends it for processing with any documents or photographs that are needed.
 
-    Her Majesty’s Passport Services is exploring with GDS the scope for a fully digital passport service.
+    Her Majesty’s Passport Services is exploring with GDS the scope for a fully digital passport service and application interface.
 
 
 status: "alpha"
 status-strapline: |
-    Alpha underway. 
+    Alpha under way. 
 
     The passports exemplar replaces the criminal records check as described in the Digital Strategy update.
 
@@ -52,11 +52,18 @@ status-live:
 
 
 successes: |
-  - Alpha started two weeks early 
-  - Alpha delivery team in place 
-  - Cross team engagement established quickly and is working well 
+  - Prototypes developed for UK applicants
+  - User testing of prototypes started
+  - Initial photo upload facility developed 
+
+challenges: |
+  - Integrating with current systems
+  - Setting up the dev environment
+
+next: |
+  - Continue testing and iterating user journey for UK and overseas applicants
+  - Continue working on photo uploads and photo checking
+  - Continue working on application interface
 
 ---
-
-
 

@@ -18,7 +18,7 @@ homepage-intro: |
     Saving people money and hassle by creating a digital service for small claims, including money and possession claims
 
 detail-page-intro: |
-    1.85 million claims made online every year to solve civil legal disputes or to obtain money or property owed
+    1.5 million claims made every year to solve civil legal disputes or obtain money or property owed. These claims are made using a number of different services provided by the Ministry of Justice.
 
 
 digital-strategy-statement: |
@@ -34,38 +34,34 @@ scope-of-exemplar: |
 
 
 anticipated-volume:
-  - number  : 1.85m
+  - number  : 1.5m
     caption : Claims a year
 
 transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/moj-money-claims
 current-volume:
-  - number  : "1.4m"
+  - number  : "1.5m"
     caption : "Transactions per year"
-  - number  : "46.2%"
-    caption : "Digital take-up"
-current-cost:
-  - number  : "£14.2m"
-    caption : "Total cost"
-  - number  : "£9.99"
-    caption : "Cost per transaction"
 
 
 status: "beta"
-status-strapline: "In beta and on track."
+status-strapline: "In beta. The first service &mdash; Accelerated Claims which handles 35,000 claims a year &mdash; is in beta."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Jul 2013"
     complete  : true
 
 status-alpha:
-  - copy      : "Completed: Alpha build --- Oct 2013"
+  - copy      : "Completed: Money claims alpha build --- Oct 2013"
     complete  : true
-  - copy      : Accelerated property possession claim alpha build --- Apr 2014
-    complete  : false
+  - copy      : Start the alpha build for accelerated property possession claims --- Apr 2014
+    complete  : true
 
 status-beta:
   - copy      : "Completed: Start beta development --- Nov 2013"
     complete  : true
+  - copy      : Private beta release --- date tbc
+    complete  : false
+  - copy      : Public beta release --- date tbc
 
 status-live:
   - copy      : "Service goes live --- date tbc"
@@ -85,7 +81,6 @@ challenges: |
   
 next-steps: |
   - Continue user research and development
-  - Release accelerated possession claim alpha to limited group of users 
   - Prepare service for next Digital by Default Service Standard assessment and public beta release
 
 

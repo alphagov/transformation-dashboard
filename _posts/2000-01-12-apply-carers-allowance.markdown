@@ -18,7 +18,7 @@ homepage-intro: |
     If you’re a carer you’ll be able to apply for financial help from government using a simple online service
 
 detail-page-intro: |
-    240,000 people claim carer's allowance a year
+    240,000 people claim Carer’s Allowance a year
 
 
 digital-strategy-statement: |
@@ -40,13 +40,13 @@ anticipated-volume:
 
 transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/dwp-carers-allowance-new-claims
 current-volume:
-  - number  : 240k
+  - number  : 241k
     caption : Transactions per year
-  - number  : 44%
+  - number  : 26.9%
     caption : Digital take-up
 
 status: "beta"
-status-strapline: "In public beta. Digital take-up of the service continues to increase."
+status-strapline: "In public beta. Continuous improvements made in fortnightly sprints. Currently working on improving the delivery of the completed digital form, which will involve enhanced security integration."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Sep 2013"
@@ -61,26 +61,27 @@ status-beta:
     complete  : true
   - copy      : "Completed: Public beta released --- Oct 2013"
     complete  : true
-  - copy      : "Improvements to service for users reporting a change in circumstances"
-    complete  : false
+  - copy      : "Improvements to service for users reporting a change in circumstances --- Apr 2014"
+    complete  : true
 
 status-live:
-  - copy      : "Service goes live --- date tbc"
+  - copy      : "Service goes live (depending on user feedback) --- Nov 2014"
     complete  : false
 
-
 successes: |
-  - More than 14,000 claim requests made in the first 7 weeks 
-  - 50% increase in online claim requests since launch
-  - 30% of claims made using mobile devices
-  - In the first week of January 2014 60% of claims were made online
+  - Almost 60,000 claim requests have been submitted since the service was released in October 2013
+  - 47% of applications are now made using the digital service
+  - During April, 43% of users accessed the service using mobile and tablet
+  - User satisfaction ratings of over 90%
+  - Change of circumstances can now be reported online
   - Welsh language version of the service released
 
 challenges: |
-  - Change business processes to accommodate running service teams
+  - Change processes to accommodate running service teams
+  - The recruitment of staff to take the service forward through transition
+  - The slow pace of procurement to buy tools and services quickly in order to support rapid, iterative development
   
 next-steps: |
-  - Work continues to make it easier for carers to report changes in circumstances
   - Build the digital capability to run the service within the department  
   - Integrate the service with more of the department’s systems to improve efficiency
   
