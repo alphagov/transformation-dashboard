@@ -32,14 +32,14 @@
   @extend .organisation-logo-identity;
 
   padding: 3px 0 2px 35px;
-  background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_13px-ff51bae73255332e49fd9390e039c37a.png);
+  background-image: url(/transformation/assets/images/crests/org_crest_13px.png);
   background-position: 5px center;
   background-size: auto 20px;
 }
 .organisation-logo-stacked-single-identity {
   @extend .organisation-logo-identity;
 
-  background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_13px-ff51bae73255332e49fd9390e039c37a.png);
+  background-image: url(/transformation/assets/images/crests/org_crest_13px.png);
   padding: 20px 0 0 6px;
   background-position: 5px top;
   background-size: auto 20px;
@@ -52,7 +52,7 @@
 @media all and (-webkit-min-device-pixel-ratio: 2) {
   .organisation-logo-single-identity,
   .organisation-logo-stacked-single-identity {
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_13px_x2-84f252bc78de1b6bdca860d1860d2fb4.png);
+    background-image: url(/transformation/assets/images/crests/org_crest_13px_x2.png);
   }
 }
 
@@ -61,14 +61,14 @@
   @extend .organisation-logo-identity;
 
   padding: 3px 0 2px 30px;
-  background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_13px-5163d02686b4a53180953e9bfff973a7.png);
+  background-image: url(/transformation/assets/images/crests/bis_crest_13px.png);
   background-position: 5px center;
   background-size: auto 20px;
 }
 .organisation-logo-stacked-bis {
   @extend .organisation-logo-identity;
 
-  background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_13px-5163d02686b4a53180953e9bfff973a7.png);
+  background-image: url(/transformation/assets/images/crests/bis_crest_13px.png);
   padding: 20px 0 0 6px;
   background-position: 5px top;
   background-size: auto 20px;
@@ -81,7 +81,7 @@
 @media all and (-webkit-min-device-pixel-ratio: 2) {
   .organisation-logo-bis,
   .organisation-logo-stacked-bis {
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_13px_x2-ffda2fc986e6e576d98457be6241b28f.png);
+    background-image: url(/transformation/assets/images/crests/bis_crest_13px_x2.png);
   }
 }
 
@@ -90,14 +90,14 @@
   @extend .organisation-logo-identity;
 
   padding: 5px 0 5px 24px;
-  background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_13px-b6c35fe92b71fca8290dc9a65f03d66c.png);
+  background-image: url(/transformation/assets/images/crests/ho_crest_13px.png);
   background-position: 5px center;
   background-size: auto 25px;
 }
 .organisation-logo-stacked-ho {
   @extend .organisation-logo-identity;
 
-  background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_13px-b6c35fe92b71fca8290dc9a65f03d66c.png);
+  background-image: url(/transformation/assets/images/crests/ho_crest_13px.png);
   padding: 25px 0 0 6px;
   background-position: 5px top;
   background-size: auto 25px;
@@ -110,7 +110,7 @@
 @media all and (-webkit-min-device-pixel-ratio: 2) {
   .organisation-logo-ho,
   .organisation-logo-stacked-ho {
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_13px_x2-40d7bcdd5fdb91391da151147c4060c9.png);
+    background-image: url(/transformation/assets/images/crests/ho_crest_13px_x2.png);
   }
 }
 
@@ -119,14 +119,14 @@
   @extend .organisation-logo-identity;
 
   padding: 3px 0 2px 30px;
-  background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_13px-980149bdc5c6317c51aa27b50355d988.png);
+  background-image: url(/transformation/assets/images/crests/hmrc_crest_13px.png);
   background-position: 5px center;
   background-size: auto 20px;
 }
 .organisation-logo-stacked-hmrc {
   @extend .organisation-logo-identity;
 
-  background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_13px-980149bdc5c6317c51aa27b50355d988.png);
+  background-image: url(/transformation/assets/images/crests/hmrc_crest_13px.png);
   padding: 20px 0 0 6px;
   background-position: 5px top;
   background-size: auto 20px;
@@ -139,7 +139,7 @@
 @media all and (-webkit-min-device-pixel-ratio: 2) {
   .organisation-logo-hmrc,
   .organisation-logo-stacked-hmrc {
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_13px_x2-d2ca211f12a956af3fea090f0c6fac57.png);
+    background-image: url(/transformation/assets/images/crests/hmrc_crest_13px_x2.png);
   }
 }
 
@@ -163,7 +163,7 @@
   @extend .organisation-logo-identity-medium;
   @include media(tablet){
     padding: 3px 0 2px 44px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_18px-0d15a5b24181c00d5a39e015b2e894e3.png);
+    background-image: url(/transformation/assets/images/crests/org_crest_18px.png);
     background-position: 6px center;
     background-size: auto 25px;
   }
@@ -171,7 +171,7 @@
 .organisation-logo-stacked-single-identity-medium {
   @extend .organisation-logo-identity-medium;
   @include media(tablet){
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_18px-0d15a5b24181c00d5a39e015b2e894e3.png);
+    background-image: url(/transformation/assets/images/crests/org_crest_18px.png);
     padding: 25px 0 0 7px;
     background-position: 6px top;
     background-size: auto 25px;
@@ -186,7 +186,7 @@
   @media all and (-webkit-min-device-pixel-ratio: 2) {
     .organisation-logo-single-identity-medium,
     .organisation-logo-stacked-single-identity-medium {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_18px_x2-cb179227fd59d45caa667218e3b8309c.png);
+      background-image: url(/transformation/assets/images/crests/org_crest_18px_x2.png);
     }
   }
 }
@@ -196,7 +196,7 @@
   @extend .organisation-logo-identity-medium;
   @include media(tablet){
     padding: 3px 0 2px 38px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_18px-e0ad84b8f02a467177eed65775fc9ffa.png);
+    background-image: url(/transformation/assets/images/crests/bis_crest_18px.png);
     background-position: 6px center;
     background-size: auto 25px;
   }
@@ -204,7 +204,7 @@
 .organisation-logo-stacked-bis-medium {
   @extend .organisation-logo-identity-medium;
   @include media(tablet){
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_18px-e0ad84b8f02a467177eed65775fc9ffa.png);
+    background-image: url(/transformation/assets/images/crests/bis_crest_18px.png);
     padding: 25px 0 0 7px;
     background-position: 6px top;
     background-size: auto 25px;
@@ -219,7 +219,7 @@
   @media all and (-webkit-min-device-pixel-ratio: 2) {
     .organisation-logo-bis-medium,
     .organisation-logo-stacked-bis-medium {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_18px_x2-85fdb392929d74f2d12f6ea3f74971c0.png);
+      background-image: url(/transformation/assets/images/crests/bis_crest_18px_x2.png);
     }
   }
 }
@@ -229,7 +229,7 @@
   @extend .organisation-logo-identity-medium;
   @include media(tablet){
     padding: 8px 0 7px 32px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_18px-6607634d62bea5b5bd6c57de6ab9d7d0.png);
+    background-image: url(/transformation/assets/images/crests/ho_crest_18px.png);
     background-position: 6px center;
     background-size: auto 35px;
   }
@@ -237,7 +237,7 @@
 .organisation-logo-stacked-ho-medium {
   @extend .organisation-logo-identity-medium;
   @include media(tablet){
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_18px-6607634d62bea5b5bd6c57de6ab9d7d0.png);
+    background-image: url(/transformation/assets/images/crests/ho_crest_18px.png);
     padding: 35px 0 0 7px;
     background-position: 6px top;
     background-size: auto 35px;
@@ -252,7 +252,7 @@
   @media all and (-webkit-min-device-pixel-ratio: 2) {
     .organisation-logo-ho-medium,
     .organisation-logo-stacked-ho-medium {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_18px_x2-a7d11a3aba0f51a46425c42b214f8cd0.png);
+      background-image: url(/transformation/assets/images/crests/ho_crest_18px_x2.png);
     }
   }
 }
@@ -262,7 +262,7 @@
   @extend .organisation-logo-identity-medium;
   @include media(tablet){
     padding: 3px 0 2px 38px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_18px-f569ad3e7d4389b8b79e7f30c77288e9.png);
+    background-image: url(/transformation/assets/images/crests/hmrc_crest_18px.png);
     background-position: 6px center;
     background-size: auto 25px;
   }
@@ -270,7 +270,7 @@
 .organisation-logo-stacked-hmrc-medium {
   @extend .organisation-logo-identity-medium;
   @include media(tablet){
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_18px-f569ad3e7d4389b8b79e7f30c77288e9.png);
+    background-image: url(/transformation/assets/images/crests/hmrc_crest_18px.png);
     padding: 25px 0 0 7px;
     background-position: 6px top;
     background-size: auto 25px;
@@ -285,7 +285,7 @@
   @media all and (-webkit-min-device-pixel-ratio: 2) {
     .organisation-logo-hmrc-medium,
     .organisation-logo-stacked-hmrc-medium {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_18px_x2-386964197337df2ed7547bbb175ba107.png);
+      background-image: url(/transformation/assets/images/crests/hmrc_crest_18px_x2.png);
     }
   }
 }
@@ -311,7 +311,7 @@
   @extend .organisation-logo-identity-large;
   @include media(tablet){
     padding: 5px 0 5px 65px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_27px-84f252bc78de1b6bdca860d1860d2fb4.png);
+    background-image: url(/transformation/assets/images/crests/org_crest_27px.png);
     background-position: 9px center;
     background-size: auto 40px;
   }
@@ -320,7 +320,7 @@
   @extend .organisation-logo-identity-large;
   @include media(tablet){
     padding: 40px 0 0 10px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_27px-84f252bc78de1b6bdca860d1860d2fb4.png);
+    background-image: url(/transformation/assets/images/crests/org_crest_27px.png);
     background-position: 9px top;
     background-size: auto 40px;
   }
@@ -334,7 +334,7 @@
   @media all and (-webkit-min-device-pixel-ratio: 2) {
     .organisation-logo-single-identity-large,
     .organisation-logo-stacked-single-identity-large {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_27px_x2-123bf2593f000621d75a747943e02778.png);
+      background-image: url(/transformation/assets/images/crests/org_crest_27px_x2.png);
     }
   }
 }
@@ -344,7 +344,7 @@
   @extend .organisation-logo-identity-large;
   @include media(tablet){
     padding: 5px 0 5px 56px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_27px-90542747143cc834fbad22288926451d.png);
+    background-image: url(/transformation/assets/images/crests/bis_crest_27px.png);
     background-position: 9px center;
     background-size: auto 40px;
   }
@@ -353,7 +353,7 @@
   @extend .organisation-logo-identity-large;
   @include media(tablet){
     padding: 40px 0 0 10px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_27px-90542747143cc834fbad22288926451d.png);
+    background-image: url(/transformation/assets/images/crests/bis_crest_27px.png);
     background-position: 9px top;
     background-size: auto 40px;
   }
@@ -367,7 +367,7 @@
   @media all and (-webkit-min-device-pixel-ratio: 2) {
     .organisation-logo-bis-large,
     .organisation-logo-stacked-bis-large {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_27px_x2-9dff21035fbbf5a3fb49f206a6814309.png);
+      background-image: url(/transformation/assets/images/crests/bis_crest_27px_x2.png);
     }
   }
 }
@@ -377,7 +377,7 @@
   @extend .organisation-logo-identity-large;
   @include media(tablet){
     padding: 10px 0 10px 46px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_27px-40d7bcdd5fdb91391da151147c4060c9.png);
+    background-image: url(/transformation/assets/images/crests/ho_crest_27px.png);
     background-position: 9px center;
     background-size: auto 50px;
   }
@@ -386,7 +386,7 @@
   @extend .organisation-logo-identity-large;
   @include media(tablet){
     padding: 50px 0 0 10px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_27px-40d7bcdd5fdb91391da151147c4060c9.png);
+    background-image: url(/transformation/assets/images/crests/ho_crest_27px.png);
     background-position: 9px top;
     background-size: auto 50px;
   }
@@ -400,7 +400,7 @@
   @media all and (-webkit-min-device-pixel-ratio: 2) {
     .organisation-logo-ho-large,
     .organisation-logo-stacked-ho-large {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_27px_x2-882fddf959906677870dffdee5a8da1a.png);
+      background-image: url(/transformation/assets/images/crests/ho_crest_27px_x2.png);
     }
   }
 }
@@ -410,7 +410,7 @@
   @extend .organisation-logo-identity-large;
   @include media(tablet){
     padding: 5px 0 5px 56px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_27px-d2ca211f12a956af3fea090f0c6fac57.png);
+    background-image: url(/transformation/assets/images/crests/hmrc_crest_27px.png);
     background-position: 9px center;
     background-size: auto 40px;
   }
@@ -419,7 +419,7 @@
   @extend .organisation-logo-identity-large;
   @include media(tablet){
     padding: 40px 0 0 10px;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_27px-d2ca211f12a956af3fea090f0c6fac57.png);
+    background-image: url(/transformation/assets/images/crests/hmrc_crest_27px.png);
     background-position: 9px top;
     background-size: auto 40px;
   }
@@ -433,7 +433,7 @@
   @media all and (-webkit-min-device-pixel-ratio: 2) {
     .organisation-logo-hmrc-large,
     .organisation-logo-stacked-hmrc-large {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_27px_x2-d125332a6c012fe3646d7b6bf08c53d7.png);
+      background-image: url(/transformation/assets/images/crests/hmrc_crest_27px_x2.png);
     }
   }
 }
