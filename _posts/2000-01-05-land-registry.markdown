@@ -57,6 +57,10 @@ challenges: |
 next-steps: |
   - Await outcome of the above consultation before continuing the development of the service
 
+anticipated-volume:
+  - number  : 30m
+    caption : Transactions a year
+
 videos:
   - url   : https://www.youtube.com/watch?v=zpKKA80ClUk
     caption : Watch footage from the 'Alpha in a day' event in July 2013, held by the Land Registry and the Government Digital Service
