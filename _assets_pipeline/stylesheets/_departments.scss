@@ -23,10 +23,10 @@ $ministry-of-justice-websafe: #5A5C92;
   background-repeat: no-repeat;
   background-position: 6px top;
   background-size: auto 25px;
-  background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_18px-0d15a5b24181c00d5a39e015b2e894e3.png);
+  background-image: url("images/crests/org_crest_18px.png");
   
   @media all and (-webkit-min-device-pixel-ratio: 2) {
-  	background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/org_crest_18px_x2-cb179227fd59d45caa667218e3b8309c.png);
+  	background-image: url("images/crests/org_crest_18px_x2.png");
 	}
   
   &:link,
@@ -44,23 +44,23 @@ $ministry-of-justice-websafe: #5A5C92;
 
   &.bis {
     border-color: $department-for-business-innovation-skills-websafe;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_18px-e0ad84b8f02a467177eed65775fc9ffa.png);
+    background-image: url("images/crests/bis_crest_18px.png");
     @media all and (-webkit-min-device-pixel-ratio: 2) {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/bis_crest_18px_x2-85fdb392929d74f2d12f6ea3f74971c0.png);
+      background-image: url("images/crests/bis_crest_18px_x2.png");
     }
   }
   &.ho {
     border-color: $home-office-websafe;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_18px-6607634d62bea5b5bd6c57de6ab9d7d0.png);
+    background-image: url("images/crests/ho_crest_18px.png");
     @media all and (-webkit-min-device-pixel-ratio: 2) {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/ho_crest_18px_x2-a7d11a3aba0f51a46425c42b214f8cd0.png);
+      background-image: url("images/crests/ho_crest_18px_x2.png");
     }
   }
   &.hmrc {
     border-color: $hm-revenue-customs-websafe;
-    background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_18px-f569ad3e7d4389b8b79e7f30c77288e9.png);
+    background-image: url("images/crests/hmrc_crest_18px.png");
     @media all and (-webkit-min-device-pixel-ratio: 2) {
-      background-image: url(https://assets.digital.cabinet-office.gov.uk/government/assets/crests/hmrc_crest_18px_x2-386964197337df2ed7547bbb175ba107.png);
+      background-image: url("images/crests/hmrc_crest_18px_x2.png");
     }
   }
 
