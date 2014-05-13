@@ -53,7 +53,7 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Public beta release --- Jul 2013"
     complete  : true
-  - copy      : "Iteration of the beta service to meet more user needs --- Aug 2013 to July 2014"
+  - copy      : "Iteration of the beta service to meet more user needs --- Aug 2013 to Jul 2014"
     complete  : true
 
 status-live:

@@ -21,7 +21,7 @@ detail-page-intro: |
 
 
 digital-strategy-statement: |
-    ...giving customers the ability to update information that helps us better calculate their tax code… Customers will begin with improved guidance that leads them through a clear explanation of the tax code they have received. If customers have had a change in circumstances that impacts their tax code they can submit information via an online form.
+    ...giving customers the ability to update information that helps us better calculate their tax code... Customers will begin with improved guidance that leads them through a clear explanation of the tax code they have received. If customers have had a change in circumstances that impacts their tax code they can submit information via an online form.
     
 digital-strategy-source: |
     From the '[HM Revenue & Customs digital strategy](https://www.gov.uk/government/publications/digital-strategy-december-2012)' --- December 2012
