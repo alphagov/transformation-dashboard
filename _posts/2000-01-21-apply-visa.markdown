@@ -27,7 +27,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    Better visa process is a political priority to drive UK growth by promoting visits from tourists, students and business people. [Currently 3.4m visas are issued at a cost of £767m/year, £223 per transaction](https://www.gov.uk/performance/transactions-explorer/service-details/home-office-visas-immigration-applications).
+    Better visa process is a political priority to drive UK growth by promoting visits from tourists, students and business people. [Currently 3.57m visas are issued at a cost of £649m/year, £182 per transaction](https://www.gov.uk/performance/transactions-explorer/service-details/home-office-visas-immigration-applications).
 
 
 anticipated-volume:
@@ -36,19 +36,19 @@ anticipated-volume:
 
 transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/moj-money-claims
 current-volume:
-  - number  : "3.53m"
+  - number  : "3.57m"
     caption : "Transactions per year"
-  - number  : "75.6%"
+  - number  : "68.4%"
     caption : "Digital take-up"
 current-cost:
-  - number  : "£642m"
+  - number  : "£649m"
     caption : "Total cost"
   - number  : "£182"
     caption : "Cost per transaction"
 
 
 status: "beta"
-status-strapline: "Developing the private beta service."
+status-strapline: "Developing the beta service."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Feb 2013"
@@ -67,14 +67,14 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Mar 2015"
+  - copy      : "Service goes live (depending on user feedback) --- Jan to Mar 2015"
     complete  : false
 
 
 successes: |
-  - Team established - service manager is now supported by product managers and owners
-  - Extensive [user research](http://digital.cabinetoffice.gov.uk/2013/10/09/testing-with-users-around-the-world/) with a range of groups, including overseas users and UK legal representatives
-  - Good feedback from private beta users
+  - Team established - service manager is now supported by a product team
+  - Extensive [user research](https://gds.blog.gov.uk/2013/10/09/testing-with-users-around-the-world/) with a range of groups, including overseas users, agencies and UK legal representatives
+  - Excellent feedback from private beta users
   - Production system is proving efficient and can scale easily for many users 
   - Easy to create and change visas products using the Home Office product catalogue
   
@@ -82,10 +82,9 @@ challenges: |
   - Existing teams and suppliers adapting to new working methods 
 
 next-steps: |
-  - Release the public beta service 
+  - Release the Visit Visa service to China as a public beta 
   - Deliver the next items from the roadmap of visa and immigration products
-  - Refine the release pipeline activities to make them fully agile
-  
+  - Refine the agile teams, service governance, and live support model   
 
 videos:
   - url     : https://www.youtube.com/watch?v=CzXPSqD1kes

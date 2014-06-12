@@ -28,7 +28,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    The tax exemplars will provide digital PAYE services for people in employment (benefits in kind), a fully digital self assessment service, improved tools and tax dashboard for small businesses, and a new system for tax agents to use online services. These will be built on a new “multi-channel digital tax platform” which will over time replace the current HMRC Portal and be the default platform for new customer-facing services. The new tax platform will be fully integrated with the pan-government ID Assurance Programme and with GOV.UK.
+    The tax exemplars will provide digital PAYE services for people in employment (benefits in kind), a fully digital self assessment service, improved tools and tax dashboard for small businesses, and a new system for tax agents to use online services. These will be built on a new “multi-channel digital tax platform” which will over time replace the current HMRC Portal and be the default platform for new user-facing services. The new tax platform will be fully integrated with the pan-government ID Assurance Programme and with GOV.UK.
 
 
 anticipated-volume:
@@ -37,7 +37,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In private beta. This service is being built alongside [exemplar 16: Digital self-assessment](/transformation/self-assessment) and [exemplar 17: Your tax account](/transformation/business-tax-account)."
+status-strapline: "In beta. This service is being built alongside [exemplar 16: Digital self-assessment](/transformation/self-assessment) and [exemplar 17: Your tax account](/transformation/business-tax-account)."
 
 
 status-discovery:
@@ -53,11 +53,11 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Feb 2014"
     complete  : true
-  - copy      : "Public beta release --- Jun 2014"
+  - copy      : "Public beta release --- Jul to Sep 2014"
     complete  : false
  
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Mar 2015"
+  - copy      : "Service goes live (depending on user feedback) --- Jan to Mar 2015"
     complete  : false
 
 
@@ -70,7 +70,7 @@ challenges: |
   - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
   
 next-steps: |
-  - Continue private beta and improve quality of data matching alongside [identity assurance](https://identityassurance.blog.gov.uk/)  
+  - Continue beta development and improve quality of data matching alongside [identity assurance](https://identityassurance.blog.gov.uk/)  
 
 videos:
   - url     : https://www.youtube.com/watch?v=K59WRzw8heY

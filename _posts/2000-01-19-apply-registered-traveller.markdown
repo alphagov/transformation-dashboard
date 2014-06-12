@@ -50,14 +50,14 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Mar 2014"
     complete  : true
-  - copy      : "Launch new caseworking system --- Jun 2014"
+  - copy      : "Launch new caseworking system --- Aug 2014"
     complete  : false
-  - copy      : "Public beta release --- Sep 2014"
+  - copy      : "Public beta release --- Jul to Sep 2014"
     complete  : false
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Dec 2014"
-    complete  : false
+  - copy : "Service goes live (depending on user feedback) --- Oct to Dec 2014"
+    complete: false
 
 successes: |
   - Alpha completed within 6 weeks
@@ -85,10 +85,6 @@ videos:
 
 
 screengrabs:
-  - filename    : "19-existing-registered-traveller-scheme.png"
-    caption     : "Screenshot of existing service, August 2013"
-  - filename    : "19-registered-traveller-alpha.png"
-    caption     : "Screenshot of alpha, December 2013"
   - filename    : "19-03-registered-traveller.png"
     caption     : "Screenshot of beta, March 2014"
 

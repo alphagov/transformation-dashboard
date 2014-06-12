@@ -41,7 +41,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In beta. Developing the redundancy payments claim application service."
+status-strapline: "In beta. Developing the services for applying for a redundancy payment and for compensation for loss of notice."
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2013"
@@ -54,27 +54,28 @@ status-alpha:
 status-beta:
   - copy    : "Completed: start beta development--- mid Jan 2014"
     complete  : true
-  - copy    : "Private beta release --- Jun 2014"
+  - copy    : "Private beta release --- Aug 2014"
     complete  : false
-  - copy    : "Public beta release --- Aug 2014"
+  - copy    : "Public beta release --- Jul to Sep 2014"
     complete  : false
 
 status-live:
-  - copy    : "Service goes live (depending on user feedback) --- Oct 2014"
+  - copy    : "Service goes live (depending on user feedback) --- Jan to Mar 2015"
     complete  : false
 
 
 successes: |
   - The user journey for notice claim applications has been built ready for private beta release
   - End-to-end backend integration has been delivered
-  - Hosting is in place
+  - Hosting for the digital service is in place
   - An in-house team has been built and is ready to lead on service development
   
 challenges: |
-  - Lack of access to the right testing environment
+  - Lack of access to the right testing environment is delaying the release of the private beta
  
 next-steps: |
-  - Further development of the main redundancy payments application service, including user testing with a working model 
+  - Release the private beta of the loss of notice service
+  - Continue research and development of the service for applying for a redundancy payment
 
 videos:
   - url: https://www.youtube.com/watch?v=2yXnblGFyMQ
@@ -82,8 +83,3 @@ videos:
 
 
 ---
-
-
-
-
-

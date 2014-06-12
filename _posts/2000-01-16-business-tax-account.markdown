@@ -53,11 +53,11 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Feb 2014"
     complete  : true
-  - copy      : "Public beta release --- date tbc"
-    complete  : false
+  - copy      : "Completed: Public beta release --- Jun 2014"
+    complete  : true
  
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Mar 2015"
+  - copy      : "Service goes live (depending on user feedback) --- Jan to Mar 2015"
     complete  : false
 
 

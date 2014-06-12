@@ -1,7 +1,6 @@
 # Native
 name: Transformation Dashboard
 markdown: redcarpet
-pygments: false
 
 redcarpet:
   extensions: [

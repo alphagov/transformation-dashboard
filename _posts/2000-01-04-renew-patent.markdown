@@ -54,20 +54,20 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy    : "Service goes live (depending on user feedback) --- May 2014"
+  - copy    : "Service goes live (depending on user feedback) --- Jul 2014"
     complete  : false
 
 
 successes: |
   - Tested by the Parliamentary Under Secretary of State for Intellectual Property
   - Public beta service released
-  
+  - Passed Live Service Standard Assessment
+
 challenges: |
   - A permanent service manager needs to be appointed
-  - Ensuring that the business takes ownership of the ongoing development of the service
+  - Ensuring that the business takes ownership of the ongoing development of the service once live
   
 next-steps: |
-  - Live Service Standard Assessment scheduled for 16 May 2014
   - Go live
   
 

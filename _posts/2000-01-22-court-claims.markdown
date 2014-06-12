@@ -20,7 +20,6 @@ homepage-intro: |
 detail-page-intro: |
     1.5 million claims made every year to solve civil legal disputes or obtain money or property owed. These claims are made using a number of different services provided by the Ministry of Justice.
 
-
 digital-strategy-statement: |
     ...existing digital applications which we will redesign to digitise more of the process, provide a better user experience and increase take-up.
 
@@ -39,7 +38,7 @@ anticipated-volume:
 
 transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/moj-money-claims
 current-volume:
-  - number  : "1.5m"
+  - number  : "1.11m"
     caption : "Transactions per year"
 
 
@@ -64,7 +63,7 @@ status-beta:
   - copy      : Public beta release --- date tbc
 
 status-live:
-  - copy      : "Service goes live --- date tbc"
+  - copy      : "Service goes live --- Oct to Dec 2014"
     complete  : false
 
 
@@ -86,8 +85,4 @@ next-steps: |
 
 
 ---
-
-
-
-
 

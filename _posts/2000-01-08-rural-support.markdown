@@ -42,7 +42,7 @@ transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/
 current-volume:
   - number  : 106k
     caption : Transactions per year
-  - number  : 54.3%
+  - number  : 51.7%
     caption : Digital take-up
 current-cost:
   - number  : £73.4m
@@ -67,11 +67,11 @@ status-alpha:
     complete    : false
 
 status-beta:
-  - copy    : "Rural support service public beta --- Jul 2014 to Jan 2015"
+  - copy    : "Private beta release --- Jul to Sep 2014"
     complete  : false
 
 status-live:
-  - copy    : "Rural support service incremental live releases --- Jan 2015 onwards"
+  - copy    : "Rural support service incremental live releases --- Oct to Dec 2014"
     complete  : false
 
 successes: |

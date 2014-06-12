@@ -19,7 +19,7 @@ homepage-intro: |
     You can register as a waste carrier using this quick and easy online service
 
 detail-page-intro: |
-    200,000 waste carriers registering online in the first year
+    100,000 waste carriers registering online in the first year
 
 
 digital-strategy-statement: |
@@ -37,12 +37,12 @@ scope-of-exemplar: |
 
 
 anticipated-volume:
-  - number  : 200k
+  - number  : 100k
     caption : registrations in first year
 
 
 status: "beta"
-status-strapline: "In public beta with Phase 2 of the project in discovery."
+status-strapline: "This service is being developed in two phases. Phase 1 is for registration, while phase 2 will add new features such as payments and renewal. Phase 1 is in public beta. Phase 2 is in development."
 
 status-discovery:
   - copy        : "Completed: Phase 1 discovery --- Jul 2012"
@@ -53,19 +53,19 @@ status-discovery:
 status-alpha:
   - copy        : "Completed: Phase 1 alpha --- Oct 2013"
     complete    : true
-  - copy        : Phase 2 alpha --- date tbc"
+  - copy        : Phase 2 alpha --- Jun 2014"
     complete    : false
 
 status-beta:
   - copy    : "Completed: Phase 1 public beta --- Dec 2013 to Apr 2014"
     complete  : true
-  - copy    : "Phase 2 private beta --- Jun 2014"
-    complete  : false
-  - copy    : "Phase 2 public beta --- date tbc"
+  - copy    : "Phase 2 private beta --- Jul 2014"
     complete  : false
 
 status-live:
-  - copy    : "Phase 1 and 2 live (depending on user feedback) --- Sep 2014"
+  - copy    : "Phase 1 live (depending on user feedback) --- Jul 2014"
+    complete  : false
+  - copy    : "Phase 2 live (depending on user feedback) --- Aug 2014"
     complete  : false
 
 
@@ -73,17 +73,17 @@ successes: |
   - Public beta released within 3 months of starting
   - [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment passed for beta service 
   - Updates to beta released without disrupting the service for users
-  - Over 12,000 users registered in the first 3 months
-  - Early feedback shows that 93% of users are satisfied or very satisfied with the service 
+  - Over 17,000 users registered in the first 5 months
+  - Over 90% of users are satisfied or very satisfied with the service 
   
 challenges: |
   - Assembling and managing the team to run the live service 
   
 next-steps: |
-  - Extend current service to cater for upper tier carriers (those whose main business is in waste)
-  - Consider whether the underlying platform can be used for other Environment Agency digital services
-  - Work with GDS to plan to take Phase 1 live
-  - Work on plan to take phase two into alpha  
+  - Release revised service to include upper tier carriers (those whose main business is in waste) by mid-August
+  - Consider how far the underlying platform can be used for other DEFRA digital services
+  - Work with GDS to take Phase 1 live
+  - Share lessons from this exemplar across the Environment Agency
 
 videos:
   - url   : https://www.youtube.com/watch?v=rSbfeVF1Fmg

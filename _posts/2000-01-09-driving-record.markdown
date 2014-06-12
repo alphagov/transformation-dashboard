@@ -43,7 +43,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "Public beta service released end of March. Work to integrate with Motor Insurance Bureau services now under way." 
+status-strapline: "Public beta service released end of March. Work to integrate with Motor Insurance Bureau and identity assurance services now under way." 
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2012"
@@ -60,7 +60,7 @@ status-beta:
     complete    : true
 
 status-live:
-  - copy        : "Service goes live (depending on user feedback) --- June 2014"
+  - copy        : "Service goes live (depending on user feedback) --- Aug 2014"
     complete    : false
 
 successes: |
@@ -74,10 +74,9 @@ challenges: |
   - Integrating with external service partners
   
 next-steps: |
-  - Develop and improve the live service
+  - Develop and improve the beta service, working towards going live
   - Develop and integrate full identity assurance features
   - Integrate with motor insurance bureau systems
-  - Plan and prioritise next phases of work
   
 videos:
   - url   : https://www.youtube.com/watch?v=fauL1iO7SlI

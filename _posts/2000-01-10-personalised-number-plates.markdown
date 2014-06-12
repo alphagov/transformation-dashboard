@@ -38,7 +38,7 @@ anticipated-volume:
 
 
 status: "alpha"
-status-strapline: "Alpha under way"
+status-strapline: "Alpha development under way"
 
 status-discovery:
   - copy      : "Completed: Discovery --- Oct 2013"
@@ -49,9 +49,9 @@ status-alpha:
     complete  : false
 
 status-beta:
-  - copy      : "Start beta development --- Jul 2014"
+  - copy      : "Start beta development --- Aug 2014"
     complete  : false
-  - copy      : "Release public beta --- Aug 2014"
+  - copy      : "Release public beta --- date tbc"
     complete  : false
 
 status-live:

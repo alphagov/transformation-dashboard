@@ -50,7 +50,7 @@ status-alpha:
 status-beta:
   - copy      : "Beta development --- Apr to Oct 2014"
     complete  : false
-  - copy      : "Release public beta --- Oct 2014"
+  - copy      : "Release public beta --- Oct to Dec 2014"
     complete  : false
 
 status-live:

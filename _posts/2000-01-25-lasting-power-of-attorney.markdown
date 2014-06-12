@@ -17,14 +17,14 @@ programme: "Office of the Public Guardian"
 
 
 homepage-intro: |
-    If you're making a lasting power of attorney, it’ll be easier using a simple online service, helping people to plan ahead for an uncertain future
+  If you're making a lasting power of attorney, it’ll be easier using a simple online service, helping people to plan ahead for an uncertain future
 
 detail-page-intro: |
-    300,000 applications each year
+  300,000 applications each year
 
 
 digital-strategy-statement: |
-    End-to-end digital transformation of the Office for the Public Guardian: this includes applications for Lasting Powers of Attorney by April 2013 and deputyships during 2013-14, and the processes that support them.
+  End-to-end digital transformation of the Office for the Public Guardian: this includes applications for Lasting Powers of Attorney by April 2013 and deputyships during 2013-14, and the processes that support them.
 
     
 digital-strategy-source: |
@@ -42,8 +42,8 @@ anticipated-volume:
     caption : Applications a year
 
 
-status: "beta"
-status-strapline: "In public beta and on track for live."
+status: "live"
+status-strapline: "Service is live and being continuously improved and expanded."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Feb 2012"
@@ -62,19 +62,19 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- May 2014"
-    complete  : false
+  - copy      : "Completed: Service goes live (depending on user feedback) --- May 2014"
+    complete  : true
   - copy      : "New case management software goes live --- Jun 2014"
     complete  : false
-  - copy      : "Build deputyships service --- May to Jul 2014"
+  - copy      : "Build deputyships service --- Jul -- Sep 2014"
     complete  : false
-  - copy      : "Private release of deputyship service --- Jul 2014"
+  - copy      : "Private release of deputyship service --- Jul to Sep 2014"
     complete  : false
-  - copy      : "Public release of deputyship service --- Oct 2014"
+  - copy      : "Public release of deputyship service --- Jul to Sep 2014"
     complete  : false
-  - copy      : "Decommission existing case management system --- Dec 2014"
+  - copy      : "Decommission existing case management system --- Jan to Mar 2015"
     complete  : false
-  - copy      : "Complete service goes live --- Dec 2014 to Mar 2015"
+  - copy      : "Complete service goes live --- Jan to Mar 2015"
     complete  : false
 
 
@@ -84,25 +84,30 @@ successes: |
   - Reduction in error rates moving from paper-based to digital service
   - Service performance [measured and published](https://www.gov.uk/performance/lasting-power-of-attorney)
   - 90% of digital users paying online
+  - First exemplar to pass the live [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
+  - Live service released
 
 challenges: |
   - Agency-wide digital transformation to allow the Office of the Public Guardian (OPG) to be a digital exemplar
   - Building support models for new digital services
   
 next-steps: |
-  - Go live
+  - Continue to improve and expand the service
+  - More focus on developing back office systems
   
 
 videos:
   - url     : https://www.youtube.com/watch?v=nsWv4yNKkkA
     caption : Watch a description of the exemplar
-  - url     : https://www.youtube.com/watch?v=3RVcK1xRwH8
-    caption : Watch an update on how changes to the beta service since its release, filmed December 2013
+  - url     : https://www.youtube.com/watch?v=MhbVCddSwV4
+    caption : Watch an update filmed in May 2014, when the service went live
   - url     : https://www.youtube.com/watch?v=Ijimev_xg4E
     caption : Watch a short demo of some new features filmed January 2014
 
 videos-additional: |
-  You can watch a [demo](https://www.youtube.com/watch?v=Espjr6YdFh4) introducing the service, filmed July 2013.
+  Watch a [demo](https://www.youtube.com/watch?v=Espjr6YdFh4) introducing the service, filmed July 2013.
+  Watch an [update](https://www.youtube.com/ https://www.youtube.com/watch?v=3RVcK1xRwH8) showing changes to the beta service since its release, filmed December 2013
+  Watch a [demo](https://www.youtube.com/watch?v=Ijimev_xg4E) of some new features, filmed January 2014
 
 
 ---

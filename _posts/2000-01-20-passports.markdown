@@ -43,7 +43,7 @@ status-alpha:
     complete  : false
 
 status-beta:
-  - copy      : "Private beta release --- Oct 2014"
+  - copy      : "Private beta release --- Oct to Dec 2014"
     complete  : false
 
 status-live:

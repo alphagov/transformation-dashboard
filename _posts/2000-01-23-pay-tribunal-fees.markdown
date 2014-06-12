@@ -2,7 +2,7 @@
 
 layout: exemplar
 
-exemplar-title: "Employment tribunal fee payment"
+exemplar-title: "Apply to an employment tribunal"
 exemplar-number: 23
 exemplar-service-url: "https://www.gov.uk/apply-employment-tribunal"
 exemplar-blog-url: "https://mojdigital.blog.gov.uk/"
@@ -16,7 +16,7 @@ programme: "HM Courts and Tribunals Service"
 
 
 homepage-intro: |
-    If you're lodging an appeal to an employment tribunal you’ll be able to pay the accompanying fee online
+    If you're lodging an appeal to an employment tribunal you’ll be able to apply and pay the accompanying fee online
 
 detail-page-intro: |
     200,000 employment tribunal fees paid online every year
@@ -73,7 +73,7 @@ challenges: |
 next-steps: |
   - Continue to simplify and improve the application based on user research
   - Release a plain English version of forms
-  - Develop the [assisted digital](https://www.gov.uk/government/publications/government-approach-to-assisted-digital) support
+  - Develop sustainable [assisted digital](https://www.gov.uk/government/publications/government-approach-to-assisted-digital) support
   - Finish public beta
 
 
@@ -89,6 +89,5 @@ videos:
 
 
 ---
-
 
 

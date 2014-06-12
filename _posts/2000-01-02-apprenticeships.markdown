@@ -50,28 +50,27 @@ status-alpha:
     complete    : true
 
 status-beta:
-  - copy        : "Start beta development --- May 2014"
+  - copy        : "Beta development --- May 2014"
     Completed   : false
   - copy        : "Public beta release --- Oct 2014"
     complete    : false
 
 status-live:
-  - copy        : "Service goes live --- Feb 2015"
+  - copy        : "Service goes live --- Jan to Mar 2015"
     Completed   : false
 
 
 successes: |
-  - Passed alpha to beta Digital by Default Service Standard assessment
-  - A demonstrable improvement in in-house digital capability
+  - Passed alpha to beta [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
   
 challenges: |
-  - The Skills Funding Agency restructure is affecting the recruitment of their staff into permanent digital delivery roles
+  - The Skills Funding Agency restructure is creating challenges; responsibilities are changing frequently, meaning the project team is sometimes unclear on how issues will be resolved
   - A potential code freeze on the legacy service may affect iterative development of the new service 
   
 next-steps: |
-  - Appoint a new service manager
-  - Start the beta phase 
-  - Define the minimum viable products to be developed
+  - Resolve issues around legacy service code freeze and hosting
+  - Start the beta 
+  - Clarify the minimum viable service to be developed and create a schedule for that work
 
 videos:
   - url   : https://www.youtube.com/watch?v=hnA5WPKM1VY
@@ -81,5 +80,4 @@ videos:
 
 
 ---
-
 

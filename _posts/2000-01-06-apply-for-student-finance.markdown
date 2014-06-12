@@ -34,14 +34,14 @@ anticipated-volume:
   - number  : 1.3m
     caption : Students supported
 current-volume:
-  - number  : 1.15m
+  - number  : 1.17m
     caption : transactions per year
-  - number  : 92.5%
+  - number  : 76.8%
     caption : digital take-up
 current-cost:
-  - number  : £56.2m
+  - number  : £57.4m
     caption : total cost
-  - number  : £48.77
+  - number  : £49.25
     caption : cost per transaction
 
 
@@ -53,42 +53,42 @@ status-discovery:
     complete    : true
 
 status-alpha:
-  - copy        : "Completed: Disabled students invoicing alpha --- Sep to Oct 2013"
+  - copy        : "Completed: Supplier invoicing for Disabled Students Allowance --- Sep to Oct 2013"
     complete    : true
   - copy        : "Completed: Full time student applications alpha --- Aug to Dec 2013"
     complete    : true
-  - copy        : "Core application service --- Oct 2013 to Jan 2015"
+  - copy        : "Application processing system development --- Oct 2013 to Jan 2015"
     complete    : false
 
 status-beta:
-  - copy        : "24+ advanced learning loan application public beta --- Aug 2013 to Aug 2014"
-    complete    : false
-  - copy        : "Completed: Supplier invoicing for Disabled Students Allowance public beta --- Dec 2013 to Mar 2014"
-    complete    : true
-  - copy        : "Completed: Full time student applications (2014/15) for students in Wales and Northern Ireland public beta release --- Mar 2014"
-    complete    : true
-  - copy        : "Development of core application service --- from Jan 2015"
-    complete    : false
+  - copy    : "Completed: Full time student applications --- Jan 2014"
+    complete  : true 
+  - copy    : "Completed: Supplier invoicing for Disabled Students Allowance public beta --- Dec 2013 to Mar 2014"
+    complete  : true
+  - copy    : "Completed: 24+ advanced learning loan application public beta --- Aug 2013 to Jun 2014"
+    complete  : true
+  - copy    : "Application processing system development --- from Jan to Mar 2015"
+    complete  : false
 
 status-live:
-  - copy        : "Completed: Part time student loan application service goes live --- Oct 2012"
-    complete    : true
-  - copy        : "Completed: Supplier invoicing for Disabled Students Allowance goes live --- Mar 2014"
-    complete    : true
-  - copy        : "24+ advanced learning loan applications goes live --- date tbc"
-    complete    : false
-  - copy        : "Full time student applications goes live --- date tbc"
-    complete    : false
-  - copy        : "Core application service goes live --- date tbc"
-    complete    : false
-  - copy        : "Core banking platform for loans and grants goes live --- Jan 2015"
-    complete    : false
+  - copy    : "Completed: Part time student loan application service goes live --- Oct 2012"
+    complete  : true
+  - copy    : "Completed: Supplier invoicing for Disabled Students Allowance goes live --- Mar 2014"
+    complete  : true
+  - copy    : "24+ advanced learning loan applications goes live --- date tbc"
+    complete  : false
+  - copy    : "Full time student applications goes live --- Jan to Mar 2015"
+    complete  : false
+  - copy    : "Application processing system goes live --- date tbc"
+    complete  : false
+  - copy    : "Core banking platform for loans and grants goes live --- Jan to Mar 2015"
+    complete  : false
 
 
 successes: |
   - More than 300,000 digital applications for full-time students (academic year 2014 / 2015) were made in the first 3 months of the live service
-  - Service delivery team awarded TechExcel Best Agile Project at the [European Testing Awards](http://www.softwaretestingawards.com/2013winners.html)
-  
+  - Service delivery team awarded TechExcel Best Agile Project at the [European Testing Awards](http://www.softwaretestingawards.com/2013-awards/2013-winners/)
+
 challenges: |
   - Incorporating service manager roles within the organisation’s transformation programme
   - Current hosting won’t meet the future needs of the service, and upgrading is taking longer than expected
@@ -109,8 +109,3 @@ screengrabs:
     caption     : "Full-time student finance application 2014-15" 
 
 ---
-
-
-
-
-

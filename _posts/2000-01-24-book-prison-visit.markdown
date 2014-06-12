@@ -39,19 +39,19 @@ anticipated-volume:
 
 transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/moj-prison-visit-booking
 current-volume:
-  - number  : "1.35m"
+  - number  : "1.32m"
     caption : "Transactions per year"
   - number  : "0%"
     caption : "Digital take-up"
 current-cost:
-  - number  : "£5.08m"
+  - number  : "£4.97m"
     caption : "Total cost"
   - number  : "£3.75"
     caption : "Cost per transaction"
 
 
-status: "alpha"
-status-strapline: "In alpha. User research of prototype under way at four male Category B prisons."
+status: "beta"
+status-strapline: "In beta. Development of the beta is ongoing with user research of the prototype under way at 11 Category B prisons, including Youth and Women’s."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Jul 2013"
@@ -64,13 +64,13 @@ status-alpha:
     complete  : true
 
 status-beta:
-  - copy      : "Start beta development --- May 2014"
-    complete  : false
-  - copy      : Public beta release --- Dec 2014
-    complete  : false
+  - copy      : "Completed: Start beta development --- May 2014"
+    complete  : true
+  - copy      : "Completed: beta release to all public male Category B and below, Youth and Women’s prisons in England and Wales --- Jun 2014"
+    complete  : true
 
 status-live:
-  - copy      : "Service goes live --- date tbc"
+  - copy      : "Service goes live (depending on user feedback) --- Jun 2014"
     complete  : false
 
 
@@ -82,10 +82,10 @@ successes: |
 challenges: |
   - Developing a standard process for booking visits across all prisons
   - Integrating the new service with existing ones
-  - Rolling out alpha product nationally to male Category B and below, Youth and Women’s prisons
+  - Rolling out beta product nationally to male Category B and below, Youth and Women’s prisons
   
 next-steps: |
-  - Expand pilot as open beta to a total of 18 prisons, including two Youth and two Women’s facilities   
+  - Continue development of beta following its release to all public male Category B and below, Youth and Women’s prisons in England and Wales
 
 videos:
   - url     : https://www.youtube.com/watch?v=5eYj5mgry0c
@@ -97,10 +97,8 @@ videos:
 
 
 screengrabs:
-  - filename    : "24-01-prison-visit.png"
-    caption     : "Alpha start page, December 2013"
-  - filename    : "24-02-prison-visit.png"
-    caption     : "Alpha confirmation page, December 2013"
+  - filename    : "24-03-prison-visit.png"
+    caption     : "Beta start page, May 2014"
 
 
 ---

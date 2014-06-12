@@ -40,8 +40,8 @@ anticipated-volume:
     caption : New applications in first year
 
 
-status: "beta"
-status-strapline: "In beta and on track"
+status: "Live"
+status-strapline: "Service is live in England and Wales"
 
 status-discovery:
   - copy      : "Completed: Discovery --- Feb 2012"
@@ -62,15 +62,15 @@ status-beta:
     complete  : true
   - copy      : "Completed: Live service environment build --- Jan 2014"
     complete  : true
-  - copy      : "Overseas and special category elector transactions --- May 2014"
-    complete  : false
+  - copy      : "Completed: Overseas and special category elector transactions --- May 2014"
+    complete  : true
 
 status-live:
-  - copy      : "Service goes live (England and Wales) --- Jun 2014"
-    complete  : false
+  - copy      : "Completed: Service goes live (England and Wales) --- Jun 2014"
+    complete  : true
   - copy      : "National media campaign --- Jul 2014"
     complete  : false
-  - copy      : "Service goes live (Scotland) --- Sep 2014"
+  - copy      : "Service goes live (Scotland) --- Jul to Sep 2014"
     complete  : false
 
 
@@ -79,14 +79,13 @@ successes: |
   - 387 local authorities can now check electoral registers against Department for Work and Pensions data
   - Registration details of 46 million people checked during dry-run with all local authorities
   - Built online registration service for 99.9% of voters
-  - Obtained accreditation for live service
+  - Live service released for users in England and Wales
   
 challenges: |
   - Ensuring the Cabinet Office’s capability to run the live service
 
 next-steps: |
   - Build the team needed to run the live service
-  - Complete overseas, forces and crown servant elector transactions
   - Work on Welsh language transaction
 
 videos:

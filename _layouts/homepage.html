@@ -15,7 +15,8 @@ live_url: 'https://www.gov.uk/service-manual/phases/live'
 
 {% for post in site.posts %}
   {% if post.legacy-exemplar != true %}
-    {% case post.status %}
+    {% assign status = post.status | downcase %}
+    {% case status %}
         {% when 'discovery' %}
             {% capture discovery_count %}{{ discovery_count | append:'.' }}{% endcapture %}
         {% when 'alpha' %}
@@ -135,7 +136,7 @@ live_url: 'https://www.gov.uk/service-manual/phases/live'
             <td class="description">
               <h3>
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.exemplar-title }}</a>
-                <span class="phase-tag {{ post.status }}">{{ post.status }}</span>
+                <span class="phase-tag {{ post.status | downcase }}">{{ post.status }}</span>
               </h3>
               {{ post.homepage-intro | markdownify }}
             </td>

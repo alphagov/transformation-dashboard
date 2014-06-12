@@ -52,22 +52,25 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta --- Feb 2014"
     complete  : true
-  - copy      : “Public beta release --- date tbc”
+  - copy      : "Completed: Public beta release --- Jun 2014"
+    complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) ---  Apr 2015"
+  - copy      : "Service goes live (depending on user feedback) ---  Jan to Mar 2015"
     complete  : false
 
 
 successes: |
-  - Passed beta Digital by Default Service Standard Assessment
+  - Passed beta [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
   
 challenges: |
   - The timeline to put infrastructure in place is tight
-  - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
+  - Adapting current HMRC methods to [agile](/service-manual/agile) development
+  - The Service Standard Assessment highlighted some resource issues to be addressed
   
 next-steps: |
   - Add user support features to the service
+  - Changing the homepage based on user feedback
   - Scale the service to handle 4.9 million users
   
 

@@ -42,7 +42,7 @@ transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/
 current-volume:
   - number  : 241k
     caption : Transactions per year
-  - number  : 26.9%
+  - number  : 28.5%
     caption : Digital take-up
 
 status: "beta"
@@ -61,6 +61,8 @@ status-beta:
     complete  : true
   - copy      : "Completed: Public beta released --- Oct 2013"
     complete  : true
+  - copy      : "Completed: Welsh language version of service released --- Apr 2014"
+    complete  : true
   - copy      : "Improvements to service for users reporting a change in circumstances --- Apr 2014"
     complete  : true
 
@@ -69,10 +71,9 @@ status-live:
     complete  : false
 
 successes: |
-  - Almost 60,000 claim requests have been submitted since the service was released in October 2013
+  - 73,000 digital claims submitted since release of public beta
   - 47% of applications are now made using the digital service
-  - During April, 43% of users accessed the service using mobile and tablet
-  - User satisfaction ratings of over 90%
+  - User satisfaction ratings of approximately 90%
   - Change of circumstances can now be reported online
   - Welsh language version of the service released
 
