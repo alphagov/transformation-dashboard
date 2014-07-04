@@ -280,6 +280,10 @@ body.full-width article {
       .dept {
         width: 20%;
       }
+
+      h3 > a {
+        margin-right: 8px;
+      }
     }
 
     tbody {
@@ -383,6 +387,11 @@ body.full-width article {
 
     &.live {
       background-color: $live-colour;
+    }
+
+    &.public {
+      background-color: transparent;
+      color: $black;
     }
   }
 
