@@ -138,7 +138,7 @@ layout: govuk_template
         <blockquote>
           {{ page.digital-strategy-statement | markdownify }}
           <footer>
-            <cite>{{ page.digital-strategy-source | markdownify }}</cite>
+            <cite>{{ page.digital-strategy-source | markdownify | remove: "<p>" | remove: "</p>" }}</cite>
           </footer>
         </blockquote>
       </div>

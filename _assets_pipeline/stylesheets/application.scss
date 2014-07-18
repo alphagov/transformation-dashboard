@@ -610,12 +610,19 @@ a.phase-tag {
   }
 
   blockquote {
-    @include core-24;
     position: relative;
     margin: 1em 0;
 
     @include ie(6) {
       position: static;
+    }
+
+    p {
+      @include core-24;
+    }
+
+    cite {
+      @include core-19;
     }
 
     &:before {
