@@ -41,7 +41,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "In beta. Developing the services for applying for a redundancy payment and for compensation for loss of notice."
+status-strapline: "Developing the beta service for applying for a redundancy payment and for compensation for loss of notice."
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2013"
@@ -52,9 +52,7 @@ status-alpha:
     complete    : true
 
 status-beta:
-  - copy    : "Completed: start beta development--- mid Jan 2014"
-    complete  : true
-  - copy    : "Private beta release --- Aug 2014"
+  - copy    : "Private beta release --- Jul to Sep 2014"
     complete  : false
   - copy    : "Public beta release --- Jul to Sep 2014"
     complete  : false
@@ -63,19 +61,20 @@ status-live:
   - copy    : "Service goes live (depending on user feedback) --- Jan to Mar 2015"
     complete  : false
 
-
 successes: |
   - The user journey for notice claim applications has been built ready for private beta release
   - End-to-end backend integration has been delivered
   - Hosting for the digital service is in place
-  - An in-house team has been built and is ready to lead on service development
   
 challenges: |
-  - Lack of access to the right testing environment is delaying the release of the private beta
- 
+  - Ensuring we have the right team in place to deliver a beta service before the end of 2014
+  - Lack of engagement from senior management
+  - Integrating [identity assurance](https://gds.blog.gov.uk/category/id-assurance/) into our service when there is no record of who applicants might be
+
 next-steps: |
-  - Release the private beta of the loss of notice service
-  - Continue research and development of the service for applying for a redundancy payment
+  - Building identity assurance into the service   
+  - Continue research and development of the service
+  - Work on how assisted digital can provide support for people using the service
 
 videos:
   - url: https://www.youtube.com/watch?v=2yXnblGFyMQ

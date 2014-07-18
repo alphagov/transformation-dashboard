@@ -2,7 +2,7 @@
 
 layout: exemplar
 
-exemplar-title: "Electoral Registration"
+exemplar-title: "Electoral registration"
 exemplar-number: 1
 
 
@@ -68,8 +68,8 @@ status-beta:
 status-live:
   - copy      : "Completed: Service goes live (England and Wales) --- Jun 2014"
     complete  : true
-  - copy      : "National media campaign --- Jul 2014"
-    complete  : false
+  - copy      : "Completed: National media campaign begins --- Jul 2014"
+    complete  : true
   - copy      : "Service goes live (Scotland) --- Jul to Sep 2014"
     complete  : false
 

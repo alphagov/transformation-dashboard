@@ -54,7 +54,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy      : "Service goes live --- date tbc"
+  - copy      : "Service goes live --- Jan to Mar 2015"
     complete  : false
 
 
@@ -66,13 +66,13 @@ successes: |
   - Prototypes developed
   
 challenges: |
-  - Turning complicated transactions into simple digital services
-  - Integrating with current systems and migrating data to secure cloud environment
+  - Turning complicated multi-channel transactions into simple digital services
+  - Integrating with current systems and connecting to secure cloud environment
   
 next-steps: |
   - Expand user research
   - Develop prototypes into beta service
-  - Integrate with legacy systems
+  - Complete private beta and prepare for public beta release
   
 videos:
   - url     : https://www.youtube.com/watch?v=CROuz3Ghu08

@@ -46,7 +46,7 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Delivered digital strategic solution --- Oct 2013"
     complete  : true
-  - copy      : "Work to increase DWP digital capability --- date tbc"
+  - copy      : "Work to increase DWP digital capability --- date to be confirmed"
     complete  : false
 
 status-live:

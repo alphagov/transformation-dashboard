@@ -2,13 +2,13 @@
 
 layout: exemplar
 
-exemplar-title: "Patent renewals"
+exemplar-title: "Renew a patent"
 exemplar-number: 4
 
 
 department: "Department<br>for Business<br>Innovation & Skills"
 permanent-secretary: "Martin Donnelly"
-digital-leader: "Ceri Smith"
+digital-leader: "Tim Knighton"
 department-url: "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
 programme: "Intellectual Property Office"
 
@@ -36,8 +36,8 @@ anticipated-volume:
     caption : Renewals a year
 
 
-status: "beta"
-status-strapline: "In public beta"
+status: "live"
+status-strapline: "Service is live and being continuously improved"
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2013"
@@ -48,27 +48,26 @@ status-alpha:
     complete    : true
 
 status-beta:
-  - copy    : "Completed: Private beta development and testing --- Aug 2013 to Mar 2014"
-    complete  : true
-  - copy    : "Completed: Release public beta --- Mar 2014"
-    complete  : true
+  - copy        : "Completed: Private beta development and testing --- Aug 2013 to Mar 2014"
+    complete    : true
+  - copy        : "Completed: Release public beta --- Mar 2014"
+    complete    : true
 
 status-live:
-  - copy    : "Service goes live (depending on user feedback) --- Jul 2014"
-    complete  : false
+  - copy        : "Completed: Service goes live (depending on user feedback) --- Jul 2014"
+    complete    : true
 
 
 successes: |
   - Tested by the Parliamentary Under Secretary of State for Intellectual Property
-  - Public beta service released
-  - Passed Live Service Standard Assessment
+  - Positive user feedback from public beta, including the observation that completing the transaction was ‘a doddle’
+  - Live service released
 
 challenges: |
-  - A permanent service manager needs to be appointed
-  - Ensuring that the business takes ownership of the ongoing development of the service once live
+  - Ensuring that the Intellectual Property Office takes ownership of the ongoing development of the service once live
   
 next-steps: |
-  - Go live
+  - Continuously improve live service based on user feedback
   
 
 videos:

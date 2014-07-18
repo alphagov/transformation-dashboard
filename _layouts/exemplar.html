@@ -200,11 +200,11 @@ layout: govuk_template
 
       {% if page.current-volume or page.current-cost %}
 
-        {% assign transactions_explorer_url = 'https://www.gov.uk/performance/transactions-explorer' %}
-        {% if page.transactions-explorer-url %}
-          {% capture transactions_explorer_url %}{{ page.transactions-explorer-url }}{% endcapture %}
+        {% assign pp_string = 'Performance Platform' %}
+        {% if page.performance-platform-url %}
+          {% capture pp_string %}<a href="{{ page.performance-platform-url }}">Performance Platform</a>{% endcapture %}
         {% endif %}
-        <p>Figures from <a href="{{ transactions_explorer_url }}">Transactions Explorer</a> for nearest comparable service</p>
+        <p>Figures from {{ pp_string }} for nearest comparable service</p>
 
         
         {% if page.current-volume %}

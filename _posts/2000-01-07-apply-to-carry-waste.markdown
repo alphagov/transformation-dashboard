@@ -10,7 +10,7 @@ exemplar-blog-url: "https://eadigital.blog.gov.uk/"
 
 department: "Department<br>for Environment<br>Food & Rural Affairs"
 permanent-secretary: "Bronwyn Hill"
-digital-leader: "Ian Trenholm"
+digital-leader: "Julie Pierce"
 department-url: "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
 programme: "Environment Agency"
 
@@ -42,48 +42,44 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "This service is being developed in two phases. Phase 1 is for registration, while phase 2 will add new features such as payments and renewal. Phase 1 is in public beta. Phase 2 is in development."
+status-strapline: "This service is being developed in two phases. Phase 1 is for basic registration for some waste carriers, while phase 2 will add new features such as payments and renewal and cater for all waste carriers. Phase 1 is in public beta. Phase 2 is in development. The service for all waste carriers will be released in the summer."
 
 status-discovery:
   - copy        : "Completed: Phase 1 discovery --- Jul 2012"
     complete    : true
-  - copy        : "Phase 2 discovery --- Apr to May 2014"
-    complete    : false
 
 status-alpha:
   - copy        : "Completed: Phase 1 alpha --- Oct 2013"
     complete    : true
-  - copy        : Phase 2 alpha --- Jun 2014"
-    complete    : false
+  - copy        : "Completed: Phase 2 alpha --- Jun 2014"
+    complete    : true
 
 status-beta:
-  - copy    : "Completed: Phase 1 public beta --- Dec 2013 to Apr 2014"
-    complete  : true
-  - copy    : "Phase 2 private beta --- Jul 2014"
-    complete  : false
+  - copy        : "Completed: Phase 1 public beta --- Dec 2013 to Apr 2014"
+    complete    : true
+  - copy        : "Phase 2 private beta --- Jul 2014"
+    complete    : false
 
 status-live:
-  - copy    : "Phase 1 live (depending on user feedback) --- Jul 2014"
+  - copy    : "Full service goes live (depending on user feedback) --- Jul to Sep 2014"
     complete  : false
-  - copy    : "Phase 2 live (depending on user feedback) --- Aug 2014"
-    complete  : false
-
 
 successes: |
   - Public beta released within 3 months of starting
   - [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment passed for beta service 
   - Updates to beta released without disrupting the service for users
-  - Over 17,000 users registered in the first 5 months
-  - Over 90% of users are satisfied or very satisfied with the service 
+  - Over 20,000 users registered in the first 6 months
+  - 96% of users registered online with a satisfaction rating of 89%
+  - Just 4% of users asked for assistance when registering online 
   
 challenges: |
   - Assembling and managing the team to run the live service 
   
 next-steps: |
-  - Release revised service to include upper tier carriers (those whose main business is in waste) by mid-August
-  - Consider how far the underlying platform can be used for other DEFRA digital services
-  - Work with GDS to take Phase 1 live
-  - Share lessons from this exemplar across the Environment Agency
+  - Iterate the beta service to include a payments and renewal service and cater for all waste carriers by mid-August
+  - Consider how far the underlying platform can be used for other Defra digital services
+  - Share lessons from this exemplar across the Environment Agency and Defra
+  - Plan for live Service Standard Assessment
 
 videos:
   - url   : https://www.youtube.com/watch?v=rSbfeVF1Fmg

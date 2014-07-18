@@ -38,7 +38,7 @@ anticipated-volume:
   - number  : 3.2m
     caption : carers in the UK
 
-transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/dwp-carers-allowance-new-claims
+performance-platform-url: "https://www.gov.uk/performance/transactions-explorer/service-details/dwp-carers-allowance-new-claims"
 current-volume:
   - number  : 241k
     caption : Transactions per year
@@ -63,28 +63,27 @@ status-beta:
     complete  : true
   - copy      : "Completed: Welsh language version of service released --- Apr 2014"
     complete  : true
-  - copy      : "Improvements to service for users reporting a change in circumstances --- Apr 2014"
+  - copy      : "Completed: Improvements to service for users reporting a change in circumstances --- Apr 2014"
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Nov 2014"
+  - copy      : "Service goes live (depending on user feedback) --- Oct to Dec 2014"
     complete  : false
 
 successes: |
   - 73,000 digital claims submitted since release of public beta
-  - 47% of applications are now made using the digital service
+  - 52% of applications are now made using the digital service
   - User satisfaction ratings of approximately 90%
   - Change of circumstances can now be reported online
   - Welsh language version of the service released
 
 challenges: |
-  - Change processes to accommodate running service teams
   - The recruitment of staff to take the service forward through transition
-  - The slow pace of procurement to buy tools and services quickly in order to support rapid, iterative development
+  - The slow pace of procurement to buy tools and digital services quickly in order to support rapid, iterative development
   
 next-steps: |
   - Build the digital capability to run the service within the department  
-  - Integrate the service with more of the department’s systems to improve efficiency
+  - Integrate the service with more of the department’s systems to improve efficiency for agents and reduce paper processing
   
 
 videos:

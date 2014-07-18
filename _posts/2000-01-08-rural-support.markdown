@@ -38,7 +38,7 @@ anticipated-volume:
   - number  : 105k
     caption : Transactions a year
 
-transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/defra-single-payment-scheme-sps-claims
+performance-platform-url: "https://www.gov.uk/performance/defra-single-payment-scheme-sps-claims"
 current-volume:
   - number  : 106k
     caption : Transactions per year
@@ -85,7 +85,7 @@ challenges: |
   - Building a new service in line with evolving CAP regulations
   
 next-steps: |
-  - Release private beta from July 2014 
+  - Release private beta in July 2014 
   - Invite more farmers to participate in the private beta of the map viewer
   
   

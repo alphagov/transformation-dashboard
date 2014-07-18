@@ -29,8 +29,13 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    The tax exemplars will provide digital PAYE services for people in employment (benefits in kind), a fully digital self assessment service, improved tools and tax dashboard for small businesses, and a new system for tax agents to use online services. These will be built on a new “digital tax platform” which will over time replace the current HMRC Portal and be the default platform for new user-facing services. The new tax platform will be fully integrated with the pan-government ID Assurance Programme and with GOV.UK.
+  The new digital self-assessment service will start by allowing users to opt out of receiving paper statements and receive digital alerts instead. Like all the other exemplar services it will be built on the new ‘digital tax platform’.
 
+  The aim is for this exemplar service to save HMRC £800,000 this year by:
+  
+  - persuading 1.3 million customers to opt in to the service
+  - stopping 2.5 million letters
+  - stopping 63,000 calls
 
 anticipated-volume:
   - number  : 10m
@@ -57,7 +62,7 @@ status-beta:
     complete  : true
  
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on user feedback) --- Oct to Dec 2014"
     complete  : false
 
 

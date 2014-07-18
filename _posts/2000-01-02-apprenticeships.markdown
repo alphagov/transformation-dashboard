@@ -8,7 +8,7 @@ exemplar-number: 2
 
 department: "Department<br>for Business<br>Innovation & Skills"
 permanent-secretary: "Martin Donnelly"
-digital-leader: "Ceri Smith"
+digital-leader: "Tim Knighton"
 department-url: "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
 programme: "National Apprenticeship Service"
 
@@ -50,14 +50,14 @@ status-alpha:
     complete    : true
 
 status-beta:
-  - copy        : "Beta development --- May 2014"
-    Completed   : false
-  - copy        : "Public beta release --- Oct 2014"
+  - copy        : "Completed: Start beta development --- May 2014"
+    complete    : true
+  - copy        : "Public beta release --- Oct to Dec 2014"
     complete    : false
 
 status-live:
   - copy        : "Service goes live --- Jan to Mar 2015"
-    Completed   : false
+    complete    : false
 
 
 successes: |
@@ -68,15 +68,12 @@ challenges: |
   - A potential code freeze on the legacy service may affect iterative development of the new service 
   
 next-steps: |
-  - Resolve issues around legacy service code freeze and hosting
-  - Start the beta 
+  - Continue beta development 
   - Clarify the minimum viable service to be developed and create a schedule for that work
 
 videos:
   - url   : https://www.youtube.com/watch?v=hnA5WPKM1VY
     caption : Watch a short description of the exemplar, filmed December 2013
-
-
 
 
 ---

@@ -37,7 +37,7 @@ anticipated-volume:
   - number  : 1.5m
     caption : Visits per year
 
-transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/moj-prison-visit-booking
+performance-platform-url: "https://www.gov.uk/performance/moj-prison-visit-booking"
 current-volume:
   - number  : "1.32m"
     caption : "Transactions per year"
@@ -51,7 +51,7 @@ current-cost:
 
 
 status: "beta"
-status-strapline: "In beta. Development of the beta is ongoing with user research of the prototype under way at 11 Category B prisons, including Youth and Women’s."
+status-strapline: "In beta. Development of the beta is ongoing with user research of the prototype under way at more than 50 Category B prisons, including Youth and Women’s."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Jul 2013"
@@ -66,16 +66,15 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Start beta development --- May 2014"
     complete  : true
-  - copy      : "Completed: beta release to all public male Category B and below, Youth and Women’s prisons in England and Wales --- Jun 2014"
+  - copy      : "Completed: Beta release to all public male Category B and below, Youth and Women’s prisons in England and Wales --- Jun 2014"
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Jun 2014"
+  - copy      : "Service goes live (depending on user feedback) --- Jul to Sep 2014"
     complete  : false
 
 
 successes: |
-  - Minimum viable product built
   - Service standardised across pilot prisons
   - User research done for male Category B and below, Youth, Women’s, High Security Estate (Category A) and Contracted Out prisons 
   
@@ -86,6 +85,7 @@ challenges: |
   
 next-steps: |
   - Continue development of beta following its release to all public male Category B and below, Youth and Women’s prisons in England and Wales
+  - Prepare for the live Digital by Default Service Standard assessment
 
 videos:
   - url     : https://www.youtube.com/watch?v=5eYj5mgry0c

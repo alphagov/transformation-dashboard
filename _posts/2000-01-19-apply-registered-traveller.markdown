@@ -2,7 +2,7 @@
 
 layout: exemplar
 
-exemplar-title: "Registered traveller"
+exemplar-title: "Registered traveller service"
 exemplar-number: 19
 
 
@@ -26,7 +26,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    The registered traveller scheme will provide scheme members the facility to use the e-passport gates where they have made an online application prior to travel.
+   The registered traveller service lets members use the e-passport gates where they have made an online application before travel.
 
 
 anticipated-volume:
@@ -50,14 +50,14 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Mar 2014"
     complete  : true
-  - copy      : "Launch new caseworking system --- Aug 2014"
+  - copy      : "Launch new caseworking system --- Jul to Sep 2014"
     complete  : false
   - copy      : "Public beta release --- Jul to Sep 2014"
     complete  : false
 
 status-live:
-  - copy : "Service goes live (depending on user feedback) --- Oct to Dec 2014"
-    complete: false
+  - copy      : "Service goes live (depending on user feedback) --- Oct to Dec 2014"
+    complete  : false
 
 successes: |
   - Alpha completed within 6 weeks

@@ -34,7 +34,7 @@ anticipated-volume:
   - number  : 3.4m
     caption : Visas issued a year
 
-transactions-explorer-url: https://www.gov.uk/performance/transactions-explorer/service-details/moj-money-claims
+performance-platform-url: "https://www.gov.uk/performance/home-office-visas-immigration-applications"
 current-volume:
   - number  : "3.57m"
     caption : "Transactions per year"
@@ -63,8 +63,8 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Feb 2014"
     complete  : true
-  - copy      : "Public beta release --- Jun 2014"
-    complete  : false
+  - copy      : "Completed: Public beta release --- Jun 2014"
+    complete  : true
 
 status-live:
   - copy      : "Service goes live (depending on user feedback) --- Jan to Mar 2015"
@@ -72,19 +72,24 @@ status-live:
 
 
 successes: |
-  - Team established - service manager is now supported by a product team
-  - Extensive [user research](https://gds.blog.gov.uk/2013/10/09/testing-with-users-around-the-world/) with a range of groups, including overseas users, agencies and UK legal representatives
-  - Excellent feedback from private beta users
-  - Production system is proving efficient and can scale easily for many users 
-  - Easy to create and change visas products using the Home Office product catalogue
+ - Service manager is supported by a product team
+ - Tier 2 beta and China Visit Visa beta both delivered on time and budget
+ - Extensive user research with a range of groups, including overseas users, English second-language users, agencies and UK legal representatives
+ - We're beginning to add foreign-language guidance, starting with Chinese
+ - Excellent feedback from users
+ - Production system is proving efficient and can scale
+ - Successful integration to legacy back end systems
   
 challenges: |
-  - Existing teams and suppliers adapting to new working methods 
+  - Existing teams and suppliers have to step up to new ways of working
+  - Building Civil Service capability in digital skills
+  - Generating digital content that balances the different needs of law, policy, security, an english second-language audience, and GOV.UK content guidelines
+  - Creating translated content that retains the same meaning and balance across these disparate needs
 
 next-steps: |
-  - Release the Visit Visa service to China as a public beta 
-  - Deliver the next items from the roadmap of visa and immigration products
-  - Refine the agile teams, service governance, and live support model   
+  - Carry out user research in China with the new beta service and continue to improve the user journey
+  - Expand the Tier 2 Visa service 
+  - Refine the agile team, service governance, and live support model
 
 videos:
   - url     : https://www.youtube.com/watch?v=CzXPSqD1kes
@@ -103,6 +108,8 @@ screengrabs:
     caption     : "Beta of visa application"
   - filename    : "21-04-visa.png"
     caption     : "Beta of visa application"
+  - filename    : "21-05-visa.png"
+    caption     : "Multilingual guidance for China, June 2014"
 
 
 ---

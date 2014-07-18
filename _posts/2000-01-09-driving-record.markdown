@@ -43,7 +43,7 @@ anticipated-volume:
 
 
 status: "beta"
-status-strapline: "Public beta service released end of March. Work to integrate with Motor Insurance Bureau and identity assurance services now under way." 
+status-strapline: "Public beta released March 2014 with full functionality for Motor Insurance Bureau and a private beta of the identity assurance service will be in place the from end of June." 
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2012"
@@ -60,7 +60,7 @@ status-beta:
     complete    : true
 
 status-live:
-  - copy        : "Service goes live (depending on user feedback) --- Aug 2014"
+  - copy        : "Service goes live (depending on user feedback) --- Jul to Sep 2014"
     complete    : false
 
 successes: |

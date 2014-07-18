@@ -25,24 +25,21 @@ scope-of-exemplar: |
     Her Majesty’s Passport Services is exploring with GDS the scope for a fully digital passport service and application interface.
 
 
-status: "alpha"
+status: "beta"
 status-strapline: |
-    Alpha under way. 
-
-    The passports exemplar replaces the criminal records check as described in the Digital Strategy update.
-
-    See the [quarterly update to the Government Digital Strategy](https://www.gov.uk/government/publications/government-digital-strategy-quarterly-progress-report-december-2013/government-digital-strategy-quarterly-progress-report-december-2013), published December 2013
-
+    Starting beta inception. 
 
 status-discovery:
   - copy      : "Completed: Discovery --- Mar 2014"
     complete  : true
 
 status-alpha:
-  - copy      : "Alpha build --- Mar to Jun 2014"
-    complete  : false
+  - copy      : "Completed: Alpha build --- Jun 2014"
+    complete  : true
 
 status-beta:
+  - copy      : "Begin beta development --- Jul to Sep 2014"
+    complete  : false
   - copy      : "Private beta release --- Oct to Dec 2014"
     complete  : false
 
@@ -52,15 +49,17 @@ status-live:
 
 
 successes: |
+  - Passed alpha to beta Digital by Default Service Standard assessment
   - Prototypes developed for UK applicants
-  - User testing of prototypes started
+  - Prototypes tested with users
   - Initial photo upload facility developed 
 
 challenges: |
-  - Integrating with current systems
-  - Setting up the dev environment
+  - Linking with current systems and ensuring appropriate security is maintained across that link
+  - Setting up the development environment
 
 next: |
+  - Start work on beta
   - Continue testing and iterating user journey for UK and overseas applicants
   - Continue working on photo uploads and photo checking
   - Continue working on application interface

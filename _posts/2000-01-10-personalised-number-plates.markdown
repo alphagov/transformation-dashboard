@@ -45,32 +45,32 @@ status-discovery:
     complete  : true
 
 status-alpha:
-  - copy      : "Start alpha build --- May 2014"
-    complete  : false
+  - copy      : "Alpha build --- May to Jul 2014"
+    complete  : true
 
 status-beta:
-  - copy      : "Start beta development --- Aug 2014"
+  - copy      : "Start beta development --- Jul to Sep 2014"
     complete  : false
-  - copy      : "Release public beta --- date tbc"
+  - copy      : "Release public beta --- date to be confirmed"
     complete  : false
 
 status-live:
-  - copy      : "Service goes live --- date tbc"
+  - copy      : "Service goes live --- Jan to Mar 2015"
     complete  : false
 
 
 successes: |
   - Discovery phase complete
-  - Research undertaken into public and motor trade requirements
+  - User research undertaken into public and motor trade requirements
   - Data integration issues investigated
   
 challenges: |
-  - Turning complicated transactions into simple digital services
-  - Integrating with current systems and migrating data to a secure cloud environment
-  - Potential resource conflicts with other digital projects (for example, the demand for test environments)
+  - Turning complicated paper, telephone and electronic transactions into a simple digital service
+  - Integrating with current systems and connecting to a secure cloud environment
+  - Managing delivery alongside strategic transformation projects like the abolition of the tax disc, payments and direct debits
   
 next-steps: |
-  - Build prototype
+  - Prepare for alpha Digital by Default Service Standard assessment
   - Integrate service with existing systems and data
   - Continue user research
   - Bring new team members on board

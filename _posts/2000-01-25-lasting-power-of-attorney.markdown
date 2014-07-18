@@ -17,14 +17,14 @@ programme: "Office of the Public Guardian"
 
 
 homepage-intro: |
-  If you're making a lasting power of attorney, it’ll be easier using a simple online service, helping people to plan ahead for an uncertain future
+    If you're making a lasting power of attorney, it’ll be easier using a simple online service, helping people to plan ahead for an uncertain future
 
 detail-page-intro: |
-  300,000 applications each year
+    300,000 applications each year
 
 
 digital-strategy-statement: |
-  End-to-end digital transformation of the Office for the Public Guardian: this includes applications for Lasting Powers of Attorney by April 2013 and deputyships during 2013-14, and the processes that support them.
+    End-to-end digital transformation of the Office for the Public Guardian: this includes applications for Lasting Powers of Attorney by April 2013 and deputyships during 2013-14, and the processes that support them.
 
     
 digital-strategy-source: |
@@ -66,7 +66,7 @@ status-live:
     complete  : true
   - copy      : "New case management software goes live --- Jun 2014"
     complete  : false
-  - copy      : "Build deputyships service --- Jul -- Sep 2014"
+  - copy      : "Build deputyships service --- Jul to Sep 2014"
     complete  : false
   - copy      : "Private release of deputyship service --- Jul to Sep 2014"
     complete  : false
@@ -74,7 +74,7 @@ status-live:
     complete  : false
   - copy      : "Decommission existing case management system --- Jan to Mar 2015"
     complete  : false
-  - copy      : "Complete service goes live --- Jan to Mar 2015"
+  - copy      : "Fully integrated service goes live --- Jan to Mar 2015"
     complete  : false
 
 
@@ -101,13 +101,13 @@ videos:
     caption : Watch a description of the exemplar
   - url     : https://www.youtube.com/watch?v=MhbVCddSwV4
     caption : Watch an update filmed in May 2014, when the service went live
-  - url     : https://www.youtube.com/watch?v=Ijimev_xg4E
-    caption : Watch a short demo of some new features filmed January 2014
 
 videos-additional: |
-  Watch a [demo](https://www.youtube.com/watch?v=Espjr6YdFh4) introducing the service, filmed July 2013.
-  Watch an [update](https://www.youtube.com/ https://www.youtube.com/watch?v=3RVcK1xRwH8) showing changes to the beta service since its release, filmed December 2013
-  Watch a [demo](https://www.youtube.com/watch?v=Ijimev_xg4E) of some new features, filmed January 2014
+    Watch a [demo](https://www.youtube.com/watch?v=Espjr6YdFh4) introducing the service, filmed July 2013
+
+    Watch an [update](https://www.youtube.com/ https://www.youtube.com/watch?v=3RVcK1xRwH8) showing changes to the beta service since its release, filmed December 2013
+
+    Watch a [demo](https://www.youtube.com/watch?v=Ijimev_xg4E) of some new features, filmed January 2014
 
 
 ---
