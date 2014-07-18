@@ -24,6 +24,7 @@ detail-page-intro: |
 
 digital-strategy-statement: |
     Key benefits of service redesign will include:
+    
     * Provision of a user-friendly and convenient digital service channel.
     * Reducing the costs associated with the current paper-based system for business and government.
     * Potentially integrating with other business-focused transactions across government
@@ -39,6 +40,13 @@ scope-of-exemplar: |
 anticipated-volume:
   - number  : 100k
     caption : registrations in first year
+
+embedded-pp-graphs:
+  - graph-url: "https://www.gov.uk/performance/waste-carrier-or-broker-registration/digital-takeup"
+    graph-title: "Digital take-up"
+    graph-caption: "Proportion of registrations made using the digital service"
+  - graph-url: "https://www.gov.uk/performance/waste-carrier-or-broker-registration/user-satisfaction"
+    graph-title: "User satisfaction"
 
 
 status: "beta"

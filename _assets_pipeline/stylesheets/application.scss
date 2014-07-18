@@ -584,6 +584,24 @@ a.phase-tag {
   margin: 1em 0 0.5em 0;
 }
 
+.performance {
+  border-top: 1px solid $grey-2;
+  padding-bottom: 2em;
+
+  figure {
+    margin: 0; 
+  }
+  img {
+    max-width: 100%;
+  }
+
+  @include media(tablet) {
+    img {
+      max-width: inherit;
+    }
+  }
+}
+
 .exemplar-statement {
   border-top: 1px solid $grey-2;
 

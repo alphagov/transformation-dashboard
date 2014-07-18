@@ -41,6 +41,10 @@ anticipated-volume:
   - number  : 500m
     caption : Insurers (hits / year)
 
+embedded-pp-graphs:
+  - graph-url: "https://www.gov.uk/performance/view-driving-record/user-satisfaction"
+    graph-title: "User satisfaction"
+
 
 status: "beta"
 status-strapline: "Public beta released March 2014 with full functionality for Motor Insurance Bureau and a private beta of the identity assurance service will be in place the from end of June." 

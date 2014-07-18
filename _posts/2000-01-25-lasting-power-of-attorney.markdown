@@ -41,6 +41,16 @@ anticipated-volume:
   - number  : 300k
     caption : Applications a year
 
+embedded-pp-graphs:
+  - graph-url: "https://www.gov.uk/performance/lasting-power-of-attorney/digital-takeup"
+    graph-title: "Digital take-up"
+    graph-caption: "Proportion of applications made using the digital service"
+  - graph-url: "https://www.gov.uk/performance/lasting-power-of-attorney/user-satisfaction"
+    graph-title: "User satisfaction"
+  - graph-url: "https://www.gov.uk/performance/lasting-power-of-attorney/completion-rate"
+    graph-title: "Completion rate"
+    graph-caption: "Proportion of users who start and complete their application using the digital service"
+
 
 status: "live"
 status-strapline: "Service is live and being continuously improved and expanded."

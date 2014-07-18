@@ -115,6 +115,23 @@ layout: govuk_template
         </div>
       {% endif %}
 
+      {% if page.embedded-pp-graphs %}
+        <div class="performance">
+          <h2>Live service performance</h2>
+          {% for item in page.embedded-pp-graphs %}
+            <figure class="graph">
+              <figcaption>
+                <h3>{{ item.graph-title }}</h3>
+                {% if item.graph-caption %}
+                  <p>{{ item.graph-caption }}</p>
+                {% endif %}
+              </figcaption>
+              <a href="{{ item.graph-url }}"><img src="{{ item.graph-url }}.png" alt="{{ item.graph-caption }}" /></a>
+            </figure>
+          {% endfor %}
+        </div>
+      {% endif %}
+
       {% if page.digital-strategy-statement and page.digital-strategy-statement != '' %}
       <div class="exemplar-statement">
         <h2>Digital strategy statement</h2>

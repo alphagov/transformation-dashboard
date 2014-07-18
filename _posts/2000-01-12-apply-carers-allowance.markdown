@@ -38,6 +38,16 @@ anticipated-volume:
   - number  : 3.2m
     caption : carers in the UK
 
+embedded-pp-graphs:
+  - graph-url: "https://www.gov.uk/performance/carers-allowance/digital-takeup"
+    graph-title: "Digital take-up"
+    graph-caption: "Proportion of claims made using the digital service"
+  - graph-url: "https://www.gov.uk/performance/carers-allowance/user-satisfaction"
+    graph-title: "User satisfaction"
+  - graph-url: "https://www.gov.uk/performance/carers-allowance/completion-rate"
+    graph-title: "Completion rate"
+    graph-caption: "Proportion of users who start and complete their application using the digital service"
+
 performance-platform-url: "https://www.gov.uk/performance/transactions-explorer/service-details/dwp-carers-allowance-new-claims"
 current-volume:
   - number  : 241k
