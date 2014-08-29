@@ -48,14 +48,6 @@ embedded-pp-graphs:
     graph-title: "Completion rate"
     graph-caption: "Proportion of users who start and complete their application using the digital service"
 
-performance-platform-url: "https://www.gov.uk/performance/transactions-explorer/service-details/dwp-carers-allowance-new-claims"
-
-current-volume:
-  - number  : 241k
-    caption : Transactions per year
-  - number  : 28.5%
-    caption : Digital take-up
-
 status: "public-beta"
 status-strapline: "In public beta. Continuous improvements made in fortnightly sprints. Currently working on improving the digital form, which will involve enhanced security integration."
 
