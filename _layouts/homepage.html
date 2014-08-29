@@ -1,7 +1,190 @@
 ---
-layout: default-wrapper
-section_class: homepage
+layout: govuk_template
+
+discovery_url: 'https://www.gov.uk/service-manual/phases/discovery'
+alpha_url: 'https://www.gov.uk/service-manual/phases/alpha'
+beta_url: 'https://www.gov.uk/service-manual/phases/beta'
+live_url: 'https://www.gov.uk/service-manual/phases/live'
+
 ---
-<article role="article" class="group">
-  {{ content }}
-</article>
+
+{% assign discovery_count = '' %}
+{% assign alpha_count = '' %}
+{% assign beta_count = '' %}
+{% assign live_count = '' %}
+
+{% for post in site.posts %}
+  {% if post.legacy-exemplar != true %}
+    {% assign status = post.status | downcase %}
+    {% case status %}
+        {% when 'discovery' %}
+            {% capture discovery_count %}{{ discovery_count | append:'.' }}{% endcapture %}
+        {% when 'alpha' %}
+            {% capture alpha_count %}{{ alpha_count | append:'.' }}{% endcapture %}
+        {% when 'beta' %}
+            {% capture beta_count %}{{ beta_count | append:'.' }}{% endcapture %}
+        {% when 'public-beta' %}
+            {% capture beta_count %}{{ beta_count | append:'.' }}{% endcapture %}
+        {% when 'live' %}
+            {% capture live_count %}{{ live_count | append:'.' }}{% endcapture %}
+    {% endcase %}
+  {% endif %}
+{% endfor %}
+
+<nav role="navigation" class="breadcrumbs">
+  <ol class="group">
+    <li><a href="/">Home</a></li>
+  </ol>
+</nav>
+
+<main class="main-content" role="main">
+
+  <header class="homepage-header">
+    <h1>{{ page.headline-title }}</h1>
+    <p>{{ page.headline-subtitle }}</p>
+  </header>
+
+  <article role="article">
+
+    <h2 class="visuallyhidden">Current status</h2>
+
+    <ul class="phases group">
+      <li class="discovery">
+        <h3><a href="{{ page.discovery_url }}">Discovery</a></h3>
+        <div class="lrg-number phase-count">{{ discovery_count.size }}</div>
+        <p>{{ page.discovery-count-caption }}</p>
+        <p><a href="{{ page.discovery_url }}">Learn more about the discovery phase</a></p>
+      </li>
+
+      <li class="alpha">
+        <h3><a href="{{ page.alpha_url }}">Alpha</a></h3>
+        <div class="lrg-number phase-count">{{ alpha_count.size }}</div>
+        <p>{{ page.alpha-count-caption }}</p>
+        <p><a href="{{ page.alpha_url }}">Learn more about the alpha phase</a></p>
+      </li>
+
+      <li class="beta">
+        <h3><a href="{{ page.beta_url }}">Beta</a></h3>
+        <div class="lrg-number phase-count">{{ beta_count.size }}</div>
+        <p>{{ page.beta-count-caption }}</p>
+        <p><a href="{{ page.beta_url }}">Learn more about the beta phase</a></p>
+      </li>
+
+      <li class="live">
+        <h3><a href="{{ page.live_url }}">Live</a></h3>
+        <div class="lrg-number phase-count">{{ live_count.size }}</div>
+        <p>{{ page.live-count-caption }}</p>
+        <p><a href="{{ page.live_url }}">Learn more about the live phase</a></p>
+      </li>
+    </ul>
+
+  </article>
+
+
+  <article role="article">
+
+    <h2 class="visuallyhidden">The transformation programme</h2>
+
+    <div class="transformation-logo">
+      <img src="assets/images/transformation-logo.png" alt="Transformation programme logo" />
+    </div>
+
+    <div class="transformation-intro">
+
+      {{ page.intro | markdownify }}
+
+      <h3>This month&rsquo;s highlights</h3>
+      {{ page.this-month | markdownify }}
+
+      <h3>Next month</h3>
+      {{ page.next-month | markdownify }}
+
+    </div>
+
+    <div class="videos">
+
+      {% for item in page.videos %}
+
+      <h3>{{ item.caption }}:</h3>
+
+      <div class="media-player-wrapper">
+        <a href="{{ item.url }}" class="media-player-link">{{ item.caption }}.</a>
+      </div>
+      
+      {% endfor %}
+
+    </div>
+
+  </article>
+
+  <article role="article">
+    <h2 class="visuallyhidden">The exemplars</h2>
+    <table class="exemplar-listing">
+      <thead class="visuallyhidden">
+        <tr>
+          <th scope="col">Exemplar</th>
+          <th scope="col">Description</th>
+          <th scope="col">Anticipated service volume</th>
+          <th scope="col">Responsible department</th>
+        </tr>
+      </thead>
+      <tbody>
+        {% for post in site.posts reversed %}
+
+          {% if post.legacy-exemplar != true %}
+
+          <tr>
+            <td class="exemplar-number">{{ post.exemplar-number }}</td>
+            <td class="description">
+              <h3>
+                <a href="{{ site.baseurl }}{{ post.url }}">{{ post.exemplar-title }}</a>
+                {% if post.status == 'public-beta' %}
+                  <span class="phase-tag beta">Beta</span>
+                  <span class="phase-tag public">Public</span>
+                {% else %}
+                  <span class="phase-tag {{ post.status | downcase }}">{{ post.status }}</span>
+                {% endif %}
+              </h3>
+              {{ post.homepage-intro | markdownify }}
+            </td>
+            <td class="volume">
+              {% for item in post.anticipated-volume %}
+                  {% if forloop.first %}
+                      <span class="volume-number">{{ item.number }}</span>
+                      <span class="volume-caption">{{ item.caption }}</span>
+                  {% endif %}
+              {% endfor %}
+            </td>
+            <td class="department">
+              {% assign dept_css_class = '' %}
+              {% case post.department %}
+                  {% when 'Cabinet Office' %}
+                    {% capture dept_css_class %}co{% endcapture %}
+                  {% when 'Department<br>for Business<br>Innovation & Skills' %}
+                    {% capture dept_css_class %}bis{% endcapture %}
+                  {% when 'Department<br>for Environment<br>Food & Rural Affairs' %}
+                    {% capture dept_css_class %}defra{% endcapture %}
+                  {% when 'Department<br>for Transport' %}
+                    {% capture dept_css_class %}dft{% endcapture %}
+                  {% when 'Department<br>for Work &<br>Pensions' %}
+                    {% capture dept_css_class %}dwp{% endcapture %}
+                  {% when 'HM Revenue<br>& Customs' %}
+                    {% capture dept_css_class %}hmrc{% endcapture %}
+                  {% when 'Home Office' %}
+                    {% capture dept_css_class %}ho{% endcapture %}
+                  {% when 'Ministry<br>of Justice' %}
+                    {% capture dept_css_class %}moj{% endcapture %}
+              {% endcase %}
+              <a href="{{ post.department-url }}" class="organisation-logo {{ dept_css_class }}">
+                <span>{{ post.department }}</span>
+              </a>
+            </td>
+          </tr>
+          {% endif %}
+
+        {% endfor %}
+      </tbody>
+    </table>
+  </article>
+
+</main>

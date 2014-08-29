@@ -1,0 +1,76 @@
+// As per https://github.com/alphagov/whitehall/blob/master/app/assets/stylesheets/frontend/styleguide/_colours.scss
+
+// Web safe department colours for exemplars
+$cabinet-office-websafe: #347da4;
+$department-for-business-innovation-skills-websafe: #347da4;
+$department-for-environment-food-rural-affairs-websafe: #67650f;
+$department-for-transport-websafe: #398373;
+$department-for-work-pensions-websafe: #37807b;
+$hm-revenue-customs-websafe: #008770;
+$home-office-websafe: #9440b2;
+$ministry-of-justice-websafe: #5A5C92;
+
+.organisation-logo {
+  font-family: Helvetica, Arial;
+  font-weight: 400;
+  display: block;
+  position: relative;
+  font-size: 18px;
+  line-height: 20px;
+  padding: 25px 0 0 7px;
+  margin-bottom: 1em;
+  border-left: 2px solid;
+  background-repeat: no-repeat;
+  background-position: 6px top;
+  background-size: auto 25px;
+  background-image: url("images/crests/org_crest_18px.png");
+  
+  @media all and (-webkit-min-device-pixel-ratio: 2) {
+  	background-image: url("images/crests/org_crest_18px_x2.png");
+	}
+  
+  &:link,
+  &:visited {
+    color: #000;
+    text-decoration: none;
+  }
+
+  // Sorry, acronyms.
+  &.co { border-color: $cabinet-office-websafe; }
+  &.defra { border-color: $department-for-environment-food-rural-affairs-websafe; }
+  &.dft { border-color: $department-for-transport-websafe; }
+  &.dwp { border-color: $department-for-work-pensions-websafe; }
+  &.moj { border-color: $ministry-of-justice-websafe; }
+
+  &.bis {
+    border-color: $department-for-business-innovation-skills-websafe;
+    background-image: url("images/crests/bis_crest_18px.png");
+    @media all and (-webkit-min-device-pixel-ratio: 2) {
+      background-image: url("images/crests/bis_crest_18px_x2.png");
+    }
+  }
+  &.ho {
+    border-color: $home-office-websafe;
+    background-image: url("images/crests/ho_crest_18px.png");
+    @media all and (-webkit-min-device-pixel-ratio: 2) {
+      background-image: url("images/crests/ho_crest_18px_x2.png");
+    }
+  }
+  &.hmrc {
+    border-color: $hm-revenue-customs-websafe;
+    background-image: url("images/crests/hmrc_crest_18px.png");
+    @media all and (-webkit-min-device-pixel-ratio: 2) {
+      background-image: url("images/crests/hmrc_crest_18px_x2.png");
+    }
+  }
+
+  span {
+	display: block;
+	position: relative;
+	top: 3px;
+    color: #000;
+    padding: 0;
+    margin: 0;
+  }
+}
+

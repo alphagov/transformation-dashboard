@@ -1,0 +1,693 @@
+@import 'colours';
+@import 'typography';
+@import 'measurements';
+@import 'css3';
+@import 'conditionals';
+
+// based on Whitehall - dept colours and logos
+@import 'departments';
+
+// match www.gov.uk footer links (_footer_top.html)
+@import 'alphagov-static-footer';
+
+// https://github.com/alphagov/static - picked resets
+@import 'static-resets';
+
+// govuk_toolkit - media player styles
+@import 'media-player.scss';
+
+// phase colours:
+$discovery-colour: $fuschia;
+$alpha-colour: $pink;
+$beta-colour: $orange;
+$live-colour: $grass-green;
+
+// --------------------------------------------------------- //
+// basic layout:
+
+.main-content {
+  display: block; // Opera and <main> element
+  max-width: 60em;
+  margin: 0 auto;
+  padding: 0 1em 2em 1em;
+
+  @include ie-lte(8) {
+    width: 960px;
+  }
+}
+
+.content-body {
+  @include box-sizing(border-box);
+
+  @include media(desktop) {
+    width: $two-thirds;
+    float: left;
+    padding-right: 60px;
+  }
+
+  @include ie-lte(7) {
+    width: 580px;
+    padding-right: 0;
+  }
+}
+
+.content-sidebar {
+  @include box-sizing(border-box);
+
+  @include media(desktop) {
+    width: $one-third;
+    float: right;
+    padding-left: 20px;
+  }
+
+  @include ie-lte(7) {
+    width: 300px;
+  }
+}
+
+// --------------------------------------------------------- //
+
+// gov.uk breadcrumbs
+
+.breadcrumbs {
+  margin: 0 auto;
+  padding: 0 1em;
+  max-width: 60em;
+
+  @include ie(6) {
+    width: 960px;
+  }
+
+  ol {
+    margin: 0;
+    padding: 0.75em 0;
+    border-top: 10px solid $mainstream-brand;
+  }
+
+  li {
+    @include core-16;
+    background-image: url("images/separator.png");
+    background-position: 100% 50%;
+    background-repeat: no-repeat;
+    float: left;
+    list-style: none;
+    margin-left: 0;
+    margin-right: 0.5em;
+    margin-bottom: 0.4em;
+    padding-right: 1em;
+
+    @include device-pixel-ratio() {
+      background-image: url("images/separator-2x.png");
+      background-size: 6px 11px;
+    }
+
+    &:last-child {
+      background-image: none;
+      margin-right: 0
+    }
+  }
+
+  a {
+    color: $text-colour;
+  }
+
+  strong {
+    font-weight: normal;
+  }
+}
+
+// --------------------------------------------------------- //
+
+// Typography bits
+
+h1 {
+    @include bold-48;
+
+    span {
+      @include core-27($line-height: 1);
+      display: block;
+      margin-bottom: 0.25em;
+      color: $secondary-text-colour ;
+    }
+}
+
+.homepage-header {
+  h1 {
+    margin: 7px 0 13px 0;
+
+    @include media(tablet) {
+      @include bold-80;
+    }
+  }
+  p {
+    @include core-24;
+    
+    @include media(tablet) {
+      //width: 85%;
+      @include core-36;
+    }
+  }
+}
+
+h2 {
+  font-weight: 700;
+}
+.exemplar-status h2 {
+  margin-top: 0;
+}
+
+h3 {
+  font-weight: 700;
+}
+
+// Basic unordered lists
+ul {
+  list-style-type: disc;
+  margin: 5px 0 20px 20px;
+  padding: 0;
+
+  li {
+    @include core-19;
+    margin-bottom: 5px;
+  }
+}
+
+.lrg-number {
+  @include bold-80;
+  display: block;
+
+  &.transactions-explorer {
+    color: $turquoise;
+  }
+}
+
+// --------------------------------------------------------- //
+
+.exemplar-intro {
+  margin: 1.5em 0;
+  p {
+    @include core-24;
+  }
+
+  .organisation-logo {
+    @include media(tablet) {
+      float: right;
+    }
+    @include media(desktop) {
+      float: none;
+    }
+  }
+}
+
+.phases {
+  list-style: none;
+  margin: 2em 0;
+  padding: 0 0 2em 0;
+  border-bottom: 1px solid $border-colour;
+
+  li {
+    display: block;
+    padding: 0 0 1em 0;
+    margin-left: 0;
+    text-align: center;
+
+
+    @include media(tablet) {
+      width: 24%;
+      float: left;
+      padding: 0;
+      margin: 0 (4%/6);
+
+      &:first-child {
+        margin-left: 0;
+      }
+
+      &:last-child {
+        margin-right: 0;
+      }
+      
+      @include ie-lte(8) {
+        margin: 0 (4%/8);
+      }
+    }
+
+    @include ie(6) {
+      margin: 0 (4%/4) 0 0;
+      background-color: $white;
+    }
+  }
+
+  h3 {
+    @include bold-24;
+    margin: 0;
+    background-color: $panel-colour;
+
+    a {
+      display: block;
+      padding: 0.2em 0;
+      color: $white;
+      text-decoration: none;
+    }
+
+  }
+
+  .phase-count {
+    color: $secondary-text-colour;
+    margin: 0.2em 0;
+  }
+
+  p {
+    margin: 0;
+  }
+
+  .discovery {
+    h3 {
+      background-color: $discovery-colour;
+    }
+
+    .phase-count {
+      color: $discovery-colour;
+    }
+  }
+
+  .alpha {
+    h3 {
+      background-color: $alpha-colour;
+    }
+
+    .phase-count {
+      color: $alpha-colour;
+    }
+  }
+
+  .beta {
+    h3 {
+      background-color: $beta-colour;
+    }
+
+    .phase-count {
+      color: $beta-colour;
+    }
+  }
+
+  .live {
+    h3 {
+      background-color: $live-colour;
+    }
+
+    .phase-count {
+      color: $live-colour;
+    }
+  }
+}
+
+.phase-tag {
+  display: inline-block;
+  color: $white;
+  letter-spacing: 1px;
+  text-decoration: none;
+  padding: 2px 8px 0;
+
+  &.discovery {
+    background-color: $discovery-colour;
+  }
+
+  &.alpha {
+    background-color: $alpha-colour;
+  }
+
+  &.beta {
+    background-color: $beta-colour;
+  }
+
+  &.live {
+    background-color: $live-colour;
+  }
+
+  &.public {
+    background-color: transparent;
+    color: $black;
+  }
+
+  .exemplar-listing & {
+    @include bold-16;
+    position: relative;
+    top: -2px;
+    text-transform: uppercase;
+  }
+
+  .phase-story & {
+    @include bold-19;
+    text-transform: uppercase;
+  }
+}
+
+a.phase-tag {
+  color: $white;
+}
+
+.phase-stories {
+  margin: 2em 0 0 0;
+  padding: 2em 0;
+  border-top: 1px solid $border-colour;
+  @include media(desktop) {
+    margin: 0;
+    padding-top: 0;
+    border-top: none;
+  }
+}
+  .phase-story {
+    border-left: 1px solid;
+
+    @include ie(6) {
+      background-color: $white;
+    }
+
+    &.discovery {
+      border-color: $discovery-colour;
+    }
+
+    &.alpha {
+      border-color: $alpha-colour;
+    }
+
+    &.beta {
+      border-color: $beta-colour;
+    }
+
+    &.live {
+      border-color: $live-colour;
+    }
+
+    h3 {
+      margin: 0;
+    }
+    ol {
+      list-style: none;
+      margin: 0;
+      padding: 0.5em 0 0.25em 0.5em;
+    }
+    li {
+      @include core-19;
+      margin-bottom: 0.5em;
+    }
+    &.discovery .complete {
+        color: $discovery-colour;
+    }
+    &.alpha .complete {
+        color: $alpha-colour;
+    }
+    &.beta .complete {
+        color: $beta-colour;
+    }
+    &.live .complete {
+        color: $live-colour;
+    }
+  }
+
+.transformation-logo {
+  display: block;
+  margin: 0 auto 2em auto;
+  text-align: center;
+
+  @include media(tablet) {
+    width: $one-quarter;
+    float: left;
+
+    img {
+      max-width: 80%;
+    }
+  }
+
+
+}
+
+.transformation-intro {
+  margin-bottom: 2em;
+
+  @include media(tablet) {
+    width: ($one-quarter*3);
+    float: left;
+  }
+  
+  h3 {
+    font-weight: 700;
+  }
+
+  p:first-child {
+    margin-top: 0.5em;
+  }
+}
+
+.videos {
+  clear: both;
+  padding-top: 1em;
+  border-top: 1px solid $border-colour;
+}
+  .media-player {
+    @include media-player;
+    figcaption {
+      @include core-19;
+      padding-bottom: 0.25em;
+    }
+  }
+
+.exemplar-listing {
+  display: block;
+  border-collapse: collapse;
+
+  @include media(desktop) {
+    display: table;
+  }
+
+  @include ie-lte(7) {
+    position: relative;
+  }
+
+  thead {
+    @include ie-lte(7) {
+      display: none;
+    }
+  }
+
+  tr {
+    display: block;
+    clear: both;
+
+    border-top: 1px solid $border-colour;
+    margin-top: 1em;
+    padding-top: 1em;
+
+    @include media(desktop) {
+      display: table-row;
+      margin: 0;
+      padding: 0 
+    }
+  }
+
+  td {
+    display: block;
+    float: left;
+    vertical-align: top;
+    padding: 0;
+
+    @include media(desktop) {
+      display: table-cell;
+      float: none;
+      padding: 10px 2% 1em 0;
+      margin: 0;
+      border-top: 1px solid $border-colour;
+    }
+  }
+
+  tr:first-child {
+    margin-top: 0;
+    padding-top: 0;
+    border-top: none;
+    td {
+      border-top: none;
+    }
+  }
+
+  .exemplar-number {
+    width: 10%;
+
+    @include media(tablet) {
+      width: 5%;
+    }
+
+    @include media(desktop) {
+      text-align: right;
+    }
+  }
+  
+  .description {
+    width: 90%;
+
+    @include media(tablet) {
+      width: 95%;
+    }
+
+    @include media(desktop) {
+      float: none;
+      width: 55%;
+    }
+  }
+  .volume {
+    margin-left: 10%;
+    width: 90%;
+    padding-bottom: 1em;
+
+    @include media(tablet) {
+      margin-left: 5%;
+      width: 95%;
+    }
+
+    @include media(desktop) {
+      float: none;
+      width: 20%;
+      margin-left: 0;
+    }
+  }
+  .department {
+    margin-left: 10%;
+    width: 90%;
+    padding-bottom: 1em;
+
+    @include media(tablet) {
+      margin-left: 5%;
+      width: 95%;
+    }
+
+    @include media(desktop) {
+      float: none;
+      width: 20%;
+      margin-left: 0;
+    }
+  }
+
+  h3,
+  .exemplar-number,
+  .volume-number {
+    @include bold-24;
+  }
+  .volume-number,
+  .volume-caption {
+    display: block;
+  }
+
+  h3 {
+    margin-top: 0;
+  }
+  .volume-caption {
+    @include core-19;
+  }
+}
+
+.programme {
+  @include core-19;
+  margin: 1em 0 0.5em 0;
+}
+
+.performance {
+  border-top: 1px solid $grey-2;
+  padding-bottom: 2em;
+
+  figure {
+    margin: 0; 
+  }
+  img {
+    max-width: 100%;
+  }
+
+  @include media(tablet) {
+    img {
+      max-width: inherit;
+    }
+  }
+}
+
+.exemplar-statement {
+  border-top: 1px solid $grey-2;
+
+  @include ie(6) {
+    clear: both;
+  }
+
+  blockquote {
+    position: relative;
+    margin: 1em 0;
+
+    @include ie(6) {
+      position: static;
+    }
+
+    p {
+      @include core-24;
+    }
+
+    cite {
+      @include core-19;
+    }
+
+    &:before {
+      content: "“";
+      @include bold-80;
+      font-size: 200px;
+      color: $panel-colour;
+
+      z-index: -1;
+      position: absolute;
+      left: -10px;
+      top: -10px;
+
+      @include media(tablet) {
+        left: -30px;
+        top: -30px;
+      }
+    }
+  }
+
+  cite {
+    font-style: normal;
+  }
+}
+
+.screengrabs {
+  margin-top: 3em;
+}
+  .screengrab {
+    @include media(tablet) {
+      float: left;
+      width: 47.5%;
+      margin: 0 0 2em 5%;
+      &:nth-child(odd) {
+        margin-left: 0;
+        clear: left;
+      }
+    }
+
+    @include ie-lte(8) {
+      float: none;
+      display: inline-block;
+      margin-left: 0;
+      vertical-align: top;
+    }
+    
+    img {
+      width: 100%;
+      border: 1px solid $border-colour;
+
+      @include ie-lte(8) {
+        width: 250px;
+      }
+    }
+  }
+
+.unit {
+    border-bottom: 1px solid $border-colour;
+}
+
+.updated {
+  color: $secondary-text-colour;
+}

@@ -1,0 +1,96 @@
+---
+
+layout: exemplar
+
+exemplar-title: "PAYE for employees"
+exemplar-number: 15
+exemplar-blog-url: "www.hmrcdigital.blog.gov.uk"
+
+
+department: "HM Revenue<br>& Customs"
+permanent-secretary: "Lin Homer"
+digital-leader: "Mark Dearnley"
+department-url: "https://www.gov.uk/government/organisations/hm-revenue-customs"
+
+
+homepage-intro: |
+    If you want to check or update your PAYE status you’ll be able to do it online, and see the effect on the tax you pay
+
+detail-page-intro: |
+   Making Pay As You Earn digital for 41 million employees
+
+
+digital-strategy-statement: |
+    ...giving customers the ability to update information that helps us better calculate their tax code… Customers will begin with improved guidance that leads them through a clear explanation of the tax code they have received. If customers have had a change in circumstances that impacts their tax code they can submit information via an online form.
+    
+digital-strategy-source: |
+    From the '[HM Revenue & Customs digital strategy](https://www.gov.uk/government/publications/digital-strategy-december-2012)' --- December 2012
+    
+
+scope-of-exemplar: |
+    This service will provide digital PAYE services for people in employment (benefits in kind). The initial release will allow people to report changes to their company car tax. This service will be built on a new ‘digital tax platform’ and, for the first time, deliver digital services for PAYE customers which will eventually replace the current HMRC Portal and be the default platform for new user-facing services. The new tax platform will be fully integrated with new identity assurance service.
+
+
+anticipated-volume:
+  - number  : 41m
+    caption : Registered PAYE employees
+
+
+status: "beta"
+status-strapline: "In beta. This service is being built alongside [exemplar 16: Digital self-assessment](/transformation/self-assessment) and [exemplar 17: Your tax account](/transformation/business-tax-account)."
+
+
+status-discovery:
+  - copy      : "Completed: Discovery --- Feb 2013"
+    complete  : true
+
+status-alpha:
+  - copy      : "Complete: Tax platform alpha build --- Mar to May 2013"
+    complete  : true
+
+status-beta:
+  - copy      : "Completed: Develop private beta --- Jun 2013 to Jan 2014"
+    complete  : true
+  - copy      : "Completed: Private beta release --- Feb 2014"
+    complete  : true
+  - copy      : "Public beta release --- Jul to Sep 2014"
+    complete  : false
+ 
+status-live:
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
+    complete  : false
+
+
+successes: |
+  - Private beta released in February 2014
+  - Workspace and broadband problems resolved
+  
+challenges: |
+  - Ensuring the private beta has enough users to identify data issues
+  - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
+  
+next-steps: |
+  - Continue beta development and improve quality of data matching alongside [identity assurance](https://identityassurance.blog.gov.uk/)  
+
+videos:
+  - url     : https://www.youtube.com/watch?v=K59WRzw8heY
+    caption : Watch a description of the exemplar
+  - url     : https://www.youtube.com/watch?v=5LDwjlljLxA
+    caption : Watch an update on the beta, filmed December 2013
+  - url     : https://www.youtube.com/watch?v=KNLwiUy5YoQ
+    caption : Watch a short demo, reporting a new company car online, filmed January 2014
+
+videos-additional: |
+  You can also watch a [demo](https://www.youtube.com/watch?v=z84SZaB3bRs) introducing the service, filmed July 2013.
+
+
+screengrabs:
+  - filename    : "15-01-exemplar-paye.png"
+    caption     : "Beta of PAYE for employees, December 2013."
+
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for PAYE for employees](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#paye-for-employees).
+---
+
+
+
