@@ -149,6 +149,11 @@ layout: govuk_template
       {{ page.scope-of-exemplar | markdownify }}
       {% endif %}
 
+      {% if page.digital-inclusion and page.digital-inclusion != '' %}
+      <h2>Digital inclusion</h2>
+      {{ page.digital-inclusion | markdownify }}
+      {% endif %}
+
     </div>
 
     <div class="content-sidebar">
