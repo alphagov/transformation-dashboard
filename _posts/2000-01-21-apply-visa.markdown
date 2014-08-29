@@ -47,7 +47,7 @@ current-cost:
     caption : "Cost per transaction"
 
 
-status: "beta"
+status: "public-beta"
 status-strapline: "Developing the beta service."
 
 status-discovery:

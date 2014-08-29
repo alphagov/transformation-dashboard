@@ -50,7 +50,7 @@ current-cost:
     caption : "Cost per transaction"
 
 
-status: "beta"
+status: "public-beta"
 status-strapline: "In beta. Development of the beta is ongoing with user research of the prototype under way at more than 85 Category B prisons, including Youth and Women’s."
 
 status-discovery:

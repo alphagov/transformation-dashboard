@@ -23,6 +23,8 @@ live_url: 'https://www.gov.uk/service-manual/phases/live'
             {% capture alpha_count %}{{ alpha_count | append:'.' }}{% endcapture %}
         {% when 'beta' %}
             {% capture beta_count %}{{ beta_count | append:'.' }}{% endcapture %}
+        {% when 'public-beta' %}
+            {% capture beta_count %}{{ beta_count | append:'.' }}{% endcapture %}
         {% when 'live' %}
             {% capture live_count %}{{ live_count | append:'.' }}{% endcapture %}
     {% endcase %}
@@ -136,7 +138,12 @@ live_url: 'https://www.gov.uk/service-manual/phases/live'
             <td class="description">
               <h3>
                 <a href="{{ site.baseurl }}{{ post.url }}">{{ post.exemplar-title }}</a>
-                <span class="phase-tag {{ post.status | downcase }}">{{ post.status }}</span>
+                {% if post.status == 'public-beta' %}
+                  <span class="phase-tag beta">Beta</span>
+                  <span class="phase-tag public">Public</span>
+                {% else %}
+                  <span class="phase-tag {{ post.status | downcase }}">{{ post.status }}</span>
+                {% endif %}
               </h3>
               {{ post.homepage-intro | markdownify }}
             </td>

@@ -49,7 +49,7 @@ embedded-pp-graphs:
     graph-title: "User satisfaction"
 
 
-status: "beta"
+status: "public-beta"
 status-strapline: "This service is being developed in two phases. Phase 1 is for basic registration for some waste carriers, while phase 2 will add new features, such as payments and renewal, and cater for all waste carriers. Phase 1 is in public beta. Phase 2 is in development."
 
 status-discovery:

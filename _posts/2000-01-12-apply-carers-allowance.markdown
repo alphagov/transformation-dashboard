@@ -56,7 +56,7 @@ current-volume:
   - number  : 28.5%
     caption : Digital take-up
 
-status: "beta"
+status: "public-beta"
 status-strapline: "In public beta. Continuous improvements made in fortnightly sprints. Currently working on improving the digital form, which will involve enhanced security integration."
 
 status-discovery:

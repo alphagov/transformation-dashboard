@@ -46,7 +46,7 @@ embedded-pp-graphs:
     graph-title: "User satisfaction"
 
 
-status: "beta"
+status: "public-beta"
 status-strapline: "The public beta was released March 2014. Full functionality for Motor Insurers’ Bureau will be in place from the end of August." 
 
 status-discovery:

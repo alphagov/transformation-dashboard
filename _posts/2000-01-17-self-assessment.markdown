@@ -36,7 +36,7 @@ anticipated-volume:
     caption : Small businesses and people in self assessment 
 
 
-status: "beta"
+status: "public-beta"
 status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 16: Digital self-assessment](/transformation/self-assessment)."
 
 status-discovery:

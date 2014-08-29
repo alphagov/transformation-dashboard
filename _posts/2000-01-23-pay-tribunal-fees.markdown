@@ -39,7 +39,7 @@ anticipated-volume:
     caption : Transactions per year
 
 
-status: "beta"
+status: "public-beta"
 status-strapline: "In beta and on track."
 
 status-discovery:

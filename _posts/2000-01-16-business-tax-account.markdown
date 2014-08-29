@@ -29,17 +29,17 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-The new digital self-assessment exemplar service will allow users to opt out of receiving paper statements and receive digital alerts instead. Like all the HMRC exemplar services, it will be built on the new digital tax platform. The aim is for this exemplar service to save HMRC £800,000 this year by:
-- persuading 1.3 million customers to opt into the service
-- putting an end to 2.5 million letters
-- reducing the number of phone calls placed by 63,000
+  The new digital self-assessment exemplar service will allow users to opt out of receiving paper statements and receive digital alerts instead. Like all the HMRC exemplar services, it will be built on the new digital tax platform. The aim is for this exemplar service to save HMRC £800,000 this year by:
+  - persuading 1.3 million customers to opt into the service
+  - putting an end to 2.5 million letters
+  - reducing the number of phone calls placed by 63,000
 
 anticipated-volume:
   - number  : 10m
     caption : Registered for self-assessment
 
 
-status: "beta"
+status: "public-beta"
 status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 17: Your tax account](/transformation/business-tax-account)."
 
 status-discovery:
