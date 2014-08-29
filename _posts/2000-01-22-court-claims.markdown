@@ -42,8 +42,8 @@ current-volume:
     caption : "Transactions per year"
 
 
-status: "beta"
-status-strapline: "In beta. The first service - Accelerated Claims which handles 35,000 claims a year - is in beta."
+status: "live"
+status-strapline: "The first service to be transformed - accelerated property possession claims which handles 35,000 claims a year - is now live."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Jul 2013"
@@ -58,30 +58,31 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Start beta development --- Nov 2013"
     complete  : true
-  - copy      : "Private beta release --- date tbc"
-    complete  : false
-  - copy      : "Public beta release --- date tbc"
+  - copy      : "Completed: Public beta release for accelerated property possession claims--- May 2014"
+    complete  : true
 
 status-live:
-  - copy      : "Service goes live --- Jul to Sep 2014"
-    complete  : false
+  - copy      : "Completed: Service goes live (depending on Service Standard Assessment) --- Aug 2014"
+    complete  : true
 
 
 successes: |
   - User research set up for each [sprint](/service-manual/agile/features-of-agile.html#sprints)
   - Cross-disciplinary team in place
-  - Plan in place for public beta of accelerated property possession claim 
-  - Better use of GDS’ user interface design patterns 
+  - Better use of GDS’ user interface design patterns
+  - Accelerated property possession claims has been released to users and is live
   
 challenges: |
   - Making language simpler while ensuring the accurate use of legal terminology
   - Integrating the exemplar with the wider civil claims and civil justice digital service
   
 next-steps: |
-  - Continue user research and development
-  - Prepare service for next Digital by Default Service Standard assessment and public beta release
+  - Continuously improve live service based on user feedback
+  - Grow the service to include other claim types
+  - Investigate the viability of a ‘save and return’ function, online tracking and digital payments for potential use across the whole civil claims service
 
-
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Civil claims](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#civil-claims).
 
 ---
 

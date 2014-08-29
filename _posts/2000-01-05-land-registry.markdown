@@ -28,7 +28,7 @@ digital-strategy-source: |
 
 
 status: "alpha"
-status-strapline: "In alpha. Land Registry in alpha which involves building the minimal viable product based on user needs. The service will use the lessons of the [concept](http://blog.landregistry.gov.uk/digital-land-registry-completing-concept/) to build an alpha service."
+status-strapline: "In alpha.  The service will use the lessons from the recent  [Land Registry concept](http://blog.landregistry.gov.uk/digital-land-registry-completing-concept/)."
 
 status-discovery:
   - copy        : "Completed: Discovery --- Mar 2014"
@@ -37,32 +37,39 @@ status-discovery:
 status-alpha:
   - copy        : "Completed: Proof of concept --- May 2014"
     complete    : true
-  - copy        : "Start alpha build --- Jul 2014"
+  - copy        : "Completed: Start alpha build --- Jul 2014"
+    complete    : true
+  - copy        : "Alpha Service Standard Assessment --- Oct 2014"
     complete    : false
 
 status-beta:
-  - copy    : "Dates to be confirmed"
+  - copy    : "Start beta development --- Oct to Dec 2014"
     complete  : false
 
 status-live:
-  - copy    : "Dates to be confirmed"
+  - copy    : "Service goes live (depending on Service Standard Assessment) --- dates to be confirmed"
     complete  : false
 
 successes: |
-  - Land Registry and GDS developed a proof of concept showing how a digital service could look
+  - Land Registry and GDS developed a concept showing how a digital service could look
   - A team of Land Registry and GDS employees are working together as one team to build an alpha    
 
 challenges: |
-  - Standing up technical environment to support alpha production 
+  - Split location with development team based in Plymouth means lost development time due to travel, amplified by many people on annual leave
 
 next-steps: |
-  - Land Registry and GDS to begin alpha development 
+  - Continue development of alpha
+  - Programme planning for digital change inside the agency and a roadmap for developing the service
 
 videos:
   - url   : https://www.youtube.com/watch?v=zpKKA80ClUk
     caption : Watch footage from the 'alpha in a day' event in July 2013, held by the Land Registry and the Government Digital Service
-  - url   : https://www.youtube.com/watch?v=c0QEWLzinZQ
-    caption : Watch a demonstration of the mapping tool, filmed July 2013
+  - url   : https://www.youtube.com/watch?v=RgabStTyN4E
+    caption : Watch a video about completing the concept, filmed May 2014
+
+screengrabs:
+  - filename    : 5-01-land-registry.png
+    caption     : Property details page
 
 
 ---

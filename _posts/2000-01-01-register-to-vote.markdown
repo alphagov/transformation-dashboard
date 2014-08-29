@@ -68,27 +68,31 @@ status-beta:
 status-live:
   - copy      : "Completed: Service goes live (England and Wales) --- Jun 2014"
     complete  : true
-  - copy      : "Completed: National media campaign begins --- Jul 2014"
+  - copy      : "Completed: Start national media campaign --- Jul 2014"
     complete  : true
-  - copy      : "Service goes live (Scotland) --- Jul to Sep 2014"
+  - copy      : "Service goes live (Scotland) --- Sep 2014"
     complete  : false
 
 
 successes: |
   - Minister gave live demo of register to vote transaction at the Sprint 14 event in January 
   - 387 local authorities can now check electoral registers against Department for Work and Pensions data
-  - Registration details of 46 million people checked during dry-run with all local authorities
+  - Registration details of 46 million people checked by all local authorities in England and Wales
   - Built online registration service for 99.9% of voters
   - Live service released for users in England and Wales
+  - Welsh language service released
+  - Live performance dashboard released
   
 challenges: |
   - Ensuring the Cabinet Office’s capability to run the live service
 
 next-steps: |
-  - Build the team needed to run the live service
-  - Work on Welsh language transaction
+  - Confirm the existing registers in Scotland
+  - Release service for Scottish citizens 
 
 videos:
+  - url     : https://www.youtube.com/watch?v=RqZ9e1GXJLo
+    caption : Watch a video about the live service, filmed July 2014
   - url     : https://www.youtube.com/watch?v=TF4Nywjjie8
     caption : Watch a short description of the exemplar, filmed December 2013
   - url     : https://www.youtube.com/watch?v=uofEn9NtcgM
@@ -107,6 +111,10 @@ screengrabs:
     caption     : Completion page, December 2013
   - filename    : 1-exemplar-electoral-registration.png
     caption     : Beta homepage, July 2013
+
+
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Electoral registration](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#electoral-registration).
 
 
 ---

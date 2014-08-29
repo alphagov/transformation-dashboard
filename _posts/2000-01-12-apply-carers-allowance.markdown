@@ -2,7 +2,7 @@
 
 layout: exemplar
 
-exemplar-title: "Claim Carer's Allowance"
+exemplar-title: "Carer’s Allowance"
 exemplar-number: 12
 exemplar-performance-dashboard-url: "https://www.gov.uk/performance/carers-allowance"
 exemplar-blog-url: "https://dwpdigital.blog.gov.uk/"
@@ -49,6 +49,7 @@ embedded-pp-graphs:
     graph-caption: "Proportion of users who start and complete their application using the digital service"
 
 performance-platform-url: "https://www.gov.uk/performance/transactions-explorer/service-details/dwp-carers-allowance-new-claims"
+
 current-volume:
   - number  : 241k
     caption : Transactions per year
@@ -56,7 +57,7 @@ current-volume:
     caption : Digital take-up
 
 status: "beta"
-status-strapline: "In public beta. Continuous improvements made in fortnightly sprints. Currently working on improving the delivery of the completed digital form, which will involve enhanced security integration."
+status-strapline: "In public beta. Continuous improvements made in fortnightly sprints. Currently working on improving the digital form, which will involve enhanced security integration."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Sep 2013"
@@ -81,8 +82,8 @@ status-live:
     complete  : false
 
 successes: |
-  - 73,000 digital claims submitted since release of public beta
-  - 52% of applications are now made using the digital service
+  - 90,000 digital claims submitted since release of public beta
+  - 60% of applications are now made using the digital service
   - User satisfaction ratings of approximately 90%
   - Change of circumstances can now be reported online
   - Welsh language version of the service released
@@ -94,6 +95,8 @@ challenges: |
 next-steps: |
   - Build the digital capability to run the service within the department  
   - Integrate the service with more of the department’s systems to improve efficiency for agents and reduce paper processing
+  - Build an Assisted Digital service
+  - Prepare for live Digital by Default Service Standard assessment
   
 
 videos:
@@ -105,13 +108,14 @@ videos:
 videos-additional: |
   You can also watch a [demo](https://www.youtube.com/watch?v=kLAs4fkTZtk), checking whether you're eligible to make a claim, filmed July 2013.
 
-
 screengrabs:
   - filename    : "12-exemplar-claim-carers-allowance.png"
     caption     : "Beta of the eligibility form"
   - filename    : "12-existing-claim-carers-allowance.png"
     caption     : "Former service (now switched off)"
 
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Claim Carer’s Allowance](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#claim-carers-allowance).
 
 ---
 

@@ -50,26 +50,28 @@ embedded-pp-graphs:
 
 
 status: "beta"
-status-strapline: "This service is being developed in two phases. Phase 1 is for basic registration for some waste carriers, while phase 2 will add new features such as payments and renewal and cater for all waste carriers. Phase 1 is in public beta. Phase 2 is in development. The service for all waste carriers will be released in the summer."
+status-strapline: "This service is being developed in two phases. Phase 1 is for basic registration for some waste carriers, while phase 2 will add new features, such as payments and renewal, and cater for all waste carriers. Phase 1 is in public beta. Phase 2 is in development."
 
 status-discovery:
   - copy        : "Completed: Phase 1 discovery --- Jul 2012"
     complete    : true
 
 status-alpha:
-  - copy        : "Completed: Phase 1 alpha --- Oct 2013"
+  - copy        : "Completed: Finish Phase 1 alpha --- Oct 2013"
     complete    : true
-  - copy        : "Completed: Phase 2 alpha --- Jun 2014"
+  - copy        : "Completed: Finish Phase 2 alpha --- Jun 2014"
     complete    : true
 
 status-beta:
-  - copy        : "Completed: Phase 1 public beta --- Dec 2013 to Apr 2014"
-    complete    : true
-  - copy        : "Phase 2 private beta --- Jul 2014"
+  - copy    : "Completed: Run Phase 1 public beta --- Dec 2013 to Apr 2014"
+    complete  : true
+  - copy    : "Start Phase 2 private beta --- Aug 2014"
+    complete  : false
+  - copy        : "Start Phase 1 and 2 combined public beta --- Jul to Sep 2014"
     complete    : false
 
 status-live:
-  - copy    : "Full service goes live (depending on user feedback) --- Jul to Sep 2014"
+  - copy    : "Full service goes live --- Jul to Sep 2014"
     complete  : false
 
 successes: |
@@ -78,16 +80,16 @@ successes: |
   - Updates to beta released without disrupting the service for users
   - Over 20,000 users registered in the first 6 months
   - 96% of users registered online with a satisfaction rating of 89%
-  - Just 4% of users asked for assistance when registering online 
+  - Defra minister successfully used service on July 8 2014 
   
 challenges: |
   - Assembling and managing the team to run the live service 
   
 next-steps: |
-  - Iterate the beta service to include a payments and renewal service and cater for all waste carriers by mid-August
+  - Iterate the service to include a payments and renewal and cater for all waste carriers by early September
   - Consider how far the underlying platform can be used for other Defra digital services
   - Share lessons from this exemplar across the Environment Agency and Defra
-  - Plan for live Service Standard Assessment
+  - Prepare for the live Service Standard Assessment 
 
 videos:
   - url   : https://www.youtube.com/watch?v=rSbfeVF1Fmg
@@ -104,6 +106,12 @@ screengrabs:
     caption     : Screenshot of service start page
   - filename    : 7-02-exemplar-waste-carrier.png
     caption     : Screenshot of registration process
+  - filename    : 7-03-exemplar-waste-carrier.jpg
+    caption     : Defra minister Dan Rogerson tests the exemplar service, July 2014
+
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Waste carrier registration](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#waste-carrier-registration).
+
 
 ---
 

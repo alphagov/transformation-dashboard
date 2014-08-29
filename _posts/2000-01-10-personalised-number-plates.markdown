@@ -37,41 +37,42 @@ anticipated-volume:
     caption : Transactions a year
 
 
-status: "alpha"
-status-strapline: "Alpha development under way"
+status: "beta"
+status-strapline: "In beta"
 
 status-discovery:
   - copy      : "Completed: Discovery --- Oct 2013"
     complete  : true
 
 status-alpha:
-  - copy      : "Alpha build --- May to Jul 2014"
+  - copy      : "Completed: Start alpha build --- May 2014"
+    complete  : true
+  - copy      : "Completed: Finish alpha build --- Jul 2014"
     complete  : true
 
 status-beta:
-  - copy      : "Start beta development --- Jul to Sep 2014"
-    complete  : false
+  - copy      : "Completed: Start beta development --- Jul to Sep 2014"
+    complete  : true
   - copy      : "Release public beta --- date to be confirmed"
     complete  : false
 
 status-live:
-  - copy      : "Service goes live --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
     complete  : false
 
 
 successes: |
-  - Discovery phase complete
   - User research undertaken into public and motor trade requirements
   - Data integration issues investigated
+  - Passed alpha Digital by Default Service Standard Assessment
   
 challenges: |
   - Turning complicated paper, telephone and electronic transactions into a simple digital service
-  - Integrating with current systems and connecting to a secure cloud environment
+  - Integrating service with other digital projects and legacy databases and connecting to a secure cloud environment
   - Managing delivery alongside strategic transformation projects like the abolition of the tax disc, payments and direct debits
   
 next-steps: |
-  - Prepare for alpha Digital by Default Service Standard assessment
-  - Integrate service with existing systems and data
+  - Start beta development
   - Continue user research
   - Bring new team members on board
 
@@ -81,8 +82,8 @@ videos:
   - url     : https://www.youtube.com/watch?v=HykO6DRfznQ
     caption : Watch an update from the DVLA team, filmed December 2013
 
-
-
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Personalised registrations](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#personalised-registrations).
 
 
 ---

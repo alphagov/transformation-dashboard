@@ -35,6 +35,7 @@ anticipated-volume:
     caption : Students supported
 
 performance-platform-url: "https://www.gov.uk/performance/bis-student-finance-applications-full-time-study"
+
 current-volume:
   - number  : 1.17m
     caption : transactions per year
@@ -62,13 +63,16 @@ status-alpha:
   - copy        : "Completed: Application processing system alpha --- Jan 2014"
     complete    : true
 
+
 status-beta:
-  - copy        : "Completed: 24+ advanced learning loan application public beta release --- Aug 2013"
-    complete    : true  
-  - copy        : "Full-time student applications beta development --- Jan 2014 onwards"
-    complete    : true 
-  - copy        : "Application processing system beta development --- Jul to Sep 2014"
-    complete    : false
+  - copy    : "Completed: 24+ advanced learning loan application public beta release --- Aug 2013"
+    complete  : true  
+  - copy    : "Completed: Start full-time student applications beta development --- Jan 2014"
+    complete  : true 
+  - copy    : "Completed: Start application processing system beta development --- Jul 2014"
+    complete  : true
+  - copy    : "Finish application processing system beta development --- Sep 2014"
+    complete  : false
 
 status-live:
   - copy    : "Completed: Part-time student loan application service goes live --- Oct 2012"
@@ -106,5 +110,8 @@ videos:
 screengrabs:
   - filename    : "6-01-student-finance.png"
     caption     : "Full-time student finance application 2014-15" 
+
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See rating for Student finance](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#student-finance).
 
 ---

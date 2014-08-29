@@ -72,15 +72,15 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Completed: Service goes live (depending on user feedback) --- May 2014"
+  - copy      : "Completed: Service goes live --- May 2014"
     complete  : true
-  - copy      : "New case management software goes live --- Jun 2014"
+  - copy      : "New case management software goes live --- Aug to Sep 2014"
     complete  : false
   - copy      : "Build deputyships service --- Jul to Sep 2014"
     complete  : false
-  - copy      : "Private release of deputyship service --- Jul to Sep 2014"
+  - copy      : "Private release of deputyship service --- Aug to Sep 2014"
     complete  : false
-  - copy      : "Public release of deputyship service --- Jul to Sep 2014"
+  - copy      : "Public release of deputyship service --- Aug to Sep 2014"
     complete  : false
   - copy      : "Decommission existing case management system --- Jan to Mar 2015"
     complete  : false
@@ -113,14 +113,13 @@ videos:
     caption : Watch an update filmed in May 2014, when the service went live
 
 videos-additional: |
-    Watch a [demo](https://www.youtube.com/watch?v=Espjr6YdFh4) introducing the service, filmed July 2013
+  Watch a [demo](https://www.youtube.com/watch?v=Espjr6YdFh4) introducing the service, filmed July 2013.
+  Watch an [update](https://www.youtube.com/ https://www.youtube.com/watch?v=3RVcK1xRwH8) showing changes to the beta service since its release, filmed December 2013
+  Watch a [demo](https://www.youtube.com/watch?v=Ijimev_xg4E) of some new features, filmed January 2014
 
-    Watch an [update](https://www.youtube.com/ https://www.youtube.com/watch?v=3RVcK1xRwH8) showing changes to the beta service since its release, filmed December 2013
-
-    Watch a [demo](https://www.youtube.com/watch?v=Ijimev_xg4E) of some new features, filmed January 2014
-
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. See the  [mapping for Lasting power of attorney](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#lasting-power-of-attorney).
 
 ---
-
 
 

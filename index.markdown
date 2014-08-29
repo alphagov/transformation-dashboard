@@ -1,5 +1,4 @@
 ---
-
 layout: homepage
 
 discovery-count-caption: "User needs are researched and identified"
@@ -21,18 +20,21 @@ intro: |
     You can read more about the transformation programme on [our blog](https://digitaltransformation.blog.gov.uk/).
 
 this-month: |
-    - [Renew a Patent](/transformation/renew-patent) became the 4th exemplar service to go live
-    - [Passports](/transformation/passports) passed its alpha [Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment and the team can now begin work on the beta
-    - The [Visas](/transformation/apply-visa) public beta was released
+    - [View driving record](/transformation/driving-record) passed its live [Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+    - [Civil claims](/transformation/court-claims) had its live [Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+    - The [Passports](/transformation/passports) team began work on the beta service
 
 next-month: |
-    - [Prison visit booking](/transformation/book-prison-visit) completes its beta phase and will have a [Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment before going live
-    - [View driving record](/transformation/driving-record) will be assessed to see if it has met the Digital by Default [criteria](https://www.gov.uk/service-manual/digital-by-default) to go live
-    - [Civil claims](/transformation/court-claims) will also be assessed to see if it has met the Digital by Default [criteria](https://www.gov.uk/service-manual/digital-by-default) to go live
+    - [Prison visit booking](/transformation/book-prison-visit) will have a [Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment before going live
+    - [View driving record](/transformation/driving-record) goes live
+    - [Civil claims](/transformation/court-claims) goes live
+    - The [Personalised registrations](https://www.gov.uk/transformation/personalised-number-plates) team begins work on the beta service
+    - [Land Registry](https://www.gov.uk/transformation/land-registry) moves to GOV.UK
 
 videos:
-    - url: https://www.youtube.com/watch?v=MhbVCddSwV4
-      caption: A quick look at the service to make a lasting power of attorney, which went live in May, 2014
+    - url: https://www.youtube.com/watch?v=RqZ9e1GXJLo
+      caption: A quick look at Electoral registration, which went live in June 2014
+
 ---
 
 

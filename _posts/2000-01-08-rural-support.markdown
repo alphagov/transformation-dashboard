@@ -39,6 +39,7 @@ anticipated-volume:
     caption : Transactions a year
 
 performance-platform-url: "https://www.gov.uk/performance/defra-single-payment-scheme-sps-claims"
+
 current-volume:
   - number  : 106k
     caption : Transactions per year
@@ -51,8 +52,8 @@ current-cost:
     caption : Cost per transaction
 
 
-status: "alpha"
-status-strapline: "In alpha. Core service in development."
+status: "beta"
+status-strapline: "In beta. Digital service is being released gradually to groups of invited users to test and iterate functionality."
 
 status-discovery:
   - copy        : "Completed: Discovery --- Sep 2012"
@@ -63,43 +64,47 @@ status-alpha:
     complete    : true
   - copy        : "Completed: Build alpha map viewer --- Apr to Nov 2013"
     complete    : true
-  - copy        : "Refining the service following user research --- Jul 2014"
-    complete    : false
 
 status-beta:
-  - copy    : "Private beta release --- Jul to Sep 2014"
+  - copy    : "Completed: private beta release to initial group of invited users --- Jul 2014"
+    complete  : true
+  - copy    : "Expand private beta to 1,000 users --- Jul to Sep 2014"
+    complete  : false
+  - copy    : "Release public beta --- Oct to Dec 2014"
     complete  : false
 
 status-live:
-  - copy    : "Rural support service incremental live releases --- Oct to Dec 2014"
+  - copy    : "Service goes live (depending on Service Standard Assessment) --- Oct to Dec 2014"
     complete  : false
 
 successes: |
-  - An [agile](https://www.gov.uk/service-manual/agile) development team has been established in the Department for Environment, Food and Rural Affairs
+  - An [agile](https://www.gov.uk/service-manual/agile) development team has been established for the CAP Delivery Programme
   - Released a private beta mapping tool for farmers to check their land
   - Fortnightly user research is conducted on farms 
+  - Private beta released to initial group of invited users
  
 challenges: |
-  - Integrating the new service with existing systems
+  - Scalable deployment practices
   - Aligning timings of Identity Assurance Programme to the rural support beta
   - Building a new service in line with evolving CAP regulations
   
 next-steps: |
-  - Release private beta in July 2014 
-  - Invite more farmers to participate in the private beta of the map viewer
-  
-  
+  - Invite more farmers and landowners to participate in the private beta 
+  - Prepare for Digital by Default Service Standard assessment before releasing the public beta
+
 
 videos:
   - url   : https://www.youtube.com/watch?v=fczqFhmong0
     caption : Watch a short demo, reporting a change of land use online, filmed January 2014
 
 
-
 screengrabs:
   - filename    : 8-exemplar-rural-support.png
     caption     : Alpha of the mapping tool
 
+
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Rural Support](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#rural-support-common-agricultural-policy).
 ---
 
 

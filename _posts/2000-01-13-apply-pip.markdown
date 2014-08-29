@@ -39,14 +39,14 @@ anticipated-volume:
 
 
 status: "Alpha"
-status-strapline: "Discovery phase complete with work on the alpha ready to begin. Further work on the Personal Independence Payment exemplar has been aligned with the delivery of [managed reassessment](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/180964/pip-reassessments-and-impacts.pdf) for claimants that begins in October 2015."
+status-strapline: "Discovery phase complete with work on the alpha ready to begin. Further work on the Personal Independence Payment exemplar will be linked to the delivery of [managed reassessment](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/180964/pip-reassessments-and-impacts.pdf) for claimants that begins in October 2015."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Sep 2013"
     complete  : true
 
 status-alpha:
-  - copy      : "Ready for alpha build --- date to be confirmed"
+  - copy      : "Start alpha build --- date to be confirmed"
     complete  : false
 
 status-beta:

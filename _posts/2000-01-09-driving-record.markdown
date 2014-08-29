@@ -47,7 +47,7 @@ embedded-pp-graphs:
 
 
 status: "beta"
-status-strapline: "Public beta released March 2014 with full functionality for Motor Insurance Bureau and a private beta of the identity assurance service will be in place the from end of June." 
+status-strapline: "The public beta was released March 2014. Full functionality for Motor Insurers’ Bureau will be in place from the end of August." 
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2012"
@@ -64,12 +64,12 @@ status-beta:
     complete    : true
 
 status-live:
-  - copy        : "Service goes live (depending on user feedback) --- Jul to Sep 2014"
+  - copy        : "Service goes live (depending on Service Standard Assessment) --- Jul to Sep 2014"
     complete    : false
 
 successes: |
   - Public beta service released and monitored for reliability, call volumes and user feedback
-  - Service has been assessed using the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default)
+  - Service has passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) to go live in the autumn
   - Secure, cloud-based hosting built
   - Initial Identity Assurance service based on National Insurance Number in place
   
@@ -105,6 +105,10 @@ screengrabs:
     caption     : Beta of service login, July 2013
   - filename    : 9-exemplar-driving-licence-online.png
     caption     : Beta of driver information, July 2013
+
+
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for View driving record](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#view-driving-record).
 
 ---
 

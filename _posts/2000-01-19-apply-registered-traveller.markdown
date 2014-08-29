@@ -88,6 +88,8 @@ screengrabs:
   - filename    : "19-03-registered-traveller.png"
     caption     : "Screenshot of beta, March 2014"
 
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Registered traveller](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#registered-traveller).
 
 ---
 

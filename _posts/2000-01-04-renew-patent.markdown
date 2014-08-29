@@ -58,14 +58,14 @@ status-alpha:
     complete    : true
 
 status-beta:
-  - copy        : "Completed: Private beta development and testing --- Aug 2013 to Mar 2014"
-    complete    : true
-  - copy        : "Completed: Release public beta --- Mar 2014"
-    complete    : true
+  - copy    : "Completed: Private beta development and testing --- Aug 2013 to Mar 2014"
+    complete  : true
+  - copy    : "Completed: Release public beta --- Mar 2014"
+    complete  : true
 
 status-live:
-  - copy        : "Completed: Service goes live (depending on user feedback) --- Jul 2014"
-    complete    : true
+  - copy    : "Completed: Service goes live (depending on user feedback) --- Jul 2014"
+    complete  : true
 
 
 successes: |
@@ -91,7 +91,10 @@ screengrabs:
   - filename    : 4-01-patent-renewal.png
     caption     : Beta welcome page, December 2013
 
+
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Renew a patent](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#patent-renewals).
+
+
 ---
-
-
 

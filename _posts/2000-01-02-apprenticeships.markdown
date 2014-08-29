@@ -28,7 +28,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    The National Apprenticeship Service (NAS) funds and supports apprenticeships throughout England. The existing digital service allows employers to advertise vacancies with potential apprentices searching and applying online. But user experience is poor (especially on search), so that the way applicants are matched to potential vacancies is suboptimal and both applicants and employers are put off using it. Addressing this would bring real economic benefit. The National Audit Office (NAO) reports that the current £500 million apprenticeship spend is more than worthwhile for boosting the economy. For each 1% by which better digital tools increase the value of the service, the NAO report implies we should expect well over £5m per year of economic boost, thus even on very conservative assumptions, the exemplar will easily have a positive return on investment in terms of economic growth and tax revenues.
+  To create an easy to use digital service where apprenticeships can be advertised and applied for, with the transaction supported by clear information to inform and advise users, so that they can self-serve, leading to minimal additional support being required.
 
 
 anticipated-volume:
@@ -46,34 +46,47 @@ status-discovery:
 status-alpha:
   - copy        : "Completed: Supplier selection for alpha phase --- Dec 2013"
     complete    : true
-  - copy        : "Completed: Alpha build --- Feb to Apr 2014"
+  - copy        : "Completed: Start alpha build --- Feb 2014"
     complete    : true
-
+  - copy        : "Completed: Finish alpha build --- Apr 2014"
+    complete    : true
 status-beta:
-  - copy        : "Completed: Start beta development --- May 2014"
+  - copy        : "Completed: Start beta development of candidate service --- May 2014"
     complete    : true
-  - copy        : "Public beta release --- Oct to Dec 2014"
+  - copy        : "Start beta development of employer service --- Jul to Sep 2014"
+    complete    : false
+  - copy        : "Release public beta development of candidate service --- Oct to Dec 2014"
+    complete    : false
+  - copy        : "Release private beta development of employer service --- Jan to Mar 2015"
+    complete    : false
+  - copy        : "Release public beta of employer service --- Jan to Mar 2015"
     complete    : false
 
 status-live:
   - copy        : "Service goes live --- Jan to Mar 2015"
     complete    : false
 
-
 successes: |
   - Passed alpha to beta [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
+  - The scope of the public beta of the candidate service has been defined
+  - Several permanent digital delivery team members have been appointed and are being introduced into the exemplar team 
   
 challenges: |
-  - The Skills Funding Agency restructure is creating challenges; responsibilities are changing frequently, meaning the project team is sometimes unclear on how issues will be resolved
-  - A potential code freeze on the legacy service may affect iterative development of the new service 
+  - The scope of the service to be delivered for candidates, employers and training providers is ambitious and not all service functionality will be delivered before programme end
+  - The public beta of the candidate service is dependent on changes to the legacy system API managed by a third party supplier
   
 next-steps: |
-  - Continue beta development 
-  - Clarify the minimum viable service to be developed and create a schedule for that work
+  - Complete development of features for the public beta of the candidate service 
+  - Test that changes to the legacy service work as intended
+  - Continue selection and appointment of permanent digital delivery team members
 
 videos:
   - url   : https://www.youtube.com/watch?v=hnA5WPKM1VY
     caption : Watch a short description of the exemplar, filmed December 2013
+
+
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Apprenticeship applications](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#apprenticeship-applications).
 
 
 ---

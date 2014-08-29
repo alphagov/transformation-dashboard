@@ -54,7 +54,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy      : "Service goes live --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
     complete  : false
 
 
@@ -68,6 +68,7 @@ successes: |
 challenges: |
   - Turning complicated multi-channel transactions into simple digital services
   - Integrating with current systems and connecting to secure cloud environment
+  - Meeting ministerial commitments, such as the abolition of the tax disc and suppression of the V5 document for fleets
   
 next-steps: |
   - Expand user research
@@ -80,6 +81,8 @@ videos:
   - url     : https://www.youtube.com/watch?v=HykO6DRfznQ
     caption : Watch an update from the DVLA team, filmed December 2013
 
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See rating for Vehicle management](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#vehicle-management).
 
 
 

@@ -28,7 +28,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    The aim of this service is to make filing tax easier for small businesses. It is estimated this can save these businesses between as £17 million and £25 million next year. This service will provide improved tools and a tax dashboard for small businesses and will be built on the new digital tax platform.
+    The aim of this service is to make filing tax easier for small businesses. It is estimated this can save these businesses between as £17 million and £25 million next year. This service will provide improved tools and a tax dashboard for small businesses. Like all HMRC exemplar services, it will be built on the new digital tax platform.
 
 
 anticipated-volume:
@@ -56,7 +56,7 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) ---  Oct to Dec 2014"
+  - copy      : "Service goes live (depending on Service Standard Assessment) ---  Oct to Dec 2014"
     complete  : false
 
 
@@ -87,6 +87,8 @@ screengrabs:
   - filename    : "17-01-exemplar-business-tax.png"
     caption     : "Screenshot of beta service, December 2013."
 
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Your tax account](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#digital-self-assessment-and-your-tax-account).
 
 ---
 

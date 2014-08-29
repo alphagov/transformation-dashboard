@@ -69,6 +69,8 @@ videos:
   - url     : https://www.youtube.com/watch?v=cHPv3_P7aDQ
     caption : Watch a demonstration of the prototype service built by the Government Digital Service and DWP, delivered in October 2013
 
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Universal Credit](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#universal-credit).
 
 
 

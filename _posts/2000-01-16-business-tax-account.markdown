@@ -29,13 +29,10 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-  The new digital self-assessment service will start by allowing users to opt out of receiving paper statements and receive digital alerts instead. Like all the other exemplar services it will be built on the new ‘digital tax platform’.
-
-  The aim is for this exemplar service to save HMRC £800,000 this year by:
-  
-  - persuading 1.3 million customers to opt in to the service
-  - stopping 2.5 million letters
-  - stopping 63,000 calls
+The new digital self-assessment exemplar service will allow users to opt out of receiving paper statements and receive digital alerts instead. Like all the HMRC exemplar services, it will be built on the new digital tax platform. The aim is for this exemplar service to save HMRC £800,000 this year by:
+- persuading 1.3 million customers to opt into the service
+- putting an end to 2.5 million letters
+- reducing the number of phone calls placed by 63,000
 
 anticipated-volume:
   - number  : 10m
@@ -62,7 +59,7 @@ status-beta:
     complete  : true
  
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Oct to Dec 2014"
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- Oct to Dec 2014"
     complete  : false
 
 
@@ -92,7 +89,8 @@ screengrabs:
   - filename    : "16-01-self-assessment.png"
     caption     : "Email reminder service beta, December 2013."
 
-
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Digital self-assessment](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#digital-self-assessment-and-your-tax-account).
 ---
 
 

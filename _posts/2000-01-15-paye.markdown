@@ -21,14 +21,14 @@ detail-page-intro: |
 
 
 digital-strategy-statement: |
-    ...giving customers the ability to update information that helps us better calculate their tax code... Customers will begin with improved guidance that leads them through a clear explanation of the tax code they have received. If customers have had a change in circumstances that impacts their tax code they can submit information via an online form.
+    ...giving customers the ability to update information that helps us better calculate their tax code… Customers will begin with improved guidance that leads them through a clear explanation of the tax code they have received. If customers have had a change in circumstances that impacts their tax code they can submit information via an online form.
     
 digital-strategy-source: |
     From the '[HM Revenue & Customs digital strategy](https://www.gov.uk/government/publications/digital-strategy-december-2012)' --- December 2012
     
 
 scope-of-exemplar: |
-    This service will provide digital PAYE services for people in employment (benefits in kind).  The initial release will allow people to notify changes to their company car tax.  This service will be built on a new “digital tax platform” which will over time replace the current HMRC Portal and be the default platform for new user-facing services. The new tax platform will be fully integrated with new identity assurance service.
+    This service will provide digital PAYE services for people in employment (benefits in kind). The initial release will allow people to report changes to their company car tax. This service will be built on a new ‘digital tax platform’ and, for the first time, deliver digital services for PAYE customers which will eventually replace the current HMRC Portal and be the default platform for new user-facing services. The new tax platform will be fully integrated with new identity assurance service.
 
 
 anticipated-volume:
@@ -57,7 +57,7 @@ status-beta:
     complete  : false
  
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
     complete  : false
 
 
@@ -88,7 +88,8 @@ screengrabs:
   - filename    : "15-01-exemplar-paye.png"
     caption     : "Beta of PAYE for employees, December 2013."
 
-
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for PAYE for employees](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#paye-for-employees).
 ---
 
 

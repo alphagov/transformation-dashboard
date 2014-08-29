@@ -34,6 +34,8 @@ anticipated-volume:
   - number  : 3.9m
     caption : Enhanced checks
 
+performance-platform-url: https://www.gov.uk/performance/transactions-explorer/service-details/home-office-enhanced-criminal-records-checks
+
 current-volume:
   - number  : "3.86m"
     caption : "Transactions per year"

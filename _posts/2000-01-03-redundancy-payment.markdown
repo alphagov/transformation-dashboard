@@ -58,27 +58,27 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy    : "Service goes live (depending on user feedback) --- Jan to Mar 2015"
+  - copy    : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
     complete  : false
 
 successes: |
-  - The user journey for notice claim applications has been built ready for private beta release
-  - End-to-end backend integration has been delivered
-  - Hosting for the digital service is in place
+  - Funding has been secured for the next stage of development
+  - End-to-end user experience in place
   
 challenges: |
-  - Ensuring we have the right team in place to deliver a beta service before the end of 2014
-  - Lack of engagement from senior management
+  - Integrating with existing systems remains a challenge, as does balancing the time spent on this with the time required to develop the user journey
   - Integrating [identity assurance](https://gds.blog.gov.uk/category/id-assurance/) into our service when there is no record of who applicants might be
 
 next-steps: |
-  - Building identity assurance into the service   
+  - Build identity assurance into the service   
   - Continue research and development of the service
-  - Work on how assisted digital can provide support for people using the service
+  - Revisit how to integrate new service with existing systems
 
 videos:
   - url: https://www.youtube.com/watch?v=2yXnblGFyMQ
     caption: Watch a short demo which gives an overview of the service, filmed January 2014
 
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Redundancy payments](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#redundancy-payments).
 
 ---

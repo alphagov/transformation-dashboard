@@ -67,19 +67,20 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
     complete  : false
 
-
 successes: |
- - Service manager is supported by a product team
- - Tier 2 beta and China Visit Visa beta both delivered on time and budget
- - Extensive user research with a range of groups, including overseas users, English second-language users, agencies and UK legal representatives
- - We're beginning to add foreign-language guidance, starting with Chinese
- - Excellent feedback from users
- - Production system is proving efficient and can scale
- - Successful integration to legacy back end systems
-  
+  - Service manager is supported by a great product team
+  - Service team are very good exponents of agile delivery
+  - Tier 2 beta and China Visit Visa beta both delivered on time and budget
+  - Extensive user research with a range of groups, including overseas users, English second-language users, agencies and UK legal representatives
+  - Provided foreign language guidance in simplified Chinese and established a multi-lingual framework  for managing translated content
+  - Excellent feedback from users 
+  - Over 10,000 Visit Visa applications from China completed in the first month 
+  - The case working process is benefitting from the new, clearer service as the quality of submitted data is improving
+  - We’re frequently improving the service based on user feedback
+
 challenges: |
   - Existing teams and suppliers have to step up to new ways of working
   - Building Civil Service capability in digital skills
@@ -87,10 +88,11 @@ challenges: |
   - Creating translated content that retains the same meaning and balance across these disparate needs
 
 next-steps: |
-  - Carry out user research in China with the new beta service and continue to improve the user journey
+  - Continue to iteratively improve the Standard Visit Visa for China based on user feedback and testing
   - Expand the Tier 2 Visa service 
-  - Refine the agile team, service governance, and live support model
-
+  - Refine the agile team and recruit more Civil Service capability to support its work
+  - Help to establish a new service governance model based on agile principles
+  - Establish a long term live service support model
 videos:
   - url     : https://www.youtube.com/watch?v=CzXPSqD1kes
     caption : Watch a short demo, extending permission to work in the UK, filmed January 2014
@@ -111,6 +113,8 @@ screengrabs:
   - filename    : "21-05-visa.png"
     caption     : "Multilingual guidance for China, June 2014"
 
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Visas](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#visas).
 
 ---
 

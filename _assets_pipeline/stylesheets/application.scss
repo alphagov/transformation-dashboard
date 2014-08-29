@@ -324,6 +324,11 @@ ul {
     background-color: $live-colour;
   }
 
+  &.public {
+    background-color: transparent;
+    color: $black;
+  }
+
   .exemplar-listing & {
     @include bold-16;
     position: relative;

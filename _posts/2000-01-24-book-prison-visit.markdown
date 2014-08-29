@@ -51,7 +51,7 @@ current-cost:
 
 
 status: "beta"
-status-strapline: "In beta. Development of the beta is ongoing with user research of the prototype under way at more than 50 Category B prisons, including Youth and Women’s."
+status-strapline: "In beta. Development of the beta is ongoing with user research of the prototype under way at more than 85 Category B prisons, including Youth and Women’s."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Jul 2013"
@@ -70,13 +70,14 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Jul to Sep 2014"
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jul to Sep 2014"
     complete  : false
 
 
 successes: |
   - Service standardised across pilot prisons
   - User research done for male Category B and below, Youth, Women’s, High Security Estate (Category A) and Contracted Out prisons 
+  - Live performance dashboard released
   
 challenges: |
   - Developing a standard process for booking visits across all prisons
@@ -99,6 +100,9 @@ videos:
 screengrabs:
   - filename    : "24-03-prison-visit.png"
     caption     : "Beta start page, May 2014"
+
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Prison Visit booking](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#prison-visit-booking)
 
 
 ---
