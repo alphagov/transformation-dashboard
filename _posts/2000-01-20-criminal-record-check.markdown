@@ -34,17 +34,17 @@ anticipated-volume:
   - number  : 3.9m
     caption : Enhanced checks
 
-performance-platform-url: https://www.gov.uk/performance/transactions-explorer/service-details/home-office-enhanced-criminal-records-checks
+performance-platform-url: https://www.gov.uk/performance/home-office-enhanced-criminal-records-checks
 
 current-volume:
-  - number  : "3.86m"
+  - number  : "3.72m"
     caption : "Transactions per year"
-  - number  : "31.5%"
+  - number  : "50.1%"
     caption : "Digital take-up"
 current-cost:
-  - number  : "£170m"
+  - number  : "£125m"
     caption : "Total cost"
-  - number  : "£44.00"
+  - number  : "£33.71"
     caption : "Cost per transaction"
 
 
