@@ -39,6 +39,13 @@ anticipated-volume:
   - number  : 5m
     caption : New applications in first year
 
+embedded-pp-graphs:
+  - graph-url: "https://www.gov.uk/performance/register-to-vote/digital-takeup"
+    graph-title: "Digital take-up"
+    graph-caption: "Registrations made using the digital service"
+  - graph-url: "https://www.gov.uk/performance/register-to-vote/user-satisfaction"
+    graph-title: "User satisfaction"
+
 
 status: "Live"
 status-strapline: "Service is live in England and Wales"

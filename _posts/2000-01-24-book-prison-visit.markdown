@@ -33,6 +33,16 @@ scope-of-exemplar: |
     Different prisons book visits in different ways. It is mostly done by phone or email and often requires family members to spend a long time getting through on the phone. A digital channel will cut administrative costs to the National Offender Management Service (NOMS) and make the process easier for families --- encouraging more to visit --- and more efficient for professional visitors.
 
 
+embedded-pp-graphs:
+  - graph-url: "https://www.gov.uk/performance/prison-visits/digital-takeup"
+    graph-title: "Digital take-up"
+    graph-caption: "Bookings made using the digital service"
+  - graph-url: "https://www.gov.uk/performance/prison-visits/user-satisfaction"
+    graph-title: "User satisfaction"
+  - graph-url: "https://www.gov.uk/performance/prison-visits/completion-rate"
+    graph-title: "Completion rate"
+    graph-caption: "Proportion of users who start and complete their application using the digital service"
+
 anticipated-volume:
   - number  : 1.5m
     caption : Visits per year
