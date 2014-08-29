@@ -27,7 +27,7 @@ digital-strategy-source: |
     
 
 scope-of-exemplar: |
-    Better visa process is a political priority to drive UK growth by promoting visits from tourists, students and business people. [Currently 3.57m visas are issued at a cost of £649m/year, £182 per transaction](https://www.gov.uk/performance/transactions-explorer/service-details/home-office-visas-immigration-applications).
+    Better visa process is a political priority to drive UK growth by promoting visits from tourists, students and business people. [Currently 3.57m visas are issued at a cost of £649m/year, £182 per transaction](https://www.gov.uk/performance/home-office-visas-immigration-applications).
 
 
 anticipated-volume:
