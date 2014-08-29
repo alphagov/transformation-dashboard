@@ -36,9 +36,9 @@ anticipated-volume:
   - number  : 1.5m
     caption : Claims a year
 
-performance-platform-url: "https://www.gov.uk/performance/transactions-explorer/service-details/moj-money-claims"
+performance-platform-url: "https://www.gov.uk/performance/moj-money-claims"
 current-volume:
-  - number  : "1.11m"
+  - number  : "1.17m"
     caption : "Transactions per year"
 
 
