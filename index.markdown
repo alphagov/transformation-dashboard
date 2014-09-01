@@ -1,14 +1,14 @@
 ---
 layout: homepage
 
+headline-title: Digital Transformation
+
+headline-subtitle: Government is building digital services that are simpler, clearer and faster to use. We’re starting with these 25 services. You can follow our progress on this page.
+
 discovery-count-caption: "User needs are researched and identified"
 alpha-count-caption: "A core service is built to meet the main user needs"
 beta-count-caption: "The service is improved, then tested in public"
 live-count-caption: "The service is public and works well. It’ll be continually improved to meet user needs"
-
-headline-title: Digital Transformation
-
-headline-subtitle: Government is building digital services that are simpler, clearer and faster to use. We’re starting with these 25 services. You can follow our progress on this page.
 
 intro: |
     ### Digital services so good people prefer to use them
@@ -36,5 +36,3 @@ videos:
       caption: A quick look at Electoral registration, which went live in June 2014
 
 ---
-
-

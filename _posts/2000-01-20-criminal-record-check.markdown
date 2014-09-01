@@ -9,14 +9,21 @@ exemplar-number: 20
 
 
 department: "Home Office"
+department-url: "https://www.gov.uk/government/organisations/home-office"
+
+programme: "Disclosure and barring service"
+
 permanent-secretary: "Mark Sedwill"
 digital-leader: "Mike Parsons"
-department-url: "https://www.gov.uk/government/organisations/home-office"
-programme: "Disclosure and barring service"
 
 
 detail-page-intro: |
     3.9 million enhanced checks made online each year
+
+
+status: "discovery"
+status-strapline: |
+    Criminal record check is no longer an exemplar. It has been replaced by [Passports](/transformation/passports).
 
 
 digital-strategy-statement: |
@@ -28,6 +35,11 @@ digital-strategy-source: |
 
 scope-of-exemplar: |
     Criminal records checks are used to “check the suitability of people who will be working in positions of trust, primarily with children or vulnerable adults… (DBS) will be introducing a range of digital enhancements, both to reduce the overall number of checks and to transform to digital transactions wherever possible” - [Home Office digital strategy](https://www.gov.uk/government/publications/home-office-digital-strategy)
+
+
+status-discovery:
+  - copy      : "Completed: Discovery --- Jul 2013"
+    complete  : true
 
 
 anticipated-volume:
@@ -48,15 +60,4 @@ current-cost:
     caption : "Cost per transaction"
 
 
-status: "discovery"
-status-strapline: |
-    Criminal record check is no longer an exemplar. It has been replaced by [Passports](/transformation/passports).
-
-status-discovery:
-  - copy      : "Completed: Discovery --- Jul 2013"
-    complete  : true
-
 ---
-
-
-

@@ -2,15 +2,18 @@
 
 layout: exemplar
 
+
 exemplar-title: "Redundancy payments"
 exemplar-number: 3
 
 
 department: "Department<br>for Business<br>Innovation & Skills"
+department-url: "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
+
+programme: "Insolvency Service"
+
 permanent-secretary: "Martin Donnelly"
 digital-leader: "Ceri Smith"
-department-url: "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
-programme: "Insolvency Service"
 
 
 homepage-intro: |
@@ -18,6 +21,29 @@ homepage-intro: |
 
 detail-page-intro: |
     100,000 new redundancy claims made each year
+
+
+status: "beta"
+status-strapline: "Developing the beta service for applying for a redundancy payment and for compensation for loss of notice."
+
+
+videos:
+  - url: https://www.youtube.com/watch?v=2yXnblGFyMQ
+    caption: Watch a short demo which gives an overview of the service, filmed January 2014
+
+
+successes: |
+  - Funding has been secured for the next stage of development
+  - End-to-end user experience in place
+  
+challenges: |
+  - Integrating with existing systems remains a challenge, as does balancing the time spent on this with the time required to develop the user journey
+  - Integrating [identity assurance](https://gds.blog.gov.uk/category/id-assurance/) into our service when there is no record of who applicants might be
+
+next-steps: |
+  - Build identity assurance into the service   
+  - Continue research and development of the service
+  - Revisit how to integrate new service with existing systems
 
 
 digital-strategy-statement: |
@@ -35,13 +61,9 @@ scope-of-exemplar: |
     - increase confidence and trust in the system for both claimants and insolvency practitioners
 
 
-anticipated-volume:
-  - number  : 270k
-    caption : Transactions a year
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Redundancy payments](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#redundancy-payments).
 
-
-status: "beta"
-status-strapline: "Developing the beta service for applying for a redundancy payment and for compensation for loss of notice."
 
 status-discovery:
   - copy        : "Completed: Discovery --- Jul 2013"
@@ -61,24 +83,10 @@ status-live:
   - copy    : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
     complete  : false
 
-successes: |
-  - Funding has been secured for the next stage of development
-  - End-to-end user experience in place
-  
-challenges: |
-  - Integrating with existing systems remains a challenge, as does balancing the time spent on this with the time required to develop the user journey
-  - Integrating [identity assurance](https://gds.blog.gov.uk/category/id-assurance/) into our service when there is no record of who applicants might be
 
-next-steps: |
-  - Build identity assurance into the service   
-  - Continue research and development of the service
-  - Revisit how to integrate new service with existing systems
+anticipated-volume:
+  - number  : 270k
+    caption : Transactions a year
 
-videos:
-  - url: https://www.youtube.com/watch?v=2yXnblGFyMQ
-    caption: Watch a short demo which gives an overview of the service, filmed January 2014
-
-digital-inclusion: |
-  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Redundancy payments](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#redundancy-payments).
 
 ---

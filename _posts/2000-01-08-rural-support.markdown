@@ -7,9 +7,11 @@ exemplar-number: 8
 
 
 department: "Department<br>for Environment<br>Food & Rural Affairs"
+department-url: "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
+
+
 permanent-secretary: "Bronwyn Hill"
 digital-leader: "Ian Trenholm"
-department-url: "https://www.gov.uk/government/organisations/department-for-environment-food-rural-affairs"
 
 
 homepage-intro: |
@@ -17,6 +19,36 @@ homepage-intro: |
 
 detail-page-intro: |
     105,000 rural support transactions every year
+
+
+status: "beta"
+status-strapline: "In beta. Digital service is being released gradually to groups of invited users to test and iterate functionality."
+
+
+videos:
+  - url   : https://www.youtube.com/watch?v=fczqFhmong0
+    caption : Watch a short demo, reporting a change of land use online, filmed January 2014
+
+
+successes: |
+  - An [agile](https://www.gov.uk/service-manual/agile) development team has been established for the CAP Delivery Programme
+  - Released a private beta mapping tool for farmers to check their land
+  - Fortnightly user research is conducted on farms 
+  - Private beta released to initial group of invited users
+ 
+challenges: |
+  - Scalable deployment practices
+  - Aligning timings of Identity Assurance Programme to the rural support beta
+  - Building a new service in line with evolving CAP regulations
+  
+next-steps: |
+  - Invite more farmers and landowners to participate in the private beta 
+  - Prepare for Digital by Default Service Standard assessment before releasing the public beta
+
+
+screengrabs:
+  - filename    : 8-exemplar-rural-support.png
+    caption     : Alpha of the mapping tool
 
 
 digital-strategy-statement: |
@@ -34,26 +66,9 @@ scope-of-exemplar: |
     This simple and effective system will make it easy for users to understand and apply for CAP payments. It will help prevent fines (‘disallowance’) for making payments that don’t comply with CAP rules (~£600m since 2005 ).
 
 
-anticipated-volume:
-  - number  : 105k
-    caption : Transactions a year
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Rural Support](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#rural-support-common-agricultural-policy).
 
-performance-platform-url: "https://www.gov.uk/performance/defra-single-payment-scheme-sps-claims"
-
-current-volume:
-  - number  : 106k
-    caption : Transactions per year
-  - number  : 51.7%
-    caption : Digital take-up
-current-cost:
-  - number  : £73.4m
-    caption : Total cost
-  - number  : £691
-    caption : Cost per transaction
-
-
-status: "beta"
-status-strapline: "In beta. Digital service is being released gradually to groups of invited users to test and iterate functionality."
 
 status-discovery:
   - copy        : "Completed: Discovery --- Sep 2012"
@@ -77,35 +92,25 @@ status-live:
   - copy    : "Service goes live (depending on Service Standard Assessment) --- Oct to Dec 2014"
     complete  : false
 
-successes: |
-  - An [agile](https://www.gov.uk/service-manual/agile) development team has been established for the CAP Delivery Programme
-  - Released a private beta mapping tool for farmers to check their land
-  - Fortnightly user research is conducted on farms 
-  - Private beta released to initial group of invited users
- 
-challenges: |
-  - Scalable deployment practices
-  - Aligning timings of Identity Assurance Programme to the rural support beta
-  - Building a new service in line with evolving CAP regulations
-  
-next-steps: |
-  - Invite more farmers and landowners to participate in the private beta 
-  - Prepare for Digital by Default Service Standard assessment before releasing the public beta
+
+anticipated-volume:
+  - number  : 105k
+    caption : Transactions a year
 
 
-videos:
-  - url   : https://www.youtube.com/watch?v=fczqFhmong0
-    caption : Watch a short demo, reporting a change of land use online, filmed January 2014
+performance-platform-url: "https://www.gov.uk/performance/defra-single-payment-scheme-sps-claims"
 
 
-screengrabs:
-  - filename    : 8-exemplar-rural-support.png
-    caption     : Alpha of the mapping tool
+current-volume:
+  - number  : 106k
+    caption : Transactions per year
+  - number  : 51.7%
+    caption : Digital take-up
+current-cost:
+  - number  : £73.4m
+    caption : Total cost
+  - number  : £691
+    caption : Cost per transaction
 
 
-digital-inclusion: |
-  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Rural Support](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#rural-support-common-agricultural-policy).
 ---
-
-
-

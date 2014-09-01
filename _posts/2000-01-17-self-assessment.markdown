@@ -4,13 +4,15 @@ layout: exemplar
 
 exemplar-title: "Your tax account"
 exemplar-number: 17
+
 exemplar-blog-url: "www.hmrcdigital.blog.gov.uk"
 
 
 department: "HM Revenue<br>& Customs"
+department-url: "https://www.gov.uk/government/organisations/hm-revenue-customs"
+
 permanent-secretary: "Lin Homer"
 digital-leader: "Mark Dearnley"
-department-url: "https://www.gov.uk/government/organisations/hm-revenue-customs"
 
 
 homepage-intro: |
@@ -18,6 +20,38 @@ homepage-intro: |
 
 detail-page-intro: |
     Easy to use online tax dashboard for up to 4.9 million small businesses and people in self-assessment
+
+
+status: "public-beta"
+status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 16: Digital self-assessment](/transformation/self-assessment)."
+  
+
+videos:
+  - url     : https://www.youtube.com/watch?v=HG5f7KC1A6E
+    caption : Watch a description of the exemplar
+  - url     : https://www.youtube.com/watch?v=1SP-dh1-zWE
+    caption : Watch an update about the beta, filmed December 2013
+  - url     : https://www.youtube.com/watch?v=OcO9ulxj1iI
+    caption : Watch a short demo, opting into self-assessment email reminders, filmed January 2014
+
+
+successes: |
+  - Passed beta [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
+  
+challenges: |
+  - The timeline to put infrastructure in place is tight
+  - Adapting current HMRC methods to [agile](/service-manual/agile) development
+  - The Service Standard Assessment highlighted some resource issues to be addressed
+  
+next-steps: |
+  - Add user support features to the service
+  - Changing the homepage based on user feedback
+  - Scale the service to handle 4.9 million users
+
+
+screengrabs:
+  - filename    : "17-01-exemplar-business-tax.png"
+    caption     : "Screenshot of beta service, December 2013."
 
 
 digital-strategy-statement: |
@@ -31,13 +65,9 @@ scope-of-exemplar: |
     The aim of this service is to make filing tax easier for small businesses. It is estimated this can save these businesses between as £17 million and £25 million next year. This service will provide improved tools and a tax dashboard for small businesses. Like all HMRC exemplar services, it will be built on the new digital tax platform.
 
 
-anticipated-volume:
-  - number  : 4.9m
-    caption : Small businesses and people in self assessment 
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Your tax account](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#digital-self-assessment-and-your-tax-account).
 
-
-status: "public-beta"
-status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 16: Digital self-assessment](/transformation/self-assessment)."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Feb 2013"
@@ -60,36 +90,9 @@ status-live:
     complete  : false
 
 
-successes: |
-  - Passed beta [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
-  
-challenges: |
-  - The timeline to put infrastructure in place is tight
-  - Adapting current HMRC methods to [agile](/service-manual/agile) development
-  - The Service Standard Assessment highlighted some resource issues to be addressed
-  
-next-steps: |
-  - Add user support features to the service
-  - Changing the homepage based on user feedback
-  - Scale the service to handle 4.9 million users
-  
+anticipated-volume:
+  - number  : 4.9m
+    caption : Small businesses and people in self assessment
 
-videos:
-  - url     : https://www.youtube.com/watch?v=HG5f7KC1A6E
-    caption : Watch a description of the exemplar
-  - url     : https://www.youtube.com/watch?v=1SP-dh1-zWE
-    caption : Watch an update about the beta, filmed December 2013
-  - url     : https://www.youtube.com/watch?v=OcO9ulxj1iI
-    caption : Watch a short demo, opting into self-assessment email reminders, filmed January 2014
-
-
-screengrabs:
-  - filename    : "17-01-exemplar-business-tax.png"
-    caption     : "Screenshot of beta service, December 2013."
-
-digital-inclusion: |
-  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Your tax account](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#digital-self-assessment-and-your-tax-account).
 
 ---
-
-
