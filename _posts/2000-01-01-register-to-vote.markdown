@@ -2,7 +2,7 @@
 
 layout: exemplar
 
-exemplar-title: "Electoral registration"
+exemplar-title: "Register to vote"
 exemplar-number: 1
 
 department: "Cabinet Office"
@@ -39,13 +39,13 @@ videos-additional: |
 
 
 successes: |
-  - Minister gave live demo of register to vote transaction at the Sprint 14 event in January 
   - 387 local authorities can now check electoral registers against Department for Work and Pensions data
   - Registration details of 46 million people checked by all local authorities in England and Wales
   - Built online registration service for 99.9% of voters
   - Live service released for users in England and Wales
   - Welsh language service released
   - Live performance dashboard released
+  - On 21 August 2014 the millionth registration was submitted using the service
   
 challenges: |
   - Ensuring the Cabinet Office’s capability to run the live service
@@ -128,3 +128,4 @@ anticipated-volume:
 
 
 ---
+

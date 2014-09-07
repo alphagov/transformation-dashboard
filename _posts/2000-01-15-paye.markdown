@@ -83,7 +83,7 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Feb 2014"
     complete  : true
-  - copy      : "Public beta release --- Jul to Sep 2014"
+  - copy      : "Public beta release --- Oct to Dec 2014"
     complete  : false
  
 status-live:

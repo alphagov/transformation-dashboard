@@ -61,11 +61,11 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Delivered digital strategic solution --- Oct 2013"
     complete  : true
-  - copy      : "Work to increase DWP digital capability --- date to be confirmed"
+  - copy      : "Release public beta --- date to be confirmed"
     complete  : false
 
 status-live:
-  - copy      : "Release of digital strategic solution dependent on overall Universal Credit programme plan --- date tbc"
+  - copy      : "Service goes live (depending on user feedback) --- date tbc"
     complete  : false
 
 
@@ -75,3 +75,5 @@ anticipated-volume:
 
 
 ---
+
+

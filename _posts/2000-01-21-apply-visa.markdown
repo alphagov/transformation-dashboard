@@ -39,7 +39,7 @@ successes: |
   - Extensive user research with a range of groups, including overseas users, English second-language users, agencies and UK legal representatives
   - Provided foreign language guidance in simplified Chinese and established a multi-lingual framework  for managing translated content
   - Excellent feedback from users 
-  - Over 10,000 Visit Visa applications from China completed in the first month 
+  - Nearly 10,000 Visit Visa applications from China completed in the first month 
   - The case working process is benefitting from the new, clearer service as the quality of submitted data is improving
   - We’re frequently improving the service based on user feedback
 
@@ -48,11 +48,12 @@ challenges: |
   - Building Civil Service capability in digital skills
   - Generating digital content that balances the different needs of law, policy, security, an english second-language audience, and GOV.UK content guidelines
   - Creating translated content that retains the same meaning and balance across these disparate needs
+  - Improving the governance of the service to embrace agile principles
 
 next-steps: |
   - Continue to iteratively improve the Standard Visit Visa for China based on user feedback and testing
   - Expand the Tier 2 Visa service 
-  - Refine the agile team and recruit more Civil Service capability to support its work
+  - Refine the agile team and recruit more Civil Service capability to support its work, filling several team vacancies
   - Help to establish a new service governance model based on agile principles
   - Establish a long term live service support model
 
@@ -127,3 +128,5 @@ current-cost:
 
 
 ---
+
+

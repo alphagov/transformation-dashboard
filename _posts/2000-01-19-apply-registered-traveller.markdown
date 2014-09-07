@@ -2,7 +2,7 @@
 
 layout: exemplar
 
-exemplar-title: "Registered traveller service"
+exemplar-title: "Registered Traveller Service"
 exemplar-number: 19
 
 
@@ -21,7 +21,7 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "In beta and on track. The team is working on developing the case working system. Though anyone can check their eligibility to use the service, sign up is currently limited to users meeting certain criteria."
+status-strapline: "In beta and on track. The team has built a minimum viable product for the case working system, which is undergoing accreditation. Though anyone can check their eligibility to use the service, sign-up is currently limited to users meeting certain criteria."
   
 
 videos:
@@ -38,6 +38,7 @@ successes: |
   - Code from [Exemplar 21: Visit visa applications](/transformation/apply-visa) reused, saving time
   - [Private beta](https://www.gov.uk/registered-traveller-scheme) released
   - The iterative development of the back-end case working system
+  - ePassport gates are now available to registered travellers at Heathrow and Gatwick airports
   
 challenges: |
   - Integrating the service with current systems

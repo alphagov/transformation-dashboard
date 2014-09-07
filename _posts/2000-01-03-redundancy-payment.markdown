@@ -24,7 +24,7 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "Developing the beta service for applying for a redundancy payment and for compensation for loss of notice."
+status-strapline: "Developing the beta service for applying for redundancy payments and for compensation for loss of notice."
 
 
 videos:
@@ -34,7 +34,7 @@ videos:
 
 successes: |
   - Funding has been secured for the next stage of development
-  - End-to-end user experience in place
+  - End-to-end user experience in place ready for the release of the private beta service
   
 challenges: |
   - Integrating with existing systems remains a challenge, as does balancing the time spent on this with the time required to develop the user journey
@@ -42,8 +42,8 @@ challenges: |
 
 next-steps: |
   - Build identity assurance into the service   
-  - Continue research and development of the service
   - Revisit how to integrate new service with existing systems
+  - Start using the private beta service with real users
 
 
 digital-strategy-statement: |
@@ -76,7 +76,7 @@ status-alpha:
 status-beta:
   - copy    : "Private beta release --- Jul to Sep 2014"
     complete  : false
-  - copy    : "Public beta release --- Jul to Sep 2014"
+  - copy    : "Public beta release --- Oct to Dec 2014"
     complete  : false
 
 status-live:

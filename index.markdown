@@ -20,19 +20,15 @@ intro: |
     You can read more about the transformation programme on [our blog](https://digitaltransformation.blog.gov.uk/).
 
 this-month: |
-    - [View driving record](/transformation/driving-record) passed its live [Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
-    - [Civil claims](/transformation/court-claims) had its live [Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
-    - The [Passports](/transformation/passports) team began work on the beta service
+    - [Civil claims](/transformation/court-claims) went live
 
 next-month: |
-    - [Prison visit booking](/transformation/book-prison-visit) will have a [Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment before going live
-    - [View driving record](/transformation/driving-record) goes live
-    - [Civil claims](/transformation/court-claims) goes live
-    - The [Personalised registrations](https://www.gov.uk/transformation/personalised-number-plates) team begins work on the beta service
-    - [Land Registry](https://www.gov.uk/transformation/land-registry) moves to GOV.UK
+    - [Prison visit booking](/transformation/book-prison-visit) goes live
+    - [View driving licence](/transformation/driving-record) goes live
+    - Registered Traveller Service (/transformation/apply-registered-traveller) moves into public beta
 
 videos:
     - url: https://www.youtube.com/watch?v=RqZ9e1GXJLo
-      caption: A quick look at Electoral registration, which went live in June 2014
+      caption: A quick look at Register to vote, which went live in June 2014
 
 ---

@@ -9,7 +9,7 @@ exemplar-number: 2
 department: "Department<br>for Business<br>Innovation & Skills"
 department-url: "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
 
-programme: "National Apprenticeship Service"
+programme: "Skills Funding Agency"
 
 permanent-secretary: "Martin Donnelly"
 digital-leader: "Tim Knighton"
@@ -75,17 +75,13 @@ status-alpha:
 status-beta:
   - copy        : "Completed: Start beta development of candidate service --- May 2014"
     complete    : true
-  - copy        : "Start beta development of employer service --- Jul to Sep 2014"
+  - copy        : "Start beta development of employer service --- Oct to Dec 2014"
     complete    : false
   - copy        : "Release public beta development of candidate service --- Oct to Dec 2014"
     complete    : false
-  - copy        : "Release private beta development of employer service --- Jan to Mar 2015"
-    complete    : false
-  - copy        : "Release public beta of employer service --- Jan to Mar 2015"
-    complete    : false
 
 status-live:
-  - copy        : "Service goes live --- Jan to Mar 2015"
+  - copy        : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
     complete    : false
 
 
@@ -95,3 +91,4 @@ anticipated-volume:
 
 
 ---
+

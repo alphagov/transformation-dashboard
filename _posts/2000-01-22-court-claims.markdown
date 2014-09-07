@@ -21,7 +21,7 @@ homepage-intro: |
     Saving people money and hassle by creating a digital service for small claims, including money and possession claims
 
 detail-page-intro: |
-    1.5 million claims made every year to solve civil legal disputes or obtain money or property owed. These claims are made using a number of different services provided by the Ministry of Justice.
+    1.5 million claims are made every year to solve civil legal disputes or obtain money or property owed. Claims range from settling neighbourly disputes to complex cases involving large corporations.
 
 
 status: "live"
@@ -94,3 +94,5 @@ current-volume:
 
 
 ---
+
+

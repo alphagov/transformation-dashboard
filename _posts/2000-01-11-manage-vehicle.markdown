@@ -44,13 +44,12 @@ successes: |
   
 challenges: |
   - Turning complicated multi-channel transactions into simple digital services
-  - Integrating with current systems and connecting to secure cloud environment
-  - Meeting ministerial commitments, such as the abolition of the tax disc and suppression of the V5 document for fleets
+  - Integrating service with other digital projects and legacy databases and connecting to secure cloud environment
+  - Meeting ministerial commitments, such as the abolition of the licence counterpart and ending the requirement for fleets to carry the V5 document
   
 next-steps: |
   - Expand user research
-  - Develop prototypes into beta service
-  - Complete private beta and prepare for public beta release
+  - Complete private beta and prepare for beta Digital by Default Service Standard assessment
 
 
 digital-strategy-statement: |
@@ -93,3 +92,5 @@ anticipated-volume:
 
 
 ---
+
+

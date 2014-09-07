@@ -48,12 +48,11 @@ successes: |
   
 challenges: |
   - Assembling and managing the team to run the live service 
+  - Developing the service to include a payments and renewal service and cater for all waste carriers
   
 next-steps: |
-  - Iterate the service to include a payments and renewal and cater for all waste carriers by early September
   - Consider how far the underlying platform can be used for other Defra digital services
-  - Share lessons from this exemplar across the Environment Agency and Defra
-  - Prepare for the live Service Standard Assessment 
+  - Share lessons from this exemplar across the Environment Agency and Defra 
 
 
 screengrabs:
@@ -103,15 +102,13 @@ status-alpha:
     complete    : true
 
 status-beta:
-  - copy    : "Completed: Run Phase 1 public beta --- Dec 2013 to Apr 2014"
+  - copy    : "Completed: Phase 1 public beta --- Apr 2014"
     complete  : true
-  - copy    : "Start Phase 2 private beta --- Aug 2014"
-    complete  : false
-  - copy        : "Start Phase 1 and 2 combined public beta --- Jul to Sep 2014"
-    complete    : false
+  - copy    : "Completed: Start Phase 2 development --- Aug 2014"
+    complete  : true
 
 status-live:
-  - copy    : "Full service goes live --- Jul to Sep 2014"
+  - copy    : "Service goes live (depending on Service Standard assessment) --- Oct to Dec 2014"
     complete  : false
 
 
@@ -121,3 +118,5 @@ anticipated-volume:
 
 
 ---
+
+

@@ -2,7 +2,7 @@
 
 layout: exemplar
 
-exemplar-title: "View driving record"
+exemplar-title: "View driving licence"
 exemplar-number: 9
 
 exemplar-service-url: https://www.gov.uk/view-driving-licence
@@ -26,7 +26,7 @@ detail-page-intro: |
 
 
 status: "public-beta"
-status-strapline: "The public beta was released March 2014. Full functionality for Motor Insurers’ Bureau will be in place from the end of August."
+status-strapline: "The public beta was released March 2014. Full functionality for Motor Insurers’ Bureau will be in place for the live release."
   
 videos:
   - url   : https://www.youtube.com/watch?v=fauL1iO7SlI
@@ -46,16 +46,17 @@ successes: |
   - Public beta service released and monitored for reliability, call volumes and user feedback
   - Service has passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) to go live in the autumn
   - Secure, cloud-based hosting built
-  - Initial Identity Assurance service based on National Insurance Number in place
+  - Full Identity Assurance service in private beta
   
 challenges: |
   - Gathering citizen and trade user feedback to develop and release the live service 
   - Integrating with external service partners
+  - Meeting ministerial commitments, such as the abolition of the licence counterpart and ending the requirement for fleets to carry the V5 document
   
 next-steps: |
-  - Develop and improve the beta service, working towards going live
-  - Develop and integrate full identity assurance features
   - Integrate with motor insurance bureau systems
+  - Release, operate and continuously improve the live service
+  - Develop and release new features such as ‘Share driving licence’
 
 
 screengrabs:
@@ -118,3 +119,5 @@ anticipated-volume:
 
 
 ---
+
+

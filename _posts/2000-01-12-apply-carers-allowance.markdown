@@ -38,7 +38,7 @@ videos-additional: |
 
 
 successes: |
-  - 90,000 digital claims submitted since release of public beta
+  - 100,000 digital claims submitted since release of public beta
   - 60% of applications are now made using the digital service
   - User satisfaction ratings of approximately 90%
   - Change of circumstances can now be reported online
@@ -119,3 +119,5 @@ anticipated-volume:
 
 
 ---
+
+

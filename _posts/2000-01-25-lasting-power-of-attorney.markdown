@@ -104,13 +104,13 @@ status-beta:
 status-live:
   - copy      : "Completed: Service goes live --- May 2014"
     complete  : true
-  - copy      : "New case management software goes live --- Aug to Sep 2014"
+  - copy      : "Completed: Build deputyships service --- Jul to Sep 2014"
+    complete  : true
+  - copy      : "New case management software goes live --- Oct to Dec 2014"
     complete  : false
-  - copy      : "Build deputyships service --- Jul to Sep 2014"
+  - copy      : "Private release of deputyship service --- Oct to Dec 2014"
     complete  : false
-  - copy      : "Private release of deputyship service --- Aug to Sep 2014"
-    complete  : false
-  - copy      : "Public release of deputyship service --- Aug to Sep 2014"
+  - copy      : "Public release of deputyship service --- Oct to Dec 2014"
     complete  : false
   - copy      : "Decommission existing case management system --- Jan to Mar 2015"
     complete  : false
@@ -127,3 +127,5 @@ exemplar-performance-dashboard-url: "https://www.gov.uk/performance/lasting-powe
 
 
 ---
+
+

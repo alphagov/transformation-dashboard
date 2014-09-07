@@ -47,8 +47,10 @@ challenges: |
 next-steps: |
   - Rebuild the core service based on user feedback to include additional products
   - Continuously improve the applications to achieve even higher levels of completion and user satisfaction
-  - Create a performance platform dashboard for public-facing real-time information about the service
-
+  - Create a performance platform for public-facing real-time information about the service
+  - Continue work on core banking platform for loans and grants
+  - Release 24+ Advanced Learning loan applications service
+  - Release full-time student applications service
 
 screengrabs:
   - filename    : "6-01-student-finance.png"
@@ -92,14 +94,6 @@ status-beta:
 status-live:
   - copy    : "Completed: Part-time student loan application service goes live --- Oct 2012"
     complete  : true
-  - copy    : "24+ Advanced Learning loan applications goes live --- Jan to Mar 2015"
-    complete  : false
-  - copy    : "Full-time student applications goes live --- Jan to Mar 2015"
-    complete  : false
-  - copy    : "Application processing system goes live --- Jan to Mar 2015"
-    complete  : false
-  - copy    : "Core banking platform for loans and grants goes live --- Jan to Mar 2015"
-    complete  : false
 
 
 anticipated-volume:
@@ -123,3 +117,5 @@ current-cost:
 
 
 ---
+
+

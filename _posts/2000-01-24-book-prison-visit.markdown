@@ -25,7 +25,7 @@ detail-page-intro: |
 
 
 status: "public-beta"
-status-strapline: "In beta. Development of the beta is ongoing with user research of the prototype under way at more than 85 Category B prisons, including Youth and Women’s."
+status-strapline: "In beta. Service is in use in 95 Category B prisons, including Youth and Women’s and the team is preparing to take the service live."
 
 
 videos:
@@ -41,15 +41,17 @@ successes: |
   - Service standardised across pilot prisons
   - User research done for male Category B and below, Youth, Women’s, High Security Estate (Category A) and Contracted Out prisons 
   - Live performance dashboard released
+  - Service rolled out nationally to male Category B and below, Youth and Women’s prisons
+  - Passed live Digital by Default Service Standard assessment
   
 challenges: |
   - Developing a standard process for booking visits across all prisons
-  - Integrating the new service with existing ones
-  - Rolling out beta product nationally to male Category B and below, Youth and Women’s prisons
+  - Integrating the new service with existing online booking systems
   
 next-steps: |
-  - Continue development of beta following its release to all public male Category B and below, Youth and Women’s prisons in England and Wales
-  - Prepare for the live Digital by Default Service Standard assessment
+  - Release live service
+  - Continuously improve service based on user feedback
+  - Improve response times through full integration with existing booking systems
 
 
 screengrabs:
@@ -100,8 +102,8 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jul to Sep 2014"
-    complete  : false
+  - copy      : "Completed: Service goes live (depending on Service Standard Assessment) --- Sep 2014"
+    complete  : true
 
 
 anticipated-volume:
@@ -125,3 +127,5 @@ current-cost:
 
 
 ---
+
+

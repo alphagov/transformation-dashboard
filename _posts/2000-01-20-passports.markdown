@@ -21,24 +21,25 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "In beta and on track."
+status-strapline: "In beta."
 
 
 successes: |
-  - Passed alpha to beta Digital by Default Service Standard assessment
+  - Beta inception completed
   - Prototypes developed for UK applicants
   - Prototypes tested with users
-  - Photograph upload feature added
-  - Development environment set up and accredited 
+  - Photograph upload feature tested
+  - Development and hosting environments set up and accredited 
 
 challenges: |
   - Linking with current systems and ensuring appropriate security is maintained across that link
   - Setting up the development environment
+  - Managing competition for availability of the testing environment
 
 next: |
   - Continue working on the beta service
   - Continue testing and iterating user journey 
-  - Research users’ ability to take a compliant photograph
+  - Analyse research into users’ ability to take a compliant photograph
   - Continue working on application interface
     
 
@@ -65,6 +66,9 @@ status-beta:
     complete  : true
   - copy      : "Private beta release --- Oct to Dec 2014"
     complete  : false
+  - copy      : "Public beta release --- Jan to Mar 2015"
+    complete  : false
+
 
 status-live:
   - copy      : "Service goes live (depending on Service Standard Assessment) --- post-March 2015"
@@ -72,3 +76,5 @@ status-live:
 
 
 ---
+
+

@@ -79,7 +79,7 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Start beta development --- Jul to Sep 2014"
     complete  : true
-  - copy      : "Release public beta --- date to be confirmed"
+  - copy      : "Release public beta --- Oct to Dec 2014"
     complete  : false
 
 status-live:
@@ -93,3 +93,5 @@ anticipated-volume:
 
 
 ---
+
+
