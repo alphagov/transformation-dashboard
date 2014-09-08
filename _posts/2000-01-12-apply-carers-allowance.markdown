@@ -115,7 +115,7 @@ status-live:
 
 anticipated-volume:
   - number  : 3.2m
-    caption : carers in the UK
+    caption : Carers in the UK
 
 
 ---

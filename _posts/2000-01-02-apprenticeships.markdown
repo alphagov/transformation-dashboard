@@ -23,7 +23,7 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "In beta"
+status-strapline: "In beta."
 
 
 videos:

@@ -114,7 +114,7 @@ status-live:
 
 anticipated-volume:
   - number  : 100k
-    caption : registrations in first year
+    caption : Registrations in first year
 
 
 ---

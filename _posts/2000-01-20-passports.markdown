@@ -36,7 +36,7 @@ challenges: |
   - Setting up the development environment
   - Managing competition for availability of the testing environment
 
-next: |
+next-steps: |
   - Continue working on the beta service
   - Continue testing and iterating user journey 
   - Analyse research into users’ ability to take a compliant photograph

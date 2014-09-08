@@ -46,7 +46,7 @@ challenges: |
   - Managing delivery alongside strategic transformation projects like the abolition of the tax disc, payments and direct debits
   
 next-steps: |
-  - Start beta development
+  - Complete private beta and prepare for public beta release
   - Continue user research
   - Bring new team members on board
 

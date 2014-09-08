@@ -25,7 +25,7 @@ this-month: |
 next-month: |
     - [Prison visit booking](/transformation/book-prison-visit) goes live
     - [View driving licence](/transformation/driving-record) goes live
-    - Registered Traveller Service (/transformation/apply-registered-traveller) moves into public beta
+    - [Registered Traveller Service](/transformation/apply-registered-traveller) moves into public beta
 
 videos:
     - url: https://www.youtube.com/watch?v=RqZ9e1GXJLo
