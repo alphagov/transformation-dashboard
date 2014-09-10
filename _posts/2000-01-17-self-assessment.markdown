@@ -23,7 +23,7 @@ detail-page-intro: |
 
 
 status: "public-beta"
-status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 16: Digital self-assessment](/transformation/self-assessment)."
+status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 16: Digital self-assessment](/transformation/self-assessment.html)."
   
 
 videos:

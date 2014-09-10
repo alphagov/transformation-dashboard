@@ -23,7 +23,7 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "In beta. This service is being built alongside [exemplar 16: Digital self-assessment](/transformation/self-assessment) and [exemplar 17: Your tax account](/transformation/business-tax-account)."
+status-strapline: "In beta. This service is being built alongside [exemplar 16: Digital self-assessment](/transformation/self-assessment.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
 
 
 videos:

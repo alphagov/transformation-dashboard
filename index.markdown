@@ -20,12 +20,12 @@ intro: |
     You can read more about the transformation programme on [our blog](https://digitaltransformation.blog.gov.uk/).
 
 this-month: |
-    - [Civil claims](/transformation/court-claims) went live
+    - [Civil claims](/transformation/court-claims.html) went live
+    - [Prison visit booking](/transformation/book-prison-visit.html) went live
 
 next-month: |
-    - [Prison visit booking](/transformation/book-prison-visit) goes live
-    - [View driving licence](/transformation/driving-record) goes live
-    - [Registered Traveller Service](/transformation/apply-registered-traveller) moves into public beta
+    - [View driving licence](/transformation/driving-record.html) goes live
+    - [Registered Traveller Service](/transformation/apply-registered-traveller.html) moves into public beta
 
 videos:
     - url: https://www.youtube.com/watch?v=RqZ9e1GXJLo

@@ -24,7 +24,7 @@ detail-page-intro: |
 
 
 status: "public-beta"
-status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 17: Your tax account](/transformation/business-tax-account)."
+status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
   
 
 videos:

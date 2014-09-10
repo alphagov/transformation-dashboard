@@ -24,8 +24,8 @@ detail-page-intro: |
     1.5 million prison visits booked online every year
 
 
-status: "public-beta"
-status-strapline: "In beta. Service is in use in 95 Category B prisons, including Youth and Women’s and the team is preparing to take the service live."
+status: "live"
+status-strapline: "Live. Service is in use in 95 Category B prisons, including Youth and Women’s."
 
 
 videos:
@@ -43,14 +43,14 @@ successes: |
   - Live performance dashboard released
   - Service rolled out nationally to male Category B and below, Youth and Women’s prisons
   - Passed live Digital by Default Service Standard assessment
+  - Live service released
   
 challenges: |
   - Developing a standard process for booking visits across all prisons
   - Integrating the new service with existing online booking systems
   
 next-steps: |
-  - Release live service
-  - Continuously improve service based on user feedback
+  - Continuously improve live service based on user feedback
   - Improve response times through full integration with existing booking systems
 
 
