@@ -5,6 +5,8 @@ layout: exemplar
 exemplar-title: "Prison visit booking"
 exemplar-number: 24
 
+exemplar-service-url: "https://www.gov.uk/prison-visits"
+exemplar-performance-dashboard-url: "https://www.gov.uk/performance/prison-visits"
 exemplar-blog-url: "www.blogs.justice.gov.uk/digital"
 
 
@@ -109,21 +111,6 @@ status-live:
 anticipated-volume:
   - number  : 1.5m
     caption : Visits per year
-
-
-performance-platform-url: "https://www.gov.uk/performance/moj-prison-visit-booking"
-
-
-current-volume:
-  - number  : "1.32m"
-    caption : "Transactions per year"
-  - number  : "0%"
-    caption : "Digital take-up"
-current-cost:
-  - number  : "£4.97m"
-    caption : "Total cost"
-  - number  : "£3.75"
-    caption : "Cost per transaction"
 
 
 ---

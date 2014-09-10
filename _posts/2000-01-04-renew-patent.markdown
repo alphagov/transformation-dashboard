@@ -5,6 +5,9 @@ layout: exemplar
 exemplar-title: "Renew a patent"
 exemplar-number: 4
 
+exemplar-service-url: "https://www.gov.uk/renew-patent"
+exemplar-performance-dashboard-url: "https://www.gov.uk/performance/renew-patent"
+
 
 department: "Department<br>for Business<br>Innovation & Skills"
 department-url: "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"

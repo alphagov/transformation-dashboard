@@ -5,6 +5,7 @@ layout: exemplar
 exemplar-title: "Carer’s Allowance"
 exemplar-number: 12
 
+exemplar-service-url: "https://www.gov.uk/apply-carers-allowance"
 exemplar-performance-dashboard-url: "https://www.gov.uk/performance/carers-allowance"
 exemplar-blog-url: "https://dwpdigital.blog.gov.uk/"
 

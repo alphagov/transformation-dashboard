@@ -5,7 +5,8 @@ layout: exemplar
 exemplar-title: "View driving licence"
 exemplar-number: 9
 
-exemplar-service-url: https://www.gov.uk/view-driving-licence
+exemplar-service-url: "https://www.gov.uk/view-driving-licence"
+exemplar-performance-dashboard-url: "https://www.gov.uk/performance/view-driving-licence"
 exemplar-blog-url: "https://dvladigital.blog.gov.uk/"
 
 
@@ -71,7 +72,7 @@ screengrabs:
 
 
 embedded-pp-graphs:
-  - graph-url: "https://www.gov.uk/performance/view-driving-record/user-satisfaction"
+  - graph-url: "https://www.gov.uk/performance/view-driving-licence/user-satisfaction"
     graph-title: "User satisfaction"
 
 

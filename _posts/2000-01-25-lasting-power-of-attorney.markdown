@@ -6,6 +6,7 @@ exemplar-title: "Lasting power of attorney"
 exemplar-number: 25
 
 exemplar-service-url: "https://www.gov.uk/lasting-power-of-attorney"
+exemplar-performance-dashboard-url: "https://www.gov.uk/performance/lasting-power-of-attorney"
 exemplar-blog-url: "https://mojdigital.blog.gov.uk/"
 
 
@@ -121,9 +122,6 @@ status-live:
 anticipated-volume:
   - number  : 300k
     caption : Applications a year
-
-
-exemplar-performance-dashboard-url: "https://www.gov.uk/performance/lasting-power-of-attorney"
 
 
 ---

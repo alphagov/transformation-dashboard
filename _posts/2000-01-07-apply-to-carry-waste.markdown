@@ -6,6 +6,7 @@ exemplar-title: "Waste carrier registration"
 exemplar-number: 7
 
 exemplar-service-url: "https://www.gov.uk/register-waste-carrier"
+exemplar-performance-dashboard-url: "https://www.gov.uk/performance/waste-carrier-or-broker-registration"
 exemplar-blog-url: "https://eadigital.blog.gov.uk/"
 
 
