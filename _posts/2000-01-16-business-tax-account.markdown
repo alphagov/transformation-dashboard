@@ -4,14 +4,16 @@ layout: exemplar
 
 exemplar-title: "Digital self-assessment"
 exemplar-number: 16
+
 exemplar-service-url: "https://www.gov.uk/file-your-self-assessment-tax-return"
 exemplar-blog-url: "www.hmrcdigital.blog.gov.uk"
 
 
 department: "HM Revenue<br>& Customs"
+department-url: "https://www.gov.uk/government/organisations/hm-revenue-customs"
+
 permanent-secretary: "Lin Homer"
 digital-leader: "Mark Dearnley"
-department-url: "https://www.gov.uk/government/organisations/hm-revenue-customs"
 
 
 homepage-intro: |
@@ -19,6 +21,37 @@ homepage-intro: |
 
 detail-page-intro: |
     Making self-assessment fully digital for 10 million people
+
+
+status: "public-beta"
+status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
+  
+
+videos:
+  - url     : https://www.youtube.com/watch?v=vYiFIMC32ME
+    caption : Watch a description of the exemplar
+  - url     : https://www.youtube.com/watch?v=WFqdsey7KC4
+    caption : Watch an update about the beta, filmed December 2013
+  - url     : https://www.youtube.com/watch?v=Fm4ZbbE78Fk
+    caption : Watch a short demo which gives an overview of the service, filmed January 2014
+
+
+successes: |
+  - Passed beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+  - Service released to the public
+  
+challenges: |
+  - The timeline to put infrastructure in place is tight
+  - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
+  
+next-steps: |
+  - Add user support features to the service
+  - Add information to the service about liabilities and payments
+
+
+screengrabs:
+  - filename    : "16-01-self-assessment.png"
+    caption     : "Email reminder service beta, December 2013."
 
 
 digital-strategy-statement: |
@@ -34,13 +67,9 @@ scope-of-exemplar: |
   - putting an end to 2.5 million letters
   - reducing the number of phone calls placed by 63,000
 
-anticipated-volume:
-  - number  : 10m
-    caption : Registered for self-assessment
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Digital self-assessment](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#digital-self-assessment-and-your-tax-account).
 
-
-status: "public-beta"
-status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye) and [exemplar 17: Your tax account](/transformation/business-tax-account)."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Feb 2013"
@@ -63,35 +92,9 @@ status-live:
     complete  : false
 
 
-successes: |
-  - Passed beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
-  - Service released to the public
-  
-challenges: |
-  - The timeline to put infrastructure in place is tight
-  - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
-  
-next-steps: |
-  - Add user support features to the service
-  - Add information to the service about liabilities and payments 
-  
-
-videos:
-  - url     : https://www.youtube.com/watch?v=vYiFIMC32ME
-    caption : Watch a description of the exemplar
-  - url     : https://www.youtube.com/watch?v=WFqdsey7KC4
-    caption : Watch an update about the beta, filmed December 2013
-  - url     : https://www.youtube.com/watch?v=Fm4ZbbE78Fk
-    caption : Watch a short demo which gives an overview of the service, filmed January 2014
+anticipated-volume:
+  - number  : 10m
+    caption : Registered for self-assessment
 
 
-screengrabs:
-  - filename    : "16-01-self-assessment.png"
-    caption     : "Email reminder service beta, December 2013."
-
-digital-inclusion: |
-  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Digital self-assessment](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#digital-self-assessment-and-your-tax-account).
 ---
-
-
-

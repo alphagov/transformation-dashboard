@@ -4,13 +4,15 @@ layout: exemplar
 
 exemplar-title: "Agent online self-serve"
 exemplar-number: 18
+
 exemplar-blog-url: "https://hmrcdigital.blog.gov.uk/"
 
 
 department: "HM Revenue<br>& Customs"
+department-url: "https://www.gov.uk/government/organisations/hm-revenue-customs"
+
 permanent-secretary: "Lin Homer"
 digital-leader: "Mark Dearnley"
-department-url: "https://www.gov.uk/government/organisations/hm-revenue-customs"
 
 
 homepage-intro: |
@@ -18,6 +20,22 @@ homepage-intro: |
 
 detail-page-intro: |
     An easy to use online tax dashboard for 120,000 tax agents
+
+
+status: "alpha"
+status-strapline: "In alpha."
+
+
+successes: |
+  - Discovery stage completed
+  - Alpha started
+  
+challenges: |
+  - The complexity of agent-client relationships makes this a difficult but very important exemplar to get right
+  
+next-steps: |
+  - Prepare paid agents service for release
+  - Complete alpha stage
 
 
 digital-strategy-statement: |
@@ -31,13 +49,9 @@ scope-of-exemplar: |
     This is a new service for tax agents to work with HMRC online. It will let agents register to act on behalf of, and see information about, their clients, and to control a range of transactions on their behalf. These will be built on a new digital tax platform which will eventually replace the current HMRC Portal and be the default platform for new user-facing services.
 
 
-anticipated-volume:
-  - number  : 120k
-    caption : Tax agents
+digital-inclusion: |
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Agent online self-serve](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#agent-online-self-serve).
 
-
-status: "alpha"
-status-strapline: "In alpha."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Feb 2013"
@@ -59,21 +73,12 @@ status-live:
   - copy      : "Service goes live (depending on Service Standard Assessment) --- date to be confirmed"
     complete  : false
 
-successes: |
-  - Discovery stage completed
-  - Alpha started
-  
-challenges: |
-  - The complexity of agent-client relationships makes this a difficult but very important exemplar to get right
-  
-next-steps: |
-  - Prepare paid agents service for release
-  - Complete alpha stage
 
-digital-inclusion: |
-  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Agent online self-serve](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#agent-online-self-serve).
+anticipated-volume:
+  - number  : 120k
+    caption : Tax agents
+
 
 ---
-
 
 

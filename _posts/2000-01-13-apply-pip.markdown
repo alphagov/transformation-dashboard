@@ -4,13 +4,15 @@ layout: exemplar
 
 exemplar-title: "Claim Personal Independence Payment (PIP)"
 exemplar-number: 13
+
 exemplar-blog-url: "https://dwpdigital.blog.gov.uk/"
 
 
 department: "Department<br>for Work &<br>Pensions"
+department-url: "https://www.gov.uk/government/organisations/department-for-work-pensions"
+
 permanent-secretary: "Robert Devereux"
 digital-leader: "Kevin Cunnington"
-department-url: "https://www.gov.uk/government/organisations/department-for-work-pensions"
 
 
 homepage-intro: |
@@ -18,6 +20,17 @@ homepage-intro: |
 
 detail-page-intro: |
     Supporting 2 million people with an easy way to claim Personal Independence Payment online
+
+
+status: "Alpha"
+status-strapline: "Discovery phase complete with work on the alpha ready to begin. Further work on the Personal Independence Payment exemplar will be linked to the delivery of [managed reassessment](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/180964/pip-reassessments-and-impacts.pdf) for claimants that begins in October 2015."
+
+
+successes: |
+  - Successful discovery phase
+  
+challenges: |
+  - A final plan for a new digital service at the Department for Work and Pensions is still to be agreed
 
 
 digital-strategy-statement: |
@@ -32,14 +45,6 @@ scope-of-exemplar: |
 
     We’re now building an in-depth understanding of user needs to see which parts of the PIP process might best be delivered through digital channels.
 
-
-anticipated-volume:
-  - number  : 2m
-    caption : People supported
-
-
-status: "Alpha"
-status-strapline: "Discovery phase complete with work on the alpha ready to begin. Further work on the Personal Independence Payment exemplar will be linked to the delivery of [managed reassessment](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/180964/pip-reassessments-and-impacts.pdf) for claimants that begins in October 2015."
 
 status-discovery:
   - copy      : "Completed: Discovery --- Sep 2013"
@@ -60,14 +65,10 @@ status-live:
     complete  : false
 
 
-successes: |
-  - Successful discovery phase
-  
-challenges: |
-  - A final plan for a new digital service at the Department for Work and Pensions is still to be agreed
+anticipated-volume:
+  - number  : 2m
+    caption : People supported
 
 
 ---
-
-
 
