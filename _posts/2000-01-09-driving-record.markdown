@@ -13,7 +13,7 @@ exemplar-blog-url: "https://dvladigital.blog.gov.uk/"
 department: "Department<br>for Transport"
 department-url: "https://www.gov.uk/government/organisations/department-for-transport"
 
-programme: "Driving and Vehicle Licencing Agency"
+programme: "Driver and Vehicle Licensing Agency"
 
 permanent-secretary: "Philip Rutnam"
 digital-leader: "Brian Etheridge"
