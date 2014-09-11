@@ -51,7 +51,9 @@ next-steps: |
 
 
 screengrabs:
-  - filename    : "19-03-registered-traveller.png"
+  - filename    : "19-01-registered-traveller.png"
+    caption     : "Screenshot of beta, March 2014"
+  - filename    : "19-02-registered-traveller.png"
     caption     : "Screenshot of beta, March 2014"
 
 
