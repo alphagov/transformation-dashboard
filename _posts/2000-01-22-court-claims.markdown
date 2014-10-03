@@ -5,7 +5,9 @@ layout: exemplar
 exemplar-title: "Civil claims"
 exemplar-number: 22
 
-exemplar-blog-url: "www.blogs.justice.gov.uk/digital"
+exemplar-service-url: "https://www.gov.uk/accelerated-possession-eviction"
+exemplar-performance-dashboard-url: "https://www.gov.uk/performance/moj-money-claims"
+exemplar-blog-url: "http://www.blogs.justice.gov.uk/digital"
 
 
 department: "Ministry<br>of Justice"
@@ -33,6 +35,7 @@ successes: |
   - Cross-disciplinary team in place
   - Better use of GDS’ user interface design patterns
   - Accelerated property possession claims has been released to users and is live
+  - Passed live Digital by Default Service Standard assessment
   
 challenges: |
   - Making language simpler while ensuring the accurate use of legal terminology
@@ -83,9 +86,6 @@ status-live:
 anticipated-volume:
   - number  : 1.5m
     caption : Claims a year
-
-
-performance-platform-url: "https://www.gov.uk/performance/moj-money-claims"
 
 
 current-volume:

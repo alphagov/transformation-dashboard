@@ -5,6 +5,7 @@ layout: exemplar
 exemplar-title: "Registered Traveller Service"
 exemplar-number: 19
 
+exemplar-service-url: "https://www.gov.uk/registered-traveller"
 
 department: "Home Office"
 department-url: "https://www.gov.uk/government/organisations/home-office"
@@ -20,8 +21,8 @@ detail-page-intro: |
     Up to 1 million journeys into the UK will be faster and easier for eligible frequent travellers
 
 
-status: "beta"
-status-strapline: "In beta and on track. The team has built a minimum viable product for the case working system, which is undergoing accreditation. Though anyone can check their eligibility to use the service, sign-up is currently limited to users meeting certain criteria."
+status: "public-beta"
+status-strapline: "In public beta. The team has built a minimum viable product for the case working system, which is undergoing accreditation. Though anyone can check their eligibility to use the service, sign-up is currently limited to users meeting certain criteria."
   
 
 videos:
@@ -39,6 +40,8 @@ successes: |
   - [Private beta](https://www.gov.uk/registered-traveller-scheme) released
   - The iterative development of the back-end case working system
   - ePassport gates are now available to registered travellers at Heathrow and Gatwick airports
+  - Beta Digital by Default Service Standard assessment passed
+  - Public beta released
   
 challenges: |
   - Integrating the service with current systems
@@ -85,10 +88,10 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Mar 2014"
     complete  : true
-  - copy      : "Launch new caseworking system --- Jul to Sep 2014"
-    complete  : false
-  - copy      : "Public beta release --- Jul to Sep 2014"
-    complete  : false
+  - copy      : "Completed: Launch new caseworking system --- Sep 2014"
+    complete  : true
+  - copy      : "Completed: Public beta release --- Sep 2014"
+    complete  : true
 
 status-live:
   - copy      : "Service goes live (depending on user feedback) --- Oct to Dec 2014"

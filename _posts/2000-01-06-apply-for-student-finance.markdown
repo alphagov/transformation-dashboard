@@ -37,7 +37,7 @@ videos:
 
 
 successes: |
-  - More than 800,000 digital applications for full-time students (academic year 2014 / 2015) were made using the publicly available beta service service between January and July 2014
+  - More than 1 million digital applications for full-time students (academic year 2014 / 2015) were made using the publicly available beta service service between January and September 2014
   - Service delivery team awarded TechExcel Best Agile Project at the [European Testing Awards](http://www.softwaretestingawards.com/2013-awards/2013-winners/)
 
 challenges: |
@@ -88,7 +88,7 @@ status-beta:
     complete  : true 
   - copy    : "Completed: Start application processing system beta development --- Jul 2014"
     complete  : true
-  - copy    : "Finish application processing system beta development --- Sep 2014"
+  - copy    : "Application processing system beta development --- Oct to Dec 2014"
     complete  : false
 
 status-live:

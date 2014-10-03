@@ -61,7 +61,7 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Delivered digital strategic solution --- Oct 2013"
     complete  : true
-  - copy      : "Release public beta --- date to be confirmed"
+  - copy      : "Release public beta --- Jan to Mar 2015"
     complete  : false
 
 status-live:

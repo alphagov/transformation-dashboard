@@ -83,8 +83,6 @@ status-alpha:
 status-beta:
   - copy    : "Completed: private beta release to initial group of invited users --- Jul 2014"
     complete  : true
-  - copy    : "Expand private beta to 1,000 users --- Jul to Sep 2014"
-    complete  : false
   - copy    : "Release public beta --- Oct to Dec 2014"
     complete  : false
 

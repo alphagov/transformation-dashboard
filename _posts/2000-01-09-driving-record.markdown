@@ -26,8 +26,8 @@ detail-page-intro: |
     Online access to driving records for up to 40 million drivers and the insurance industry
 
 
-status: "public-beta"
-status-strapline: "The public beta was released March 2014. Full functionality for Motor Insurers’ Bureau will be in place for the live release."
+status: "live"
+status-strapline: "Service is live and being continuously improved"
   
 videos:
   - url   : https://www.youtube.com/watch?v=fauL1iO7SlI
@@ -55,8 +55,7 @@ challenges: |
   - Meeting ministerial commitments, such as the abolition of the licence counterpart and ending the requirement for fleets to carry the V5 document
   
 next-steps: |
-  - Integrate with motor insurance bureau systems
-  - Release, operate and continuously improve the live service
+  - Operate and continuously improve the live service
   - Develop and release new features such as ‘Share driving licence’
 
 
@@ -108,8 +107,8 @@ status-beta:
     complete    : true
 
 status-live:
-  - copy        : "Service goes live (depending on Service Standard Assessment) --- Jul to Sep 2014"
-    complete    : false
+  - copy        : "Completed: Service goes live (depending on Service Standard Assessment) --- Oct 2014"
+    complete    : true
 
 
 anticipated-volume:

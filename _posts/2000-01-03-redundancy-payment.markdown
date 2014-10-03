@@ -13,7 +13,7 @@ department-url: "https://www.gov.uk/government/organisations/department-for-busi
 programme: "Insolvency Service"
 
 permanent-secretary: "Martin Donnelly"
-digital-leader: "Ceri Smith"
+digital-leader: "Tim Knighton"
 
 
 homepage-intro: |
@@ -33,12 +33,12 @@ videos:
 
 
 successes: |
-  - Funding has been secured for the next stage of development
-  - End-to-end user experience in place ready for the release of the private beta service
+  - A private beta service has been released
   
 challenges: |
-  - Integrating with existing systems remains a challenge, as does balancing the time spent on this with the time required to develop the user journey
-  - Integrating [identity assurance](https://gds.blog.gov.uk/category/id-assurance/) into our service when there is no record of who applicants might be
+  - Integrating [identity assurance](https://gds.blog.gov.uk/category/id-assurance/) into our service
+  - Continuing to grow relationships with incumbent suppliers to manage future releases
+  - Developing a robust way of managing the service for users when it goes live
 
 next-steps: |
   - Build identity assurance into the service   
