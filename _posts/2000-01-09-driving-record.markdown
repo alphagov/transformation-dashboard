@@ -44,8 +44,7 @@ videos-additional: |
 
 
 successes: |
-  - Public beta service released and monitored for reliability, call volumes and user feedback
-  - Service has passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) to go live in the autumn
+  - Service has passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) to go live
   - Secure, cloud-based hosting built
   - Full Identity Assurance service in private beta
   

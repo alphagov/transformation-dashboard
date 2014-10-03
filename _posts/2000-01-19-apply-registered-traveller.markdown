@@ -47,7 +47,6 @@ challenges: |
   - Integrating the service with current systems
   
 next-steps: |
-  - Release a public beta service
   - Expand the beta to get more frequent travellers using the service
   - Build an online payment system
   - Integrate the beta with current systems
