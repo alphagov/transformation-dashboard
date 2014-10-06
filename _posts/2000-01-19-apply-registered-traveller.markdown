@@ -37,7 +37,6 @@ videos:
 successes: |
   - Alpha completed within 6 weeks
   - Code from [Exemplar 21: Visit visa applications](/transformation/apply-visa) reused, saving time
-  - [Private beta](https://www.gov.uk/registered-traveller-scheme) released
   - The iterative development of the back-end case working system
   - ePassport gates are now available to registered travellers at Heathrow and Gatwick airports
   - Beta Digital by Default Service Standard assessment passed
