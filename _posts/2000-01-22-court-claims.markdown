@@ -6,7 +6,7 @@ exemplar-title: "Civil claims"
 exemplar-number: 22
 
 exemplar-service-url: "https://www.gov.uk/accelerated-possession-eviction"
-exemplar-performance-dashboard-url: "https://www.gov.uk/performance/moj-money-claims"
+exemplar-performance-dashboard-url: "https://www.gov.uk/performance/accelerated-possession-eviction"
 exemplar-blog-url: "http://www.blogs.justice.gov.uk/digital"
 
 
@@ -47,6 +47,17 @@ next-steps: |
   - Investigate the viability of a ‘save and return’ function, online tracking and digital payments for potential use across the whole civil claims service
 
 
+embedded-pp-graphs:
+  - graph-url: "https://www.gov.uk/performance/accelerated-possession-eviction/digital-takeup"
+    graph-title: "Digital take-up"
+    graph-caption: "Proportion of claims made using the digital service"
+  - graph-url: "https://www.gov.uk/performance/accelerated-possession-eviction/user-satisfaction"
+    graph-title: "User satisfaction"
+  - graph-url: "https://www.gov.uk/performance/accelerated-possession-eviction/completion-rate"
+    graph-title: "Completion rate"
+    graph-caption: "Proportion of users who start and download their claim form using the digital service"
+
+
 digital-strategy-statement: |
     ...existing digital applications which we will redesign to digitise more of the process, provide a better user experience and increase take-up.
     
@@ -81,16 +92,6 @@ status-beta:
 status-live:
   - copy      : "Completed: Service goes live (depending on Service Standard Assessment) --- Aug 2014"
     complete  : true
-
-
-anticipated-volume:
-  - number  : 1.5m
-    caption : Claims a year
-
-
-current-volume:
-  - number  : "1.17m"
-    caption : "Transactions per year"
 
 
 ---
