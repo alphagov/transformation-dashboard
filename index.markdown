@@ -29,7 +29,7 @@ next-month: |
     - [Apprenticeship applications](/transformation/apprenticeships.html) moves into public beta
 
 videos:
-    - url : https://www.youtube.com/watch?v=hzyRAZVaBAs
+    - url: https://www.youtube.com/watch?v=hzyRAZVaBAs
       caption: A quick look at Prison visit booking, which went live in September 2014
 
 ---
