@@ -38,7 +38,7 @@ videos:
     caption : Watch an update about the progress of the service, filmed December 2013
   - url   : https://www.youtube.com/watch?v=vVca-cL5jJI
     caption : Watch a short demo, viewing your driving record online, filmed January 2014
-  - url   : https://www.youtube.com/watch?v=xUZZKi94p6Q&list=UUSNK6abAoM6Kj0SkHOStNLg
+  - url   : https://www.youtube.com/watch?v=xUZZKi94p6Q
     caption : Watch a video about the live service, filmed September 2014
 
 videos-additional: |
