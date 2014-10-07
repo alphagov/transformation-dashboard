@@ -6,7 +6,6 @@ exemplar-title: "Visas"
 exemplar-number: 21
 
 exemplar-service-url: "https://visasandimmigration.ipt.homeoffice.gov.uk/applying-in-china"
-exemplar-performance-dashboard-url: "https://www.gov.uk/performance/home-office-visas-immigration-applications"
 
 department: "Home Office"
 department-url: "https://www.gov.uk/government/organisations/home-office"
@@ -113,6 +112,8 @@ anticipated-volume:
   - number  : 3.4m
     caption : Visas issued a year
 
+
+performance-platform-url: https://www.gov.uk/performance/home-office-visas-immigration-applications
 
 current-volume:
   - number  : "3.57m"

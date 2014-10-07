@@ -100,9 +100,9 @@ performance-platform-url: "https://www.gov.uk/performance/defra-single-payment-s
 
 
 current-volume:
-  - number  : 106k
+  - number  : 111k
     caption : Transactions per year
-  - number  : 51.7%
+  - number  : 72.9%
     caption : Digital take-up
 current-cost:
   - number  : £73.4m

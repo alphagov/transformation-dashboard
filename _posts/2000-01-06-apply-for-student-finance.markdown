@@ -105,14 +105,14 @@ performance-platform-url: "https://www.gov.uk/performance/bis-student-finance-ap
 
 
 current-volume:
-  - number  : 1.17m
+  - number  : 1.21m
     caption : transactions per year
-  - number  : 76.8%
+  - number  : 97.8%
     caption : digital take-up
 current-cost:
-  - number  : £57.4m
+  - number  : £59.9m
     caption : total cost
-  - number  : £49.25
+  - number  : £49.46
     caption : cost per transaction
 
 
