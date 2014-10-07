@@ -26,8 +26,8 @@ detail-page-intro: |
     Online access to driving records for up to 40 million drivers and the insurance industry
 
 
-status: "public-beta"
-status-strapline: "The public beta was released March 2014. Full functionality for Motor Insurers’ Bureau will be in place for the live release."
+status: "live"
+status-strapline: "Service is live and being continuously improved"
   
 videos:
   - url   : https://www.youtube.com/watch?v=fauL1iO7SlI
@@ -38,14 +38,15 @@ videos:
     caption : Watch an update about the progress of the service, filmed December 2013
   - url   : https://www.youtube.com/watch?v=vVca-cL5jJI
     caption : Watch a short demo, viewing your driving record online, filmed January 2014
+  - url   : https://www.youtube.com/watch?v=xUZZKi94p6Q
+    caption : Watch a video about the live service, filmed September 2014
 
 videos-additional: |
   You can also watch a [demo](https://www.youtube.com/watch?v=1596bmHAOrg) introducing the service, filmed May 2013.
 
 
 successes: |
-  - Public beta service released and monitored for reliability, call volumes and user feedback
-  - Service has passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) to go live in the autumn
+  - Service has passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) to go live
   - Secure, cloud-based hosting built
   - Full Identity Assurance service in private beta
   
@@ -55,8 +56,7 @@ challenges: |
   - Meeting ministerial commitments, such as the abolition of the licence counterpart and ending the requirement for fleets to carry the V5 document
   
 next-steps: |
-  - Integrate with motor insurance bureau systems
-  - Release, operate and continuously improve the live service
+  - Operate and continuously improve the live service
   - Develop and release new features such as ‘Share driving licence’
 
 
@@ -108,8 +108,8 @@ status-beta:
     complete    : true
 
 status-live:
-  - copy        : "Service goes live (depending on Service Standard Assessment) --- Jul to Sep 2014"
-    complete    : false
+  - copy        : "Completed: Service goes live (depending on Service Standard Assessment) --- Oct 2014"
+    complete    : true
 
 
 anticipated-volume:

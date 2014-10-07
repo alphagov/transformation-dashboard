@@ -5,7 +5,9 @@ layout: exemplar
 exemplar-title: "Civil claims"
 exemplar-number: 22
 
-exemplar-blog-url: "www.blogs.justice.gov.uk/digital"
+exemplar-service-url: "https://www.gov.uk/accelerated-possession-eviction"
+exemplar-performance-dashboard-url: "https://www.gov.uk/performance/accelerated-possession-eviction"
+exemplar-blog-url: "http://www.blogs.justice.gov.uk/digital"
 
 
 department: "Ministry<br>of Justice"
@@ -33,6 +35,7 @@ successes: |
   - Cross-disciplinary team in place
   - Better use of GDS’ user interface design patterns
   - Accelerated property possession claims has been released to users and is live
+  - Passed live Digital by Default Service Standard assessment
   
 challenges: |
   - Making language simpler while ensuring the accurate use of legal terminology
@@ -42,6 +45,17 @@ next-steps: |
   - Continuously improve live service based on user feedback
   - Grow the service to include other claim types
   - Investigate the viability of a ‘save and return’ function, online tracking and digital payments for potential use across the whole civil claims service
+
+
+embedded-pp-graphs:
+  - graph-url: "https://www.gov.uk/performance/accelerated-possession-eviction/digital-takeup"
+    graph-title: "Digital take-up"
+    graph-caption: "Proportion of claims made using the digital service"
+  - graph-url: "https://www.gov.uk/performance/accelerated-possession-eviction/user-satisfaction"
+    graph-title: "User satisfaction"
+  - graph-url: "https://www.gov.uk/performance/accelerated-possession-eviction/completion-rate"
+    graph-title: "Completion rate"
+    graph-caption: "Proportion of users who start and download their claim form using the digital service"
 
 
 digital-strategy-statement: |
@@ -78,19 +92,6 @@ status-beta:
 status-live:
   - copy      : "Completed: Service goes live (depending on Service Standard Assessment) --- Aug 2014"
     complete  : true
-
-
-anticipated-volume:
-  - number  : 1.5m
-    caption : Claims a year
-
-
-performance-platform-url: "https://www.gov.uk/performance/moj-money-claims"
-
-
-current-volume:
-  - number  : "1.17m"
-    caption : "Transactions per year"
 
 
 ---

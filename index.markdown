@@ -20,15 +20,16 @@ intro: |
     You can read more about the transformation programme on [our blog](https://digitaltransformation.blog.gov.uk/).
 
 this-month: |
-    - [Civil claims](/transformation/court-claims.html) went live
-    - [Prison visit booking](/transformation/book-prison-visit.html) went live
+    - [View driving licence](/transformation/driving-record.html) went live
+    - [Registered Traveller Service](/transformation/apply-registered-traveller.html) public beta was released
 
 next-month: |
-    - [View driving licence](/transformation/driving-record.html) goes live
-    - [Registered Traveller Service](/transformation/apply-registered-traveller.html) moves into public beta
+    - [Carer’s Allowance](/transformation/apply-carers-allowance.html) goes live
+    - [PAYE for employees](/transformation/paye.html) moves into public beta
+    - [Apprenticeship applications](/transformation/apprenticeships.html) moves into public beta
 
 videos:
-    - url: https://www.youtube.com/watch?v=RqZ9e1GXJLo
-      caption: A quick look at Register to vote, which went live in June 2014
+    - url: https://www.youtube.com/watch?v=hzyRAZVaBAs
+      caption: A quick look at Prison visit booking, which went live in September 2014
 
 ---

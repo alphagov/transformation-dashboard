@@ -37,7 +37,7 @@ videos:
 
 
 successes: |
-  - More than 800,000 digital applications for full-time students (academic year 2014 / 2015) were made using the publicly available beta service service between January and July 2014
+  - More than 1 million digital applications for full-time students (academic year 2014 / 2015) were made using the publicly available beta service service between January and September 2014
   - Service delivery team awarded TechExcel Best Agile Project at the [European Testing Awards](http://www.softwaretestingawards.com/2013-awards/2013-winners/)
 
 challenges: |
@@ -88,7 +88,7 @@ status-beta:
     complete  : true 
   - copy    : "Completed: Start application processing system beta development --- Jul 2014"
     complete  : true
-  - copy    : "Finish application processing system beta development --- Sep 2014"
+  - copy    : "Application processing system beta development --- Oct to Dec 2014"
     complete  : false
 
 status-live:
@@ -105,14 +105,14 @@ performance-platform-url: "https://www.gov.uk/performance/bis-student-finance-ap
 
 
 current-volume:
-  - number  : 1.17m
+  - number  : 1.21m
     caption : transactions per year
-  - number  : 76.8%
+  - number  : 97.8%
     caption : digital take-up
 current-cost:
-  - number  : £57.4m
+  - number  : £59.9m
     caption : total cost
-  - number  : £49.25
+  - number  : £49.46
     caption : cost per transaction
 
 
