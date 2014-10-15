@@ -5,7 +5,7 @@ layout: exemplar
 exemplar-title: "Your tax account"
 exemplar-number: 17
 
-exemplar-blog-url: "www.hmrcdigital.blog.gov.uk"
+exemplar-blog-url: "https://hmrcdigital.blog.gov.uk"
 
 
 department: "HM Revenue<br>& Customs"
@@ -31,8 +31,8 @@ videos:
     caption : Watch a description of the exemplar
   - url     : https://www.youtube.com/watch?v=1SP-dh1-zWE
     caption : Watch an update about the beta, filmed December 2013
-  - url     : https://www.youtube.com/watch?v=OcO9ulxj1iI
-    caption : Watch a short demo, opting into self-assessment email reminders, filmed January 2014
+  - url     : https://www.youtube.com/watch?v=Fm4ZbbE78Fk
+    caption : Watch a short demo which gives an overview of the service, filmed January 2014
 
 
 successes: |
