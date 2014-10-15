@@ -5,7 +5,7 @@ layout: exemplar
 exemplar-title: "PAYE for employees"
 exemplar-number: 15
 
-exemplar-blog-url: "www.hmrcdigital.blog.gov.uk"
+exemplar-blog-url: "https://hmrcdigital.blog.gov.uk"
 
 
 department: "HM Revenue<br>& Customs"
