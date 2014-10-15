@@ -6,7 +6,7 @@ exemplar-title: "Digital self-assessment"
 exemplar-number: 16
 
 exemplar-service-url: "https://www.gov.uk/file-your-self-assessment-tax-return"
-exemplar-blog-url: "www.hmrcdigital.blog.gov.uk"
+exemplar-blog-url: "https://hmrcdigital.blog.gov.uk"
 
 
 department: "HM Revenue<br>& Customs"
