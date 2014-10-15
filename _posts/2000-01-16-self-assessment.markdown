@@ -32,8 +32,8 @@ videos:
     caption : Watch a description of the exemplar
   - url     : https://www.youtube.com/watch?v=WFqdsey7KC4
     caption : Watch an update about the beta, filmed December 2013
-  - url     : https://www.youtube.com/watch?v=Fm4ZbbE78Fk
-    caption : Watch a short demo which gives an overview of the service, filmed January 2014
+  - url     : https://www.youtube.com/watch?v=OcO9ulxj1iI
+    caption : Watch a short demo, opting into self-assessment email reminders, filmed January 2014
 
 
 successes: |
