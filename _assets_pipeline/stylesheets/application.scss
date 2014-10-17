@@ -11,6 +11,11 @@
 // match www.gov.uk footer links (_footer_top.html)
 @import 'alphagov-static-footer';
 
+// deal with matching GOV.UK styles in footer that aren't handled by template
+#footer {
+  border-top: 10px solid $govuk-blue;
+}
+
 // https://github.com/alphagov/static - picked resets
 @import 'static-resets';
 
@@ -119,17 +124,40 @@ $live-colour: $grass-green;
 
 // --------------------------------------------------------- //
 
-// Typography bits
+// Typography bits - wrapped to protect GOV.UK template
 
-h1 {
-    @include bold-48;
+.main-content {
 
-    span {
-      @include core-27($line-height: 1);
-      display: block;
-      margin-bottom: 0.25em;
-      color: $secondary-text-colour ;
+  h1 {
+      @include bold-48;
+
+      span {
+        @include core-27($line-height: 1);
+        display: block;
+        margin-bottom: 0.25em;
+        color: $secondary-text-colour ;
+      }
+  }
+
+  h2 {
+    font-weight: 700;
+  }
+
+  h3 {
+    font-weight: 700;
+  }
+
+  ul {
+    list-style-type: disc;
+    margin: 5px 0 20px 20px;
+    padding: 0;
+
+    li {
+      @include core-19;
+      margin-bottom: 5px;
     }
+  }
+
 }
 
 .homepage-header {
@@ -150,27 +178,8 @@ h1 {
   }
 }
 
-h2 {
-  font-weight: 700;
-}
 .exemplar-status h2 {
   margin-top: 0;
-}
-
-h3 {
-  font-weight: 700;
-}
-
-// Basic unordered lists
-ul {
-  list-style-type: disc;
-  margin: 5px 0 20px 20px;
-  padding: 0;
-
-  li {
-    @include core-19;
-    margin-bottom: 5px;
-  }
 }
 
 .lrg-number {
