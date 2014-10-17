@@ -4,9 +4,10 @@
 
 //  This include rips Static for _footer_top.html ONLY
 
-// https://github.com/alphagov/static/blob/master/app/assets/stylesheets/_footer.scss
+//  Copied + pasted straight from:
+//  https://raw.githubusercontent.com/alphagov/static/master/app/assets/stylesheets/helpers/_footer.scss
 
-// Global footer
+/* Global footer */
 
 #footer {
   .footer-categories {
@@ -45,8 +46,9 @@
         margin-bottom: 0;
       }
     }
-
+  
     ul {
+      @include core-16;
       list-style: none;
       padding: 0;
       margin: 0;
@@ -57,8 +59,8 @@
         width: 50%;
       }
 
+    
       li {
-        @include core-16;
         display: block;
         margin-bottom: 5px;
 
