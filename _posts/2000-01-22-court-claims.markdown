@@ -29,6 +29,10 @@ detail-page-intro: |
 status: "live"
 status-strapline: "The first service to be transformed — accelerated property possession claims which handles 35,000 claims a year — is now live."
 
+videos:
+  - url     : https://www.youtube.com/watch?v=c67WjytCPX4
+    caption : Watch a short film about the the service
+
 
 successes: |
   - User research set up for each [sprint](/service-manual/agile/features-of-agile.html#sprints)

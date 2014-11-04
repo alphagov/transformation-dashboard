@@ -30,12 +30,12 @@ status-strapline: "In beta and on track."
 
 
 videos:
-  - url     : https://www.youtube.com/watch?v=w5wMxu-y1mA
-    caption : Watch a description of the exemplar
-  - url     : https://www.youtube.com/watch?v=NyJ8afCOgjI
-    caption : Watch an update about the beta, filmed December 2013
   - url     : https://www.youtube.com/watch?v=S2QT1RvEdoQ
     caption : Watch a short demo which gives an overview of the service, filmed January 2014
+  - url     : https://www.youtube.com/watch?v=NyJ8afCOgjI
+    caption : Watch an update about the beta, filmed December 2013
+  - url     : https://www.youtube.com/watch?v=w5wMxu-y1mA
+    caption : Watch a description of the exemplar
 
 
 successes: |

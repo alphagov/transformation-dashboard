@@ -17,7 +17,7 @@ homepage-intro: |
     If you need to renew your passport you’ll be able to do it using a simple online service
 
 detail-page-intro: |
-    5.64 million passport transactions each year
+    6.7 million passport transactions each year
 
 
 status: "beta"
@@ -25,23 +25,19 @@ status-strapline: "In beta."
 
 
 successes: |
-  - Beta inception completed
-  - Prototypes developed for UK applicants
-  - Prototypes tested with users
-  - Photograph upload feature tested
-  - Development and hosting environments set up and accredited 
+  - Prototypes tested with real users
+  - Photograph checking tool created
 
 challenges: |
   - Linking with current systems and ensuring appropriate security is maintained across that link
-  - Setting up the development environment
-  - Managing competition for availability of the testing environment
+  - Establishing new business processes for the new service to work alongside current arrangements 
+  - Competition for available time slots in the testing environment
 
 next-steps: |
-  - Continue working on the beta service
-  - Continue testing and iterating user journey 
-  - Analyse research into users’ ability to take a compliant photograph
-  - Continue working on application interface
-    
+  - Continue developing the beta service
+  - Continue testing and iterating user journey
+  - Refine the business process
+  - Test the payments process 
 
 scope-of-exemplar: |
     The existing passport service within the UK allows you to complete an online application form to apply for, renew or update a passport. The user then prints a declaration form, signs and dates it and sends it for processing with any documents or photographs that are needed.
@@ -64,11 +60,8 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Start beta development --- Jul 2014"
     complete  : true
-  - copy      : "Private beta release --- Oct to Dec 2014"
-    complete  : false
   - copy      : "Public beta release --- Jan to Mar 2015"
     complete  : false
-
 
 status-live:
   - copy      : "Service goes live (depending on Service Standard Assessment) --- post-March 2015"

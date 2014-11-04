@@ -31,12 +31,12 @@ status-strapline: "This service is being developed in two phases. Phase 1 is for
 
 
 videos:
-  - url   : https://www.youtube.com/watch?v=rSbfeVF1Fmg
-    caption : Watch a description of the exemplar
+  - url   : https://www.youtube.com/watch?v=LGoz7tQ2YUs
+    caption : Watch a short demo about registering online to carry waste, filmed January 2014
   - url   : https://www.youtube.com/watch?v=2aHHF1jMAiU
     caption : Watch a short update about the beta, filmed December 2013
-  - url   : https://www.youtube.com/watch?v=LGoz7tQ2YUs
-    caption : Watch a short demo, registering online to carry waste, filmed January 2014
+  - url   : https://www.youtube.com/watch?v=rSbfeVF1Fmg
+    caption : Watch a description of the exemplar
 
 
 successes: |
@@ -45,7 +45,7 @@ successes: |
   - Updates to beta released without disrupting the service for users
   - Over 20,000 users registered in the first 6 months
   - 96% of users registered online with a satisfaction rating of 89%
-  - Defra minister successfully used service on July 8 2014 
+  - Defra minister successfully used service in July 2014 
   
 challenges: |
   - Assembling and managing the team to run the live service 
@@ -53,7 +53,7 @@ challenges: |
   
 next-steps: |
   - Consider how far the underlying platform can be used for other Defra digital services
-  - Share lessons from this exemplar across the Environment Agency and Defra 
+  - Share lessons from the exemplar across the Environment Agency and Defra 
 
 
 screengrabs:
@@ -107,7 +107,7 @@ status-beta:
     complete  : true
   - copy    : "Completed: Start Phase 2 development --- Aug 2014"
     complete  : true
-  - copy    : "Phase 2 public beta --- Oct to Dec 2014"
+  - copy    : "Release Phase 2 public beta --- Oct to Dec 2014"
     complete  : false
 
 status-live:

@@ -28,12 +28,12 @@ status-strapline: "In beta. This service is being built alongside [exemplar 15: 
   
 
 videos:
-  - url     : https://www.youtube.com/watch?v=vYiFIMC32ME
-    caption : Watch a description of the exemplar
+  - url     : https://www.youtube.com/watch?v=OcO9ulxj1iI
+    caption : Watch a short demo about opting into self-assessment email reminders, filmed January 2014
   - url     : https://www.youtube.com/watch?v=WFqdsey7KC4
     caption : Watch an update about the beta, filmed December 2013
-  - url     : https://www.youtube.com/watch?v=OcO9ulxj1iI
-    caption : Watch a short demo, opting into self-assessment email reminders, filmed January 2014
+  - url     : https://www.youtube.com/watch?v=vYiFIMC32ME
+    caption : Watch a description of the exemplar
 
 
 successes: |
@@ -88,7 +88,7 @@ status-beta:
     complete  : true
  
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- Oct to Dec 2014"
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
     complete  : false
 
 

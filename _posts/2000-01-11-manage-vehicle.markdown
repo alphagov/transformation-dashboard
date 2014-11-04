@@ -25,19 +25,19 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "Beta phase under way."
+status-strapline: "In beta"
 
 
 videos:
-  - url     : https://www.youtube.com/watch?v=CROuz3Ghu08
-    caption : Watch a description of the exemplar
   - url     : https://www.youtube.com/watch?v=HykO6DRfznQ
     caption : Watch an update from the DVLA team, filmed December 2013
+  - url     : https://www.youtube.com/watch?v=CROuz3Ghu08
+    caption : Watch a description of the exemplar
+
 
 
 successes: |
   - Vehicle management passed Alpha [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment 
-  - Alpha phase complete
   - User and business needs established
   - Data integration requirements identified
   - Prototypes developed
@@ -76,8 +76,8 @@ status-alpha:
     complete  : true
 
 status-beta:
-  - copy      : "Beta development --- Apr to Oct 2014"
-    complete  : false
+  - copy      : "Completed: Start beta development --- Mar 2014"
+    complete  : true
   - copy      : "Release public beta --- Oct to Dec 2014"
     complete  : false
 

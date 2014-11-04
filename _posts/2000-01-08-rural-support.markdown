@@ -27,7 +27,7 @@ status-strapline: "In beta. Digital service is being released gradually to group
 
 videos:
   - url   : https://www.youtube.com/watch?v=fczqFhmong0
-    caption : Watch a short demo, reporting a change of land use online, filmed January 2014
+    caption : Watch a short demo about reporting a change of land use online, filmed January 2014
 
 
 successes: |
@@ -43,7 +43,7 @@ challenges: |
   
 next-steps: |
   - Invite more farmers and landowners to participate in the private beta 
-  - Prepare for Digital by Default Service Standard assessment before releasing the public beta
+  - Prepare for Digital by Default Service Standard assessment in November before moving to public beta
 
 
 screengrabs:
@@ -83,11 +83,11 @@ status-alpha:
 status-beta:
   - copy    : "Completed: private beta release to initial group of invited users --- Jul 2014"
     complete  : true
-  - copy    : "Release public beta --- Oct to Dec 2014"
+  - copy    : "Release public beta --- Jan to Mar 2014"
     complete  : false
 
 status-live:
-  - copy    : "Service goes live (depending on Service Standard Assessment) --- Oct to Dec 2014"
+  - copy    : "Service goes live (depending on Service Standard Assessment) --- date tbc"
     complete  : false
 
 

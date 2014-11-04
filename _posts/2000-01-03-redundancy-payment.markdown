@@ -29,7 +29,7 @@ status-strapline: "Developing the beta service for applying for redundancy payme
 
 videos:
   - url: https://www.youtube.com/watch?v=2yXnblGFyMQ
-    caption: Watch a short demo which gives an overview of the service, filmed January 2014
+    caption: Watch a short demo of the service, filmed January 2014
 
 
 successes: |

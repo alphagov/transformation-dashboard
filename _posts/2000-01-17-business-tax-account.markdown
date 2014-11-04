@@ -27,12 +27,12 @@ status-strapline: "In beta. This service is being built alongside [exemplar 15: 
   
 
 videos:
-  - url     : https://www.youtube.com/watch?v=HG5f7KC1A6E
-    caption : Watch a description of the exemplar
+  - url     : https://www.youtube.com/watch?v=Fm4ZbbE78Fk
+    caption : Watch a short demo of the service, filmed January 2014
   - url     : https://www.youtube.com/watch?v=1SP-dh1-zWE
     caption : Watch an update about the beta, filmed December 2013
-  - url     : https://www.youtube.com/watch?v=Fm4ZbbE78Fk
-    caption : Watch a short demo which gives an overview of the service, filmed January 2014
+  - url     : https://www.youtube.com/watch?v=HG5f7KC1A6E
+    caption : Watch a description of the exemplar
 
 
 successes: |
@@ -86,7 +86,7 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) ---  Oct to Dec 2014"
+  - copy      : "Service goes live (depending on Service Standard Assessment) ---  Jan to Mar 2015"
     complete  : false
 
 

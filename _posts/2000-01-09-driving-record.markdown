@@ -30,19 +30,16 @@ status: "live"
 status-strapline: "Service is live and being continuously improved"
   
 videos:
-  - url   : https://www.youtube.com/watch?v=fauL1iO7SlI
-    caption : Watch the DVLA team talk about their working process, filmed May 2013
-  - url   : https://www.youtube.com/watch?v=JBLyeGdliK0
-    caption : Watch a description of the exemplar, filmed December 2013
-  - url   : https://www.youtube.com/watch?v=MgLQ3GI7SyU
-    caption : Watch an update about the progress of the service, filmed December 2013
-  - url   : https://www.youtube.com/watch?v=vVca-cL5jJI
-    caption : Watch a short demo, viewing your driving record online, filmed January 2014
   - url   : https://www.youtube.com/watch?v=xUZZKi94p6Q
     caption : Watch a video about the live service, filmed September 2014
+  - url   : https://www.youtube.com/watch?v=JBLyeGdliK0
+    caption : Watch a description of the exemplar, filmed December 2013
+  - url   : https://www.youtube.com/watch?v=fauL1iO7SlI
+    caption : Watch the DVLA team talk about their working process, filmed May 2013
+
 
 videos-additional: |
-  You can also watch a [demo](https://www.youtube.com/watch?v=1596bmHAOrg) introducing the service, filmed May 2013.
+  You can also watch a [demo](https://www.youtube.com/watch?v=1596bmHAOrg), filmed May 2013.
 
 
 successes: |

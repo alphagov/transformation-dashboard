@@ -31,21 +31,20 @@ status-strapline: "Live. Service is in use in 95 Category B prisons, including Y
 
 
 videos:
+  
+  - url     : https://www.youtube.com/watch?v=hzyRAZVaBAs
+    caption : Watch a short film about the live service, filmed July 2014
   - url     : https://www.youtube.com/watch?v=5eYj5mgry0c
     caption : Watch a description of the exemplar
-  - url     : https://www.youtube.com/watch?v=8-LST8yrhgY
-    caption : Watch an update about the alpha, filmed December 2013
-  - url     : https://www.youtube.com/watch?v=WHtgV1XzVYM
-    caption : Watch a short demo, booking a prison visit online, filmed January 2014
 
 
 successes: |
   - Service standardised across pilot prisons
   - User research done for male Category B and below, Youth, Women’s, High Security Estate (Category A) and Contracted Out prisons 
   - Live performance dashboard released
-  - Service rolled out nationally to male Category B and below, Youth and Women’s prisons
   - Passed live Digital by Default Service Standard assessment
   - Live service released
+  - 100,000 prison visit bookings submitted since the release of the public beta 
   
 challenges: |
   - Developing a standard process for booking visits across all prisons
@@ -114,5 +113,7 @@ anticipated-volume:
 
 
 ---
+
+
 
 

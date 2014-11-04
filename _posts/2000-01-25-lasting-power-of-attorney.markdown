@@ -29,10 +29,11 @@ status-strapline: "Service is live and being continuously improved and expanded.
   
 
 videos:
-  - url     : https://www.youtube.com/watch?v=nsWv4yNKkkA
-    caption : Watch a description of the exemplar
   - url     : https://www.youtube.com/watch?v=MhbVCddSwV4
     caption : Watch an update filmed in May 2014, when the service went live
+  - url     : https://www.youtube.com/watch?v=nsWv4yNKkkA
+    caption : Watch a description of the exemplar
+
 
 videos-additional: |
   Watch a [demo](https://www.youtube.com/watch?v=Espjr6YdFh4) introducing the service, filmed July 2013.
@@ -47,7 +48,7 @@ successes: |
   - Service performance [measured and published](https://www.gov.uk/performance/lasting-power-of-attorney)
   - 90% of digital users paying online
   - First exemplar to pass the live [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
-  - Live service released
+  - Live service released with an average user satisfaction rating of 90%
 
 challenges: |
   - Agency-wide digital transformation to allow the Office of the Public Guardian (OPG) to be a digital exemplar
@@ -55,7 +56,7 @@ challenges: |
   
 next-steps: |
   - Continue to improve and expand the service
-  - More focus on developing back office systems
+  - Back office case management system scheduled for Digital by Default Service Standard assessment in November
 
 
 embedded-pp-graphs:
@@ -111,7 +112,7 @@ status-live:
     complete  : false
   - copy      : "Private release of deputyship service --- Oct to Dec 2014"
     complete  : false
-  - copy      : "Public release of deputyship service --- Oct to Dec 2014"
+  - copy      : "Public release of deputyship service --- Jan to Mar 2015"
     complete  : false
   - copy      : "Decommission existing case management system --- Jan to Mar 2015"
     complete  : false

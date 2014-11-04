@@ -27,13 +27,13 @@ detail-page-intro: |
 
 status: "live"
 status-strapline: "Service is live and being continuously improved"
-  
+
 
 videos:
-  - url   : https://www.youtube.com/watch?v=x2Mh7BC3UHo
-    caption : Watch a description of the service, filmed December 2013
-  - url   : https://www.youtube.com/watch?v=szrHRapCN0g
-    caption : Watch a short demo, renewing a patent online, filmed January 2014
+  - url: https://www.youtube.com/watch?v=jDKUe3NfuBg
+    caption: Watch a short film about the live service, filmed June 2014
+  - url: https://www.youtube.com/watch?v=x2Mh7BC3UHo
+    caption: Watch a description of the service, filmed December 2013
 
 
 successes: |

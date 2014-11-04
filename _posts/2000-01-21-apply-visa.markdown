@@ -6,6 +6,7 @@ exemplar-title: "Visas"
 exemplar-number: 21
 
 exemplar-service-url: "https://visasandimmigration.ipt.homeoffice.gov.uk/applying-in-china"
+exemplar-performance-dashboard-url: "https://www.gov.uk/performance/home-office-visas-immigration-applications"
 
 department: "Home Office"
 department-url: "https://www.gov.uk/government/organisations/home-office"
@@ -26,6 +27,8 @@ status-strapline: "Developing the beta service."
 
 
 videos:
+  - url     : https://www.youtube.com/watch?v=ufNA4kX6aHk
+    caption : Watch a short film about the public beta service to apply for a Visit Visa from China, filmed January 2014
   - url     : https://www.youtube.com/watch?v=CzXPSqD1kes
     caption : Watch a short demo, extending permission to work in the UK, filmed January 2014
 
@@ -36,7 +39,7 @@ videos-additional: |
 successes: |
   - Service manager is supported by a great product team
   - Service team are very good exponents of agile delivery
-  - Tier 2 beta and China Visit Visa beta both delivered on time and budget
+  - China Visit Visa beta delivered on time and budget
   - Extensive user research with a range of groups, including overseas users, English second-language users, agencies and UK legal representatives
   - Provided foreign language guidance in simplified Chinese and established a multi-lingual framework  for managing translated content
   - Excellent feedback from users 
@@ -52,8 +55,9 @@ challenges: |
   - Improving the governance of the service to embrace agile principles
 
 next-steps: |
-  - Continue to iteratively improve the Standard Visit Visa for China based on user feedback and testing
-  - Expand the Tier 2 Visa service 
+  - Continue to iteratively improve the Standard Visit Visa for China based on user feedback and research
+  - Develop the current model for service management to meet the standard required for a GOV.UK live service
+  - Reuse the exemplar technology for other types of Visa
   - Refine the agile team and recruit more Civil Service capability to support its work, filling several team vacancies
   - Help to establish a new service governance model based on agile principles
   - Establish a long term live service support model
@@ -112,8 +116,6 @@ anticipated-volume:
   - number  : 3.4m
     caption : Visas issued a year
 
-
-performance-platform-url: https://www.gov.uk/performance/home-office-visas-immigration-applications
 
 current-volume:
   - number  : "3.57m"
