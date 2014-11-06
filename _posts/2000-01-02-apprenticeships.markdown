@@ -33,16 +33,16 @@ videos:
 
 successes: |
   - Passed alpha to beta [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
-  - The scope of the public beta of the candidate service has been defined
+  - The feature set for candidates interested in a traineeship has been defined
   - Several permanent digital delivery team members have been appointed and are being introduced into the exemplar team 
   
 challenges: |
-  - The scope of the service to be delivered for candidates, employers and training providers is ambitious and not all service functionality will be delivered before programme end
-  - The public beta of the candidate service is dependent on changes to the legacy system API managed by a third party supplier
+  - The scope of the service to be delivered for candidates, employers and training providers is ambitious and not all service functionality will be delivered in the initial service
+  - Scaling up to continuously improve on the public beta service and introduce new features
   
 next-steps: |
-  - Complete development of features for the public beta of the candidate service 
-  - Test that changes to the legacy service work as intended
+  - Prepare for public beta Digital by Default Service Standard assessment 
+  - Complete research and analysis on the traineeships features
   - Continue selection and appointment of permanent digital delivery team members
 
 
@@ -77,11 +77,11 @@ status-beta:
     complete    : true
   - copy        : "Start beta development of employer service --- Oct to Dec 2014"
     complete    : false
-  - copy        : "Release public beta development of candidate service --- Oct to Dec 2014"
+  - copy        : "Release public beta of candidate service --- Oct to Dec 2014"
     complete    : false
 
 status-live:
-  - copy        : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
+  - copy        : "Candidate service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
     complete    : false
 
 

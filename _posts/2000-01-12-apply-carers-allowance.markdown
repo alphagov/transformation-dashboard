@@ -29,18 +29,19 @@ status-strapline: "In public beta. Continuous improvements made in fortnightly s
   
 
 videos:
+  - url     : https://www.youtube.com/watch?v=rDFCqiq40_w
+    caption : Watch a short demo about making a claim online, filmed January 2014
   - url     : https://www.youtube.com/watch?v=a4f5vqFRZp4
     caption : Watch an update about the release of the beta, filmed October 2013
-  - url     : https://www.youtube.com/watch?v=rDFCqiq40_w
-    caption : Watch a short demo, making a claim online, filmed January 2014
+
 
 videos-additional: |
   You can also watch a [demo](https://www.youtube.com/watch?v=kLAs4fkTZtk), checking whether you're eligible to make a claim, filmed July 2013.
 
 
 successes: |
-  - 100,000 digital claims submitted since release of public beta
-  - 60% of applications are now made using the digital service
+  - 120,000 digital claims submitted since release of public beta
+  - More than half of applications are now made using the digital service
   - User satisfaction ratings of approximately 90%
   - Change of circumstances can now be reported online
   - Welsh language version of the service released

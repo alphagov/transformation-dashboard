@@ -15,10 +15,10 @@ digital-leader: "Mike Parsons"
 
 
 homepage-intro: |
-    If you’re an eligible, frequent traveller to the UK you’ll be able to easily apply to use e-passport gates, cutting time queuing at airports
+  If you’re an eligible, frequent traveller to the UK you’ll be able to easily apply to use e-passport gates, cutting time queuing at airports
 
 detail-page-intro: |
-    Up to 1 million journeys into the UK will be faster and easier for eligible frequent travellers
+  Up to 1 million journeys into the UK will be faster and easier for eligible frequent travellers
 
 
 status: "public-beta"
@@ -26,13 +26,13 @@ status-strapline: "In public beta. The team has built a minimum viable product f
   
 
 videos:
-  - url     : https://www.youtube.com/watch?v=hLV0rZRoF8I
-    caption : Watch a description of the exemplar
-  - url     : https://www.youtube.com/watch?v=qkt4kkL81FI
-    caption : Watch an update about the beta, filmed December 2013
-  - url     : https://www.youtube.com/watch?v=S5q-gqos9JI
-    caption : Watch a short demo, updating your traveller details online, filmed January 2014
-
+  - url: https://www.youtube.com/watch?v=S5q-gqos9JI
+    caption: Watch a short demo about updating your traveller details online, filmed January 2014
+  - url: https://www.youtube.com/watch?v=qkt4kkL81FI
+    caption: Watch an update about the beta, filmed December 2013 
+  - url: https://www.youtube.com/watch?v=hLV0rZRoF8I
+    caption: Watch a description of the exemplar
+ 
 
 successes: |
   - Alpha completed within 6 weeks
@@ -41,6 +41,7 @@ successes: |
   - ePassport gates are now available to registered travellers at Heathrow and Gatwick airports
   - Beta Digital by Default Service Standard assessment passed
   - Public beta released
+  - New caseworking system went live in October 2014 and the old system was successfully decommissioned
   
 challenges: |
   - Integrating the service with current systems
@@ -49,6 +50,7 @@ next-steps: |
   - Expand the beta to get more frequent travellers using the service
   - Build an online payment system
   - Integrate the beta with current systems
+  - Prepare for live Digital by Default Service Standard assessment in December 2014
 
 
 screengrabs:

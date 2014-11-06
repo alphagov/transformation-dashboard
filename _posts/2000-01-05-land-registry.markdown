@@ -25,26 +25,28 @@ detail-page-intro: |
 
 
 status: "alpha"
-status-strapline: "In alpha.  The service will use the lessons from the recent  [Land Registry concept](http://blog.landregistry.gov.uk/digital-land-registry-completing-concept/)."
+status-strapline: "Alpha phase complete. The service will use the lessons from the recent  [Land Registry concept](http://blog.landregistry.gov.uk/digital-land-registry-completing-concept/)."
 
 
 videos:
-  - url   : https://www.youtube.com/watch?v=zpKKA80ClUk
-    caption : Watch footage from the 'alpha in a day' event in July 2013, held by the Land Registry and the Government Digital Service
   - url   : https://www.youtube.com/watch?v=RgabStTyN4E
     caption : Watch a video about completing the concept, filmed May 2014
+  - url   : https://www.youtube.com/watch?v=zpKKA80ClUk
+    caption : Watch footage from the “alpha in a day” event in July 2013, held by the Land Registry and the Government Digital Service
 
 
 successes: |
   - Land Registry and GDS developed a concept showing how a digital service could look
-  - A team of Land Registry and GDS employees are working together as one team to build an alpha    
+  - Land Registry and GDS employees have worked together as one team to build an alpha    
+  - Passed alpha Digital by Default Service Standard assessment in October 2014
 
 challenges: |
   - Split location with development team based in Plymouth means lost development time due to travel, amplified by many people on annual leave
 
 next-steps: |
-  - Continue development of alpha
-  - Programme planning for digital change inside the agency and a roadmap for developing the service
+  - Land Registry to start development of the beta service
+  - Programme planning for digital change inside the agency
+  - Make a roadmap for developing the service
 
 
 screengrabs:
@@ -68,8 +70,8 @@ status-alpha:
     complete    : true
   - copy        : "Completed: Start alpha build --- Jul 2014"
     complete    : true
-  - copy        : "Alpha Service Standard Assessment --- Oct 2014"
-    complete    : false
+  - copy        : "Completed: undergo alpha Service Standard Assessment --- Oct 2014"
+    complete    : true
 
 status-beta:
   - copy    : "Start beta development --- Oct to Dec 2014"

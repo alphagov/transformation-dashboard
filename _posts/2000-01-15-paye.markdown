@@ -5,6 +5,7 @@ layout: exemplar
 exemplar-title: "PAYE for employees"
 exemplar-number: 15
 
+exemplar-service-url: "https://www.gov.uk/update-company-car-details"
 exemplar-blog-url: "https://hmrcdigital.blog.gov.uk"
 
 
@@ -22,32 +23,34 @@ detail-page-intro: |
    Making Pay As You Earn digital for 41 million employees
 
 
-status: "beta"
-status-strapline: "In beta. This service is being built alongside [exemplar 16: Digital self-assessment](/transformation/self-assessment.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
+status: "public-beta"
+status-strapline: "In public beta. This service is being built alongside [exemplar 16: Digital self-assessment](/transformation/self-assessment.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
 
 
 videos:
-  - url     : https://www.youtube.com/watch?v=K59WRzw8heY
-    caption : Watch a description of the exemplar
   - url     : https://www.youtube.com/watch?v=5LDwjlljLxA
     caption : Watch an update on the beta, filmed December 2013
   - url     : https://www.youtube.com/watch?v=KNLwiUy5YoQ
     caption : Watch a short demo, reporting a new company car online, filmed January 2014
+  - url     : https://www.youtube.com/watch?v=K59WRzw8heY
+    caption : Watch a description of the exemplar
+
 
 videos-additional: |
   You can also watch a [demo](https://www.youtube.com/watch?v=z84SZaB3bRs) introducing the service, filmed July 2013.
 
 
 successes: |
-  - Private beta released in February 2014
-  - Workspace and broadband problems resolved
+  - Public beta released in October 2014
+  - Passed beta Digital by Default Service Standard assessment
   
 challenges: |
-  - Ensuring the private beta has enough users to identify data issues
+  - Ensuring the private beta had enough users to identify data issues
   - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
   
 next-steps: |
-  - Continue beta development and improve quality of data matching alongside [identity assurance](https://identityassurance.blog.gov.uk/)
+  - Continue development of public beta and improve quality of data matching alongside [GOV.UK Verify](https://identityassurance.blog.gov.uk/)
+  - Prepare service for live Digital by Default Service Standard assessment
 
 
 screengrabs:
@@ -56,14 +59,14 @@ screengrabs:
 
 
 digital-strategy-statement: |
-    ...giving customers the ability to update information that helps us better calculate their tax code… Customers will begin with improved guidance that leads them through a clear explanation of the tax code they have received. If customers have had a change in circumstances that impacts their tax code they can submit information via an online form.
+  Every customer in the UK will have their own personalised digital tax account, so we can help make it simpler, quicker and easier to pay the right tax at the right time. Four services (PAYE for Employees, Digital Self-Assessment, Your Tax Account and Agent Online Self-service) will deliver stand-alone, end-to-end services through digital channels...PAYE for Employees will make it easier for customers to tell us about changes that affect their tax code.
     
 digital-strategy-source: |
-    From the '[HM Revenue & Customs digital strategy](https://www.gov.uk/government/publications/digital-strategy-december-2012)' --- December 2012
+    From the '[HM Revenue & Customs digital strategy](https://www.gov.uk/government/publications/hmrc-digital-strategy-2014/hmrc-digital-strategy-2014#our-multi-channel-digital-tax-platform)' --- September 2014
     
 
 scope-of-exemplar: |
-    This service will provide digital PAYE services for people in employment (benefits in kind). The initial release will allow people to report changes to their company car tax. This service will be built on a new ‘digital tax platform’ and, for the first time, deliver digital services for PAYE customers which will eventually replace the current HMRC Portal and be the default platform for new user-facing services. The new tax platform will be fully integrated with new identity assurance service.
+  This service will provide digital PAYE services for people in employment (benefits in kind). The initial release will allow people to report changes to their company car tax. This service will be built on a new ‘digital tax platform’ and, for the first time, deliver digital services for PAYE customers which will eventually replace the current HMRC Portal and be the default platform for new user-facing services. The new tax platform will be fully integrated with new identity assurance service.
 
 
 digital-inclusion: |
@@ -83,7 +86,7 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Feb 2014"
     complete  : true
-  - copy      : "Public beta release --- Oct to Dec 2014"
+  - copy      : "Public beta release --- Oct 2014"
     complete  : false
  
 status-live:

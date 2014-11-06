@@ -13,20 +13,18 @@ live-count-caption: "The service is public and works well. It’ll be continuall
 intro: |
     ### Digital services so good people prefer to use them
 
-    The [Government Digital Strategy](https://www.gov.uk/government/collections/government-digital-strategy-reports-and-research) and [departmental digital strategies](https://www.gov.uk/government/collections/government-digital-strategy-reports-and-research#departmental-digital-strategies) commit us to the redesigning and rebuilding of 25 significant ‘exemplar’ services. We’re going to make them simpler, clearer and faster to use. All these are to meet the [Digital By Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) by April 2014 and be completed by March 2015.
+    The [Government Digital Strategy](https://www.gov.uk/government/collections/government-digital-strategy-reports-and-research) and [departmental digital strategies](https://www.gov.uk/government/collections/government-digital-strategy-reports-and-research#departmental-digital-strategies) commit us to the redesigning and rebuilding of 25 significant ‘exemplar’ services. We’re going to make them simpler, clearer and faster to use. All these are to meet the [Digital By Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) that was introduced in April 2014 and be accessible to the public by March 2015.
 
     This dashboard shows you which transactions are in the programme, what progress is being made, and the estimated scale of the digital service.
 
     You can read more about the transformation programme on [our blog](https://digitaltransformation.blog.gov.uk/).
 
 this-month: |
-    - [View driving licence](/transformation/driving-record.html) went live
-    - [Registered Traveller Service](/transformation/apply-registered-traveller.html) public beta was released
+  - [PAYE for employees](/transformation/paye.html) moved into public beta
 
 next-month: |
-    - [Carer’s Allowance](/transformation/apply-carers-allowance.html) goes live
-    - [PAYE for employees](/transformation/paye.html) moves into public beta
-    - [Apprenticeship applications](/transformation/apprenticeships.html) moves into public beta
+  - [Carer’s Allowance](/transformation/apply-carers-allowance.html) goes live
+  - [Apprenticeship applications](/transformation/apprenticeships.html) moves into public beta
 
 videos:
     - url: https://www.youtube.com/watch?v=hzyRAZVaBAs
