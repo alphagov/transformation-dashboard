@@ -420,6 +420,10 @@ a.phase-tag {
   margin: 0 auto 2em auto;
   text-align: center;
 
+  img {
+    max-width: 100%;
+  }
+
   @include media(tablet) {
     width: $one-quarter;
     float: left;
