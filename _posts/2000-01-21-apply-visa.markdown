@@ -120,18 +120,6 @@ anticipated-volume:
     caption : Visas issued a year
 
 
-current-volume:
-  - number  : "3.57m"
-    caption : "Transactions per year"
-  - number  : "68.4%"
-    caption : "Digital take-up"
-current-cost:
-  - number  : "£649m"
-    caption : "Total cost"
-  - number  : "£182"
-    caption : "Cost per transaction"
-
-
 ---
 
 
