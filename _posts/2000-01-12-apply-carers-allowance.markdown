@@ -29,11 +29,10 @@ status-strapline: "Service is live and being continuously improved."
   
 
 videos:
+  - url     : https://www.youtube.com/watch?v=IYBLX3V8ek4
+    caption : Watch a video about the live service, filmed November 2014
   - url     : https://www.youtube.com/watch?v=rDFCqiq40_w
     caption : Watch a short demo about making a claim online, filmed January 2014
-  - url     : https://www.youtube.com/watch?v=a4f5vqFRZp4
-    caption : Watch an update about the release of the beta, filmed October 2013
-
 
 videos-additional: |
   You can also watch a [demo](https://www.youtube.com/watch?v=kLAs4fkTZtk), checking whether you're eligible to make a claim, filmed July 2013.
