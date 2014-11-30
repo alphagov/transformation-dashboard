@@ -420,6 +420,10 @@ a.phase-tag {
   margin: 0 auto 2em auto;
   text-align: center;
 
+  img {
+    max-width: 100%;
+  }
+
   @include media(tablet) {
     width: $one-quarter;
     float: left;
@@ -667,10 +671,12 @@ a.phase-tag {
   margin-top: 3em;
 }
   .screengrab {
+    margin: 0 0 2em 0;
+
     @include media(tablet) {
       float: left;
       width: 47.5%;
-      margin: 0 0 2em 5%;
+      margin-left: 5%;
       &:nth-child(odd) {
         margin-left: 0;
         clear: left;
