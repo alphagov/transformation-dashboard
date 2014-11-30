@@ -53,9 +53,7 @@ challenges: |
   - Ensuring the Cabinet Office’s capability to run the live service
 
 next-steps: |
-  - Confirm the existing registers in Scotland
-  - Release service for Scottish citizens
-
+  - Maintain and improve live service
 
 screengrabs:
   - filename    : 1-02-exemplar-electoral-registration.png
@@ -130,4 +128,6 @@ anticipated-volume:
 
 
 ---
+
+
 
