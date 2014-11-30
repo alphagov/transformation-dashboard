@@ -23,7 +23,7 @@ homepage-intro: |
     Saving people money and hassle by creating a digital service for small claims, including money and possession claims
 
 detail-page-intro: |
-    1.5 million claims are made every year to solve civil legal disputes or obtain money or property owed. Claims range from settling neighbourly disputes to complex cases involving large corporations.
+    A new digital service to make civil claims online, starting with accelerated property possession.
 
 
 status: "live"
