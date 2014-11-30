@@ -40,6 +40,7 @@ videos:
 successes: |
   - More than 1 million digital applications for full-time students (academic year 2014 / 2015) were made using the publicly available beta service service between January and September 2014
   - Service delivery team awarded TechExcel Best Agile Project at the [European Testing Awards](http://www.softwaretestingawards.com/2013-awards/2013-winners/)
+  - Courses Management Service launched in October 2014, for 700+ Higher Education Institutions to create a single source of funded course information
 
 challenges: |
   - Incorporating service manager roles within the organisation’s transformation programme
@@ -79,6 +80,8 @@ status-alpha:
     complete    : true
   - copy        : "Completed: 24+ Advanced Learning loan applications alpha --- Aug 2013"
     complete    : true
+  - copy    : "Completed: Course Management Service system for Higher Education Institutions alpha --- Feb 2014"
+    complete  : true
   - copy        : "Completed: Application processing system alpha --- Jan 2014"
     complete    : true
 
@@ -89,11 +92,13 @@ status-beta:
     complete  : true 
   - copy    : "Completed: Start application processing system beta development --- Jul 2014"
     complete  : true
-  - copy    : "Application processing system beta development --- Oct to Dec 2014"
-    complete  : false
+  - copy    : "Completed: Start Course Management Service system for Higher Education Institutions beta development --- Oct 2014"
+    complete  : true
 
 status-live:
   - copy    : "Completed: Part-time student loan application service goes live --- Oct 2012"
+    complete  : true
+  - copy    : "Completed: Course Management Service system for Higher Education Institutions goes live --- Oct 2014"
     complete  : true
 
 
@@ -106,14 +111,14 @@ performance-platform-url: "https://www.gov.uk/performance/bis-student-finance-ap
 
 
 current-volume:
-  - number  : 1.21m
+  - number  : 1.17m
     caption : transactions per year
-  - number  : 97.8%
+  - number  : 76.8%
     caption : digital take-up
 current-cost:
-  - number  : £59.9m
+  - number  : £57.4m
     caption : total cost
-  - number  : £49.46
+  - number  : £49.25
     caption : cost per transaction
 
 
