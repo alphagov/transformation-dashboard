@@ -43,12 +43,13 @@ videos-additional: |
 
 
 successes: |
-  - Service has passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) to go live
-  - Secure, cloud-based hosting built
+  - Service passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) and successfully released
+  - Service won the Digital Award at the Civil Service Awards 2014 and the TechWorld digital and creative project for the year 2014
+  - Secure cloud-based hosting built
   - Full Identity Assurance service in private beta
   
 challenges: |
-  - Gathering citizen and trade user feedback to develop and release the live service 
+  - Gathering citizen and trade user feedback to develop and improve the live service 
   - Integrating with external service partners
   - Meeting ministerial commitments, such as the abolition of the licence counterpart and ending the requirement for fleets to carry the V5 document
   
