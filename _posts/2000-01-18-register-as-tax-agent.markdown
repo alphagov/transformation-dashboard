@@ -22,20 +22,20 @@ detail-page-intro: |
     An easy to use online tax dashboard for 120,000 tax agents
 
 
-status: "alpha"
-status-strapline: "In alpha."
+status: "beta"
+status-strapline: "In beta. Private beta service in development."
 
 
 successes: |
   - Discovery stage completed
-  - Alpha started
+  - Alpha Digital by Default Service Standard assessment passed
   
 challenges: |
   - The complexity of agent-client relationships makes this a difficult but very important exemplar to get right
   
 next-steps: |
   - Prepare paid agents service for release
-  - Complete alpha stage
+  - Develop the private beta service
 
 
 digital-strategy-statement: |
