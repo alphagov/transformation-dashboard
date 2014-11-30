@@ -56,11 +56,12 @@ challenges: |
 
 next-steps: |
   - Continue to iteratively improve the Standard Visit Visa for China based on user feedback and research
+  - As a priority, develop service for travel agent groups from China
   - Develop the current model for service management to meet the standard required for a GOV.UK live service
   - Reuse the exemplar technology for other types of Visa
   - Refine the agile team and recruit more Civil Service capability to support its work, filling several team vacancies
   - Help to establish a new service governance model based on agile principles
-  - Establish a long term live service support model
+  - Prepare for live Digital by Default Service Standard assessment
 
 
 screengrabs:
@@ -102,9 +103,11 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Private beta development --- Sep 2013 to Jan 2014"
     complete  : true
-  - copy      : "Completed: Private beta release --- Feb 2014"
+  - copy      : "Completed: Visa extensions private beta release --- Feb 2014"
     complete  : true
-  - copy      : "Completed: Public beta release --- Jun 2014"
+  - copy      : "Completed: Chinese visitors public beta release --- Jun 2014"
+    complete  : true
+  - copy      : "Completed: Visa extensions public beta release --- Oct 2014"
     complete  : true
 
 status-live:
