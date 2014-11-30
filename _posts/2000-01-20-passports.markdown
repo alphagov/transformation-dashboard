@@ -25,19 +25,18 @@ status-strapline: "In beta."
 
 
 successes: |
-  - Prototypes tested with real users
-  - Photograph checking tool created
+  - Service has passed latest IT health check
+  - Payment process integrated into service
 
 challenges: |
-  - Linking with current systems and ensuring appropriate security is maintained across that link
+  - Developing a quality photograph checking tool
   - Establishing new business processes for the new service to work alongside current arrangements 
-  - Competition for available time slots in the testing environment
 
 next-steps: |
-  - Continue developing the beta service
-  - Continue testing and iterating user journey
-  - Refine the business process
-  - Test the payments process 
+  - Continue the testing and development of the photographing checking tool
+  - Build a feature to deal with notifications
+  - Refine a mechanism for address look-up
+  - Integrate these new features into the existing service 
 
 scope-of-exemplar: |
     The existing passport service within the UK allows you to complete an online application form to apply for, renew or update a passport. The user then prints a declaration form, signs and dates it and sends it for processing with any documents or photographs that are needed.
@@ -60,7 +59,9 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Start beta development --- Jul 2014"
     complete  : true
-  - copy      : "Public beta release --- Jan to Mar 2015"
+  - copy      : "Private beta release --- Jan to Mar 2015"
+    complete  : false
+  - copy      : "Public beta release --- post-Mar 2015"
     complete  : false
 
 status-live:
