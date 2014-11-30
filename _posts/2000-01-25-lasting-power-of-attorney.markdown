@@ -49,6 +49,7 @@ successes: |
   - 90% of digital users paying online
   - First exemplar to pass the live [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
   - Live service released with an average user satisfaction rating of 90%
+  - Full, permanent Civil Servant service management team now in place
 
 challenges: |
   - Agency-wide digital transformation to allow the Office of the Public Guardian (OPG) to be a digital exemplar
@@ -108,15 +109,15 @@ status-live:
     complete  : true
   - copy      : "Completed: Build deputyships service --- Jul to Sep 2014"
     complete  : true
-  - copy      : "New case management software goes live --- Oct to Dec 2014"
+  - copy      : "New case management software goes live --- Jan to Mar 2014"
     complete  : false
   - copy      : "Private release of deputyship service --- Oct to Dec 2014"
     complete  : false
   - copy      : "Public release of deputyship service --- Jan to Mar 2015"
     complete  : false
-  - copy      : "Decommission existing case management system --- Jan to Mar 2015"
+  - copy      : "Decommission existing case management system --- after Mar 2015"
     complete  : false
-  - copy      : "Fully integrated service goes live --- Jan to Mar 2015"
+  - copy      : "Fully integrated service goes live --- after Mar 2015"
     complete  : false
 
 
