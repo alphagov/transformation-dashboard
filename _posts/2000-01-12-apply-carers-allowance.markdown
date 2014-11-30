@@ -24,8 +24,8 @@ detail-page-intro: |
     240,000 people claim Carer’s Allowance a year
 
 
-status: "public-beta"
-status-strapline: "In public beta. Continuous improvements made in fortnightly sprints. Currently working on improving the digital form, which will involve enhanced security integration."
+status: "live"
+status-strapline: "Service is live and being continuously improved."
   
 
 videos:
@@ -40,21 +40,19 @@ videos-additional: |
 
 
 successes: |
-  - 120,000 digital claims submitted since release of public beta
+  - 128,000 digital claims submitted since release of public beta
+  - Live service, including Welsh language version, released 
   - More than half of applications are now made using the digital service
   - User satisfaction ratings of approximately 90%
   - Change of circumstances can now be reported online
-  - Welsh language version of the service released
 
 challenges: |
   - The recruitment of staff to take the service forward through transition
   - The slow pace of procurement to buy tools and digital services quickly in order to support rapid, iterative development
   
 next-steps: |
-  - Build the digital capability to run the service within the department  
-  - Integrate the service with more of the department’s systems to improve efficiency for agents and reduce paper processing
-  - Build an Assisted Digital service
-  - Prepare for live Digital by Default Service Standard assessment
+  - Maintain and improve the live service
+  - Integrate the live service with more of the department’s systems to improve efficiency for agents and reduce paper processing
 
 
 screengrabs:
@@ -111,8 +109,8 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Oct to Dec 2014"
-    complete  : false
+  - copy      : "Completed: Service goes live (depending on user feedback) --- Nov 2014"
+    complete  : true
 
 
 anticipated-volume:
