@@ -42,8 +42,7 @@ challenges: |
   - Building a new service in line with evolving CAP regulations
   
 next-steps: |
-  - Invite more farmers and landowners to participate in the private beta 
-  - Prepare for Digital by Default Service Standard assessment in November before moving to public beta
+  - Prepare for Digital by Default Service Standard assessment in December before moving to public beta
 
 
 screengrabs:
