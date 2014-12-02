@@ -21,7 +21,7 @@ intro: |
 
 this-month: |
     - [Carer’s Allowance](/transformation/apply-carers-allowance.html) went live
-    - [Find an apprenticeship](/transformation/apprenticeships.html) passed its Digital by Default Service Standard assessment and moved into public beta
+    - [Find an apprenticeship](/transformation/apprenticeships.html) passed its Digital by Default Service Standard assessment to move into public beta
 
 next-month: |
     - [Apply to an employment tribunal](/transformation/pay-tribunal-fees.html) will have a live Service Standard assessment

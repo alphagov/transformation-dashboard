@@ -22,8 +22,8 @@ detail-page-intro: |
     1.8 million online apprenticeships applications every year
 
 
-status: "public-beta"
-status-strapline: "In public beta."
+status: "beta"
+status-strapline: "In beta."
 
 
 videos:
@@ -44,7 +44,7 @@ challenges: |
 next-steps: |
   - Complete research and analysis on the traineeships features
   - Continue selection and appointment of permanent digital delivery team members
-  - Further develop public beta service
+  - Release public beta service on 9 December and work on its development
 
 
 digital-strategy-statement: |
@@ -76,8 +76,8 @@ status-alpha:
 status-beta:
   - copy        : "Completed: Start beta development of candidate service --- May 2014"
     complete    : true
-  - copy        : "Completed: Release public beta of candidate service --- Dec 2014"
-    complete    : true
+  - copy        : "Release public beta of candidate service --- Dec 2014"
+    complete    : false
   - copy        : "Start beta development of employer service --- Jan to Mar 2015"
     complete    : false
 
