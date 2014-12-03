@@ -18,7 +18,7 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "A prototype digital service produced by a joint GDS and DWP team has now transitioned to DWP. GDS is supporting the team as they build skills and capability needed to continue developing the service."
+status-strapline: "In beta. The Universal Credit Digital Service is being released gradually to groups of invited users to test and iterate functionality."
   
 videos:
   - url     : https://www.youtube.com/watch?v=cHPv3_P7aDQ
@@ -28,6 +28,7 @@ videos:
 successes: |
   - Delivered a prototype digital solution on 3 October 2013
   - Established a digital team at DWP, building user-centred services
+  - Release beta service to a group of users in Sutton
   
 challenges: |
   - Complex service, affecting up to 10 million people

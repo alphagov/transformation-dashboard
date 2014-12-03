@@ -2,7 +2,7 @@
 
 layout: exemplar
 
-exemplar-title: "Rural support (Common Agricultural Policy)"
+exemplar-title: "Rural payments"
 exemplar-number: 8
 
 
@@ -11,14 +11,14 @@ department-url: "https://www.gov.uk/government/organisations/department-for-envi
 
 
 permanent-secretary: "Bronwyn Hill"
-digital-leader: "Ian Trenholm"
+digital-leader: "Julie Pierce"
 
 
 homepage-intro: |
     You’ll be able to submit accurate and verifiable information online about how you use your land, so you can claim subsidies under the Common Agricultural Policy
 
 detail-page-intro: |
-    105,000 rural support transactions every year
+    105,000 rural payments every year
 
 
 status: "beta"
@@ -31,19 +31,18 @@ videos:
 
 
 successes: |
-  - An [agile](https://www.gov.uk/service-manual/agile) development team has been established for the CAP Delivery Programme
   - Released a private beta mapping tool for farmers to check their land
   - Fortnightly user research is conducted on farms 
+  - An [agile](https://www.gov.uk/service-manual/agile) development team has been established for the CAP Delivery Programme
   - Private beta released to initial group of invited users
  
 challenges: |
   - Scalable deployment practices
-  - Aligning timings of Identity Assurance Programme to the rural support beta
+  - Aligning timings of Verify programme to service’s beta phase
   - Building a new service in line with evolving CAP regulations
   
 next-steps: |
-  - Invite more farmers and landowners to participate in the private beta 
-  - Prepare for Digital by Default Service Standard assessment in November before moving to public beta
+  - Prepare for Digital by Default Service Standard assessment in December before moving to public beta
 
 
 screengrabs:
@@ -67,7 +66,7 @@ scope-of-exemplar: |
 
 
 digital-inclusion: |
-  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Rural Support](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#rural-support-common-agricultural-policy).
+  GDS has mapped the exemplars against the [digital inclusion scale](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/government-digital-inclusion-strategy#measuring-digital-exclusion) to help show where these services may be difficult for some people to use. [See the rating for Rural payments](https://www.gov.uk/government/publications/government-digital-inclusion-strategy/exemplar-services-and-identity-assurance-how-complex-they-are#rural-support-common-agricultural-policy).
 
 
 status-discovery:

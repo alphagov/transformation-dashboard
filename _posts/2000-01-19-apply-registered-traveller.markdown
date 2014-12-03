@@ -22,34 +22,34 @@ detail-page-intro: |
 
 
 status: "public-beta"
-status-strapline: "In public beta. The team has built a minimum viable product for the case working system, which is undergoing accreditation. Though anyone can check their eligibility to use the service, sign-up is currently limited to users meeting certain criteria."
+status-strapline: "In public beta. The team has built a minimum viable product for the case working system, which has passed accreditation. Though anyone can check their eligibility to use the service, sign-up is currently limited through the issuing of invitation codes by airlines and Border Force officers, so that the service can be rolled out gradually."
   
 
 videos:
+  - url: https://www.youtube.com/watch?v=kQt8ZK8toQE
+    caption: Watch a video about the public beta service, filmed October 2014
   - url: https://www.youtube.com/watch?v=S5q-gqos9JI
     caption: Watch a short demo about updating your traveller details online, filmed January 2014
-  - url: https://www.youtube.com/watch?v=qkt4kkL81FI
-    caption: Watch an update about the beta, filmed December 2013 
-  - url: https://www.youtube.com/watch?v=hLV0rZRoF8I
-    caption: Watch a description of the exemplar
- 
 
 successes: |
   - Alpha completed within 6 weeks
   - Code from [Exemplar 21: Visit visa applications](/transformation/apply-visa) reused, saving time
-  - The iterative development of the back-end case working system
   - ePassport gates are now available to registered travellers at Heathrow and Gatwick airports
   - Beta Digital by Default Service Standard assessment passed
   - Public beta released
   - New caseworking system went live in October 2014 and the old system was successfully decommissioned
+  - Online payment successfully introduced along with invitation codes
+  - Service now integrates securely with other existing systems and the method of integration will likely be reused by other services in the Home Office
   
 challenges: |
   - Integrating the service with current systems
+  - Managing the transition and renewal of pilot members to the live service
   
 next-steps: |
-  - Expand the beta to get more frequent travellers using the service
-  - Build an online payment system
-  - Integrate the beta with current systems
+  - Continue to expand the beta to get more frequent travellers using the service
+  - Build a process to allow users to change their details
+  - Integrate the beta with other systems using [restful](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet) [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
+  - Iterate and improve the caseworking system
   - Prepare for live Digital by Default Service Standard assessment in December 2014
 
 
@@ -94,7 +94,7 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- Oct to Dec 2014"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- Oct to Dec 2014"
     complete  : false
 
 

@@ -86,8 +86,8 @@ status-beta:
     complete  : true
   - copy      : "Completed: Private beta release --- Feb 2014"
     complete  : true
-  - copy      : "Public beta release --- Oct 2014"
-    complete  : false
+  - copy      : "Completed: Public beta release --- Oct 2014"
+    complete  : true
  
 status-live:
   - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"

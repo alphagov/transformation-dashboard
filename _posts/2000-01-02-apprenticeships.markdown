@@ -2,7 +2,7 @@
 
 layout: exemplar
 
-exemplar-title: "Apprenticeship applications"
+exemplar-title: "Find an apprenticeship"
 exemplar-number: 2
 
 
@@ -19,7 +19,7 @@ homepage-intro: |
     If you want to advertise or apply for an apprenticeship you’ll be able to do it quickly and easily online
 
 detail-page-intro: |
-    1.38 million online apprenticeships applications every year
+    1.8 million online apprenticeships applications every year
 
 
 status: "beta"
@@ -32,18 +32,19 @@ videos:
 
 
 successes: |
-  - Passed alpha to beta [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
-  - The feature set for candidates interested in a traineeship has been defined
-  - Several permanent digital delivery team members have been appointed and are being introduced into the exemplar team 
+  - Passed beta [Digital by Default Service Standard](https://gdsdata.blog.gov.uk/apprenticeship-applications-service-assessment-2/) assessment
+  - Launched Skills Funding Agency’s [SFA Digital blog](https://sfadigital.blog.gov.uk)
+  - Received BIS approval to commence external recruitment for vacant digital delivery posts
+  - Service name changed from ‘Apprenticeship applications’ to ‘Find an apprenticeship’ following user feedback
   
 challenges: |
   - The scope of the service to be delivered for candidates, employers and training providers is ambitious and not all service functionality will be delivered in the initial service
   - Scaling up to continuously improve on the public beta service and introduce new features
   
 next-steps: |
-  - Prepare for public beta Digital by Default Service Standard assessment 
   - Complete research and analysis on the traineeships features
   - Continue selection and appointment of permanent digital delivery team members
+  - Release public beta service on 9 December and work on its development
 
 
 digital-strategy-statement: |
@@ -75,9 +76,9 @@ status-alpha:
 status-beta:
   - copy        : "Completed: Start beta development of candidate service --- May 2014"
     complete    : true
-  - copy        : "Start beta development of employer service --- Oct to Dec 2014"
+  - copy        : "Release public beta of candidate service --- Dec 2014"
     complete    : false
-  - copy        : "Release public beta of candidate service --- Oct to Dec 2014"
+  - copy        : "Start beta development of employer service --- Jan to Mar 2015"
     complete    : false
 
 status-live:

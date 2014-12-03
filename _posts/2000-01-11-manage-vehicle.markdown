@@ -38,9 +38,9 @@ videos:
 
 successes: |
   - Vehicle management passed Alpha [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment 
-  - User and business needs established
+  - User research into trade and public needs underway
   - Data integration requirements identified
-  - Prototypes developed
+  - Private beta service launched to motor trade service partners
   
 challenges: |
   - Turning complicated multi-channel transactions into simple digital services
@@ -48,7 +48,7 @@ challenges: |
   - Meeting ministerial commitments, such as the abolition of the licence counterpart and ending the requirement for fleets to carry the V5 document
   
 next-steps: |
-  - Expand user research
+  - Expand user research and performance analysis
   - Complete private beta and prepare for beta Digital by Default Service Standard assessment
 
 
