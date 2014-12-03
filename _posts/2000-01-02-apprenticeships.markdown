@@ -32,7 +32,7 @@ videos:
 
 
 successes: |
-  - Passed beta [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
+  - Passed beta [Digital by Default Service Standard](https://gdsdata.blog.gov.uk/apprenticeship-applications-service-assessment-2/) assessment
   - Launched Skills Funding Agency’s [SFA Digital blog](https://sfadigital.blog.gov.uk)
   - Received BIS approval to commence external recruitment for vacant digital delivery posts
   - Service name changed from ‘Apprenticeship applications’ to ‘Find an apprenticeship’ following user feedback
