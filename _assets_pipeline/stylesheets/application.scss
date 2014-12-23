@@ -249,15 +249,9 @@ ul.phases {
   h3 {
     @include bold-24;
     margin: 0;
+    padding: 0.2em 0;
+    color: $white;
     background-color: $panel-colour;
-
-    a {
-      display: block;
-      padding: 0.2em 0;
-      color: $white;
-      text-decoration: none;
-    }
-
   }
 
   .phase-count {

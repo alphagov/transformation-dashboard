@@ -37,7 +37,7 @@ live_url: 'https://www.gov.uk/service-manual/phases/live'
   </ol>
 </nav>
 
-<main class="main-content" role="main">
+<main id="content" class="main-content" role="main">
 
   <header class="homepage-header">
     <h1>{{ page.headline-title }}</h1>
@@ -50,28 +50,28 @@ live_url: 'https://www.gov.uk/service-manual/phases/live'
 
     <ul class="phases group">
       <li class="discovery">
-        <h3><a href="{{ page.discovery_url }}">Discovery</a></h3>
+        <h3>Discovery</h3>
         <div class="lrg-number phase-count">{{ discovery_count.size }}</div>
         <p>{{ page.discovery-count-caption }}</p>
         <p><a href="{{ page.discovery_url }}">Learn more about the discovery phase</a></p>
       </li>
 
       <li class="alpha">
-        <h3><a href="{{ page.alpha_url }}">Alpha</a></h3>
+        <h3>Alpha</h3>
         <div class="lrg-number phase-count">{{ alpha_count.size }}</div>
         <p>{{ page.alpha-count-caption }}</p>
         <p><a href="{{ page.alpha_url }}">Learn more about the alpha phase</a></p>
       </li>
 
       <li class="beta">
-        <h3><a href="{{ page.beta_url }}">Beta</a></h3>
+        <h3>Beta</h3>
         <div class="lrg-number phase-count">{{ beta_count.size }}</div>
         <p>{{ page.beta-count-caption }}</p>
         <p><a href="{{ page.beta_url }}">Learn more about the beta phase</a></p>
       </li>
 
       <li class="live">
-        <h3><a href="{{ page.live_url }}">Live</a></h3>
+        <h3>Live</h3>
         <div class="lrg-number phase-count">{{ live_count.size }}</div>
         <p>{{ page.live-count-caption }}</p>
         <p><a href="{{ page.live_url }}">Learn more about the live phase</a></p>
