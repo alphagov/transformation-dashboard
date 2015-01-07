@@ -3,7 +3,7 @@
 layout: exemplar
 
 exemplar-title: "Register to vote"
-exemplar-number: 1
+exemplar-number: 2
 
 exemplar-service-url: "https://www.gov.uk/register-to-vote"
 exemplar-performance-dashboard-url: "https://www.gov.uk/performance/register-to-vote"
