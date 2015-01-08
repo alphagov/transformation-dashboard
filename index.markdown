@@ -20,14 +20,15 @@ intro: |
     You can read more about the transformation programme on [our blog](https://digitaltransformation.blog.gov.uk/).
 
 this-month: |
-    - [Carer’s Allowance](/transformation/apply-carers-allowance.html) went live
-    - [Find an apprenticeship](/transformation/apprenticeships.html) passed its Digital by Default Service Standard assessment to move into public beta
+    - [Registered Traveller Service](/transformation/apply-registered-traveller.html) passed its live Service Standard assessment
+    - [Find an apprenticeship](/transformation/apprenticeships.html) released a public beta
+    - [Vehicle management](/transformation/manage-vehicle.html) released a public beta
 
 next-month: |
+    - [Registered Traveller Service](/transformation/apply-registered-traveller.html) will released as a live service
     - [Apply to an employment tribunal](/transformation/pay-tribunal-fees.html) will have a live Service Standard assessment
-    - [Registered Traveller Service](/transformation/apply-registered-traveller.html) will have a live Service Standard assessment
     - [Vehicle management](/transformation/manage-vehicle.html) will be assessed under the Service Standard before moving into public beta
-    - [Personalised registrations](/transformation/personalised-number-plates.html) will be assessed under the Service Standard before moving into public beta
+    - [Rural payments](/transformation/rural-support.html) will be assessed under the Service Standard before moving into public beta
 
 videos:
     - url: https://www.youtube.com/watch?v=hzyRAZVaBAs

@@ -24,6 +24,7 @@ detail-page-intro: |
     5 million people registering online to vote each year. Moving 46 million voters from household to individual registration
 
 
+
 status: "Live"
 status-strapline: "Service is live in England, Wales and Scotland."
 
