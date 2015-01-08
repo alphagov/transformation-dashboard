@@ -9,7 +9,7 @@ exemplar-service-url: "https://www.gov.uk/register-to-vote"
 exemplar-performance-dashboard-url: "https://www.gov.uk/performance/register-to-vote"
 
 
-department: "Cabinet Offices"
+department: "Cabinet Office"
 department-url: "https://www.gov.uk/government/organisations/cabinet-office"
 
 programme: "Electoral Registration Transformation Programme"
