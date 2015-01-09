@@ -19,7 +19,7 @@ homepage-intro: |
     If you’re a tax agent you’ll be able to fully manage your clients’ tax with a simple online service
 
 detail-page-intro: |
-    An easy to use online tax dashboard for 120,000 tax agents
+    A new online service for tax agents to transact easily with HMRC on behalf of their 8 million clients
 
 
 status: "beta"
@@ -28,14 +28,15 @@ status-strapline: "In beta. Private beta service in development."
 
 successes: |
   - Discovery stage completed
-  - Alpha Digital by Default Service Standard assessment passed
+  - Alpha Digital by Default Service Standard assessment passed in November 2014
   
 challenges: |
   - The complexity of agent-client relationships makes this a difficult but very important exemplar to get right
+  - Researching with a range of diverse range of agents, with different user needs and ways of working, to improve the service while in private beta
   
 next-steps: |
-  - Prepare paid agents service for release
-  - Develop the private beta service
+  - Develop the private beta service to include more useful services for agents
+  - Work on meeting complex data needs
 
 
 digital-strategy-statement: |
