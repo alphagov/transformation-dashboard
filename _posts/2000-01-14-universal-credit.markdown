@@ -18,7 +18,7 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "In beta. The Universal Credit Digital Service is being released gradually to groups of invited users to test and iterate functionality."
+status-strapline: "In beta development. The Universal Credit Digital Service is being released gradually to groups of invited users to test and iterate functionality."
   
 videos:
   - url     : https://www.youtube.com/watch?v=cHPv3_P7aDQ
@@ -28,7 +28,7 @@ videos:
 successes: |
   - Delivered a prototype digital solution on 3 October 2013
   - Established a digital team at DWP, building user-centred services
-  - Release beta service to a group of users in Sutton
+  - Release alpha service to a group of users in Sutton
   
 challenges: |
   - Complex service, affecting up to 10 million people
@@ -66,7 +66,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- date tbc"
+  - copy      : "Service goes live (depending on user feedback) --- After March 2015"
     complete  : false
 
 
