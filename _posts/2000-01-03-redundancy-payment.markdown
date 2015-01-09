@@ -24,7 +24,7 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "Developing the beta service for applying for redundancy payments and for compensation for loss of notice."
+status-strapline: "This service is being developed in two parts. Part 1 deals with the application, while part 2 deals with compensation for loss of notice. Part 2 is in public beta and Part 1 is in beta development and will be supported by GOV.UK Verify."
 
 
 videos:
@@ -41,7 +41,7 @@ challenges: |
   - Developing a robust way of managing the service for users when it goes live
 
 next-steps: |
-  - Build identity assurance into the service   
+  - Build GOV.UK Verify into the service   
   - Revisit how to integrate new service with existing systems
   - Start using the private beta service with real users
 
@@ -76,7 +76,9 @@ status-alpha:
 status-beta:
   - copy    : "Completed: Private beta release --- Jul to Sep 2014"
     complete  : true
-  - copy    : "Public beta release --- Oct to Dec 2014"
+  - copy    : "Completed: Public beta release for Part 2 of the service --- Jan 2015"
+    complete  : true
+  - copy    : "Public beta release for Part 1 of the service --- Jan to Mar 2015"
     complete  : false
 
 status-live:
@@ -90,3 +92,4 @@ anticipated-volume:
 
 
 ---
+
