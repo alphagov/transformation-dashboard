@@ -35,22 +35,22 @@ successes: |
   - Alpha completed within 6 weeks
   - Code from [Exemplar 21: Visit visa applications](/transformation/apply-visa) reused, saving time
   - ePassport gates are now available to registered travellers at Heathrow and Gatwick airports
-  - Beta Digital by Default Service Standard assessment passed
   - Public beta released
   - New caseworking system went live in October 2014 and the old system was successfully decommissioned
   - Online payment successfully introduced along with invitation codes
   - Service now integrates securely with other existing systems and the method of integration will likely be reused by other services in the Home Office
+  - The service passed its live Digital by Default Service Standard assessment
   
 challenges: |
   - Integrating the service with current systems
   - Managing the transition and renewal of pilot members to the live service
   
 next-steps: |
-  - Continue to expand the beta to get more frequent travellers using the service
+  - Remove invitation codes to get more frequent travellers using the service
   - Build a process to allow users to change their details
-  - Integrate the beta with other systems using [restful](https://www.owasp.org/index.php/REST_Security_Cheat_Sheet) [APIs](https://www.gov.uk/service-manual/making-software/apis.html)
+  - Add new visa types to eligibility requirements
   - Iterate and improve the caseworking system
-  - Prepare for live Digital by Default Service Standard assessment in December 2014
+  - Prepare service for live release in late January 2015
 
 
 screengrabs:
@@ -94,7 +94,7 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard assessment) --- Oct to Dec 2014"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
     complete  : false
 
 
