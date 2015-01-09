@@ -60,6 +60,14 @@ screengrabs:
     caption     : "Screenshot of beta, March 2014"
 
 
+embedded-pp-graphs:
+  - graph-url: "https://www.gov.uk/performance/registered-traveller/completion-rate"
+    graph-title: "Completion rate"
+    graph-caption: "The number of users who complete the digital transaction as a percentage of those who start"
+  - graph-url: "https://www.gov.uk/performance/registered-traveller/user-satisfaction"
+    graph-title: "User satisfaction"
+
+
 digital-strategy-statement: |
     E-passport gates are a secure and convenient self-service alternative to the conventional border control process. A quick and easy way of crossing the border, e-Gates have proved popular with the travelling public, with transactions steadily rising --- over the last year 7.8 million people used the gates
     
