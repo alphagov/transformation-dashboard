@@ -22,7 +22,7 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "In beta. Digital service is being released gradually to groups of invited users to test and iterate functionality."
+status-strapline: "In beta. Digital service is being released gradually to groups of invited users for research and iteration."
 
 
 videos:
@@ -39,7 +39,7 @@ successes: |
 challenges: |
   - Scalable deployment practices
   - Aligning timings of Verify programme to service’s beta phase
-  - Building a new service in line with evolving CAP regulations
+  - Building a new service in line with evolving CAP and EU regulations
   
 next-steps: |
   - Prepare for Digital by Default Service Standard assessment in December before moving to public beta
