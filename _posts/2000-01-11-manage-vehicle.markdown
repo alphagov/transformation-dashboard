@@ -24,8 +24,8 @@ detail-page-intro: |
     18 million vehicle owner transfers each year by businesses and citizens
 
 
-status: "public-beta"
-status-strapline: "In public beta"
+status: "beta"
+status-strapline: "In beta"
 
 
 videos:
