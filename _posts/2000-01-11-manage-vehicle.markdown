@@ -46,7 +46,7 @@ challenges: |
   - Meeting ministerial commitments, such as giving fleet companies the option to suppress the V5 document at first registration
   
 next-steps: |
-  - Add features (e.g. buy a car from a motor trader)
+  - Add features (eg buy a car from a motor trader)
   - Prepare for the live Digital by Default Service Standard assessment
 
 
