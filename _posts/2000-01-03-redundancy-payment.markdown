@@ -3,6 +3,7 @@
 layout: exemplar
 
 
+exemplar-service-url: "https://notice.redundancy-payments.org.uk/claims/start"
 exemplar-title: "Redundancy payments"
 exemplar-number: 3
 
@@ -25,7 +26,6 @@ detail-page-intro: |
 
 status: "beta"
 status-strapline: "This service is being developed in two parts. Part 1 deals with the application, while part 2 deals with compensation for loss of notice. Part 2 is in public beta and Part 1 is in beta development and will be supported by GOV.UK Verify."
-
 
 videos:
   - url: https://www.youtube.com/watch?v=2yXnblGFyMQ
