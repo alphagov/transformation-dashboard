@@ -76,8 +76,8 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Start beta development --- Mar 2014"
     complete  : true
-  - copy      : "Completed: Release public beta --- Jan 2015"
-    complete  : true
+  - copy      : "Release public beta --- Jan 2015"
+    complete  : false
 
 status-live:
   - copy      : "Service goes live (depending on Service Standard Assessment) --- post-March 2015"
