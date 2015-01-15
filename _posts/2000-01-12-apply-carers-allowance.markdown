@@ -39,7 +39,7 @@ videos-additional: |
 
 
 successes: |
-  - 128,000 digital claims submitted since release of public beta
+  - 138,000 digital claims submitted since release of public beta
   - Live service, including Welsh language version, released 
   - More than half of applications are now made using the digital service
   - User satisfaction ratings of approximately 90%
