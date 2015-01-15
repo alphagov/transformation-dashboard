@@ -21,13 +21,13 @@ intro: |
 
 this-month: |
     - [Registered Traveller Service](/transformation/apply-registered-traveller.html) passed its live Service Standard assessment
-    - [Find an apprenticeship](/transformation/apprenticeships.html) entered public beta
-    - [Vehicle management](/transformation/manage-vehicle.html) entered public beta
+    - [Find an apprenticeship](/transformation/apprenticeships.html) entered public beta 
+    - [Vehicle management](/transformation/manage-vehicle.html) passed its public beta Service Standard assessment
+    - [Redundancy payments](/transformation/redundancy-payment.html) entered public beta
 
 next-month: |
     - [Registered Traveller Service](/transformation/apply-registered-traveller.html) will go live
     - [Apply to an employment tribunal](/transformation/pay-tribunal-fees.html) will have a live Service Standard assessment
-    - [Vehicle management](/transformation/manage-vehicle.html) will be assessed under the Service Standard before moving into public beta
     - [Rural payments](/transformation/rural-support.html) will be assessed under the Service Standard before moving into public beta
 
 videos:
