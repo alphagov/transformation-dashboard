@@ -76,7 +76,7 @@ status-alpha:
 status-beta:
   - copy    : "Completed: Start beta development --- Jan 2015"
     complete  : true
-  - copy    : Release public beta --- dates to be confirmed"
+  - copy    : "Release public beta --- dates to be confirmed"
     complete  : false
 
 status-live:
