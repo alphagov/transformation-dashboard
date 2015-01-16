@@ -3,7 +3,6 @@
 layout: exemplar
 
 
-exemplar-service-url: "https://notice.redundancy-payments.org.uk/claims/start"
 exemplar-title: "Redundancy payments"
 exemplar-number: 3
 
