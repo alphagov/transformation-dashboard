@@ -37,19 +37,21 @@ videos:
 
 
 successes: |
-  - User research undertaken into public and motor trade requirements
+  - User research done into public and motor trade requirements
   - Data integration issues investigated
-  - Passed alpha Digital by Default Service Standard Assessment
+  - Passed beta Digital by Default Service Standard Assessment 
   
 challenges: |
   - Turning complicated paper, telephone and electronic transactions into a simple digital service
-  - Integrating service with other digital projects and legacy databases and connecting to a secure cloud environment
+  - Integrating the service with other digital projects and legacy databases and connecting to a secure cloud environment
   - Managing delivery alongside strategic transformation projects like the abolition of the tax disc, payments and direct debits
+  - Changing legislation to allow digital transactions
   
 next-steps: |
-  - Prepare for beta Digital by Default Service Standard assessment
+  - Release public beta
   - Continue user research
-  - Bring new team members on board
+  - Develop new features (e.g assign a registration mark to a vehicle)
+  - Prepare for the live Digital by Default Service Standard assessment
 
 
 digital-strategy-statement: |
@@ -80,11 +82,11 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Start beta development --- Jul to Sep 2014"
     complete  : true
-  - copy      : "Release public beta --- Oct to Dec 2014"
+  - copy      : "Release public beta --- Jan to Mar 2015"
     complete  : false
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- After March 2015"
     complete  : false
 
 

@@ -24,8 +24,8 @@ detail-page-intro: |
     30 million transactions a year handled by the Land Registry
 
 
-status: "alpha"
-status-strapline: "Alpha phase complete. The service will use the lessons from the recent  [Land Registry concept](http://blog.landregistry.gov.uk/digital-land-registry-completing-concept/)."
+status: "beta"
+status-strapline: "In beta development. The service will use the lessons from the recent  [Land Registry concept](http://blog.landregistry.gov.uk/digital-land-registry-completing-concept/)."
 
 
 videos:
@@ -44,9 +44,9 @@ challenges: |
   - Split location with development team based in Plymouth means lost development time due to travel, amplified by many people on annual leave
 
 next-steps: |
-  - Land Registry to start development of the beta service
+  - Develop the beta service
+  - Continue user research throughout the beta phase
   - Programme planning for digital change inside the agency
-  - Make a roadmap for developing the service
 
 
 screengrabs:
@@ -74,7 +74,9 @@ status-alpha:
     complete    : true
 
 status-beta:
-  - copy    : "Start beta development --- Oct to Dec 2014"
+  - copy    : "Completed: Start beta development --- Jan 2015"
+    complete  : true
+  - copy    : "Release public beta --- dates to be confirmed"
     complete  : false
 
 status-live:

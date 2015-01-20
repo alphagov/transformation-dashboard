@@ -107,11 +107,11 @@ status-beta:
     complete  : true
   - copy    : "Completed: Start Phase 2 development --- Aug 2014"
     complete  : true
-  - copy    : "Release Phase 2 public beta --- Oct to Dec 2014"
+  - copy    : "Release Phase 2 public beta --- Jan to Mar 2015"
     complete  : false
 
 status-live:
-  - copy    : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
+  - copy    : "Service goes live (depending on Service Standard assessment) --- After March 2015"
     complete  : false
 
 

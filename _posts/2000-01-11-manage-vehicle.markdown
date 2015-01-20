@@ -34,22 +34,20 @@ videos:
   - url     : https://www.youtube.com/watch?v=CROuz3Ghu08
     caption : Watch a description of the exemplar
 
-
-
 successes: |
-  - Vehicle management passed Alpha [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment 
+  - Vehicle management passed its beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment 
   - User research into trade and public needs underway
   - Data integration requirements identified
-  - Private beta service launched to motor trade service partners
+  - Public beta service released to motor trade service partners
   
 challenges: |
   - Turning complicated multi-channel transactions into simple digital services
   - Integrating service with other digital projects and legacy databases and connecting to secure cloud environment
-  - Meeting ministerial commitments, such as the abolition of the licence counterpart and ending the requirement for fleets to carry the V5 document
+  - Meeting ministerial commitments, such as giving fleet companies the option to suppress the V5 document at first registration
   
 next-steps: |
-  - Expand user research and performance analysis
-  - Complete private beta and prepare for beta Digital by Default Service Standard assessment
+  - Add features (eg buy a car from a motor trader)
+  - Prepare for the live Digital by Default Service Standard assessment
 
 
 digital-strategy-statement: |
@@ -78,11 +76,11 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Start beta development --- Mar 2014"
     complete  : true
-  - copy      : "Release public beta --- Oct to Dec 2014"
+  - copy      : "Release public beta --- Jan 2015"
     complete  : false
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- post-March 2015"
     complete  : false
 
 

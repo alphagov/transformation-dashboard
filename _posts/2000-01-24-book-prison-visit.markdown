@@ -7,7 +7,7 @@ exemplar-number: 24
 
 exemplar-service-url: "https://www.gov.uk/prison-visits"
 exemplar-performance-dashboard-url: "https://www.gov.uk/performance/prison-visits"
-exemplar-blog-url: "www.blogs.justice.gov.uk/digital"
+exemplar-blog-url: "https://mojdigital.blog.gov.uk/"
 
 
 department: "Ministry<br>of Justice"

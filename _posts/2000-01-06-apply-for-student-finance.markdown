@@ -57,6 +57,14 @@ next-steps: |
 screengrabs:
   - filename    : "6-01-student-finance.png"
     caption     : "Full-time student finance application 2014-15" 
+
+
+embedded-pp-graphs:
+  - graph-url: "https://www.gov.uk/performance/student-finance/digital-takeup"
+    graph-title: "Digital take-up"
+    graph-caption: "Applications made using the digital service"
+  - graph-url: "https://www.gov.uk/performance/student-finance/user-satisfaction"
+    graph-title: "User satisfaction"
     
 
 scope-of-exemplar: |
@@ -105,21 +113,6 @@ status-live:
 anticipated-volume:
   - number  : 1.3m
     caption : Students supported
-
-
-performance-platform-url: "https://www.gov.uk/performance/bis-student-finance-applications-full-time-study"
-
-
-current-volume:
-  - number  : 1.17m
-    caption : transactions per year
-  - number  : 97.1%
-    caption : digital take-up
-current-cost:
-  - number  : £57.4m
-    caption : total cost
-  - number  : £49.25
-    caption : cost per transaction
 
 
 ---

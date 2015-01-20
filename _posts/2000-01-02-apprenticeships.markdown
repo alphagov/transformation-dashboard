@@ -5,6 +5,7 @@ layout: exemplar
 exemplar-title: "Find an apprenticeship"
 exemplar-number: 2
 
+exemplar-service-url: "https://www.gov.uk/findapprenticeship"
 
 department: "Department<br>for Business<br>Innovation & Skills"
 department-url: "https://www.gov.uk/government/organisations/department-for-business-innovation-skills"
@@ -22,8 +23,8 @@ detail-page-intro: |
     1.8 million online apprenticeships applications every year
 
 
-status: "beta"
-status-strapline: "In beta."
+status: "public-beta"
+status-strapline: "In public beta."
 
 
 videos:
@@ -32,20 +33,16 @@ videos:
 
 
 successes: |
-  - Passed beta [Digital by Default Service Standard](https://gdsdata.blog.gov.uk/apprenticeship-applications-service-assessment-2/) assessment
-  - Launched Skills Funding Agency’s [SFA Digital blog](https://sfadigital.blog.gov.uk)
-  - Received BIS approval to commence external recruitment for vacant digital delivery posts
-  - Service name changed from ‘Apprenticeship applications’ to ‘Find an apprenticeship’ following user feedback
+  - Released the public beta of the candidate service, which was accessed by 10,000 users in its first month
+  - Finished preparing to fill vacant digital delivery posts
   
 challenges: |
-  - The scope of the service to be delivered for candidates, employers and training providers is ambitious and not all service functionality will be delivered in the initial service
+  - The scope of the service to be delivered for candidates, employers and training providers is ambitious and not all features will be included in the initial service
   - Scaling up to continuously improve on the public beta service and introduce new features
   
 next-steps: |
-  - Complete research and analysis on the traineeships features
-  - Continue selection and appointment of permanent digital delivery team members
-  - Release public beta service on 9 December and work on its development
-
+  - Finish traineeships features and launch a minimum viable traineeships service
+  - Continue selecting and appointing permanent digital delivery team members
 
 digital-strategy-statement: |
     All customer journeys across information and transactions will be integrated so individuals can find information tailored to their needs and search, view and apply for opportunities online in an engaging and inspiring way. Employers will be able to quickly and easily self-serve to engage with apprenticeships and advertise vacancies and identify suitable candidates.
@@ -76,8 +73,8 @@ status-alpha:
 status-beta:
   - copy        : "Completed: Start beta development of candidate service --- May 2014"
     complete    : true
-  - copy        : "Release public beta of candidate service --- Dec 2014"
-    complete    : false
+  - copy        : "Completed: Release public beta of candidate service --- Dec 2014"
+    complete    : true
   - copy        : "Start beta development of employer service --- Jan to Mar 2015"
     complete    : false
 

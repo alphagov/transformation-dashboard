@@ -51,7 +51,7 @@ status-discovery:
     complete  : true
 
 status-alpha:
-  - copy      : "Start alpha build --- date to be confirmed"
+  - copy      : "Start alpha build --- Jan to Mar 2015"
     complete  : false
 
 status-beta:

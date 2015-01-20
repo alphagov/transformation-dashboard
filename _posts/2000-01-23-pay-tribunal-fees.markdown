@@ -80,11 +80,11 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Public beta release --- Jul 2013"
     complete  : true
-  - copy      : "Iteration of the beta service to meet more user needs --- Aug 2013 to Jul 2014"
+  - copy      : "Completed: Iteration of the beta service to meet more user needs --- Aug 2013 to Jul 2014"
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- Oct to Dec 2014"
+  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
     complete  : false
 
 
