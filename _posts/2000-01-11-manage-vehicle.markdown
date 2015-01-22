@@ -24,8 +24,8 @@ detail-page-intro: |
     18 million vehicle owner transfers each year by businesses and citizens
 
 
-status: "beta"
-status-strapline: "In beta"
+status: "public-beta"
+status-strapline: "In public beta"
 
 
 videos:
@@ -77,7 +77,7 @@ status-beta:
   - copy      : "Completed: Start beta development --- Mar 2014"
     complete  : true
   - copy      : "Release public beta --- Jan 2015"
-    complete  : false
+    complete  : true
 
 status-live:
   - copy      : "Service goes live (depending on Service Standard Assessment) --- post-March 2015"
