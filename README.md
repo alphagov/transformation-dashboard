@@ -33,4 +33,27 @@ This will compile the site and serve it on http://localhost:4000/transformation/
 
 ### Release process
 
-This isn't nice at the moment. /transformation sits within the Design Principles app.
+www.gov.uk/transformation sits within the Design Principles app, so design principles is what you will ultimately be deploying.
+
+1. Make sure transformation-dashboard master is up to date and correct
+2. Make sure design-principles is up to date with a ```git pull origin master```
+3. Within transformation-dashboard master branch, run ```./compile.sh``` script
+4. Make sure transformation-dashboard tags are up to date: ```git pull --tags origin master```
+5. List those tags to find your new version number: ```git tag```
+6. Tag the repo with your new version: ```git tag version-xx```
+7. Push your new tag: ```git push --tags origin master```
+8. Now ```cd``` into design-principles and ```git status```
+9. ```git add .``` - add everything, this will be the /transformation site files
+10. Your commit messge within design-principles should look something like this:
+
+```
+Transformation dashboard #version-xx
+
+* Updated waste carrier to Beta <-- list the major changes in your update
+
+https://github.com/alphagov/transformation-dashboard/compare/version-41...version-42 <-- add a comparison between your new version and the previous one
+
+```
+
+11. Now (still in design-principles) ```git push origin master``` - this triggers a build on preview
+
