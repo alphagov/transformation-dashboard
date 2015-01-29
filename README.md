@@ -33,30 +33,33 @@ This will compile the site and serve it on http://localhost:4000/transformation/
 
 ### Release process
 
-www.gov.uk/transformation sits within the Design Principles app, so design principles is what you will ultimately be deploying.
+www.gov.uk/transformation sits within the Design Principles app (https://github.com/alphagov/design-principles), so design principles is what you will ultimately be deploying.
 
-Make sure transformation-dashboard master is up to date and correct
 
-Make sure design-principles is up to date with a ```git pull origin master```
+Make sure transformation-dashboard master is up to date and correct locally
 
-Within transformation-dashboard master branch, run ```./compile.sh``` script
+Make sure design-principles is up to date locally with a ```git pull origin master```
 
-Make sure transformation-dashboard tags are up to date: ```git pull --tags origin master```
+#### Within transformation-dashboard
+
+Within your transformation-dashboard master branch, run the ```./compile.sh``` script
+
+Make sure transformation-dashboard tags are up to date locally: ```git pull --tags origin master```
 
 List those tags to find your new version number: ```git tag```
 
-Tag the repo with your new version: ```git tag version-xx```
+Tag the transformation-dashboard repo with your new version: ```git tag version-xx```
 
 Push your new tag: ```git push --tags origin master```
 
-Now ```cd``` into design-principles and ```git status```
+#### Within design-principles
 
-```git add .``` - add everything, this will be the /transformation site files
+Now ```cd``` into design-principles and ```git status``` - you should see the /transformation files ready for staging
 
-Your commit messge within design-principles should look something like this:
+```git add .``` then commit. Your commit messge within design-principles should look something like this:
 
 ```
-Transformation dashboard #version-xx
+Transformation dashboard #version-xx <-- the version number you just tagged in transformation-dashboard
 
 * Updated waste carrier to Beta <-- list the major changes in your update
 
