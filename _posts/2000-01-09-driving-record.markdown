@@ -106,7 +106,7 @@ status-beta:
     complete    : true
 
 status-live:
-  - copy        : "Completed: Service goes live (depending on Service Standard Assessment) --- Oct 2014"
+  - copy        : "Completed: Service goes live (depending on Service Standard assessment) --- Oct 2014"
     complete    : true
 
 
