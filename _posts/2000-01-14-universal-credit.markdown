@@ -26,9 +26,8 @@ videos:
 
 
 successes: |
-  - Delivered a prototype digital solution on 3 October 2013
   - Established a digital team at DWP, building user-centred services
-  - Release alpha service to a group of users in Sutton
+  - Release service to a group of users in Sutton
   
 challenges: |
   - Complex service, affecting up to 10 million people
@@ -66,7 +65,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy      : "Service goes live (depending on user feedback) --- After March 2015"
+  - copy      : "Service goes live (depending on user feedback) --- after March 2015"
     complete  : false
 
 
