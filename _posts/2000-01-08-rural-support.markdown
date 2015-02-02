@@ -42,7 +42,7 @@ challenges: |
   - Building a new service in line with evolving CAP and EU regulations
   
 next-steps: |
-  - Prepare for Digital by Default Service Standard assessment in December before moving to public beta
+  - Prepare for [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment in December before moving to public beta
 
 
 screengrabs:
@@ -86,7 +86,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy    : "Service goes live (depending on Service Standard Assessment) --- date tbc"
+  - copy    : "Service goes live (depending on Service Standard assessment) --- date tbc"
     complete  : false
 
 
