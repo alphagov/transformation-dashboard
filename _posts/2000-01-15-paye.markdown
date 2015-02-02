@@ -24,7 +24,7 @@ detail-page-intro: |
 
 
 status: "public-beta"
-status-strapline: "In public beta. This service is being built alongside [exemplar 16: Digital self-assessment](/transformation/self-assessment.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
+status-strapline: "In public beta. This service is being built alongside [exemplar 16: Digital Self Assessment](/transformation/self-assessment.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
 
 
 videos:
@@ -42,7 +42,7 @@ videos-additional: |
 
 successes: |
   - Public beta released in October 2014
-  - Passed beta Digital by Default Service Standard assessment
+  - Passed beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
   
 challenges: |
   - Ensuring the private beta had enough users to identify data issues
@@ -59,7 +59,7 @@ screengrabs:
 
 
 digital-strategy-statement: |
-  Every customer in the UK will have their own personalised digital tax account, so we can help make it simpler, quicker and easier to pay the right tax at the right time. Four services (PAYE for Employees, Digital Self-Assessment, Your Tax Account and Agent Online Self-service) will deliver stand-alone, end-to-end services through digital channels...PAYE for Employees will make it easier for customers to tell us about changes that affect their tax code.
+  Every customer in the UK will have their own personalised digital tax account, so we can help make it simpler, quicker and easier to pay the right tax at the right time. Four services (PAYE for Employees, Digital Self Assessment, Your Tax Account and Agent Online Self-service) will deliver stand-alone, end-to-end services through digital channels...PAYE for Employees will make it easier for customers to tell us about changes that affect their tax code.
     
 digital-strategy-source: |
     From the '[HM Revenue & Customs digital strategy](https://www.gov.uk/government/publications/hmrc-digital-strategy-2014/hmrc-digital-strategy-2014#our-multi-channel-digital-tax-platform)' --- September 2014
@@ -90,7 +90,7 @@ status-beta:
     complete  : true
  
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
     complete  : false
 
 
