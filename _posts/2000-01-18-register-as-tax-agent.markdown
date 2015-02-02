@@ -28,7 +28,7 @@ status-strapline: "In beta. Private beta service in development."
 
 successes: |
   - Discovery stage completed
-  - Alpha Digital by Default Service Standard assessment passed in November 2014
+  - Alpha [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment passed in November 2014
   
 challenges: |
   - The complexity of agent-client relationships makes this a difficult but very important exemplar to get right
@@ -71,13 +71,13 @@ status-beta:
     complete  : false 
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- date to be confirmed"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- date to be confirmed"
     complete  : false
 
 
 anticipated-volume:
-  - number  : 120k
-    caption : Tax agents
+  - number  : 43k
+    caption : Agent firms
 
 
 ---
