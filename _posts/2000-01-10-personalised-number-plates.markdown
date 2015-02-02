@@ -86,7 +86,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- After March 2015"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- after March 2015"
     complete  : false
 
 
@@ -96,5 +96,3 @@ anticipated-volume:
 
 
 ---
-
-
