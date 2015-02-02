@@ -33,15 +33,16 @@ videos:
 
 
 successes: |
-  - Released the public beta of the candidate service, which was accessed by 10,000 users in its first month
-  - Finished preparing to fill vacant digital delivery posts
+  - Grew usage of the public beta service, with more than 30,000 users since launch of public beta in early December
+  - Launched journey that allows users to apply for traineeships
+  - We’ve started [recruiting](https://sfadigital.blog.gov.uk/jobs/) to fill vacant digital delivery posts
   
 challenges: |
-  - The scope of the service to be delivered for candidates, employers and training providers is ambitious and not all features will be included in the initial service
+  - Managing the shift of users from the existing digital service to the new one, while ensuring stakeholders are aware of what’s changing and why
   - Scaling up to continuously improve on the public beta service and introduce new features
   
 next-steps: |
-  - Finish traineeships features and launch a minimum viable traineeships service
+  - Launch further features in the apprenticeships service and prepare for the live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
   - Continue selecting and appointing permanent digital delivery team members
 
 digital-strategy-statement: |
