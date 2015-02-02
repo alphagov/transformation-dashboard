@@ -19,11 +19,11 @@ homepage-intro: |
     If you run a business you’ll be able to check how much tax you owe, learn about what you can and can’t claim, and pay your tax --- all in one place
 
 detail-page-intro: |
-    Easy to use online tax dashboard for up to 4.9 million small businesses and people in self-assessment
+    Easy to use online tax dashboard for up to 4.9 million small businesses and people in Self Assessment
 
 
 status: "public-beta"
-status-strapline: "In beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 16: Digital self-assessment](/transformation/self-assessment.html)."
+status-strapline: "In public beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 16: Digital Self Assessment](/transformation/self-assessment.html)."
   
 
 videos:
@@ -41,7 +41,7 @@ successes: |
 challenges: |
   - The timeline to put infrastructure in place is tight
   - Adapting current HMRC methods to [agile](/service-manual/agile) development
-  - The Service Standard Assessment highlighted some resource issues to be addressed
+  - The Service Standard assessment highlighted some resource issues to be addressed
   
 next-steps: |
   - Add user support features to the service
@@ -86,13 +86,13 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) ---  Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard assessment) ---  Jan to Mar 2015"
     complete  : false
 
 
 anticipated-volume:
   - number  : 4.9m
-    caption : Small businesses and people in self assessment
+    caption : Small businesses and people in Self Assessment
 
 
 ---
