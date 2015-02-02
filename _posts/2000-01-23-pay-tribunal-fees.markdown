@@ -51,7 +51,7 @@ next-steps: |
   - Continue to simplify and improve the application based on user research
   - Release a plain English version of forms
   - Develop sustainable [assisted digital](https://www.gov.uk/government/publications/government-approach-to-assisted-digital) support
-  - Finish public beta and prepare for live Digital by Default Service Standard assessment
+  - [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
 
 
 digital-strategy-statement: |
@@ -84,7 +84,7 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
     complete  : false
 
 
