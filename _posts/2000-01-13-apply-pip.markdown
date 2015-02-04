@@ -52,7 +52,7 @@ status-discovery:
 
 status-alpha:
   - copy      : "Completed: Start alpha build --- Jan 2015"
-    complete  : false
+    complete  : true
   - copy      : "Alpha Service Standard assessment - Jan to Mar 2015"
     complete  : false
 
