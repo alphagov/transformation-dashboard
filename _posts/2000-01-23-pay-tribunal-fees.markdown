@@ -51,7 +51,7 @@ next-steps: |
   - Continue to simplify and improve the application based on user research
   - Release a plain English version of forms
   - Develop sustainable [assisted digital](https://www.gov.uk/government/publications/government-approach-to-assisted-digital) support
-  - [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+  - Finish public beta and prepare for live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
 
 
 digital-strategy-statement: |
