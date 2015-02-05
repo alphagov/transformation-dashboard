@@ -39,7 +39,7 @@ successes: |
   - Cross-disciplinary team in place
   - Better use of GDS’ user interface design patterns
   - Accelerated property possession claims has been released to users and is live
-  - [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+  - Passed live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
   
 challenges: |
   - Making language simpler while ensuring the accurate use of legal terminology
