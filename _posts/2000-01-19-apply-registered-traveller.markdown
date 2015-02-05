@@ -39,7 +39,7 @@ successes: |
   - New caseworking system went live in October 2014 and the old system was successfully decommissioned
   - Online payment successfully introduced along with invitation codes
   - Service now integrates securely with other existing systems and the method of integration will likely be reused by other services in the Home Office
-  - The service passed its live Digital by Default Service Standard assessment
+  - The service passed its live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
   
 challenges: |
   - Integrating the service with current systems

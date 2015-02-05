@@ -23,7 +23,7 @@ detail-page-intro: |
 
 
 status: "Alpha"
-status-strapline: "Discovery phase complete with work on the alpha ready to begin. Further work on the Personal Independence Payment exemplar will be linked to the delivery of [managed reassessment](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/180964/pip-reassessments-and-impacts.pdf) for claimants that begins in October 2015."
+status-strapline: "Discovery phase complete with work on the alpha under way. Further work on the Personal Independence Payment exemplar will be linked to the delivery of [managed reassessment](https://www.gov.uk/government/uploads/system/uploads/attachment_data/file/180964/pip-reassessments-and-impacts.pdf) for claimants that begins in October 2015."
 
 
 successes: |
@@ -51,7 +51,9 @@ status-discovery:
     complete  : true
 
 status-alpha:
-  - copy      : "Start alpha build --- Jan to Mar 2015"
+  - copy      : "Completed: Start alpha build --- Jan 2015"
+    complete  : true
+  - copy      : "Alpha Service Standard assessment - Jan to Mar 2015"
     complete  : false
 
 status-beta:

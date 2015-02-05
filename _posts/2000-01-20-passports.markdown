@@ -61,11 +61,11 @@ status-beta:
     complete  : true
   - copy      : "Private beta release --- Jan to Mar 2015"
     complete  : false
-  - copy      : "Public beta release --- post-Mar 2015"
+  - copy      : "Public beta release --- after Mar 2015"
     complete  : false
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- post-March 2015"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- after March 2015"
     complete  : false
 
 

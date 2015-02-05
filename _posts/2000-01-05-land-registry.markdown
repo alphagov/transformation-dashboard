@@ -38,7 +38,7 @@ videos:
 successes: |
   - Land Registry and GDS developed a concept showing how a digital service could look
   - Land Registry and GDS employees have worked together as one team to build an alpha    
-  - Passed alpha Digital by Default Service Standard assessment in October 2014
+  - Passed alpha [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment in October 2014
 
 challenges: |
   - Split location with development team based in Plymouth means lost development time due to travel, amplified by many people on annual leave
@@ -70,7 +70,7 @@ status-alpha:
     complete    : true
   - copy        : "Completed: Start alpha build --- Jul 2014"
     complete    : true
-  - copy        : "Completed: undergo alpha Service Standard Assessment --- Oct 2014"
+  - copy        : "Completed: alpha Service Standard assessment --- Oct 2014"
     complete    : true
 
 status-beta:
@@ -80,7 +80,7 @@ status-beta:
     complete  : false
 
 status-live:
-  - copy    : "Service goes live (depending on Service Standard Assessment) --- dates to be confirmed"
+  - copy    : "Service goes live (depending on Service Standard assessment) --- dates to be confirmed"
     complete  : false
 
 

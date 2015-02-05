@@ -61,7 +61,7 @@ next-steps: |
   - Reuse the exemplar technology for other types of Visa
   - Refine the agile team and recruit more Civil Service capability to support its work, filling several team vacancies
   - Help to establish a new service governance model based on agile principles
-  - Prepare for live Digital by Default Service Standard assessment
+  - Prepare for live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
 
 
 screengrabs:
@@ -111,7 +111,7 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
     complete  : false
 
 

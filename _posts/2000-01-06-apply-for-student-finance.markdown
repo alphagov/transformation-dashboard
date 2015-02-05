@@ -6,6 +6,7 @@ exemplar-title: "Student finance"
 exemplar-number: 6
 
 exemplar-service-url: "https://www.gov.uk/apply-online-for-student-finance"
+exemplar-performance-dashboard-url: "https://www.gov.uk/performance/student-finance"
 exemplar-blog-url: "https://studentfinancedigital.blog.gov.uk"
 
 
@@ -56,7 +57,7 @@ next-steps: |
 
 screengrabs:
   - filename    : "6-01-student-finance.png"
-    caption     : "Full-time student finance application 2014-15" 
+    caption     : "Full-time student finance application 2014-15"
 
 
 embedded-pp-graphs:
@@ -113,6 +114,7 @@ status-live:
 anticipated-volume:
   - number  : 1.3m
     caption : Students supported
+
 
 
 ---

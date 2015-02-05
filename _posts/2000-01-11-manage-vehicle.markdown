@@ -80,7 +80,7 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard Assessment) --- post-March 2015"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- after March 2015"
     complete  : false
 
 

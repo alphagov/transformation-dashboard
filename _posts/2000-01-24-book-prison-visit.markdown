@@ -42,7 +42,7 @@ successes: |
   - Service standardised across pilot prisons
   - User research done for male Category B and below, Youth, Women’s, High Security Estate (Category A) and Contracted Out prisons 
   - Live performance dashboard released
-  - Passed live Digital by Default Service Standard assessment
+  - Passed live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
   - Live service released
   - 100,000 prison visit bookings submitted since the release of the public beta 
   
@@ -103,7 +103,7 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Completed: Service goes live (depending on Service Standard Assessment) --- Sep 2014"
+  - copy      : "Completed: Service goes live (depending on Service Standard assessment) --- Sep 2014"
     complete  : true
 
 
