@@ -20,10 +20,9 @@ intro: |
     You can read more about the transformation programme on [our blog](https://digitaltransformation.blog.gov.uk/).
 
 this-month: |
-    - [Vehicle management](/transformation/manage-vehicle.html) has gone into public beta
+    - [Registered Traveller](/transformation/apply-registered-traveller.html) has gone live
 
 next-month: |
-    - [Registered Traveller Service](/transformation/apply-registered-traveller.html) will go live
     - [Apply to an employment tribunal](/transformation/pay-tribunal-fees.html) will have a live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
     - [Rural payments](/transformation/rural-support.html) will be assessed under the Digital by Default Service Standard before moving into public beta
     - [Visas](https://www.gov.uk/transformation/apply-visa.html) will have a live Digital by Default Service Standard assessment
