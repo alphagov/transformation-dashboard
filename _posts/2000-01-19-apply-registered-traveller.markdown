@@ -21,8 +21,8 @@ detail-page-intro: |
   Up to 1 million journeys into the UK will be faster and easier for eligible frequent travellers
 
 
-status: "public-beta"
-status-strapline: "In public beta. The team has built a minimum viable product for the case working system, which has passed accreditation. Though anyone can check their eligibility to use the service, sign-up is currently limited through the issuing of invitation codes by airlines and Border Force officers, so that the service can be rolled out gradually."
+status: "live"
+status-strapline: "This service is now live."
   
 
 videos:
@@ -35,7 +35,6 @@ successes: |
   - Alpha completed within 6 weeks
   - Code from [Exemplar 21: Visit visa applications](/transformation/apply-visa) reused, saving time
   - ePassport gates are now available to registered travellers at Heathrow and Gatwick airports
-  - Public beta released
   - New caseworking system went live in October 2014 and the old system was successfully decommissioned
   - Online payment successfully introduced along with invitation codes
   - Service now integrates securely with other existing systems and the method of integration will likely be reused by other services in the Home Office
@@ -46,18 +45,15 @@ challenges: |
   - Managing the transition and renewal of pilot members to the live service
   
 next-steps: |
-  - Remove invitation codes to get more frequent travellers using the service
-  - Build a process to allow users to change their details
   - Add new visa types to eligibility requirements
   - Iterate and improve the caseworking system
-  - Prepare service for live release in late January 2015
 
 
 screengrabs:
-  - filename    : "19-01-registered-traveller.png"
-    caption     : "Screenshot of beta, March 2014"
-  - filename    : "19-02-registered-traveller.png"
-    caption     : "Screenshot of beta, March 2014"
+  - filename    : "19-03-registered-traveller.png"
+    caption     : "Screenshot of live service, February 2015"
+  - filename    : "19-04-registered-traveller.png"
+    caption     : "Screenshot of live service, February 2015"
 
 
 embedded-pp-graphs:
@@ -102,8 +98,8 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
-    complete  : false
+  - copy      : "Completed: Service goes live --- Feb 2015"
+    complete  : true
 
 
 anticipated-volume:
@@ -112,3 +108,4 @@ anticipated-volume:
 
 
 ---
+
