@@ -30,7 +30,7 @@ successes: |
 
 challenges: |
   - Developing a quality photograph checking tool
-  - Establishing new business processes for the new service to work alongside current arrangements 
+  - Establishing new business processes for the new service to work alongside current arrangements
 
 next-steps: |
   - Final checks to prepare for the private beta release
@@ -69,5 +69,3 @@ status-live:
 
 
 ---
-
-
