@@ -20,16 +20,18 @@ intro: |
     You can read more about the transformation programme on [our blog](https://digitaltransformation.blog.gov.uk/).
 
 this-month: |
-    - [Registered Traveller](/transformation/apply-registered-traveller.html) has gone live
+    - [Make a claim to an employment tribunal](https://www.gov.uk/transformation/pay-tribunal-fees.html) successfully passed its live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+    - [Visas](https://www.gov.uk/transformation/apply-visa.html) has successfully passed its live Digital by Default Service Standard assessment
+
 
 next-month: |
-    - [Apply to an employment tribunal](/transformation/pay-tribunal-fees.html) will have a live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
-    - [Rural payments](/transformation/rural-support.html) will be assessed under the Digital by Default Service Standard before moving into public beta
-    - [Visas](https://www.gov.uk/transformation/apply-visa.html) will have a live Digital by Default Service Standard assessment
+    - [Find an apprenticeship](https://www.gov.uk/transformation/apprenticeships.html) will have its live Digital by Default Service Standard assessment
+    - [PAYE](https://www.gov.uk/transformation/paye.html) will have its live Digital by Default Service Standard assessment
+    - [Claim PIP](https://www.gov.uk/transformation/apply-pip.html) will have an alpha Digital by Default Service Standard assessment before beta development can begin
+    - [Agent online self service](https://www.gov.uk/transformation/register-as-tax-agent.html) will have its public beta Digital by Default Service Standard assessment
 
 videos:
     - url: https://www.youtube.com/watch?v=IYBLX3V8ek4
       caption: A quick look at Carer’s Allowance, which went live in November 2014
 
 ---
-

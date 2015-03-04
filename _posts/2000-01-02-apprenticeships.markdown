@@ -33,16 +33,16 @@ videos:
 
 
 successes: |
-  - Grew usage of the public beta service, with more than 30,000 users since launch of public beta in early December
-  - Launched journey that allows users to apply for traineeships
+  - Use of the public beta service has grown, with more than 60,000 users since launch of public beta in early December
+  - There have been regular releases of new features with 20 releases since launch
   - We’ve started [recruiting](https://sfadigital.blog.gov.uk/jobs/) to fill vacant digital delivery posts
-  
+
 challenges: |
   - Managing the shift of users from the existing digital service to the new one, while ensuring stakeholders are aware of what’s changing and why
-  - Scaling up to continuously improve on the public beta service and introduce new features
-  
+  - Dividing effort between improving the candidate journey and creating the employer journey
+
 next-steps: |
-  - Launch further features in the apprenticeships service and prepare for the live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+  - Live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment in March
   - Continue selecting and appointing permanent digital delivery team members
 
 digital-strategy-statement: |
@@ -50,7 +50,7 @@ digital-strategy-statement: |
 
 digital-strategy-source: |
     From the '[Department for Business Innovation & Skills digital strategy](http://discuss.bis.gov.uk/digitalstrategy/page/7/)' --- December 2012
-    
+
 
 scope-of-exemplar: |
   To create an easy to use digital service where apprenticeships can be advertised and applied for, with the transaction supported by clear information to inform and advise users, so that they can self-serve, leading to minimal additional support being required.
@@ -76,11 +76,11 @@ status-beta:
     complete    : true
   - copy        : "Completed: Release public beta of candidate service --- Dec 2014"
     complete    : true
-  - copy        : "Start beta development of employer service --- Jan to Mar 2015"
+  - copy        : "Start development of employer service --- Jan to Mar 2015"
     complete    : false
 
 status-live:
-  - copy        : "Candidate service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
+  - copy        : "Candidate service goes live (depending on Service Standard assessment) --- May 2015"
     complete    : false
 
 
@@ -89,5 +89,5 @@ anticipated-volume:
     caption : Applications a year
 
 
----
 
+---

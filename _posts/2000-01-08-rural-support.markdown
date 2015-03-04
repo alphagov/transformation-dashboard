@@ -32,17 +32,17 @@ videos:
 
 successes: |
   - Released a private beta mapping tool for farmers to check their land
-  - Fortnightly user research is conducted on farms 
+  - Fortnightly user research is conducted on farms
   - An [agile](https://www.gov.uk/service-manual/agile) development team has been established for the CAP Delivery Programme
   - Private beta released to initial group of invited users
- 
+
 challenges: |
   - Scalable deployment practices
   - Aligning timings of Verify programme to service’s beta phase
   - Building a new service in line with evolving CAP and EU regulations
-  
+
 next-steps: |
-  - Prepare for [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment in December before moving to public beta
+  - Address issues identified in the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) beta assessment before moving into full public beta
 
 
 screengrabs:
@@ -52,16 +52,16 @@ screengrabs:
 
 digital-strategy-statement: |
     ...a fundamental end-to-end redesign of the whole process, introducing a single IT solution with digital delivery as a core design principle.
-    
+
 digital-strategy-source: |
     From the '[Department for Environment Food & Rural Affairs digital strategy](https://www.gov.uk/government/publications/defra-digital-strategy-2012)' --- December 2012
-    
+
 
 scope-of-exemplar: |
     A new digital service to implement the EU Common Agricultural Policy (CAP) in England.
-    
+
     The new service will bring together systems and processes currently managed by four organisations; Defra, Rural Payments Agency, Forestry Commission and Natural England.
-    
+
     This simple and effective system will make it easy for users to understand and apply for CAP payments. It will help prevent fines (‘disallowance’) for making payments that don’t comply with CAP rules (~£600m since 2005 ).
 
 
@@ -111,5 +111,3 @@ current-cost:
 
 
 ---
-
-

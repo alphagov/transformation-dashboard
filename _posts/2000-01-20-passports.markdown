@@ -30,13 +30,12 @@ successes: |
 
 challenges: |
   - Developing a quality photograph checking tool
-  - Establishing new business processes for the new service to work alongside current arrangements 
+  - Establishing new business processes for the new service to work alongside current arrangements
 
 next-steps: |
-  - Continue the testing and development of the photographing checking tool
-  - Build a feature to deal with notifications
-  - Refine a mechanism for address look-up
-  - Integrate these new features into the existing service 
+  - Final checks to prepare for the private beta release
+  - Recruit private beta users
+  - Continue the testing and refinement of the photographing checking tool
 
 scope-of-exemplar: |
     The existing passport service within the UK allows you to complete an online application form to apply for, renew or update a passport. The user then prints a declaration form, signs and dates it and sends it for processing with any documents or photographs that are needed.
@@ -59,7 +58,7 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Start beta development --- Jul 2014"
     complete  : true
-  - copy      : "Private beta release --- Jan to Mar 2015"
+  - copy      : "Private beta release --- Mar 2015"
     complete  : false
   - copy      : "Public beta release --- after Mar 2015"
     complete  : false
@@ -70,5 +69,3 @@ status-live:
 
 
 ---
-
-

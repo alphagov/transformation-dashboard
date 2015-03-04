@@ -25,7 +25,7 @@ detail-page-intro: |
 
 status: "public-beta"
 status-strapline: "In public beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
-  
+
 
 videos:
   - url     : https://www.youtube.com/watch?v=OcO9ulxj1iI
@@ -39,11 +39,11 @@ videos:
 successes: |
   - Passed beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
   - Service released to the public
-  
+
 challenges: |
   - The timeline to put infrastructure in place is tight
   - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
-  
+
 next-steps: |
   - Add user support features to the service
   - Add information to the service about liabilities and payments
@@ -56,10 +56,10 @@ screengrabs:
 
 digital-strategy-statement: |
     Improving our web-based guidance and digital communications to ensure they are tailored and interactive, including the ability for customers to report changes digitally. Eliminating outbound paper communications for those customers who are already dealing with us online. Expanding the SA offering to those customers who do not currently file online. Extending the current digital service to include increasing the number of payments we make digitally.
-    
+
 digital-strategy-source: |
     From the '[HM Revenue & Customs digital strategy](https://www.gov.uk/government/publications/digital-strategy-december-2012)' --- December 2012
-    
+
 
 scope-of-exemplar: |
   The new digital Self Assessment exemplar service will allow users to opt out of receiving paper statements and receive digital alerts instead. Like all the HMRC exemplar services, it will be built on the new digital tax platform. The aim is for this exemplar service to save HMRC £800,000 this year by:
@@ -86,9 +86,9 @@ status-beta:
     complete  : true
   - copy      : "Completed: Public beta release --- Jun 2014"
     complete  : true
- 
+
 status-live:
-  - copy      : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- Mar 2015"
     complete  : false
 
 

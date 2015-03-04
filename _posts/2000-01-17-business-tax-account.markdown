@@ -24,7 +24,7 @@ detail-page-intro: |
 
 status: "public-beta"
 status-strapline: "In public beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 16: Digital Self Assessment](/transformation/self-assessment.html)."
-  
+
 
 videos:
   - url     : https://www.youtube.com/watch?v=Fm4ZbbE78Fk
@@ -37,12 +37,11 @@ videos:
 
 successes: |
   - Passed beta [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
-  
+
 challenges: |
   - The timeline to put infrastructure in place is tight
-  - Adapting current HMRC methods to [agile](/service-manual/agile) development
   - The Service Standard assessment highlighted some resource issues to be addressed
-  
+
 next-steps: |
   - Add user support features to the service
   - Changing the homepage based on user feedback
@@ -56,10 +55,10 @@ screengrabs:
 
 digital-strategy-statement: |
     a joined up experience for small business customers, giving them the ability to perform a number of transactions with the department in a single place
-    
+
 digital-strategy-source: |
     From the '[HM Revenue & Customs digital strategy](https://www.gov.uk/government/publications/digital-strategy-december-2012)' --- December 2012
-    
+
 
 scope-of-exemplar: |
     The aim of this service is to make filing tax easier for small businesses. It is estimated this can save these businesses between as £17 million and £25 million next year. This service will provide improved tools and a tax dashboard for small businesses. Like all HMRC exemplar services, it will be built on the new digital tax platform.
@@ -86,7 +85,7 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard assessment) ---  Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard assessment) ---  Mar 2015"
     complete  : false
 
 
@@ -96,5 +95,3 @@ anticipated-volume:
 
 
 ---
-
-

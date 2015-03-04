@@ -42,8 +42,8 @@ successes: |
   - China Visit Visa beta delivered on time and budget
   - Extensive user research with a range of groups, including overseas users, English second-language users, agencies and UK legal representatives
   - Provided foreign language guidance in simplified Chinese and established a multi-lingual framework  for managing translated content
-  - Excellent feedback from users 
-  - Nearly 10,000 Visit Visa applications from China completed in the first month 
+  - Excellent feedback from users with an average satisfaction of 80%
+  - Over 60,000 Visit Visa applications from China have been completed so far
   - The case working process is benefitting from the new, clearer service as the quality of submitted data is improving
   - We’re frequently improving the service based on user feedback
 
@@ -79,10 +79,10 @@ screengrabs:
 
 digital-strategy-statement: |
     ...a single intelligent interface which adapts the questions it asks the user based on business rules: avoiding unnecessary questions and providing a dynamic, streamlined process that users (many of whom are not native English speakers) find simple and accessible.
-    
+
 digital-strategy-source: |
     From the '[Home Office digital strategy](https://www.gov.uk/government/publications/home-office-digital-strategy)' --- December 2012
-    
+
 
 scope-of-exemplar: |
     Better visa process is a political priority to drive UK growth by promoting visits from tourists, students and business people. [Currently 3.57m visas are issued at a cost of £649m/year, £182 per transaction](https://www.gov.uk/performance/home-office-visas-immigration-applications).
@@ -121,5 +121,3 @@ anticipated-volume:
 
 
 ---
-
-
