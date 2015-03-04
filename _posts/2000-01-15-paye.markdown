@@ -41,9 +41,8 @@ videos-additional: |
 
 
 successes: |
-  - Public beta released in October 2014
-  - Passed beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
-  
+  - Public beta released in October 2014  
+
 challenges: |
   - Ensuring the private beta had enough users to identify data issues
   - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
@@ -90,7 +89,7 @@ status-beta:
     complete  : true
  
 status-live:
-  - copy      : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
+  - copy      : "Service goes live (depending on Service Standard assessment) --- Mar 2015"
     complete  : false
 
 
