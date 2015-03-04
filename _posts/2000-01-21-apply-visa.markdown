@@ -42,8 +42,8 @@ successes: |
   - China Visit Visa beta delivered on time and budget
   - Extensive user research with a range of groups, including overseas users, English second-language users, agencies and UK legal representatives
   - Provided foreign language guidance in simplified Chinese and established a multi-lingual framework  for managing translated content
-  - Excellent feedback from users 
-  - Nearly 10,000 Visit Visa applications from China completed in the first month 
+  - Excellent feedback from users with an average satisfaction of 80%
+  - Over 60,000 Visit Visa applications from China have been completed so far
   - The case working process is benefitting from the new, clearer service as the quality of submitted data is improving
   - We’re frequently improving the service based on user feedback
 
