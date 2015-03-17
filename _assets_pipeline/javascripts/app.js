@@ -2,6 +2,10 @@
 //= require ./vendor/jquery/jquery-migrate-1.2.1.js
 //= require ./vendor/jquery/jquery-ui-1.10.4.js
 //= require ../govuk_toolkit/javascripts/vendor/jquery/jquery.player.min.js
+//= require ../govuk_toolkit/javascripts/govuk/analytics/google-analytics-classic-tracker.js
+//= require ../govuk_toolkit/javascripts/govuk/analytics/google-analytics-universal-tracker.js
+//= require ../govuk_toolkit/javascripts/govuk/analytics/tracker.js
+//= require analytics-init.js
 
 // Avoid `console` errors in browsers that lack a console.
 (function() {
