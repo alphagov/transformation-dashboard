@@ -93,11 +93,8 @@ live_url: 'https://www.gov.uk/service-manual/phases/live'
 
       {{ page.intro | markdownify }}
 
-      <h3>This month&rsquo;s highlights</h3>
+      <h3>Highlights</h3>
       {{ page.this-month | markdownify }}
-
-      <h3>Next month</h3>
-      {{ page.next-month | markdownify }}
 
     </div>
 
@@ -110,7 +107,7 @@ live_url: 'https://www.gov.uk/service-manual/phases/live'
       <div class="media-player-wrapper">
         <a href="{{ item.url }}" class="media-player-link">{{ item.caption }}.</a>
       </div>
-      
+
       {% endfor %}
 
     </div>
