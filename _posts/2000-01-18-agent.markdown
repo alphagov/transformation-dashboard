@@ -29,11 +29,11 @@ status-strapline: "In beta. Private beta service in development."
 successes: |
   - Discovery stage completed
   - Alpha [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment passed in November 2014
-  
+
 challenges: |
   - The complexity of agent-client relationships makes this a difficult but very important exemplar to get right
   - Researching with a range of diverse range of agents, with different user needs and ways of working, to improve the service while in private beta
-  
+
 next-steps: |
   - Develop the private beta service to include more useful services for agents
   - Work on meeting complex data needs
@@ -41,10 +41,10 @@ next-steps: |
 
 digital-strategy-statement: |
     ...making registering to act as an agent easier and quicker... agents will have the tools to take more control of their clients’ tax affairs and undertake transactions for them with minimal involvement from HMRC... any new IT services developed for individual customers should be available to agents.
-    
+
 digital-strategy-source: |
     From the '[HM Revenue & Customs digital strategy](https://www.gov.uk/government/publications/digital-strategy-december-2012)' --- December 2012
-    
+
 
 scope-of-exemplar: |
     This is a new service for tax agents to work with HMRC online. It will let agents register to act on behalf of, and see information about, their clients, and to control a range of transactions on their behalf. These will be built on a new digital tax platform which will eventually replace the current HMRC Portal and be the default platform for new user-facing services.
@@ -68,7 +68,7 @@ status-beta:
   - copy      : "Release paid agents service --- date to be confirmed"
     complete  : false
   - copy      : "Further paid agents service releases --- date to be confirmed"
-    complete  : false 
+    complete  : false
 
 status-live:
   - copy      : "Service goes live (depending on Service Standard assessment) --- date to be confirmed"
@@ -81,5 +81,3 @@ anticipated-volume:
 
 
 ---
-
-
