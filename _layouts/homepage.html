@@ -14,11 +14,12 @@ layout: govuk_template
     <h1>{{ page.headline-title }}</h1>
   </header>
 
+  <div class="transformation-logo homepage-transformation-logo">
+    <img src="/transformation/assets/images/transformation-logo.png" alt="Transformation programme logo" />
+  </div>
 
-  <article role="article">
-
-    <p>{{ page.content }}</p>
-
+  <article class="homepage-content" role="article">
+    {{ page.content | markdownify }}
   </article>
 
 </main>

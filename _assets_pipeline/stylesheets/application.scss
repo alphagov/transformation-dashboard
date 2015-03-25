@@ -726,3 +726,18 @@ a.phase-tag {
   }
 
 }
+
+.homepage-header {
+  margin: 20px 0 40px;
+}
+
+.homepage-transformation-logo {
+  @include media(tablet) {
+    float: right;
+  }
+}
+
+.homepage-content {
+  margin-bottom: 50px;
+  width: $two-thirds;
+}
