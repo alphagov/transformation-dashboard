@@ -19,11 +19,11 @@ homepage-intro: |
     If you run a business you’ll be able to check how much tax you owe, learn about what you can and can’t claim, and pay your tax --- all in one place
 
 detail-page-intro: |
-    Easy to use online tax dashboard for up to 4.9 million small businesses and people in Self Assessment
+   Easy to use online tax dashboard for small to medium enterprises - currently 5.2m.
 
 
 status: "public-beta"
-status-strapline: "In public beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 16: Digital Self Assessment](/transformation/self-assessment.html)."
+status-strapline: "Successfully undertaken its live [Digital by Default Standard Assessment](/service-manual/digital-by-default). This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 16: Digital Self Assessment](/transformation/self-assessment.html)."
 
 
 videos:
@@ -36,16 +36,15 @@ videos:
 
 
 successes: |
-  - Passed beta [Digital by Default Service Standard](/service-manual/digital-by-default) assessment
+  - Passed beta Digital by Default Service Standard assessment
 
 challenges: |
-  - The timeline to put infrastructure in place is tight
-  - The Service Standard assessment highlighted some resource issues to be addressed
+  - Seamlessly integrating a broad range of services within YTA
 
 next-steps: |
-  - Add user support features to the service
-  - Changing the homepage based on user feedback
-  - Scale the service to handle 4.9 million users
+  - Enhance personalisation of user support
+  - Increase functionality within core service
+  - Scale the service to handle 5.2 million users
 
 
 screengrabs:
@@ -54,14 +53,14 @@ screengrabs:
 
 
 digital-strategy-statement: |
-    a joined up experience for small business customers, giving them the ability to perform a number of transactions with the department in a single place
+    a joined up experience for small and medium business customers, giving them the ability to perform a number of transactions with the department in a single place
 
 digital-strategy-source: |
     From the '[HM Revenue & Customs digital strategy](https://www.gov.uk/government/publications/digital-strategy-december-2012)' --- December 2012
 
 
 scope-of-exemplar: |
-    The aim of this service is to make filing tax easier for small businesses. It is estimated this can save these businesses between as £17 million and £25 million next year. This service will provide improved tools and a tax dashboard for small businesses. Like all HMRC exemplar services, it will be built on the new digital tax platform.
+    The aim of this service is to make filing tax easier for small to medium enterprises businesses. It is estimated this can save these businesses between as much as £17 million and £25 million next year. This service will provide improved tools and a tax dashboard for small businesses. Like all HMRC exemplar services, it will be built on the new digital tax platform.
 
 
 digital-inclusion: |
@@ -85,13 +84,15 @@ status-beta:
     complete  : true
 
 status-live:
+  - copy      : "Service completed Digital by Default Service Standard assessment ---  Mar 2015"
+    complete  : true
   - copy      : "Service goes live (depending on Service Standard assessment) ---  Mar 2015"
     complete  : false
 
 
 anticipated-volume:
-  - number  : 4.9m
-    caption : Small businesses and people in Self Assessment
+  - number  : 5.2m
+    caption : Small to medium enterprises
 
 
 ---
