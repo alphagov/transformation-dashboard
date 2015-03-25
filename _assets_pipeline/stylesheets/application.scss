@@ -169,7 +169,7 @@ $live-colour: $grass-green;
   }
   p {
     @include core-24;
-    
+
     @include media(tablet) {
       //width: 85%;
       @include core-36;
@@ -234,7 +234,7 @@ ul.phases {
       &:last-child {
         margin-right: 0;
       }
-      
+
       @include ie-lte(8) {
         margin: 0 (4%/8);
       }
@@ -436,7 +436,7 @@ a.phase-tag {
     width: ($one-quarter*3);
     float: left;
   }
-  
+
   h3 {
     font-weight: 700;
   }
@@ -527,7 +527,7 @@ a.phase-tag {
       text-align: right;
     }
   }
-  
+
   .description {
     width: 90%;
 
@@ -682,7 +682,7 @@ a.phase-tag {
       margin-left: 0;
       vertical-align: top;
     }
-    
+
     img {
       width: 100%;
       border: 1px solid $border-colour;

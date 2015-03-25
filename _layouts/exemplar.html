@@ -76,7 +76,7 @@ layout: govuk_template
         <h2>Status</h2>
         {{ page.status-strapline | markdownify }}
       </div>
-      
+
       {% if page.videos %}
         {% for item in page.videos %}
           <div class="media-player-wrapper">
@@ -207,7 +207,7 @@ layout: govuk_template
         {% endif %}
 
       </div>
-      
+
       {% if page.anticipated-volume %}
       <div class="unit">
         <h2>Anticipated volume</h2>
@@ -228,7 +228,7 @@ layout: govuk_template
         {% endif %}
         <p>Figures from {{ pp_string }} for nearest comparable service</p>
 
-        
+
         {% if page.current-volume %}
           <div class="unit">
             <h2>Current volume</h2>
