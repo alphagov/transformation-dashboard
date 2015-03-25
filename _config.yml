@@ -7,7 +7,7 @@ redcarpet:
     smart
   ]
 
-permalink: :title.html
+permalink: /exemplars/:title.html
 
 exclude: [
     compile.sh,

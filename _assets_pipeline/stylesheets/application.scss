@@ -159,7 +159,9 @@ $live-colour: $grass-green;
 
 }
 
-.homepage-header {
+.exemplars-list-header {
+  margin-top: 30px;
+
   h1 {
     margin: 7px 0 13px 0;
 
@@ -711,6 +713,7 @@ a.phase-tag {
 .archive-banner {
   background: $link-colour;
   padding: 20px;
+  margin-bottom: 10px;
 
   h2, p, a {
     color:#fff;
