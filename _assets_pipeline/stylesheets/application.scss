@@ -159,7 +159,9 @@ $live-colour: $grass-green;
 
 }
 
-.homepage-header {
+.exemplars-list-header {
+  margin-top: 30px;
+
   h1 {
     margin: 7px 0 13px 0;
 
@@ -169,7 +171,7 @@ $live-colour: $grass-green;
   }
   p {
     @include core-24;
-    
+
     @include media(tablet) {
       //width: 85%;
       @include core-36;
@@ -234,7 +236,7 @@ ul.phases {
       &:last-child {
         margin-right: 0;
       }
-      
+
       @include ie-lte(8) {
         margin: 0 (4%/8);
       }
@@ -436,7 +438,7 @@ a.phase-tag {
     width: ($one-quarter*3);
     float: left;
   }
-  
+
   h3 {
     font-weight: 700;
   }
@@ -527,7 +529,7 @@ a.phase-tag {
       text-align: right;
     }
   }
-  
+
   .description {
     width: 90%;
 
@@ -682,7 +684,7 @@ a.phase-tag {
       margin-left: 0;
       vertical-align: top;
     }
-    
+
     img {
       width: 100%;
       border: 1px solid $border-colour;
@@ -706,4 +708,36 @@ a.phase-tag {
   word-break: break-all;
   // Non standard for webkit
   word-break: break-word;
+}
+
+.archive-banner {
+  background: $link-colour;
+  padding: 20px;
+  margin-bottom: 10px;
+
+  h2, p, a {
+    color:#fff;
+  }
+  h2 {
+    margin: 0 0 10px;
+  }
+  p {
+    margin: 0;
+  }
+
+}
+
+.homepage-header {
+  margin: 20px 0 40px;
+}
+
+.homepage-transformation-logo {
+  @include media(tablet) {
+    float: right;
+  }
+}
+
+.homepage-content {
+  margin-bottom: 50px;
+  width: $two-thirds;
 }

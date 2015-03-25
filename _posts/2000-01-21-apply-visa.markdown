@@ -5,7 +5,7 @@ layout: exemplar
 exemplar-title: "Visas"
 exemplar-number: 21
 
-exemplar-service-url: "https://visasandimmigration.ipt.homeoffice.gov.uk/applying-in-china"
+exemplar-service-url: "https://visas-immigration.service.gov.uk/applying-in-china"
 exemplar-performance-dashboard-url: "https://www.gov.uk/performance/home-office-visas-immigration-applications"
 
 department: "Home Office"
@@ -22,8 +22,8 @@ detail-page-intro: |
     If you need a visa to visit the UK you’ll be able to apply using a simple online service
 
 
-status: "public-beta"
-status-strapline: "Developing the beta service."
+status: "live"
+status-strapline: "Recently passed the live [Digital by Default Service Assessment](https://www.gov.uk/service-manual/digital-by-default and migrating to the live service."
 
 
 videos:
@@ -37,6 +37,7 @@ videos-additional: |
 
 
 successes: |
+  - Passing live [Digital by Default Service Assessment](https://www.gov.uk/service-manual/digital-by-default)
   - Service manager is supported by a great product team
   - Service team are very good exponents of agile delivery
   - China Visit Visa beta delivered on time and budget
@@ -62,6 +63,7 @@ next-steps: |
   - Refine the agile team and recruit more Civil Service capability to support its work, filling several team vacancies
   - Help to establish a new service governance model based on agile principles
   - Prepare for live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+
 
 
 screengrabs:
@@ -111,8 +113,8 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
-    complete  : false
+  - copy      : "Service goes live (depending on Service Standard assessment) --- Mar 2015"
+    complete  : true
 
 
 anticipated-volume:

@@ -2,7 +2,7 @@
 
 layout: exemplar
 
-exemplar-title: "Apply to an employment tribunal"
+exemplar-title: "Make a claim to an employment tribunal"
 exemplar-number: 23
 
 exemplar-service-url: "https://www.gov.uk/apply-employment-tribunal"
@@ -25,8 +25,8 @@ detail-page-intro: |
     200,000 employment tribunal fees paid online every year
 
 
-status: "public-beta"
-status-strapline: "In beta and on track."
+status: "live"
+status-strapline: "Recently passed its [Digital by Default Service Assessment](https://www.gov.uk/service-manual/digital-by-default) and is transitioning to the live service."
 
 
 videos:
@@ -39,6 +39,7 @@ videos:
 
 
 successes: |
+  - Passed live Digital by Default Service Assessment
   - User experience continues to improve following user research
   - Positive user feedback on new simpler language
   - Save and return function agreed with Security Assurance
@@ -46,12 +47,11 @@ successes: |
 challenges: |
   - Ensuring the service meets full diversity of user needs
   - Using simpler language while maintaining legal accuracy
-  
+
 next-steps: |
   - Continue to simplify and improve the application based on user research
   - Release a plain English version of forms
   - Develop sustainable [assisted digital](https://www.gov.uk/government/publications/government-approach-to-assisted-digital) support
-  - Finish public beta and prepare for live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
 
 
 digital-strategy-statement: |
@@ -59,7 +59,7 @@ digital-strategy-statement: |
 
 digital-strategy-source: |
     From the '[Ministry of Justice digital strategy](http://open.justice.gov.uk/digital-strategy/)' – December 2012
-    
+
 
 scope-of-exemplar: |
     In line with new MOJ policy, employment tribunals started charging fees from 29 July. The technology to implement this ministerial priority includes a payment mechanism, which is being improved through digital input on user research and the Digital by Default Service Standard. Phase 2 runs from July to December and will improve the flexibility of the service, its reporting, and its ability to support user errors around manual transactions. Phase 3 is currently being scoped.
@@ -84,8 +84,8 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard assessment) --- Jan to Mar 2015"
-    complete  : false
+  - copy      : "Service passed live Digital by Default Service Assessment --- Mar 2015"
+    complete  : true
 
 
 anticipated-volume:
@@ -94,5 +94,3 @@ anticipated-volume:
 
 
 ---
-
-

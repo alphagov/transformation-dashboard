@@ -20,11 +20,11 @@ homepage-intro: |
     If you want to check or update your PAYE status you’ll be able to do it online, and see the effect on the tax you pay
 
 detail-page-intro: |
-   Making Pay As You Earn digital for 41 million employees
+   Making Pay As You Earn digital for all of HMRC's 41 million customers who are employees or receive a company pension
 
 
 status: "public-beta"
-status-strapline: "In public beta. This service is being built alongside [exemplar 16: Digital Self Assessment](/transformation/self-assessment.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
+status-strapline: "Recently undertaken the live [Digital by Default Standard Assessment](https://www.gov.uk/service-manual/digital-by-default). This service is being built alongside [exemplar 16: Digital Self Assessment](/transformation/self-assessment.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
 
 
 videos:
@@ -41,15 +41,13 @@ videos-additional: |
 
 
 successes: |
-  - Public beta released in October 2014  
+  - Public beta released in October 2014
 
 challenges: |
-  - Ensuring the private beta had enough users to identify data issues
   - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
 
 next-steps: |
-  - Continue development of public beta and improve quality of data matching alongside [GOV.UK Verify](https://identityassurance.blog.gov.uk/)
-  - Prepare service for live Digital by Default Service Standard assessment
+  - Continue development of the service and improve quality of data matching alongside [GOV.UK Verify](https://identityassurance.blog.gov.uk/)
 
 
 screengrabs:
@@ -89,6 +87,8 @@ status-beta:
     complete  : true
 
 status-live:
+  - copy      : "Service completed live Digital by Default Standard Assessment --- Mar 2015"
+    complete  : true
   - copy      : "Service goes live (depending on Service Standard assessment) --- Mar 2015"
     complete  : false
 

@@ -23,27 +23,26 @@ detail-page-intro: |
     1.8 million online apprenticeships applications every year
 
 
-status: "public-beta"
-status-strapline: "In public beta."
+status: "live"
+status-strapline: "Successfully passed the live Digital by Default Service Assessment and preparing to migrate to the live service."
 
 
 videos:
   - url   : https://www.youtube.com/watch?v=hnA5WPKM1VY
     caption : Watch a short description of the exemplar, filmed December 2013
 
-
 successes: |
-  - Use of the public beta service has grown, with more than 60,000 users since launch of public beta in early December
+  - Use of the public beta service has grown, with more than 80,000 users since launch of public beta in early December
   - There have been regular releases of new features with 20 releases since launch
-  - We’ve started [recruiting](https://sfadigital.blog.gov.uk/jobs/) to fill vacant digital delivery posts
+  - We’re recruiting to fill vacant digital delivery posts
 
 challenges: |
   - Managing the shift of users from the existing digital service to the new one, while ensuring stakeholders are aware of what’s changing and why
   - Dividing effort between improving the candidate journey and creating the employer journey
 
 next-steps: |
-  - Live [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment in March
-  - Continue selecting and appointing permanent digital delivery team members
+  - Continuous service improvement for our users
+  - Building the employer and provider journeys into the service
 
 digital-strategy-statement: |
     All customer journeys across information and transactions will be integrated so individuals can find information tailored to their needs and search, view and apply for opportunities online in an engaging and inspiring way. Employers will be able to quickly and easily self-serve to engage with apprenticeships and advertise vacancies and identify suitable candidates.
@@ -76,18 +75,19 @@ status-beta:
     complete    : true
   - copy        : "Completed: Release public beta of candidate service --- Dec 2014"
     complete    : true
-  - copy        : "Start development of employer service --- Jan to Mar 2015"
-    complete    : false
+  - copy        : "Start development of employer service --- Feb 2015"
+    complete    : true
 
 status-live:
-  - copy        : "Candidate service goes live (depending on Service Standard assessment) --- May 2015"
+  - copy        : "Passed live Digital by Default Service Assessment — March 2015"
+    complete    : true
+  - copy        : "Candidate service goes live - May 2015"
     complete    : false
 
 
 anticipated-volume:
   - number  : 1.8m
     caption : Applications a year
-
 
 
 ---

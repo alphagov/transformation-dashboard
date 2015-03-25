@@ -26,7 +26,7 @@ status-strapline: "This service is now live."
   
 
 videos:
-  - url: https://www.youtube.com/watch?v=kXqVe22xEiU
+  - url: https://www.youtube.com/watch?v=XcXRRM0IoBA
     caption: Watch a video about the public beta service, filmed October 2014
   - url: https://www.youtube.com/watch?v=S5q-gqos9JI
     caption: Watch a short demo about updating your traveller details online, filmed January 2014

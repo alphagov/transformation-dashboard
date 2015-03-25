@@ -27,7 +27,7 @@ detail-page-intro: |
 
 
 status: "public-beta"
-status-strapline: "This service is being developed in two phases. Phase 1 is for basic registration for some waste carriers, while phase 2 will add new features, such as payments and renewal, and cater for all waste carriers. Phase 1 is in public beta. Phase 2 is in development."
+status-strapline: "This service is being developed in two phases. Phase 1 is for basic registration for some waste carriers, while phase 2 will add new features, such as payments and renewal, and cater for all waste carriers. Phase 1 is in public beta. Phase 2 has passed its public beta Digital by Default Service Assessment."
 
 
 videos:
@@ -41,19 +41,20 @@ videos:
 
 successes: |
   - Public beta released within 3 months of starting
-  - [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment passed for beta service 
+  - Beta service passed the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
   - Updates to beta released without disrupting the service for users
   - Over 20,000 users registered in the first 6 months
   - 96% of users registered online with a satisfaction rating of 89%
-  - Defra minister successfully used service in July 2014 
-  
+  - Defra minister successfully used service in July 2014
+
 challenges: |
-  - Assembling and managing the team to run the live service 
+  - Assembling and managing the team to run the live service
   - Developing the service to include a payments and renewal service and cater for all waste carriers
-  
+
 next-steps: |
+  - Preparing for live assessment
   - Consider how far the underlying platform can be used for other Defra digital services
-  - Share lessons from the exemplar across the Environment Agency and Defra 
+  - Share lessons from the exemplar across the Environment Agency and Defra
 
 
 screengrabs:
@@ -75,14 +76,14 @@ embedded-pp-graphs:
 
 digital-strategy-statement: |
     Key benefits of service redesign will include:
-    
+
     * Provision of a user-friendly and convenient digital service channel.
     * Reducing the costs associated with the current paper-based system for business and government.
     * Potentially integrating with other business-focused transactions across government
-    
+
 digital-strategy-source: |
     From the '[Department for Environment Food & Rural Affairs digital strategy](https://www.gov.uk/government/publications/defra-digital-strategy-2012)' --- December 2012
-    
+
 
 scope-of-exemplar: |
     The new service will enable easy online registration as a waste carrier. Savings currently forecast at between £2 million and £4 million, to be achieved over the next five years.
@@ -107,8 +108,8 @@ status-beta:
     complete  : true
   - copy    : "Completed: Start Phase 2 development --- Aug 2014"
     complete  : true
-  - copy    : "Release Phase 2 public beta --- Jan to Mar 2015"
-    complete  : false
+  - copy    : "Release Phase 2 public beta --- Mar 2015"
+    complete  : true
 
 status-live:
   - copy    : "Service goes live (depending on Service Standard assessment) --- after March 2015"
@@ -121,5 +122,3 @@ anticipated-volume:
 
 
 ---
-
-
