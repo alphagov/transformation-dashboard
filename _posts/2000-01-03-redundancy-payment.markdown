@@ -24,7 +24,7 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "This service is being developed in two parts. Part 1 deals with the application, while part 2 deals with compensation for loss of notice. Part 2 is in public beta and Part 1 is in beta development and will be supported by GOV.UK Verify."
+status-strapline: "This service is being developed in two parts. Part 1 deals with the application, while part 2 deals with compensation for loss of notice. Part 2 went into public beta in January. Part 1 is also now in beta and is supported by GOV.UK Verify."
 
 videos:
   - url: https://www.youtube.com/watch?v=2yXnblGFyMQ
@@ -32,25 +32,24 @@ videos:
 
 
 successes: |
-  - A private beta service has been released
-  
-challenges: |
+  - A public beta service has been released
   - Integrating [identity assurance](https://gds.blog.gov.uk/category/id-assurance/) into our service
+
+challenges: |
   - Continuing to grow relationships with incumbent suppliers to manage future releases
   - Developing a robust way of managing the service for users when it goes live
 
-next-steps: |
-  - Build GOV.UK Verify into the service   
+next-steps: |  
   - Revisit how to integrate new service with existing systems
-  - Start using the private beta service with real users
+  - Start using the public beta service with real users
 
 
 digital-strategy-statement: |
     Employees who are facing the challenge of redundancy will be able to apply for and access financial support from Government in a more immediate and easy to navigate manner than current channels allow, as will the insolvency practitioners administering cases.
-    
+
 digital-strategy-source: |
     From the '[Department for Business Innovation & Skills digital strategy](http://discuss.bis.gov.uk/digitalstrategy/page/7/)' --- December 2012
-    
+
 
 scope-of-exemplar: |
     When an employer becomes insolvent employees are often owed money (especially for redundancy pay). The Redundancy Payments Service processes claims for statutory redundancy payments, which are paid from the National Insurance Fund (NIF). The current claim process is largely paper based, which leads to unnecessary cost and increased potential for errors and delays. The scope of the exemplar is to create a digital claim process that will:
@@ -73,13 +72,12 @@ status-alpha:
     complete    : true
 
 status-beta:
-  - copy    : "Completed: Private beta release --- Jul to Sep 2014"
+  - copy    : "Completed: Private beta release --- Sep 2014"
     complete  : true
   - copy    : "Completed: Public beta release for Part 2 of the service --- Jan 2015"
     complete  : true
-  - copy    : "Public beta release for Part 1 of the service --- Jan to Mar 2015"
-    complete  : false
-
+  - copy    : "Public beta release for Part 1 of the service --- Mar 2015"
+    complete  : true
 status-live:
   - copy    : "Service goes live (depending on Service Standard assessment) --- after Mar 2015"
     complete  : false
@@ -91,4 +89,3 @@ anticipated-volume:
 
 
 ---
-
