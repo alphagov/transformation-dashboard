@@ -6,7 +6,7 @@ exemplar-title: "Vehicle management"
 exemplar-number: 11
 
 exemplar-blog-url: "https://dvladigital.blog.gov.uk/"
-
+exemplar-service-url: "https://www.gov.uk/motor-traders-sale-vehicle"
 
 department: "Department<br>for Transport"
 department-url: "https://www.gov.uk/government/organisations/department-for-transport"
@@ -35,16 +35,16 @@ videos:
     caption : Watch a description of the exemplar
 
 successes: |
-  - Vehicle management passed its beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment 
+  - Vehicle management passed its beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
   - User research into trade and public needs underway
   - Data integration requirements identified
   - Public beta service released to motor trade service partners
-  
+
 challenges: |
   - Turning complicated multi-channel transactions into simple digital services
   - Integrating service with other digital projects and legacy databases and connecting to secure cloud environment
   - Meeting ministerial commitments, such as giving fleet companies the option to suppress the V5 document at first registration
-  
+
 next-steps: |
   - Add features (eg buy a car from a motor trader)
   - Prepare for the live Digital by Default Service Standard assessment
@@ -52,10 +52,10 @@ next-steps: |
 
 digital-strategy-statement: |
     Currently when a customer sells or disposes of a vehicle, the log book needs to be posted to DVLA to be updated. We will digitise this process so it can be carried out self-service or through an intermediary.
-    
+
 digital-strategy-source: |
     From the '[Department for Transport digital strategy](https://www.gov.uk/government/publications/department-for-transport-digital-strategy)' – December 2012
-    
+
 
 scope-of-exemplar: |
     More than 18 million transactions per year relate to maintaining accurate records of vehicles, their keepers, and personalised registrations.  These include disposal to trade, acquisition from trade, notification of change or death of a keeper, retention of a registration mark, and assigning a registration mark.  The Vehicle Management and Personalised Registration exemplars will deliver fully digital services for these transactions, and improve the quality and accuracy of data for DVLA and its external stakeholders.
@@ -90,5 +90,3 @@ anticipated-volume:
 
 
 ---
-
-
