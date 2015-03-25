@@ -1,8 +1,7 @@
 ---
-
 layout: exemplar
 
-exemplar-title: "Agent online self-serve"
+exemplar-title: "Agent Online Self Serve"
 exemplar-number: 18
 
 exemplar-blog-url: "https://hmrcdigital.blog.gov.uk/"
@@ -37,7 +36,6 @@ challenges: |
 next-steps: |
   - Develop the private beta service to include more useful services for agents
   - Work on meeting complex data needs
-
 
 digital-strategy-statement: |
     ...making registering to act as an agent easier and quicker... agents will have the tools to take more control of their clients’ tax affairs and undertake transactions for them with minimal involvement from HMRC... any new IT services developed for individual customers should be available to agents.
