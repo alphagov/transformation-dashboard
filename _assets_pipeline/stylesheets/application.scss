@@ -707,3 +707,19 @@ a.phase-tag {
   // Non standard for webkit
   word-break: break-word;
 }
+
+.archive-banner {
+  background: $link-colour;
+  padding: 20px;
+
+  h2, p, a {
+    color:#fff;
+  }
+  h2 {
+    margin: 0 0 10px;
+  }
+  p {
+    margin: 0;
+  }
+
+}
