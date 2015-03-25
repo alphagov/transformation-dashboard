@@ -26,7 +26,6 @@ detail-page-intro: |
 
 status: "live"
 status-strapline: "Service is live and being continuously improved."
-  
 
 videos:
   - url     : https://www.youtube.com/watch?v=IYBLX3V8ek4
@@ -39,24 +38,23 @@ videos-additional: |
 
 
 successes: |
-  - 138,000 digital claims submitted since release of public beta
-  - Live service, including Welsh language version, released 
+  - 160,000 digital claims submitted since release of public beta
+  - Live service, including Welsh language version, released
   - More than half of applications are now made using the digital service
   - User satisfaction ratings of approximately 90%
   - Change of circumstances can now be reported online
 
 challenges: |
-  - The recruitment of staff to take the service forward through transition
-  - The slow pace of procurement to buy tools and digital services quickly in order to support rapid, iterative development
-  
+  - To increase channel shift: increase digital take-up and move away from paper transactions
+
 next-steps: |
-  - Maintain and improve the live service
+  - Continue to improve the live service
   - Integrate the live service with more of the department’s systems to improve efficiency for agents and reduce paper processing
 
 
 screengrabs:
-  - filename    : "12-exemplar-claim-carers-allowance.png"
-    caption     : "Beta of the eligibility form"
+  - filename    : "12-carers-live-service.png"
+    caption     : "Live service page"
   - filename    : "12-existing-claim-carers-allowance.png"
     caption     : "Former service (now switched off)"
 
@@ -74,10 +72,10 @@ embedded-pp-graphs:
 
 digital-strategy-statement: |
     The new service is being developed with the needs of carers at its heart, looking to remove complexity from the current user journey. There are clear benefits for people who are caring full-time of being able to interact with the Department at a time and in a way that suits them.
-    
+
 digital-strategy-source: |
     From the '[Department for Work & Pensions digital strategy](https://www.gov.uk/government/publications/dwp-digital-strategy)' – December 2012
-    
+
 
 scope-of-exemplar: |
     Carer’s Allowance is a benefit for people looking after someone with substantial caring needs. Users can currently make a claim through the post or online. The exemplar project replaced the previous online claim process which had low take-up and did not meet the standards set out in the department’s digital strategy.
@@ -108,7 +106,7 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Completed: Service goes live (depending on user feedback) --- Nov 2014"
+  - copy      : "Completed: Service goes live --- Nov 2014"
     complete  : true
 
 
@@ -118,5 +116,3 @@ anticipated-volume:
 
 
 ---
-
-
