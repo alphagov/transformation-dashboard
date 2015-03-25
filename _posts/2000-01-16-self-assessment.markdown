@@ -24,7 +24,7 @@ detail-page-intro: |
 
 
 status: "public-beta"
-status-strapline: "In public beta. This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
+status-strapline: "[Recently passed its Digital by Default Standard Assessment](https://www.gov.uk/service-manual/digital-by-default). This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
 
 
 videos:
@@ -37,11 +37,10 @@ videos:
 
 
 successes: |
-  - Passed beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+  - Passed live Digital by Default Standard Assessment
   - Service released to the public
 
 challenges: |
-  - The timeline to put infrastructure in place is tight
   - Adapting current HMRC methods to [agile](https://www.gov.uk/service-manual/agile) development
 
 next-steps: |
@@ -88,8 +87,8 @@ status-beta:
     complete  : true
 
 status-live:
-  - copy      : "Service goes live (depending on Service Standard assessment) --- Mar 2015"
-    complete  : false
+  - copy      : "Service passes live Digital by Default Service Standard assessment --- Mar 2015"
+    complete  : true
 
 
 anticipated-volume:
