@@ -17,8 +17,6 @@ Here is:
 
 Here's a short film about the Transformation Programme – what it was and how it went:
 
-[VIDEO SUMMARY OF TRANSFORMATION]
-
 ## What the Transformation Programme was
 
 In January 2013, government gave itself 400 days to transform 25 major services, making them digital by default and simpler, clearer and faster to use. We called this the Transformation Programme.
