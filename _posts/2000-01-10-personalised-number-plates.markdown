@@ -5,8 +5,8 @@ layout: exemplar
 exemplar-title: "Personalised registrations"
 exemplar-number: 10
 
-exemplar-blog-url: "www.dvladigital.blog.gov.uk"
-
+exemplar-blog-url: "https://dvladigital.blog.gov.uk/"
+exemplar-service-url: "https://www.gov.uk/keep-registration-number"
 
 department: "Department<br>for Transport"
 department-url: "https://www.gov.uk/government/organisations/department-for-transport"
@@ -25,7 +25,7 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "In beta"
+status-strapline: "In public beta"
 
 
 videos:
@@ -39,16 +39,15 @@ videos:
 successes: |
   - User research done into public and motor trade requirements
   - Data integration issues investigated
-  - Passed beta Digital by Default Service Standard Assessment 
-  
+  - Passed public beta [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) assessment
+
 challenges: |
   - Turning complicated paper, telephone and electronic transactions into a simple digital service
   - Integrating the service with other digital projects and legacy databases and connecting to a secure cloud environment
   - Managing delivery alongside strategic transformation projects like the abolition of the tax disc, payments and direct debits
   - Changing legislation to allow digital transactions
-  
+
 next-steps: |
-  - Release public beta
   - Continue user research
   - Develop new features (e.g assign a registration mark to a vehicle)
   - Prepare for the live Digital by Default Service Standard assessment
@@ -56,10 +55,10 @@ next-steps: |
 
 digital-strategy-statement: |
     Currently the process for transferring or retaining a car number plate and related services is a paper transaction, often carried out at a DVLA local Office. This process will be digitised so the customer or an intermediary can do it online.
-    
+
 digital-strategy-source: |
     From the '[Department for Transport digital strategy](https://www.gov.uk/government/publications/department-for-transport-digital-strategy)' – December 2012
-    
+
 
 scope-of-exemplar: |
     More than 18 million transactions per year relate to maintaining accurate records of vehicles, their keepers, and personalised registrations.  These include disposal to trade, acquisition from trade, notification of change or death of a keeper, retention of a registration mark, and assigning a registration mark.  The Vehicle Management and Personalised Registration exemplars will deliver fully digital services for these transactions, and improve the quality and accuracy of data for DVLA and its external stakeholders.
@@ -80,10 +79,10 @@ status-alpha:
     complete  : true
 
 status-beta:
-  - copy      : "Completed: Start beta development --- Jul to Sep 2014"
+  - copy      : "Completed: Start beta development --- Jul 2014"
     complete  : true
-  - copy      : "Release public beta --- Jan to Mar 2015"
-    complete  : false
+  - copy      : "Release public beta --- Mar 2015"
+    complete  : true
 
 status-live:
   - copy      : "Service goes live (depending on Service Standard assessment) --- after March 2015"
