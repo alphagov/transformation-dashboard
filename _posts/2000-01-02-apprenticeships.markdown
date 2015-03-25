@@ -23,7 +23,7 @@ detail-page-intro: |
     1.8 million online apprenticeships applications every year
 
 
-status: "public-beta"
+status: "live"
 status-strapline: "Successfully passed the live Digital by Default Service Assessment and preparing to migrate to the live service."
 
 

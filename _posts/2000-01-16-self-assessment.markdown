@@ -23,7 +23,7 @@ detail-page-intro: |
     Making Self Assessment fully digital for 10 million people
 
 
-status: "public-beta"
+status: "live"
 status-strapline: "[Recently passed its Digital by Default Standard Assessment](https://www.gov.uk/service-manual/digital-by-default). This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
 
 

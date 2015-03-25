@@ -24,7 +24,7 @@ detail-page-intro: |
     1.6 million personalised number plate registrations made online each year
 
 
-status: "beta"
+status: "public-beta"
 status-strapline: "In public beta"
 
 

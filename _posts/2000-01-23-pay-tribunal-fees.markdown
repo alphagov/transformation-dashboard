@@ -25,7 +25,7 @@ detail-page-intro: |
     200,000 employment tribunal fees paid online every year
 
 
-status: "public-beta"
+status: "live"
 status-strapline: "Recently passed its [Digital by Default Service Assessment](https://www.gov.uk/service-manual/digital-by-default) and is transitioning to the live service."
 
 
