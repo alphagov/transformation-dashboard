@@ -23,7 +23,7 @@ detail-page-intro: |
     100,000 new redundancy claims made each year
 
 
-status: "beta"
+status: "public-beta"
 status-strapline: "This service is being developed in two parts. Part 1 deals with the application, while part 2 deals with compensation for loss of notice. Part 2 went into public beta in January. Part 1 is also now in beta and is supported by GOV.UK Verify."
 
 videos:
