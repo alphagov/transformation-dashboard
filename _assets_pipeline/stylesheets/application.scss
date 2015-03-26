@@ -728,16 +728,28 @@ a.phase-tag {
 }
 
 .homepage-header {
-  margin: 20px 0 40px;
+  margin: 10px 0 20px;
+
+  @include media(tablet) {
+    margin: 20px 0 40px;
+  }
 }
 
 .homepage-transformation-logo {
+  max-width: 50%;
+  margin: 0 auto;
+
   @include media(tablet) {
     float: right;
+    max-width: 100%;
+    margin-bottom: 2em;
   }
 }
 
 .homepage-content {
   margin-bottom: 50px;
-  width: $two-thirds;
+
+  @include media(tablet) {
+    width: $two-thirds;
+  }
 }
