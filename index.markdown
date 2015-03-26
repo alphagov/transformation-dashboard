@@ -4,7 +4,7 @@ layout: homepage
 headline-title: Digital Transformation
 ---
 
-Government is building digital services that are simpler, clearer and faster to use. We started with the Transformation Programme to make 25 major services digital by default. The Programme has reached its end. This page is about how we did.
+Government is building digital services that are simpler, clearer and faster to use. We started with the Transformation Programme to make 25 major services digital by default. Work on these 'exemplars' has reached its end. This page is about how we did.
 
 ## Useful links
 
@@ -42,8 +42,6 @@ Twenty exemplar services were publicly available. The remaining 5 are still in d
 - [Visas](https://visas-immigration.service.gov.uk/applying-in-china)
 - [Make a claim to an Employment Tribunal](https://www.gov.uk/employment-tribunals/make-a-claim)
 - [Find an apprenticeship](https://www.gov.uk/apply-apprenticeship)
-- [Your tax account](https://www.tax.service.gov.uk/account/sign-in?continue=%2Faccount)
-- [PAYE](https://www.gov.uk/update-company-car-details)
 - [Digital self-assessment](https://www.gov.uk/log-in-file-self-assessment-tax-return)
 
 ### Publicly accessible in beta
@@ -51,6 +49,8 @@ Twenty exemplar services were publicly available. The remaining 5 are still in d
 - [Waste carrier registration](https://www.gov.uk/waste-carrier-or-broker-registration)
 - [Vehicle management](https://www.gov.uk/motor-traders-sale-vehicle)
 - [Personalised registration](https://www.gov.uk/buy-a-personalised-registration-number)
+- [Your tax account](https://www.tax.service.gov.uk/account/sign-in?continue=%2Faccount)
+- [PAYE](https://www.gov.uk/update-company-car-details)
 - Redundancy payments
 
 ### Still in development
