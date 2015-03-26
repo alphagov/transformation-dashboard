@@ -79,9 +79,9 @@ status-beta:
     complete    : true
 
 status-live:
-  - copy        : "Passed live Digital by Default Service Assessment — March 2015"
+  - copy        : "Passed live Digital by Default Service Assessment --- March 2015"
     complete    : true
-  - copy        : "Candidate service goes live - May 2015"
+  - copy        : "Candidate service goes live --- May 2015"
     complete    : false
 
 

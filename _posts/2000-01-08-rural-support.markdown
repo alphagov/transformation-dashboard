@@ -22,28 +22,21 @@ detail-page-intro: |
 
 
 status: "beta"
-status-strapline: "In beta. Digital service is being released gradually to groups of invited users for research and iteration."
+status-strapline: "In beta."
 
 
 videos:
   - url   : https://www.youtube.com/watch?v=fczqFhmong0
     caption : Watch a short demo about reporting a change of land use online, filmed January 2014
 
-
 successes: |
-  - Released a private beta mapping tool for farmers to check their land
-  - Fortnightly user research is conducted on farms
-  - An [agile](https://www.gov.uk/service-manual/agile) development team has been established for the CAP Delivery Programme
-  - Private beta released to initial group of invited users
+  - Beta released. To date, over 75,000 farmers and agents have registered onto the rural payments service, checked and confirmed their personal and business details.
 
 challenges: |
-  - Scalable deployment practices
-  - Aligning timings of Verify programme to service’s beta phase
-  - Building a new service in line with evolving CAP and EU regulations
+  - Deployment quality and service performance. Due to the fixed nature of the EU deadline for claim submission, contingency plans are in place to enable farmers and agents to submit their claims in time.
 
 next-steps: |
   - Address issues identified in the [Digital by Default Service Standard](https://www.gov.uk/service-manual/digital-by-default) beta assessment before moving into full public beta
-
 
 screengrabs:
   - filename    : 8-exemplar-rural-support.png
@@ -82,11 +75,11 @@ status-alpha:
 status-beta:
   - copy    : "Completed: private beta release to initial group of invited users --- Jul 2014"
     complete  : true
-  - copy    : "Release public beta --- Jan to Mar 2015"
-    complete  : false
+  - copy    : "Beta release --- Feb 2015"
+    complete  : true
 
 status-live:
-  - copy    : "Service goes live (depending on Service Standard assessment) --- date tbc"
+  - copy    : "Service to go live --- after Mar 2015"
     complete  : false
 
 

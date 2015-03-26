@@ -22,7 +22,7 @@ detail-page-intro: |
    Easy to use online tax dashboard for small to medium enterprises - currently 5.2m.
 
 
-status: "live"
+status: "public-beta"
 status-strapline: "Successfully undertaken its live [Digital by Default Standard Assessment](/service-manual/digital-by-default). This service is being built alongside [exemplar 15: PAYE for employees](/transformation/paye.html) and [exemplar 16: Digital Self Assessment](/transformation/self-assessment.html)."
 
 
