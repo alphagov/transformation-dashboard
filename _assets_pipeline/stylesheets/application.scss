@@ -712,8 +712,12 @@ a.phase-tag {
 
 .archive-banner {
   background: $link-colour;
-  padding: 20px 80px 20px 20px;
+  padding: 20px;
   margin-bottom: 10px;
+
+  @include media(tablet) {
+    padding-right: 80px;
+  }
 
   h2, p, a {
     color:#fff;
