@@ -43,6 +43,7 @@ Twenty exemplar services were publicly available. The remaining 5 are still in d
 - [Make a claim to an Employment Tribunal](https://www.gov.uk/employment-tribunals/make-a-claim)
 - [Find an apprenticeship](https://www.gov.uk/apply-apprenticeship)
 - [Digital self-assessment](https://www.gov.uk/log-in-file-self-assessment-tax-return)
+- [PAYE](https://www.gov.uk/update-company-car-details)
 
 ### Publicly accessible in beta
 - [Rural payments](https://www.gov.uk/claim-rural-payments)
@@ -50,7 +51,6 @@ Twenty exemplar services were publicly available. The remaining 5 are still in d
 - [Vehicle management](https://www.gov.uk/motor-traders-sale-vehicle)
 - [Personalised registration](https://www.gov.uk/buy-a-personalised-registration-number)
 - [Your tax account](https://www.tax.service.gov.uk/account/sign-in?continue=%2Faccount)
-- [PAYE](https://www.gov.uk/update-company-car-details)
 - Redundancy payments
 
 ### Still in development

@@ -23,7 +23,7 @@ detail-page-intro: |
    Making Pay As You Earn digital for all of HMRC's 41 million customers who are employees or receive a company pension
 
 
-status: "public-beta"
+status: "live"
 status-strapline: "Recently undertaken the live [Digital by Default Standard Assessment](https://www.gov.uk/service-manual/digital-by-default). This service is being built alongside [exemplar 16: Digital Self Assessment](/transformation/self-assessment.html) and [exemplar 17: Your tax account](/transformation/business-tax-account.html)."
 
 
