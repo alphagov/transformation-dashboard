@@ -51,7 +51,7 @@ Twenty exemplar services were publicly available. The remaining 5 are still in d
 - [Vehicle management](https://www.gov.uk/motor-traders-sale-vehicle)
 - [Personalised registration](https://www.gov.uk/buy-a-personalised-registration-number)
 - [Your tax account](https://www.tax.service.gov.uk/account/sign-in?continue=%2Faccount)
-- Redundancy payments
+- [Redundancy payments](https://www.gov.uk/claim-redundancy)
 
 ### Still in development
 - Universal Credit
