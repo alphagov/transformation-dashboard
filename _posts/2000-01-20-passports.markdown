@@ -58,7 +58,7 @@ status-alpha:
 status-beta:
   - copy      : "Completed: Start beta development --- Jul 2014"
     complete  : true
-  - copy      : "Private beta release --- Mar 2015"
+  - copy      : "Private beta release --- after Mar 2015"
     complete  : false
   - copy      : "Public beta release --- after Mar 2015"
     complete  : false
