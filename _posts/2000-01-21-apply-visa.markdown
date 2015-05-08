@@ -23,7 +23,7 @@ detail-page-intro: |
 
 
 status: "live"
-status-strapline: "Recently passed the live [Digital by Default Service Assessment](https://www.gov.uk/service-manual/digital-by-default and migrating to the live service."
+status-strapline: "Recently passed the live [Digital by Default Service Assessment](https://www.gov.uk/service-manual/digital-by-default) and migrating to the live service."
 
 
 videos:
