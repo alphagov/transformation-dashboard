@@ -56,6 +56,8 @@ Push your new tag: ```git push --tags origin master```
 
 Now ```cd``` into design-principles and ```git status``` - you should see the /transformation files ready for staging
 
+Checkout onto a new local branch with ```git checkout -b name-of-your-branch```
+
 ```git add .``` then commit. Your commit messge within design-principles should look something like this:
 
 ```
@@ -67,5 +69,5 @@ https://github.com/alphagov/transformation-dashboard/compare/version-41...versio
 
 ```
 
-Now (still in design-principles) ```git push origin master``` - this triggers a build on preview
+Now (still in design-principles) ```git push origin name-of-your-branch``` - this triggers a build on preview
 
