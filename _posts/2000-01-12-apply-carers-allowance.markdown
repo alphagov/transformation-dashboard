@@ -88,11 +88,11 @@ digital-inclusion: |
 
 
 status-discovery:
-  - copy      : "Completed: Discovery --- Sep 2013"
+  - copy      : "Completed: Discovery --- Sep 2012"
     complete  : true
 
 status-alpha:
-  - copy      : "Completed: Alpha build --- Dec 2013"
+  - copy      : "Completed: Alpha build --- Dec 2012"
     complete  : true
 
 status-beta:
